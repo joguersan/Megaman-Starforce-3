@@ -1,0 +1,177 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Este tío es el que está
+desordenando el tablón
+de información!
+<PUSH>
+¡A por él!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Venga!
+<PUSH>
+¡Combate de ondas!
+¡Adelante!
+<PUSH>
+{0A}{E1}Q
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEscucho una voz EM .
+<PUSH>
+  "Zeta78695"
+
+<PUSH>
+Eso es lo que dice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{08}{E1}{00}{00}1{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Más adelante hacia la
+izquierda está el
+departamento de la Satella.
+<PUSH>
+Y si subes en el ascensor de
+la derecha está el
+<Centro.Comando>.
+<PUSH>
+Claro que eso es en el
+mundo real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}Q{05}{00}{0C}{E1}{01}{00}{13}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Más adelante hacia la
+izquierda está el
+departamento de la Satella.
+<PUSH>
+Y si subes en el ascensor de
+la derecha está el
+<Centro.Comando>.
+<PUSH>
+Claro que eso es en el
+mundo real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Parece que ha colado un
+virus.
+<PUSH>
+No estaría mal que le
+pidiésemos ayuda a la policía
+Satella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Oh, ¡gracias por deshacerte
+del virus!
+<PUSH>
+¡Gracias a ti puedo volver
+a trabajar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+

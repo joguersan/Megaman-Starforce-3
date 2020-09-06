@@ -1,0 +1,224 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Bienvenido a la base orbital...
+<PUSH>
+Gracias por venir,
+Mega Man.
+<PUSH>
+O mejor dicho...
+Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Tú me enviaste esa
+notificación?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es la mano derecha
+de King, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Podéis llamarme Heartless.
+<PUSH>
+Y para vuestra información...
+King es historia.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Historia?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Ha habido un pequeño
+contratiempo en mis
+planes, así que...
+<PUSH>
+La verdad es que no tenemos
+mucho tiempo, seré breve...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Que Jack y la Srta. Tia
+se han hecho con el
+control de Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y quieren estrellar el
+Meteorito G contra la Tierra?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+En esencia, sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Ahora están en {17}{E5}.
+Más adelante podréis
+impulsionaros.
+<PUSH>
+Tenéis que pararlos
+cuanto antes.
+<PUSH>
+Si sobreescriben el programa
+principal, el Meteorito G
+chocará contra la Tierra...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Y cuando lo haga, no solo
+se perderá la tecnología EM.
+<PUSH>
+La inmensa onda expansiva
+aniquilará el 80% de la
+vida terrestre.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Es horrible!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Madre mía de mi vida!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Pero esos dos no son
+conscientes de las
+graves consecuencias...
+<PUSH>
+Y aunque lo fueran, solo
+con verles sabrás que no
+van a cambiar de idea.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Entendido.
+<PUSH>
+Heartless...
+<PUSH>
+¡Los detendré antes de que
+puedan sobreescribir el
+programa principal!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+El mundo cuenta contigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Espera un momento.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¿Qué ocurre, Omega-Xis?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Quién eres tú?
+<PUSH>
+¿Y qué pretendes conseguir?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+Ya os he dicho que
+no hay tiempo.
+<PUSH>
+Detened a Jack y Tia.
+<PUSH>
+Cuando el mundo esté
+a salvo os lo contaré todo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Vamos, Mega!!
+Si no le paramos los pies
+a esos dos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que no nos queda
+otra... ¡Señorita, tendrás
+que dar muchas explicaciones!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Os lo prometo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

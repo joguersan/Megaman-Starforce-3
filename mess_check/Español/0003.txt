@@ -1,0 +1,333 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un zapatero.
+<PUSH>
+Kelvin lo compró por su
+elegante diseño.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hope llamó a esta
+planta Bernabé.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una tele.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Puedes ver el lecho de flores.
+<PUSH>
+Te relajas solo con
+mirarlas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un frigorífico.
+<PUSH>
+¡El interior está limpio
+como una patena, como
+siempre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0D}{E1}{00}{00}{10}{00}<Joker>
+{10}{00}{0D}{E1}{00}{00}<Heartless>
+/{11}{00}{0D}{E1}{00}{00}0?{12}{00}{0D}{E1}{00}{00}<Chery.Blosom>
+O{13}{00}{0D}{E1}{00}{00}P <Geo>
+{0D}{E1}{00}{00}`o{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+¡Está como los chorros del oro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cubiertos.
+<PUSH>
+¡Cómo brillan!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El panel de control
+del salón.
+<PUSH>
+Desde aquí se puede
+ajustar el aire acondicionado
+y las luces.
+<PUSH>
+¡Kelvin lo encargó!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La mesa del comedor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La mesa del comedor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+ONDA DE RUIDO DETECTADA.
+¡{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACESSO!
+<PUSH>
+{0A}{E1}{8B}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+Hoy hay pollo con puré
+de patatas para cenar.
+<PUSH>
+¡El puré es casero!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+Hoy vamos a cenar
+macarrones con queso.
+<PUSH>
+La comida favorita
+de Hope...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+Hoy vamos a cenar
+higaditos...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ay!...
+<PUSH>
+L-La verdad... es que no
+tengo mucha hambre...
+<PUSH>
+Puedo aguantar
+hasta el desayuno.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+Hoy vamos a cenar...
+un desayuno.
+<PUSH>
+El día favorito de Geo es el
+«día de la cena desayuno».
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hope nunca ha preparado
+mi comida favorita...
+<PUSH>
+{13}{EC}(¡¿Pero quién se
+cree que soy! ¡¿El perro?!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+¡Hoy hay pasta carbonara
+para cenar!
+<PUSH>
+¡Ni en Italia les
+sale tan buena!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cocina.
+<PUSH>
+Hoy hay filete con judías
+verdes para cenar.
+<PUSH>
+La ternera estaba más cara
+esta semana. Estos filetes
+han costado un riñón.
+<PUSH>
+Ja, ja...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,161 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}ZZTZZTZZT...
+<PUSH>
+I am accessing that entity
+which you call Meteor G.
+ZZTZZTZZT...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}ALPHA BETA GAMMA
+DELTA EPSILON!
+<PUSH>
+NU XI OMICRON
+PI RHO SIGMA!
+<PUSH>
+OHHH... THIS IS THE
+"METEOR SERVER"!
+I AM ONNNNN-LIIIIINE!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Mega Man, listen...
+<PUSH>
+An EM being which has
+synched with Noise in its
+extreme state,
+<PUSH>
+will experience a phenomenon
+know as "Finalization",
+the ultimate transformation...
+<PUSH>
+This means that this EM
+being will have the power to
+control Noise, and therefore
+<PUSH>
+can access the server of
+the Noise meteor, Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Mega Man, listen...
+<PUSH>
+The Noise meteor, Meteor G...
+<PUSH>
+Is the result of something
+which has devoured all
+<PUSH>
+manner of Noise and
+powerful data in space...
+<PUSH>
+That monstrous mass
+of data, Meteor G., became
+the ultimate server...
+<PUSH>
+The "Meteor Server".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+

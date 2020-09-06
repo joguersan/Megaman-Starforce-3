@@ -1,0 +1,434 @@
+[SENTENCE NUMBER 1]
+{07}{E1}{03}{00}{81}{00}{0A}{E1}{A7}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+{07}{E1}{03}{00}{82}{00}{0A}{E1}{A8}{02}
+[END]
+
+[SENTENCE NUMBER 3]
+{07}{E1}{03}{00}{83}{00}{0A}{E1}{A9}{02}
+[END]
+
+[SENTENCE NUMBER 4]
+{07}{E1}{03}{00}<Taurus.Fire>
+{0A}{E1}{AA}{02}
+[END]
+
+[SENTENCE NUMBER 5]
+{07}{E1}{03}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{00}{00}{38}{02}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}For crying out loud...
+I can't watch this anymore...
+<PUSH>
+I mean, are you going to
+give up anytime soon?
+<PUSH>
+You know, I could make it so
+that you can proceed if you
+<PUSH>
+want me to, but I'd really be
+putting myself out if I did...
+<PUSH>
+So, what's it going to be?
+<PUSH>
+You want my help or not?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+
+<END-DIALOG>
+{11}{EC}{00}{00}{00}{00}{11}{EC}{01}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{39}{02}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}For crying out loud...
+I can't watch this anymore...
+<PUSH>
+I mean, are you going to
+give up anytime soon?
+<PUSH>
+You know, I could make it so
+that you can proceed if you
+<PUSH>
+want me to, but I'd really be
+putting myself out if I did...
+<PUSH>
+So, what's it going to be?
+<PUSH>
+You want my help or not?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+
+<END-DIALOG>
+{11}{EC}{00}{00}{01}{00}{11}{EC}{01}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{0C}{E1}{00}{00}{3A}{02}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}For crying out loud...
+I can't watch this anymore...
+<PUSH>
+I mean, are you going to
+give up anytime soon?
+<PUSH>
+You know, I could make it so
+that you can proceed if you
+<PUSH>
+want me to, but I'd really be
+putting myself out if I did...
+<PUSH>
+So, what's it going to be?
+<PUSH>
+You want my help or not?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+
+<END-DIALOG>
+{11}{EC}{00}{00}{02}{00}{11}{EC}{01}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{00}{00}{3B}{02}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}For crying out loud...
+I can't watch this anymore...
+<PUSH>
+I mean, are you going to
+give up anytime soon?
+<PUSH>
+You know, I could make it so
+that you can proceed if you
+<PUSH>
+want me to, but I'd really be
+putting myself out if I did...
+<PUSH>
+So, what's it going to be?
+<PUSH>
+You want my help or not?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+
+<END-DIALOG>
+{11}{EC}{00}{00}{03}{00}{11}{EC}{01}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}{A7}{02}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}I've made it so that you
+can proceed... I mean, what
+else do you want from me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Did you clear it all by
+yourself? Not bad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{00}{00}{A8}{02}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}I've made it so that you
+can proceed... I mean, what
+else do you want from me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Did you clear it all by
+yourself? Not bad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{0C}{E1}{00}{00}{A9}{02}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}I've made it so that you
+can proceed... I mean, what
+else do you want from me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Did you clear it all by
+yourself? Not bad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{00}{00}{AA}{02}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}I've made it so that you
+can proceed... I mean, what
+else do you want from me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Did you clear it all by
+yourself? Not bad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+

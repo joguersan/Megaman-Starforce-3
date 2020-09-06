@@ -1,0 +1,104 @@
+[SENTENCE NUMBER 1]
+Other
+[END]
+
+[SENTENCE NUMBER 2]
+Back to start
+[END]
+
+[SENTENCE NUMBER 3]
+Geo Finalize
+[END]
+
+[SENTENCE NUMBER 4]
+Black Ace
+[END]
+
+[SENTENCE NUMBER 5]
+Red Joker
+[END]
+
+[SENTENCE NUMBER 6]
+Attack Star
+[END]
+
+[SENTENCE NUMBER 7]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 8]
+Luna 4 Prez
+[END]
+
+[SENTENCE NUMBER 9]
+Sonia Fans
+[END]
+
+[SENTENCE NUMBER 10]
+Pat & Rey
+[END]
+
+[SENTENCE NUMBER 11]
+Root 4 Zack
+[END]
+
+[SENTENCE NUMBER 12]
+Budicus
+[END]
+
+[SENTENCE NUMBER 13]
+Win tournament
+[END]
+
+[SENTENCE NUMBER 14]
+Win 100 Battles
+[END]
+
+[SENTENCE NUMBER 15]
+Save 100 Hertzes
+[END]
+
+[SENTENCE NUMBER 16]
+Beat all bosses
+[END]
+
+[SENTENCE NUMBER 17]
+DS W Rslt
+[END]
+
+[SENTENCE NUMBER 18]
+OnlinRslt
+[END]
+
+[SENTENCE NUMBER 19]
+{24}{E1}{04}{00}  {25}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 20]
+    B     W
+[END]
+
+[SENTENCE NUMBER 21]
+      {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+NulMtch    
+[END]
+
+[SENTENCE NUMBER 23]
+{2C}{E1}Noise
+[END]
+
+[SENTENCE NUMBER 24]
+Mega Man
+[END]
+
+[SENTENCE NUMBER 25]
+20{28}{E1}{02}{00}/{29}{E1}{02}{00}/{2A}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 26]
+{24}{E1}{02}{00}:{29}{E1}{02}{00}:{2A}{E1}{02}{00}
+[END]
+

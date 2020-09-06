@@ -1,0 +1,28 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{01}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¿Qué?
+<PUSH>
+¿¡Crees que estoy durmiendo
+porque no están los aspersores
+siempre encendidos?!
+<PUSH>
+¡Qué mal educado!
+<PUSH>
+Si riego las flores durante
+todo el día, se marchitan.
+<PUSH>
+Así que las riego las
+mañanas y las tardes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

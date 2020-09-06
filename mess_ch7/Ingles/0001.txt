@@ -1,0 +1,440 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A Few Days Later...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I still can't believe it...
+<PUSH>
+Ace is...
+He's really dead isn't he?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's a terrible shame, but...
+<PUSH>
+No one has been able to
+pick up his or Acid's signal.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+This is the first time that
+I've ever known someone
+that has died...
+<PUSH>
+Of course...
+I'm really sad, but...
+<PUSH>
+More than that...
+<PUSH>
+It almost feels like I have a
+hole in my heart...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I can almost see him pop up
+out of nowhere...
+<PUSH>
+And give us that smile of
+his. Then say, "I'm counting
+<PUSH>
+on you!", while munching
+his snacks...
+<PUSH>
+*sniffle*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+*breath*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+*sob*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Uh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Uh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+*cry*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+But Geo, I know you can
+handle it.
+<PUSH>
+You're the world's greatest
+hero, after all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Ace{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Waaa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's no time for crying,
+kid...
+<PUSH>
+It's just a waste of time.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+.{15}{E1}.{15}{E1}.{15}{E1}Cut it out, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace died!
+<PUSH>
+Are you saying there's no
+time to mourn a friend!?
+<PUSH>
+Why!?
+<PUSH>
+And how...
+How can you act like nothing
+happened!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'm not.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It was just as horrible for
+me to see him go like that...
+I'm really hurting, too...
+<PUSH>
+But sobbing like a little baby
+isn't going to bring him
+back...
+<PUSH>
+I understand that, and I'm
+trying my best to deal with
+it like a man.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Will you two shut it already!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+This is no time for you two
+to be fighting.
+<PUSH>
+And it's the last thing that I
+want to put up with,
+considering the circumstances.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Luna is right.
+<PUSH>
+We understand that Geo is
+sad, and we also understand
+what you are saying, Mega...
+<PUSH>
+And you're probably both
+right, in your own way...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+After that, what happened
+to Jack and Ms. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+They...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Where do you plan on going...?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We've had a certain "wish"
+for a long time now...
+<PUSH>
+And it hasn't come true,
+yet.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+He died for you, Ms. Tia!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+We can't change anything
+that's happened...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+I wonder what their "wish"
+is?
+<PUSH>
+And I have no idea where
+they went...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+King was also gone after
+the explosion.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+All the Crimson was taken
+away too.
+<PUSH>
+I'm certain he will make his
+next move very soon.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+<PUSH>
+Have you realized why Ace
+sacrificed his life and fought
+the way he did?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+To protect what was
+precious to him...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Exactly.
+<PUSH>
+It wasn't just for Queen Tia.
+<PUSH>
+He fought and died for his
+fellow Satella Police officers,
+and also for you guys.
+<PUSH>
+If we don't take up his
+cause and fight for the
+reasons that he did...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...
+<PUSH>
+{13}{E2}{03}{00}
+<NEW-DIALOG>
+<Mega>
+There's no time to stand
+around idle.
+<PUSH>
+We have to fight in place of
+Ace.
+<PUSH>
+There isn't a lot that we
+can do at the moment.
+<PUSH>
+But we won't gain a single
+thing by being sad and crying.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Fight in place of Ace...
+<PUSH>
+Yeah, you're right.
+<PUSH>
+I'm sorry, Mega...
+<PUSH>
+I've been making Ace's death
+meaningless.
+<PUSH>
+Let's do what we can.
+<PUSH>
+After all, we are members
+of Ace's Commandos!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I'm with you!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Hey, don't forget about me!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I'm with you too, Geo.
+<PUSH>
+I can't fight by your side,
+but there's still a lot that I
+can help with.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Same here!
+Pedia and I are always down
+with helping our friends!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You guys are the best!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kid... Let's go home and have
+a meeting to decide on our
+next move!!
+<PUSH>
+We've got to fight to keep
+our loved ones safe!
+<PUSH>
+
+[END]
+

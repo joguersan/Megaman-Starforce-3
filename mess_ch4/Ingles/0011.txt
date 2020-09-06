@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+There are no more pieces
+of data left in this area.
+<PUSH>
+Let's continue searching in a
+different area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

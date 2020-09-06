@@ -1,0 +1,101 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+Hey, where's Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+I think he went on ahead
+with Ms. Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+So were you able to get
+back all the stuff?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Umm...
+<PUSH>
+I got your pants back, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+Geo!
+What about my handkerchief!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+And my bag...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+I need my shirt!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Yeah, about the other stuff...
+<PUSH>
+They were blown away by
+the wind, and I could only
+grab one of them in time...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+Whose stuff did you get!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Definitely mine, right, Geo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+No, definitely mine! Guys
+don't let other guys down!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Umm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

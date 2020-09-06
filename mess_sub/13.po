@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "Alpha85072"
+msgstr ""
+
+msgctxt "1"
+msgid "Beta95104"
+msgstr ""
+
+msgctxt "2"
+msgid "Gamma19606"
+msgstr ""
+
+msgctxt "3"
+msgid "Delta51999"
+msgstr ""
+
+msgctxt "4"
+msgid "Alpha53637"
+msgstr ""
+
+msgctxt "5"
+msgid "Beta86425"
+msgstr ""
+
+msgctxt "6"
+msgid "Delta86531"
+msgstr ""
+
+msgctxt "7"
+msgid "Delta75148"
+msgstr ""
+
+msgctxt "8"
+msgid "Epsilon07292"
+msgstr ""
+
+msgctxt "9"
+msgid "Zeta78695"
+msgstr ""
+
+msgctxt "10"
+msgid "Eta28274"
+msgstr ""
+
+msgctxt "11"
+msgid "Theta32596"
+msgstr ""
+
+msgctxt "12"
+msgid "Iota20404"
+msgstr ""
+
+msgctxt "13"
+msgid "Theta71782"
+msgstr ""
+
+msgctxt "14"
+msgid "Lamda09373"
+msgstr ""
+
+msgctxt "15"
+msgid "Mu13420"
+msgstr ""
+
+msgctxt "16"
+msgid "Nu31121"
+msgstr ""
+
+msgctxt "17"
+msgid "Xi33819"
+msgstr ""
+
+msgctxt "18"
+msgid "Omicron74574"
+msgstr ""
+
+msgctxt "19"
+msgid "Pi95941"
+msgstr ""
+
+msgctxt "20"
+msgid "Rho17385"
+msgstr ""
+
+msgctxt "21"
+msgid "Sigma66019"
+msgstr ""
+
+msgctxt "22"
+msgid "Tau78431"
+msgstr ""
+
+msgctxt "23"
+msgid "Upsilon79755"
+msgstr ""
+
+msgctxt "24"
+msgid "Phi24914"
+msgstr ""
+
+msgctxt "25"
+msgid "Chi83559"
+msgstr ""
+
+msgctxt "26"
+msgid "Psi07280"
+msgstr ""
+
+msgctxt "27"
+msgid "Omega42348"
+msgstr ""
+
+msgctxt "28"
+msgid "Alpha40352"
+msgstr ""
+
+msgctxt "29"
+msgid "Beta20976"
+msgstr ""
+
+msgctxt "30"
+msgid "Gamma31412"
+msgstr ""
+
+msgctxt "31"
+msgid "Delta18946"
+msgstr ""
+
+msgctxt "32"
+msgid "Epsilon71083"
+msgstr ""
+
+msgctxt "33"
+msgid "Zeta11702"
+msgstr ""
+
+msgctxt "34"
+msgid "Eta67300"
+msgstr ""
+
+msgctxt "35"
+msgid "Theta78108"
+msgstr ""
+
+msgctxt "36"
+msgid "Iota16196"
+msgstr ""
+
+msgctxt "37"
+msgid "Kappa34080"
+msgstr ""
+
+msgctxt "38"
+msgid "Lamda72890"
+msgstr ""
+
+msgctxt "39"
+msgid "Mu66767"
+msgstr ""
+
+msgctxt "40"
+msgid "Nu73618"
+msgstr ""
+
+msgctxt "41"
+msgid "Xi23308"
+msgstr ""
+
+msgctxt "42"
+msgid "Omicron64221"
+msgstr ""
+
+msgctxt "43"
+msgid "Pi62739"
+msgstr ""
+
+msgctxt "44"
+msgid "Rho65958"
+msgstr ""
+
+msgctxt "45"
+msgid "Sigma08312"
+msgstr ""
+
+msgctxt "46"
+msgid "Tau90338"
+msgstr ""
+
+msgctxt "47"
+msgid "Upsilon28454"
+msgstr ""
+
+msgctxt "48"
+msgid "Phi40588"
+msgstr ""
+
+msgctxt "49"
+msgid "Chi78584"
+msgstr ""
+
+msgctxt "50"
+msgid "Psi09659"
+msgstr ""
+
+msgctxt "51"
+msgid "Omega68805"
+msgstr ""
+
+msgctxt "52"
+msgid "[NULL]"
+msgstr ""

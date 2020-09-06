@@ -1,0 +1,849 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The act of deleting
+EM viruses.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A self-aware program that
+operates inside of electronic
+devices like Hunter-VGs etc.
+<PUSH>
+As EM Beings, Wizards can
+also materialize into actual
+physical forms.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A portable device that fits
+in the palm of your hand.
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Entities whose bodies
+are made up of EM waves.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A device used by Geo's
+father, Kelvin, to see
+EM bodies.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+EM bodies which are
+generally considered
+harmful by humans, which
+cause damage to
+electronic devices and
+EM technology.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The central-most part of
+an electronic device.
+<PUSH>
+Normally EM bodies can
+enter Cyber Cores, but
+some Cyber Cores are
+access-restricted
+because of maintenance, etc.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+When a human merges with
+a Wizard and takes on an
+EM form.
+<PUSH>
+Only a handful of humans
+are known to be able to
+do it, but those who are
+exhibit awesome battle
+capabilities.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A system that manages EM
+technology over a wide
+area.
+They also function as
+information services for
+the general public.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A road created from the
+EM wave radiation
+emitted from electronic
+devices which allow EM
+bodies to travel from
+place to place at high speed.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+To move from the
+interior of a Cyber Core
+back to the Wave Road.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+To move from the
+interior of a Cyber Core
+or from the Wave Road
+back to the Real World.
+<PUSH>
+Note that moving from
+the interior of a Cyber
+Core back to the Wave
+Road is known as
+Transing Out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A common goal shared by
+friends as a function of
+the Hunter-VG.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A group of Brothers who
+share the same Purpose.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A person who becomes
+part of another's inner
+circle of friends bound
+by a very tight bond
+<PUSH>
+known as a Brother Band.
+This is a function of the
+Hunter-VG.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+An area putting off
+abnormal EM waves known
+as Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The name for the latest
+mobile terminal.
+In addition to having
+virus busting capabilities,
+it also features a data
+capture function.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+WAZA
+An organization that
+oversees space
+technology. It was
+formerly known as NAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+An organization set up
+to crack down on
+sophisticated EM crimes.
+The elite group is made
+up of top specialists
+from every field.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The southernmost island
+in Electopia.
+Visitors flock to this
+resort paradise during
+the summer months.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+An ancient, yet highly
+advanced civilization
+that is now extinct.
+Mu technology was made
+use of extensively by
+Dr. Vega.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Omega-Xis
+An alien from outer
+space who is now Geo's
+Wizard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Luna Platz
+Geo's friend who, though
+a bit snobbish, is actually
+quite kindhearted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bud Bison
+Geo's friend who has a
+voracious appetite,
+along with a seldom seen
+caring side.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Zack Temple
+Geo's friend who is a
+bookworm and dislikes
+physical activity.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Sonia Strumm
+Geo's friend who is a
+vivacious and outgoing
+teen idol.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Sonia Strumm's Wizard.
+Like Omega-Xis, she is
+an alien from outer space.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Aaron Boreal
+A close friend of Geo's
+father and a brilliant
+scientist.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Tom Dubius
+Aaron Boreal's colleague
+and passionate inventor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Damian Wolfe
+An at times belligerent
+gardener, but can also be
+dependable.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A descendent of Mu, Solo
+Wave Changes into Rogue,
+Mega Man's archrival.
+He loathes friendship,
+bonds, and the like.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Kelvin Stelar
+Geo's father. He went
+missing after an
+accident in space 3
+years ago.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Owner of a shop in Echo
+Ridge known as
+{B6}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The three great EM
+beings from the Planet
+AM who once managed
+all of Earth's Brother
+Bands and waves, and
+<PUSH>
+aided in the development of
+EM civilization.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Once deceived by his
+followers into invading
+Planet Earth. He learned
+the importance of bonds
+after fighting Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Omega-Xis's home planet
+that once had close ties
+to Planet FM before it
+was invaded.
+Reconstruction of Planet
+FM is currently underway.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The planet that Geo's
+father, Kelvin, was able
+to successfully make
+contact with, and also
+<PUSH>
+the planet on which
+Omega-Xis lived before
+coming to Earth.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bob Copper
+A detective on the
+Satella Police force,
+<PUSH>
+who at one time, was
+investigating Geo, who
+was hiding the fact that
+he was actually Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A person who uses or
+owns a Wizard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A set of 4 all white,
+very useful cards found
+only at Wave Stations.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+One Standard Class Card
+from your folder that
+you designate to be your
+Default Card and which
+<PUSH>
+always will appear
+first on your Custom Screen.
+To make a card a
+Default Card, select it
+<PUSH>
+with the cursor and
+press the Y Button.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+To enter a Cyber Core as
+an EM body.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A delicious snack that
+comes in many flavors
+that only costs 10
+Zennys.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+An adapter that allows
+you to install Wizards
+on your Hunter-VG.
+<PUSH>
+Just plug it into the
+slot to control multiple
+Wizards on your Hunter-VG.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This all-in-one
+communication device has
+become an indispensible
+part of everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

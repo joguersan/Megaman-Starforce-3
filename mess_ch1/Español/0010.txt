@@ -1,0 +1,105 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Cabúúúm!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Parecen cabreados!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Mejor así! ¡Hace tanto que
+no luchamos, que no
+me puedo contener!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}{2D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+¡Ding!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué ha sido eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Confirmado encuentro
+con virus
+<PUSH>
+¿Le gustaría activar
+el tutorial de batalla?
+<PUSH>
+
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Vaya, qué curioso...
+<PUSH>
+Parece que en la
+actualización del
+<Hunter>-VG hay incluidas
+<PUSH>
+instrucciones para
+la batalla.
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ni que fuera la primera
+vez, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mmm, ¿qué hago entonces?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¿Activar tutorial de batalla?
+{05}{EC}{00}{00}{00}{00}   {06}{EC}Sí   {07}{EC}No
+
+<PUSH>
+{11}{EC}{01}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bien, vamos allá!
+<PUSH>
+¡Combate de ondas!
+¡A por todas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0A}{E1}{2C}{02}
+[END]
+

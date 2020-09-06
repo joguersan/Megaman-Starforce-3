@@ -1,0 +1,436 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+Aaarrrgggh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...Crimson.
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Ergh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+W-What did I do...?
+<PUSH>
+I was being controlled by
+dark emotions that I could
+not prevent.
+<PUSH>
+I've done terrible things...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What happened exactly?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+A pair of strange people
+attached a card to me.
+Then I went out of control...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Two people...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sounds the same as when
+Magnes went out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What did those two people
+look like?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+.{15}{E1}.{15}{E1}.{15}{E1}What do you mean?
+<PUSH>
+Don't you know them?
+<PUSH>
+They were at the beach with
+you when we last spoke.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Could it be...
+<PUSH>
+Those two...?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Why don't we quiet down for
+a minute, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}{15}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+W-Who is that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+I am called Joker.
+<PUSH>
+I am a member of the
+organization, "Dealer", that
+will soon rule the planet.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+"Dealer"...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So you guys are responsible
+for everything that has
+happened recently?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Do you know...
+<PUSH>
+Do you know how many
+people have suffered thanks
+to what you've done!?
+<PUSH>
+I won't let you rule the
+Earth! I will stop you!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Infidel...!
+<PUSH>
+People who disturb the peace
+of this island will not be
+forgiven!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hmph...
+Arrogant fools!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+No!!
+<PUSH>
+Strong, get back!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Take this!!
+Rain of Fi...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Dread Lazer!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Umph...!
+<PUSH>
+Gaaaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Strong!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+N-No way{14}{E1}.{14}{E1}.{14}{E1}.!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+.{14}{E1}.{14}{E1}.{14}{E1}He died because he was
+weak.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+{12}{E2}<Solo>
+{02}{00}
+<NEW-DIALOG>
+<Joker>
+This is a "Dog Eat Dog"
+kind of world.
+<PUSH>
+The weak lose, and the
+strong win...
+<PUSH>
+There is no reason for
+weak Wizards to exist.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Why...?
+<PUSH>
+Why would you ever do such
+a thing...?
+<PUSH>
+You made him go out of
+control, and then used him...
+<PUSH>
+And then you killed him
+without any hesitation...
+<PUSH>
+I'll make you pay for what
+you have done!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Joker!!
+Fight me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Interesting...
+Your Battle Status has
+suddenly risen dramatically...
+<PUSH>
+Is that from the anger you
+feel from the death of that
+weakling Wizard...?
+<PUSH>
+So Mega Man grows stronger
+as his bonds to others are
+broken... Interesting...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Get ready, Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+It is regrettable, however...
+<PUSH>
+Mr. King did not give me the
+order to fight you.
+<PUSH>
+I have come only to observe
+those two meddlers.
+<PUSH>
+It seems that they may be
+planning something.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Those two...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Bwahaha...
+Mega Man...
+<PUSH>
+I am sure the day when we
+face each other in battle
+will come soon.
+<PUSH>
+And I for one, am looking
+forward to it...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Wait!!
+Come back, Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Calm down, kid!
+He's gone!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Arg...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You need to focus.
+<PUSH>
+"Those two" that Strong and
+Joker both mentioned must
+be you know who.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Crimson is being sucked
+up by something...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's heading toward the
+ocean. Let's hurry, kid,
+they've got to be there!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What's going on...?
+<PUSH>
+Why has it come to this...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

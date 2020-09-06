@@ -1,0 +1,159 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip, ¡las ondas enviadas
+por esta antena pueden llegar
+a todos los sitios!
+<PUSH>
+¡Hasta al espacio!
+<PUSH>
+¡Es imposible que alguien
+esté tan lejos que no pueda
+recibirlas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¿¡Quién eres!?
+¡Sal de mi vista si no
+quieres que te elimine!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pues como mínimo es sincero,
+eso lo conserva. Pero parece
+que la memoria sigue igual.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí, él no es el Spade
+Magnes que conocemos!
+<PUSH>
+¡SpadMgnes"R"!
+¿¡Qué eres!?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¿¡Cómo!? ¿Sabes mi nombre?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lo he mirado usando un
+aparato en la Disonancia.
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Pensaba que las ondas de este
+planeta eran todas diminutas.
+<PUSH>
+No me habría imaginado que
+habría alguien que pudiese
+usar las Disonancias...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Este planeta?
+¿Es qué eres del espacio
+exterior o algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Vas a ser eliminado.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué acabas de decir?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Eres una onda de un planeta
+que está en medio de la nada.
+<PUSH>
+¿No crees que es razón
+suficiente para ser eliminado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo!
+¡Vigila, se acerca a muy
+rapido!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A5}{00}
+[END]
+

@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I shouldn't leave in the middle
+of class...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

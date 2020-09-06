@@ -1,0 +1,381 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Comandos de la Policía
+Satella!?
+<PUSH>
+¿¡Qué narices es eso!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+E-Eso...
+<PUSH>
+Verás, Ace nos ha pedido que
+luchemos junto a la Policia
+Satella...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿¡Luchar contra{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Dealer!?
+<PUSH>
+Puedo entender la
+participación de Geo y Sonia,
+¿¡pero la tuya!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Ya te lo dije, Zack!
+<PUSH>
+¡No soy el mismo Bud de
+antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ejem... Emm...
+<PUSH>
+¡Lo siento, Dele!
+<PUSH>
+No queríamos perdernos tu
+discurso...
+<PUSH>
+Sabemos que mañana es un día
+muy importante para ti....
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Idiotas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Osea, venga ya...
+<PUSH>
+¿¡Pensais que no entendería
+que vuestro trabajo es más
+importante!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Bueno...
+<PUSH>
+Supongo que  no se pueden
+comparar las elecciones del
+colegio con salvar el mundo.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Veo que lo entiendes.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Emm...
+<PUSH>
+Siento no haberoslo podido
+decir antes.
+<PUSH>
+Verás...{16}{E1} Yo...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Prez>
+¡Cállate, Bud!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿¡...!?
+<PUSH>
+¡L-Lo siento, Dele!
+¡¡Perdóname!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+No lo pillas ¿Eh?
+<PUSH>
+¡No tienes que pedir perdon!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿¡Eh!?
+<PUSH>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Prez>
+No me he vuelto loca.
+<PUSH>
+Bud...
+<PUSH>
+Fue tu decisión el unirte a
+los Comandos de la Policía
+Satella, ¿cierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+S-Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Entonces tienes que ser la
+mejor version de ti mismo!
+<PUSH>
+¡Haz tu trabajo de la mejor
+manera posible!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+De-Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No solo como miembro de los
+Comandos, sino tambien de
+"Luna a Presidenta".
+<PUSH>
+Tienes que ser un valioso
+miembro para ambos grupos.
+<PUSH>
+¡Ni se te ocurra holgazanear
+o poner excusas!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Dele...
+¡Puedes contar conmigo!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡Muuuu!{16}{E1}
+¡¡Viva "Luna a Presidenta"!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jaja!
+¡Me alegro por ti Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Qué hay de ti, Geo!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Por supuesto!{15}{E1}
+¡Puedes contar conmigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Bien!
+<PUSH>
+Sonia... ¿Puedo contar
+contigo para vigilarlos?
+<PUSH>
+¡Son demasiado estupidos y
+siempre hacen más de lo que
+pueden!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Jeje!
+¡Ni siquiera podrán pestañear
+sin que yo no lo sepa!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*bip, bip*
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es un mensaje de la Policia
+Satella!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{11}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Este mensaje va dirigido a
+todo Comando que se encuentre
+en servicio activo.
+<PUSH>
+Hemos confirmado la aparición
+de un gran numero de virus en
+<Studi.WBG>!
+<PUSH>
+¡Por favor, diríjanse hacia
+allí inmediatamente!
+<PUSH>
+¡Tenemos en nuestro control
+la línea de autobus
+<Alohaha>-<Studi.WBG>!
+<PUSH>
+Por desgracia es la unica
+linea disponible.
+<PUSH>
+Las acomulaciones de Ruido
+han dejado las demás lineas
+inservibles.
+<PUSH>
+¡Así que id a <Alohaha> vía
+Onda Aerea, y coged un
+autobús desde allí!
+<PUSH>
+¡Tened cuidado!
+<PUSH>
+¡Cambio y corto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿¡Están atacando
+<Studi.WBG>!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Rápido, Comandos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Luego nos vemos!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Regresad sanos y salvos!
+<PUSH>
+¡Me aseguraré de que el
+discurso de Luna se lleve a
+cabo sin problemas!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Será mejor que volvais de
+una pieza!
+<PUSH>
+¡Cómo se os ocurra hacer una
+estupidez os las vereis
+conmigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡De acuerdo!
+¡Nuestra primera parada es
+la Onda Aerea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

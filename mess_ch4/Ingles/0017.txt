@@ -1,0 +1,235 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+What the...
+<PUSH>
+There's a swarm of{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Omega-Xis' outside.
+<PUSH>
+
+<NEW-DIALOG>
+0A-Actually...
+<PUSH>
+None of them are
+Omega-Xis.
+<PUSH>
+According to Dr. Goodall, all
+of them are simply copies...
+<PUSH>
+It's possible that they are
+a Dealer weapon!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+A Dealer weapon...
+<PUSH>
+That makes sense. It would
+be less trouble to copy
+something, instead of
+<PUSH>
+developing your own.
+But, making this many must
+have been quite a task....
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1The number of enemy
+Wizards has increased!
+<PUSH>
+But I can't make out an
+enemy frequency...
+<PUSH>
+They're all giving off
+Omega-Xis's exact frequency!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+So their power levels could
+be the same, as well.
+<PUSH>
+That wouldn't be fun.
+<PUSH>
+
+<NEW-DIALOG>
+0For the moment, all we can
+do is prevent them from
+breaking in!
+<PUSH>
+Deploy the first unit!
+<PUSH>
+Evacuate all of the civilian
+WAZA staff!
+<PUSH>
+
+<NEW-DIALOG>
+1Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}(We might have been
+{13}{EC} able to detect them
+{13}{EC} if Acid was here.)
+<PUSH>
+...I guess there's no point in
+asking, "What if?".
+<PUSH>
+{10}{E2}{36}{03}
+<NEW-DIALOG>
+<Game>
+*beep, beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur.
+<PUSH>
+It looks like we've stepped
+into something icky.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yeah.
+<PUSH>
+So, {15}{E1}is there anything that
+can be done?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Actually, there is...
+<PUSH>
+{13}{EC}...
+<PUSH>
+Since the enemies are EM
+beings, we can use "that".
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+By "that", you mean{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+The "Noise Canceller"?
+<PUSH>
+Isn't that still being tested?
+<PUSH>
+And on top of that...
+Isn't it top secret?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+We'll never be able to try it
+if HQ is ransacked and the
+device is destroyed.
+<PUSH>
+I feel that the risk is worth
+the reward, don't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Yes. Understood.
+<PUSH>
+How long will it take until
+it's ready?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Forever if we don't have
+Acid return and help out...
+<PUSH>
+Once he is back...
+<PUSH>
+He can analyze the data
+from the Meggers copies,
+<PUSH>
+and alter the Noise Canceller
+program to work on them.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Where are you now, Doc?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+In the WAZA main computer
+room.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+OK, try not to move from
+there.
+<PUSH>
+I'll buy us some time while
+you get that Noise Canceller
+ready.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+OK.
+But don't overdo it, Arthur.
+<PUSH>
+{10}{E2}{95}{03}
+<NEW-DIALOG>
+<Game>
+...*beep!*
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Well...
+<PUSH>
+It looks like it's time for the
+Hero of Justice's debut!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

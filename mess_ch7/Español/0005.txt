@@ -1,0 +1,56 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Seguro que pensáis que
+estoy loco.
+<PUSH>
+¿Cómo vais a creer la
+historia de alguien que
+ni conocéis?
+<PUSH>
+¡Pues más os vale creerme!
+<PUSH>
+¡Patéticos humanos, pronto
+os arrodillaréis ante Dealer!
+<PUSH>
+¡Temed mi poder de control
+sobre el Meteorito G! ¡Temed
+la pérdida de la tecnología EM!
+<PUSH>
+¡Juradme lealtad solo a mí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Serás...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Por favor, prestadme
+mucha atención!
+<PUSH>
+¡¡Ahora podréis comprobar
+la cantidad de Ruido que
+almacena el Meteorito G!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

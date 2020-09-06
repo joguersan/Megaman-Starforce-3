@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 2]
+Attack
+[END]
+
+[SENTENCE NUMBER 3]
+Rapid
+[END]
+
+[SENTENCE NUMBER 4]
+Charge
+[END]
+
+[SENTENCE NUMBER 5]
+{24}{E1}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+({24}{E1}{01}{00}+{25}{E1}{01}{00})
+[END]
+
+[SENTENCE NUMBER 7]
+Equip Weapon
+[END]
+
+[SENTENCE NUMBER 8]
+See Records
+[END]
+

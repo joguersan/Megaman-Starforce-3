@@ -1,0 +1,86 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Este lugar parece... diferente.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, ¡parece que nos vamos a
+divertir!
+<PUSH>
+Mantente alerta, chaval.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+E-{16}{E1}Espera...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¿¡{13}{EC}!?
+<PUSH>
+{13}{E2}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Uff
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A-Ace...
+<PUSH>
+Parece que no estás para
+tirar cohetes precisamente...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yo me adelanto mientras
+que tú te quedas aquí.
+<PUSH>
+N-No{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} me sigas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué le ocurre?
+<PUSH>
+Hay algo raro con el...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He oído que...
+<PUSH>
+Ya sabes lo que tenemos que
+hacer, chaval. Sigámosle.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

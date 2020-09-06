@@ -1,0 +1,398 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Que es eso!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Menuda pieza, eh?
+<PUSH>
+Echemosle un vistazo.
+<PUSH>
+Tened cuidado, esta cosa me
+da mala espina.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Una "Maquina absorbedora
+de ruido"?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Esta recoge la gran cantidad
+de ruido que libera el
+Crimson, la concentra
+<PUSH>
+y la almacena dentro de
+un tanque.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Así que...
+¿Todos estos tanques están
+hasta los topes de Ruido?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Eso dicen los datos.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Para que la usarán?
+<PUSH>
+Creo que eso es obvio.
+<PUSH>
+La usan para controlar el
+meteorito G.
+<PUSH>
+No quería llamar la atención
+antes de que King nos
+detecte, pero...
+<PUSH>
+Destruyamosla.{15}{E1}
+Es demasiado peligroso
+dejarla aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Buena idea, Ace.
+<PUSH>
+La fuente de energía se
+encuentra más adelante.
+<PUSH>
+Si la destruimos, la máquina
+dejará de funcionar..
+<PUSH>
+Atacad esa zona.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Ya lo has oido Acid!
+<PUSH>
+¡Destruyamos esta maldita
+máquina!
+<PUSH>
+¡Tomad posiciones!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Sí, señor!
+<PUSH>
+
+<NEW-DIALOG>
+1¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Fuego!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Sí, señor!
+<PUSH>
+
+<NEW-DIALOG>
+1¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¡Imposible!
+¿¡Tiene un sistema de
+defensa!?
+<PUSH>
+
+<NEW-DIALOG>
+1¡Oh no!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+0¡¡Cuidado!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ugh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¿Que ha sido eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Chi-chicos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ellos...{15}{E1}
+¡¡Nos han salvado!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Geo, Sonia!
+<PUSH>
+¡Tenemos que movernos a algún
+lugar seguro!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Está bien!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Despierta!
+<PUSH>
+
+<NEW-DIALOG>
+0Lo más importante...
+Es que estáis a salvo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Gracias a vosotros.
+<PUSH>
+¡Nos habéis salvado!
+<PUSH>
+Sin vosotros...
+<PUSH>
+
+<NEW-DIALOG>
+0Gracias a dios...
+<PUSH>
+Tenéis un poder que nosotros
+nunca llegaremos a tener...
+<PUSH>
+Vosotros tres sois nuestra
+última esperanza...
+<PUSH>
+Contamos... con... vosotros.
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Se ha desmayado.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Si?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Voy a destruir esa máquina!
+<PUSH>
+Mega Man no debería tener
+problema para subir hasta
+<PUSH>
+la cima y destruir la fuente
+de energía!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Está bien.
+<PUSH>
+Tened cuidado.
+<PUSH>
+Nosotros llevaremos a los
+demás fuera de la base.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Puedes echarme un cable, Sonia?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ayudame a llevar a estas
+personas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Será complicado, pero...
+<PUSH>
+¡Podemos llegar a la fuente
+de energía usando el
+Camino Onda!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Impulsionemonos y
+encontremos esa fuente de
+energía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

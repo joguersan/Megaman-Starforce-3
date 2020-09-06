@@ -1,0 +1,59 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¡¡Ahora verá Dealer de lo
+que es capaz el
+<Studi.WBG>!!
+<PUSH>
+
+<NEW-DIALOG>
+=Si reconfiguro las funciones
+de nuestro satélite, podrá
+mostrarnos imágenes del espacio.
+<PUSH>
+
+<NEW-DIALOG>
+<¡¡Bien!!
+¡¡Así podremos buscar
+al chico!!
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}¡Entonces ahora solo
+nos queda una cosa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}¡Me gustaría proponer
+una cosa al mundo entero
+por televisión!
+<PUSH>
+¡Belle, ¿te importaría hacer
+llegar a todo el mundo
+mi propuesta?!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡¡P-Pues claro!!
+¡¡Encantada!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

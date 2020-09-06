@@ -1,0 +1,208 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Parece que detenerlo no es
+una opción.
+<PUSH>
+Tenemos que destruirlo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{99}{00}Gwaaaaaa!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Una emboscada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí sigue así la cosa...
+<PUSH>
+¡Vamos a tardar demasiado
+en acabar con todos ellos!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí...
+<PUSH>
+¿Pero tenemos otra alternativa?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Parad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Nosotros nos encargamos de
+ellos por vosotros.
+<PUSH>
+¡Vosotros id al panel de
+control!
+<PUSH>
+Ugh... Argh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ni se os ocurra!!
+<PUSH>
+¡No podréis aguantar el nivel
+de Ruido que hay aquí!
+<PUSH>
+Si no os vais lo antes
+posible-
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}¡No te preocupes por nosotros!
+<PUSH>
+No nos
+<PUSH>
+Es imposible que nos salgamos
+de control.
+<PUSH>
+Tenemos un programa de
+autodestrucción en caso de
+que ocurra.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Autodestrucción!?
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}¡Ugh!
+<PUSH>
+E-El nivel de ruido aquí es
+increiblemente alto.
+<PUSH>
+¡He llegado a mi límite!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡ {13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}¡¡Fue divertido mientras duró,
+Mega Man!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Somos la orgullosa y
+valiente policía Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Por la paz y la justicia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡¡Por el brillante futuro de
+la humanidad!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Noooooo!!
+<PUSH>
+No...
+<PUSH>
+¡¡Noooooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Todos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Vamos, chaval...
+<PUSH>
+Estaban cumpliendo su
+objetivo, ¿cierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tienes razón...
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,816 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, I'm so glad to see that
+you are OK.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+But, Mr. Boreal...
+If we can't stop Meteor G...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I know, I know...
+<PUSH>
+We have absolutely no
+intentions of giving up.
+<PUSH>
+As long as we don't give up
+there is always hope.
+<PUSH>
+Isn't that right, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That's why we have decided
+to form a new Team.
+<PUSH>
+The Team's Purpose is to
+"Stop Meteor G".
+<PUSH>
+And we've decided to name
+the Team after the great
+power given to you by the
+<PUSH>
+Satellite Admins the first
+time you protected Earth.
+<PUSH>
+That great power was
+called...
+<PUSH>
+"Star Force".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Star Force...
+<PUSH>
+
+<NEW-DIALOG>
+4We would like you to take
+the leader position of the
+Team.
+<PUSH>
+We believe it is in your
+power to stop Meteor G.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+But, I don't have any clue
+how to do that.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Oh, I almost forgot.
+<PUSH>
+The explanation will go much
+smoother if I introduce the
+other members first.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Other members?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Would you two please come
+forward?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Woody!?
+And Lee too!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+To be honest, we both
+aren't really sure why we
+were selected for this.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+But just being able to check
+out WAZA's facilities and
+<PUSH>
+meet the esteemed
+Dr. Goodall has been moving!
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}Actually, why is it that you
+were called here, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Well, now that all of the
+Team members have been
+<PUSH>
+assembled, we can discuss
+our mission plans.
+<PUSH>
+I will also explain why you
+all have been selected.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+But before that, a quick
+briefing on the current
+situation is in order.
+<PUSH>
+Meteor G has been freed of
+King's control, and is again
+headed straight for Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Magnes sent me a report on
+this not too long ago.
+<PUSH>
+If it isn't stopped, Meteor G
+will smash into the planet,
+<PUSH>
+destroying all EM technology
+in the world.
+<PUSH>
+And worst of all, most of
+humanity will be wiped out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+It's exactly as he said.
+<PUSH>
+Star Force must stop
+Meteor G at any cost!
+<PUSH>
+So let's move on to how we
+plan on doing that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We are going to use WAZA's
+massive Wave Station, known
+as "Dynamic Station"...
+<PUSH>
+To send Mega Man into
+space.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Mega Man!?
+<PUSH>
+You mean the same Mega
+Man that saved us before!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We will use Dynamic Station
+to trans Mega Man into
+<PUSH>
+Woody's rocket, which is
+currently in orbit around
+the planet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+I'm with you so far, but why
+my rocket?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Well...
+<PUSH>
+Thanks to Magnes going out
+of control for a short time,
+<PUSH>
+your rocket acquired a high
+degree of Noise resistance.
+<PUSH>
+Its resistance is high enough
+that the Noise being emitted
+<PUSH>
+from Meteor G will have little
+to no effect on it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Do you understand?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega Man will trans into the
+rocket, then it will get as
+close to Meteor G as it can.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Then Mega Man will trans
+into Meteor G from the
+rocket.
+<PUSH>
+Is that correct?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes it is.
+<PUSH>
+You two are both very
+clever.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Thank you very much for
+the compliment, Dr. Goodall!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Finally, Mega Man will destroy
+Meteor G's central core.
+<PUSH>
+It will be very dangerous for
+Mega Man, but we have no
+other choice...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Umm, I understand what you
+have said so far...
+<PUSH>
+But why have I been called
+here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Actually, you have a very
+important role to perform.
+<PUSH>
+Which is of course why we
+called you here today.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+A very important role?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Using Dynamic Station to
+send Mega Man to Woody's
+rocket...
+<PUSH>
+This involves him being sent
+out of Earth's atmosphere
+by dynabit transmission.
+<PUSH>
+The force of this style of
+transmission will incur quite
+the shock on Mega Man.
+<PUSH>
+That is why we would like
+you to design and build a
+<PUSH>
+Real Wave protective barrier
+that will allow Mega Man to
+get to the rocket safely.
+<PUSH>
+It will have to be an
+extraordinarily tough
+barrier, to say the least.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I see...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We heard that the Real
+Wave event stage that you
+built was able to hold up,
+<PUSH>
+even when it was overrun
+with out of control Wizards.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Well, it did freeze up.
+<PUSH>
+What I did was...
+When the Cyber Core was
+taken over, I quickly
+<PUSH>
+rewrote the programming,
+creating a firewall.
+<PUSH>
+Very simply, I reinforced the
+event stage's strength.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+There is no one else in all
+of Electopia that is able to
+<PUSH>
+do such a thing in the short
+timeframe that you had.
+<PUSH>
+We really need your help
+with this.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I'll do anything I can to help
+protect the planet!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+We have 12 hours until
+Meteor G hits Earth...
+<PUSH>
+There is no time for any
+dilly-dallying.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+12 hours{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+That's going to be tight.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+It's not enough time...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+No, there's actually more
+time than you think.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Heartless!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Who?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Wow, she's beautiful!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+According to my calculations,
+there are still 48 hours until
+Meteor G strikes.
+<PUSH>
+We have 2 days left.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+2 days...
+How is that possible?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin still hasn't given up{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+He has continued to battle
+with Meteor G, hindering its
+advance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Dad{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+He really is an amazing man,
+isn't he?
+<PUSH>
+Just amazing...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+If we have a whole 2 days,
+then we can definitely figure
+something out!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Configuring the rocket in
+time will be no problem then!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Great! Then let's get to
+work, Star Force!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo's Team and Purpose
+have changed!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+.{15}{E1}.{15}{E1}.{15}{E1}So, umm...
+Where is our great leader,
+Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ho ho ho...
+What a happy lot you all are.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+K{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+That can't be!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Did you really think dropping
+me in a little Noise Wave
+would finish me?
+<PUSH>
+Heartless, you've hurt my
+feelings.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+A human being can't possibly
+exist in a Noise Wave for
+any period of time and...
+<PUSH>
+{13}{EC}...!!
+<PUSH>
+W-Wait!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Finally catching on, eh?
+Think everything through.
+<PUSH>
+The fact is that I am not
+human anymore.
+<PUSH>
+I used Joker's power to
+make myself an EM being.
+<PUSH>
+And now, Heartless!!
+You traitor!!
+You will die!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Watch out!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+That was a close one...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+No way!
+Geo is Mega Man!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I knew it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hmph, it makes no difference.
+<PUSH>
+My plan is not yet complete,
+but soon enough...
+<PUSH>
+I will be the ruler of the
+world!!
+<PUSH>
+I hope you are looking
+forward to it as much as I!
+<PUSH>
+Ho ho ho ho ho!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+King{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+What could he be planning?
+<PUSH>
+{11}{E2}{02}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+I have no idea.
+All we can do is make sure
+that our plan goes smoothly.
+<PUSH>
+Let's get back to work.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You're right!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You got a message, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It looks like everyone wants
+to see me.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Go see your friends, Geo.
+<PUSH>
+And have some fun.
+<PUSH>
+We should be able to send
+you to Meteor G tomorrow.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Understood!
+<PUSH>
+I really want to talk to
+everyone before tomorrow.
+<PUSH>
+I'll be back!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

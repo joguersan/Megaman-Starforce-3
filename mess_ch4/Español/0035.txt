@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Han destruido el escudo OR!
+{15}{E1} ¡Están entrando en
+el edificio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

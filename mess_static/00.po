@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Virus Busting"
+msgstr "Elim. virus"
+
+msgctxt "1"
+msgid "Wizard"
+msgstr "Wizard"
+
+msgctxt "2"
+msgid "Mobile Terminal"
+msgstr "Terminal móvil"
+
+msgctxt "3"
+msgid "EM body"
+msgstr "Cuerpo EM"
+
+msgctxt "4"
+msgid "Visualizer"
+msgstr "Visualizador"
+
+msgctxt "5"
+msgid "Virus"
+msgstr "Virus"
+
+msgctxt "6"
+msgid "Cyber Core"
+msgstr "Cibernúcleo"
+
+msgctxt "7"
+msgid "EM Wave Change"
+msgstr "Cambio Onda EM"
+
+msgctxt "8"
+msgid "Wave Station"
+msgstr "Estación Onda"
+
+msgctxt "9"
+msgid "Wave Road"
+msgstr "Camino Onda"
+
+msgctxt "10"
+msgid "Trans out"
+msgstr "Expulsión"
+
+msgctxt "11"
+msgid "Pulse out"
+msgstr ""
+
+msgctxt "12"
+msgid "Purpose"
+msgstr "Propósito"
+
+msgctxt "13"
+msgid "Team"
+msgstr "Equipo"
+
+msgctxt "14"
+msgid "Brother"
+msgstr "Hermano"
+
+msgctxt "15"
+msgid "Noise Wave"
+msgstr "Disonancia"
+
+msgctxt "16"
+msgid "Hunter-VG"
+msgstr "Hunter-VG"
+
+msgctxt "17"
+msgid "WAZA"
+msgstr "WAZA"
+
+msgctxt "18"
+msgid "Satella Police"
+msgstr "Policía Satella"
+
+msgctxt "19"
+msgid "Alohaha"
+msgstr "Alohaha"
+
+msgctxt "20"
+msgid "Mu"
+msgstr "Mu"
+
+msgctxt "21"
+msgid "Mega"
+msgstr "Mega"
+
+msgctxt "22"
+msgid "Prez"
+msgstr "Dele"
+
+msgctxt "23"
+msgid "Bud"
+msgstr "Bud"
+
+msgctxt "24"
+msgid "Zack"
+msgstr "Zack"
+
+msgctxt "25"
+msgid "Sonia"
+msgstr "Sonia"
+
+msgctxt "26"
+msgid "Lyra"
+msgstr "Lyra"
+
+msgctxt "27"
+msgid "Boreal"
+msgstr "Boreal"
+
+msgctxt "28"
+msgid "Dubius"
+msgstr "Dubius"
+
+msgctxt "29"
+msgid "Damian Wolfe"
+msgstr "Damian Wolfe"
+
+msgctxt "30"
+msgid "Solo"
+msgstr "Solo"
+
+msgctxt "31"
+msgid "Kelvin"
+msgstr "Kelvin"
+
+msgctxt "32"
+msgid "Ken Suther"
+msgstr "Ken Suther"
+
+msgctxt "33"
+msgid "3 Sages of AM"
+msgstr "3 Sabios AM"
+
+msgctxt "34"
+msgid "Cepheus"
+msgstr "Cepheus"
+
+msgctxt "35"
+msgid "Planet AM"
+msgstr "Planeta AM"
+
+msgctxt "36"
+msgid "Planet FM"
+msgstr "Planeta FM"
+
+msgctxt "37"
+msgid "Copper"
+msgstr "Copper"
+
+msgctxt "38"
+msgid "Operator"
+msgstr "Operador"
+
+msgctxt "39"
+msgid "White Card"
+msgstr "Carta blanca"
+
+msgctxt "40"
+msgid "Default Card"
+msgstr "Carta favorita"
+
+msgctxt "41"
+msgid "Trans in"
+msgstr "Impusión"
+
+msgctxt "42"
+msgid "Mega Snack"
+msgstr "Megachuche"
+
+msgctxt "43"
+msgid "Wizard Adapter"
+msgstr "Adap. Wizard"
+
+msgctxt "44"
+msgid "Keyword44"
+msgstr "Keyword44"
+
+msgctxt "45"
+msgid "Keyword45"
+msgstr "Keyword45"
+
+msgctxt "46"
+msgid "Keyword46"
+msgstr "Keyword46"
+
+msgctxt "47"
+msgid "Keyword47"
+msgstr "Keyword47"
+
+msgctxt "48"
+msgid "Keyword48"
+msgstr "Keyword48"
+
+msgctxt "49"
+msgid "Keyword49"
+msgstr "Keyword49"
+
+msgctxt "50"
+msgid "KeywordEnd"
+msgstr "KeywordEnd"

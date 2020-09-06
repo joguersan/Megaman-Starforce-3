@@ -1,0 +1,29 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Y-you got me...
+I'll return what I stole...
+<PUSH>
+{10}{E2}Ì
+<NEW-DIALOG>
+<Game>
+Geo got back Zack's pants!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's find the other items!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah! We should keep
+searching the Wave Road!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

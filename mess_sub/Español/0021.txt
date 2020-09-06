@@ -1,0 +1,109 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+Escuela Echo Ridge
+Nuesro lema es:
+"Estudia mucho,
+ come bien, y a
+ dormir a las 10."
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+C. Comercial Spica
+¡Ser miembro tiene ventajas!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+Estudios WBG
+La mejor programación
+en tu salón.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+NAZA
+Paz en el espacio.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+Policía Satella
+Proteger y servir.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+<Mr.King>
+¡Megachuches a la venta!
+¡Solo 10 Zennys!
+¿Qué sabor prefieres?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

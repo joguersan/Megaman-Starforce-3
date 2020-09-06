@@ -1,0 +1,528 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Qu{15}{E1}-Qué es esto!?
+<PUSH>
+¡No sabia que sel Ruido
+podría alcanzar este tamaño!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡E-Esto no es normal!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Pfft!
+<PUSH>
+No me digáis que estais
+asustados de algo tan
+pequeño....
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡J-Jack!?
+<PUSH>
+¿¡Has sido tu el que ha
+causado esto!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¿Y qué si he sido yo?
+<PUSH>
+¡No lo entiendo!
+<PUSH>
+¿¡Cómo estos imbeciles han
+podido derrotar a tia!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack, tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Callate.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Solo escuchame, Jack!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡He dicho que te calles!!
+¡¡No me hables como si me
+conocieses!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Sois muy molestos!!
+<PUSH>
+¿¡Crees que te escuchare!?
+<PUSH>
+¿¡Piensas que soy idiota!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No!
+Yo solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Callate, chico!
+<PUSH>
+¡Sí quieres hablar con el,
+hazlo despues de patearle el
+trasero!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡JA! Seguro que puedes hablar
+¿¡no, Omega-Xis!?
+<PUSH>
+Espera, no pensarás...
+<PUSH>
+Que realmente me diste
+siquiera algun problema en la
+última batalla, ¿verdad?
+<PUSH>
+Si de verdad lo crees, ¡Debes
+haberte vuelto senil!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+¡Cierra el pico y prepárate
+para sufrir!
+<PUSH>
+¡Vamos a ver quien es el
+senil!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+{13}{EC}...
+<PUSH>
+No te dejes llevar,
+Omega-Xis.
+<PUSH>
+Jack...{15}{E1}
+¡Limpiemos el planeta de esta
+estúpida basura!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Callate!!
+<PUSH>
+¡¡No te atrevas a darme
+órdenes!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Por favor, Jack!
+<PUSH>
+¡No quiero pelear!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+Ya veo...{15}{E1}
+Bueno, lo que tu digas.
+<PUSH>
+¡¡Pero he venido a buscar
+pelea y eso es lo que haré!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Por fin he encontrado una de
+las basuras de Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¿¡Quien es!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Aaah!!
+¿¡Quien eres!?
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{12}{E2}<Bud>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Mi nombre es Solo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No lo olvides.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¿Rogue?!
+<PUSH>
+¿El último superviviente
+de Mu?
+¡¿Ese Solo?!
+<PUSH>
+{13}{EC}(King mencionó que era muy
+{13}{EC} peligroso...
+{13}{EC} ¿¡Así que este es el!?)
+<PUSH>
+¿Qué quieres?
+¿¡Por qué estás aquí!?
+<PUSH>
+¿¡Hay algo que quieras de
+mi!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+De ti no...
+<PUSH>
+Tengo una pregunta que
+hacerle a tu jefe.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Llévame a el.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Ja!
+<PUSH>
+¿¡Quien te crees que eres!?
+<PUSH>
+¡Sí quieres ver a King ve a
+buscarlo tu mismo!
+¡No pienso ayudarte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Tio, ha arruinado el
+ambiente!
+<PUSH>
+¡Hasta la próxima, Megaman!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+huyó.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡E-Espera, Solo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Gr-Gracias...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Eres tan ingenuo como siempre.
+<PUSH>
+¡En serio crees que te estaba
+ayudando?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Eh?
+<PUSH>
+Bueno, entonces...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+<PUSH>
+No me importa lo que pienses.
+<PUSH>
+Todavía estas mi lista de
+enemigos.
+<PUSH>
+No ha cambiado nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...Aun así...
+<PUSH>
+Hay otros que me preocupan
+más en este momento....
+<PUSH>
+Dealer...
+Voy a derrotarlos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+¿¡Tambien luchas contra Dealer!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Sólo lo diré una vez.
+No tengo intención de
+trabajar contigo.
+<PUSH>
+Como mucho solo serás una
+herramienta.
+<PUSH>
+¡Entrega ese mensaje tambien
+a la Policía de Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Quiero decir <Solo-color>.
+<PUSH>
+¿Qué ha hecho Dealer para que
+estés tan furioso?
+<PUSH>
+¿Y por qué me das un mensaje
+para la Policía Satella?
+<PUSH>
+¿Tienes algo que contarnos?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico!
+¡echa un vistazo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+S-Se ha ido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Por fin está despejado!
+<PUSH>
+¡Ese Jack debe estar detrás
+de ese Ruido estraño!
+<PUSH>
+Hizo que esas cosas
+aparecieran para causar
+jaleo.
+<PUSH>
+¡Sabía que eso nos haría
+salir!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...
+<PUSH>
+Las cosas se están
+complicando...
+<PUSH>
+Por ahora, ¡vayamos a echar
+un vistazo a la Policía
+Satella!
+<PUSH>
+Sería genial si funcionase el
+autobús.
+<PUSH>
+Entrar en esa ola de ruido ha
+sido realmente duro...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Además de tenernos que
+encargar de Ese extraño
+Ruido.
+<PUSH>
+Ya no hay más virus por aquí,
+así que...
+<PUSH>
+Deberia funcionar, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Buena observación!
+¡Vamos a comprobarlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

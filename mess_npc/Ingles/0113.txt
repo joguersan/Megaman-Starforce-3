@@ -1,0 +1,159 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* The waves
+sent from this antenna
+can reach anywhere!
+<PUSH>
+Even into space!
+<PUSH>
+No one is so far away that
+you can't reach out and
+touch them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Who are you!?
+Get out of my sight if you
+don't want to be deleted!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, he's blunt, I'll give him
+that. It looks like he
+doesn't remember you.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, he's not the Spade
+Magnes that we know!
+<PUSH>
+SpadMgnes"R"!
+What are you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Huh!? You know my name?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I looked it up using some
+device on the Noise Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Hmph... I thought that the
+waveforms on this planet
+were all dainty.
+<PUSH>
+I wouldn't have thought that
+there were some who could
+use the Noise Wave...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+This planet...?
+Are you from outer space
+or something?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+You are to be deleted.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What did he just say?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Being a waveform from a
+backwater planet such as
+<PUSH>
+this is reason enough to be
+deleted, wouldn't you say?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo!
+He's coming fast!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A5}{00}
+[END]
+

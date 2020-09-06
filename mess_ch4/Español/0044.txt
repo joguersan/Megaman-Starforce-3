@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Es aquí...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{06}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+-Cuartel Nac. NAZA-{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Esto es... ¡el cuartel
+{13}{EC} general de la NAZA!)
+<PUSH>
+{13}{EC}(¿Es el cuartel de la
+{13}{EC} Policía Satella?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

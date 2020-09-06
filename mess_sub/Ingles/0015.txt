@@ -1,0 +1,1286 @@
+[SENTENCE NUMBER 1]
+White Cards
+[END]
+
+[SENTENCE NUMBER 2]
+WAZA
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I will now explain to
+you about the White Cards
+<PUSH>
+which you have
+downloaded.
+<PUSH>
+White Cards are the
+4 card sets of
+<PUSH>
+Battle Cards available
+at every Wave Station.
+<PUSH>
+Of course, these white
+colored cards can be
+used in battle.
+<PUSH>
+Even the same Wave
+Station can have
+different sets of
+<PUSH>
+White Cards, and some
+sets are unique to
+<PUSH>
+Wave Stations in a
+particular region.
+<PUSH>
+So, if you see a
+Wave Station, be sure
+to download a set.
+<PUSH>
+If there is ever a
+White Card that you
+don't want to use in
+<PUSH>
+battle, you can go to
+the Folder Edit Screen,
+<PUSH>
+select it with the
+cursor and press the
+Y Button or the
+<PUSH>
+A Button to remove it
+from your folder.
+<PUSH>
+White Cards will have
+a "W" mark next to
+their names.
+<PUSH>
+This concludes the
+explanation about
+White Cards.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Folder Edit
+[END]
+
+[SENTENCE NUMBER 5]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+OK, before I forget,
+let me give you a
+<PUSH>
+quick review of Folders
+and how they work.
+<PUSH>
+Folders are containers
+where you put
+Battle Cards.
+<PUSH>
+At the start of a battle,
+cards picked at
+<PUSH>
+random are displayed
+on the bottom screen.
+<PUSH>
+So whether you're at
+an advantage or
+a disadvantage depends
+<PUSH>
+on what kind of cards
+you have put into your
+Folder.
+<PUSH>
+You can fill your Folder
+with cards that you find
+easy to use,
+<PUSH>
+or you can try to have
+a more balanced spread
+of cards.
+<PUSH>
+It really boils down
+to your own tastes.
+<PUSH>
+There's also something
+called a Card Box that
+<PUSH>
+is used when you get
+new Battle Cards.
+<PUSH>
+By moving cards back
+and forth between your
+Card Box and Folders,
+<PUSH>
+you can determine a
+Folder's contents.
+<PUSH>
+But there are rules for
+putting cards into
+Folders.
+<PUSH>
+The first is that a
+Folder always has to
+contain 30 cards.
+<PUSH>
+A Folder can't have more
+than 5 Standard Class
+cards of the same name.
+<PUSH>
+You can put a maximum
+of 5 rare Mega Class
+cards in a Folder.
+<PUSH>
+And for the very rare
+Giga Class cards, there's
+a limit of only one.
+<PUSH>
+Be aware that you can't
+have more than 1 Mega
+Class or Giga Class card of
+<PUSH>
+the same name in a folder.
+Also, Standard Class cards,
+<PUSH>
+Mega Class cards, and
+Giga Class cards aren't
+the only ones out there.
+<PUSH>
+There are many different
+types of cards.
+<PUSH>
+Man! All this talk about
+Battle Cards is getting me
+all fired up!
+<PUSH>
+Since all this Folder business
+is now taken care of, we
+can go have some fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+W.E. Data
+[END]
+
+[SENTENCE NUMBER 8]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Wizard Equip Data,
+otherwise known as W.E.
+Data, is data that
+<PUSH>
+Battle Wizards can equip
+which gives them things
+like more attack power,
+<PUSH>
+quicker Buster firepower,
+and faster charge times.
+<PUSH>
+You can equip W.E. Data
+on the Mega Screen,
+so give it a try!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Battling
+[END]
+
+[SENTENCE NUMBER 11]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Bud and Zack sent you
+some information about
+battling!
+<PUSH>
+I sent you a few rules and
+tips of my own, so be sure
+to have a look, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Customizing
+[END]
+
+[SENTENCE NUMBER 14]
+Zack
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+The other day in class we
+learned about battling
+<PUSH>
+and what to do if we
+encounter a virus, right?
+<PUSH>
+Well Prez wanted me to
+write up a summary of the
+Custom Screen so that we
+<PUSH>
+can refer to it in an
+emergency, so I did.
+<PUSH>
+This is a copy for you, Geo.
+<PUSH>
+The first thing you'll see
+when you meet an enemy
+is the Custom Screen.
+<PUSH>
+Six cards are randomly
+selected from the 30 cards
+<PUSH>
+that are in your Folder, and
+then displayed there.
+<PUSH>
+That doesn't mean
+you can just choose any
+cards you want.
+<PUSH>
+There are rules for these
+kinds of things.
+<PUSH>
+Rule #1!
+Cards in the same column
+can be selected together.
+<PUSH>
+It doesn't matter if they're
+not lined up exactly
+straight, as long as
+<PUSH>
+they're in the same
+column.
+<PUSH>
+Rule #2!
+Three cards in the same row
+can be picked together.
+<PUSH>
+It doesn't matter if they're
+not lined up exactly
+<PUSH>
+straight, as long as
+they're in the same row.
+<PUSH>
+Rule #3!
+<PUSH>
+Cards that have the same
+name can be picked together,
+regardless of their position.
+<PUSH>
+The exception are
+White Cards, which can
+<PUSH>
+be paired with any card
+anywhere on the screen.
+Very useful, right?
+<PUSH>
+Finally, you can use the
+R Button or Y Button to
+see card descriptions.
+<PUSH>
+OK! I think that about sums
+up the Custom Screen.
+<PUSH>
+That took forever to
+explain!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Battle Ctrls
+[END]
+
+[SENTENCE NUMBER 17]
+Bud
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Hey, Geo! This is a
+summary of how to
+battle!
+<PUSH>
+I thought you'd find it
+useful, so I'm sending
+it to you.
+<PUSH>
+You can move left
+and right using the
++Control Pad,
+<PUSH>
+and you can use a
+card by pressing the
+A Button.
+<PUSH>
+Holding down the
+B Button will unleash
+<PUSH>
+a rapid-fire attack from
+the Mega Buster.
+<PUSH>
+Not pressing the
+B Button for a while
+<PUSH>
+will let the Mega Buster
+charge up. Once it does,
+<PUSH>
+fire with the B Button
+for a Charged Shot!
+<PUSH>
+Speaking of charging,
+once the Custom
+Gauge fills,
+<PUSH>
+press the L Button
+or R Button to see the
+Custom Screen.
+<PUSH>
+Well, I guess that about
+sums it up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Shield
+[END]
+
+[SENTENCE NUMBER 20]
+Zack
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+I thought I'd send you
+this explanation about
+using your shield.
+<PUSH>
+Press the Y Button to
+put up a shield.
+<PUSH>
+You can use the shield
+to block enemy attacks.
+<PUSH>
+You won't have to worry
+about this much with
+weaker enemies,
+<PUSH>
+but later, there will be
+some enemy attacks that
+<PUSH>
+you can't dodge by just
+moving left or right.
+<PUSH>
+That's when you'll need
+to use the shield to
+guard yourself.
+<PUSH>
+But you won't be able
+to block everything,
+<PUSH>
+you know. You can't
+block an enemy's
+rush attack,
+<PUSH>
+and some attacks will
+be able to break through
+your shield.
+<PUSH>
+So be very careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+Mega Attack!
+[END]
+
+[SENTENCE NUMBER 23]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Nobody bothered to
+explain the Mega Attack!?
+<PUSH>
+That figures, since I'm
+the only expert on the
+subject.
+<PUSH>
+Anyway, here goes!
+<PUSH>
+The Mega Attack is
+very important.
+<PUSH>
+When you have cards
+that you can use,
+<PUSH>
+press down on the
++Control Pad and I'll
+<PUSH>
+switch into lock-on
+mode.
+<PUSH>
+When I'm in that mode,
+a sight will be shown
+on any enemies
+<PUSH>
+directly or diagonally in
+front of us. If you use a
+card when a sight is on,
+<PUSH>
+we'll rush right up to
+the enemy and attack!
+<PUSH>
+But keep in mind that
+some non-attack type
+cards,
+<PUSH>
+such as recovery
+cards and cards that dim
+<PUSH>
+the screen cannot be
+used with lock-on mode.
+<PUSH>
+Oh, and if you don't like
+the camera changing on
+<PUSH>
+you when you do a
+Mega Attack,
+<PUSH>
+you can change the
+the camera settings
+<PUSH>
+by pressing START
+during a battle.
+<PUSH>
+Remember, kid.
+You don't have to use
+<PUSH>
+the Mega Attack in every
+fight you're in, but when you
+<PUSH>
+do, you'll be able to fight
+on a much higher level!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+Countering
+[END]
+
+[SENTENCE NUMBER 26]
+Bud
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Here's the lowdown on
+Countering and
+Bonus Cards.
+<PUSH>
+If you land a card
+attack on an enemy
+<PUSH>
+just as they're about to
+attack, that's a Counter.
+<PUSH>
+That'll catch them off-guard,
+paralyzing them for a time.
+<PUSH>
+You'll also receive a Bonus
+Card for doing so.
+<PUSH>
+Usually, you can only use
+cards you select on the
+Custom Screen. But if you
+<PUSH>
+land a Counter, then you'll
+be rewarded a Bonus Card.
+<PUSH>
+Bonus Cards are chosen
+from your Card Folder
+at random.
+<PUSH>
+Even so, they're great
+because you don't have to
+wait for the Custom Gauge
+<PUSH>
+to fill up before going buck
+wild on the enemy!
+<PUSH>
+Counters can only be
+performed with attack cards
+that don't dim the screen.
+<PUSH>
+And you can't get another
+Bonus Card if you pull off a
+Counter with a Bonus Card.
+<PUSH>
+So don't think you can
+get an unlimited chain
+of cards.
+<PUSH>
+The timing of Counters is
+tough, but they're really cool
+when you can pull them off.
+<PUSH>
+You should practice a little
+until you get the hang of it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+Be careful!
+[END]
+
+[SENTENCE NUMBER 29]
+Mr. Shepar
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+This is a message to all
+Echo Ridge Elementary
+students.
+<PUSH>
+Recently, viruses have been
+seen in the Real World,
+outside of Cyber Cores
+<PUSH>
+where they're known for
+causing damage. Anyone who
+sees a virus,
+<PUSH>
+especially students who are
+not used to battling, should
+keep a safe distance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+Lend a hand!
+[END]
+
+[SENTENCE NUMBER 32]
+Bud
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I found a kid at the school
+shop who needs your help!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+Science club
+[END]
+
+[SENTENCE NUMBER 35]
+Zack
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Please come to the science
+club room. It looks like
+there's a situation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+A visitor
+[END]
+
+[SENTENCE NUMBER 38]
+Mr. Shepar
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+There's a guest waiting for
+you at the front entrance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+Welcome!
+[END]
+
+[SENTENCE NUMBER 41]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Welcome to <Spica.Mall>!
+<PUSH>
+Don't miss the Wave Battle
+Tournament going on in the
+{BD}{E4}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+COMING SOON!
+[END]
+
+[SENTENCE NUMBER 44]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}The Candy Shop grand
+opening is fast approaching!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+Hungry?
+[END]
+
+[SENTENCE NUMBER 47]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}How about having lunch in
+our food court?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Closing
+[END]
+
+[SENTENCE NUMBER 50]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}For safety reasons, the
+{BD}{E4} will be
+closed temporarily.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Abilities
+[END]
+
+[SENTENCE NUMBER 53]
+Magnes
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Yup yup! How are you!?
+Thanks to your hard work,
+<PUSH>
+I'm having a great time
+out here in space!
+<PUSH>
+For all of your trouble,
+here's an Ability for you!
+<PUSH>
+Abilities expand the
+functionality of your
+Wizard!
+<PUSH>
+Of course, Abilities have to
+be equipped before they're
+effective.
+<PUSH>
+Well, I'm looking forward to
+the day when we meet again!
+Yup!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Re-opening
+[END]
+
+[SENTENCE NUMBER 56]
+Ken Suther
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#Whoo-hoo! {B6}{E4} is
+like totally re-opened,
+dude!
+<PUSH>
+We've even got a
+gnarly new Card Trader!
+<PUSH>
+So, come on over all you
+dudes and dudettes, and
+like check it out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+Here you go!
+[END]
+
+[SENTENCE NUMBER 59]
+Bud
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I was thinking of how I
+could help you out,
+<PUSH>
+you know, with the incident
+at the concert and all...
+<PUSH>
+And I thought, as your
+Brother, I can let you
+borrow my Wizard, Taurus!
+<PUSH>
+...So, here he is.
+I'm sending you a
+Wizard adapter!
+<PUSH>
+{92}{E1}(a
+<NEW-DIALOG>
+<Game>
+You added the
+"Taurus adapter" to your
+<Hunter>-VG!
+<PUSH>
+{02}{E2}(
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+Trouble!
+[END]
+
+[SENTENCE NUMBER 62]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, we're having some
+trouble setting up our
+equipment.
+<PUSH>
+Could you go to the
+props room inside the
+studio?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+Come quick!
+[END]
+
+[SENTENCE NUMBER 65]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, there's something
+wrong with the stage
+projector. I'll tell you about
+<PUSH>
+it when you get here.
+Please come quickly!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+Bomb Threat
+[END]
+
+[SENTENCE NUMBER 68]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, we got a call saying
+that there's a bomb
+<PUSH>
+program somewhere on
+the premises.
+<PUSH>
+I've sent all the
+Wizards I can to
+investigate the situation.
+<PUSH>
+They're being instructed by
+the security Wizard from the
+front entrance.
+<PUSH>
+Would you go and talk to
+him and find out how they
+are coming along?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+In danger!?
+[END]
+
+[SENTENCE NUMBER 71]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+It's absolutely freezing in
+Sonia's dressing room!
+<PUSH>
+We're using a fire-breathing
+Wizard to try and do
+<PUSH>
+something about the
+situation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+Hack Panels
+[END]
+
+[SENTENCE NUMBER 74]
+Mr. Shepar
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+I have important information
+for any of you who happen
+to run into a virus and
+<PUSH>
+find yourselves in a
+situation where you
+can't run away...
+<PUSH>
+Have you ever heard of
+something called a
+hack panel?
+<PUSH>
+Hack panels are panels
+that emit a special kind of
+Noise that makes it
+<PUSH>
+impossible for anything but
+viruses to stand on them.
+<PUSH>
+That means that you have
+to delete viruses without
+standing on the
+<PUSH>
+hack panels.
+But there is an easy way
+to get rid of them.
+<PUSH>
+Just use a "{D0}{E7}",
+"{BA}{E7}", or similar
+card to convert the panels.
+<PUSH>
+And remember, don't panic.
+I'm sending all of you a
+"{BA}{E7}" card.
+<PUSH>
+{0C}{E1}{00}{00}{FD}{00}b
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+Come now!
+[END]
+
+[SENTENCE NUMBER 77]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I'll wait for you, so
+come immediately to
+<Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+Open beach
+[END]
+
+[SENTENCE NUMBER 80]
+Security
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}The reserved session for
+this beach has ended.
+Everyone is free to enter!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+News Flash
+[END]
+
+[SENTENCE NUMBER 83]
+Alohaha
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}The Island Environmental
+System is out of control! Be
+on the look out for hazards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+Support
+[END]
+
+[SENTENCE NUMBER 86]
+Sci. Club
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Hey, Geo!
+<PUSH>
+I just had to pass this
+juicy tidbit of information
+on to you!
+<PUSH>
+You said you had a Battle
+Wizard, right? Apparently,
+<PUSH>
+they have this special thing
+called a "Support Card".
+<PUSH>
+What it does is convert a
+Battle Card into a different
+Battle Card.
+<PUSH>
+The type of card that a
+Battle Card is converted to
+varies from Battle Wizard to
+<PUSH>
+Battle Wizard. I'm sending
+you a tutorial program.
+<PUSH>
+Please check it out
+when you have some
+free time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+I'm ready
+[END]
+
+[SENTENCE NUMBER 89]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I'm all ready now. Please
+come to the Satella Police
+Department.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+About Luna
+[END]
+
+[SENTENCE NUMBER 92]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Dr. Goodall has something
+to tell you about Luna Platz.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+A settlement
+[END]
+
+[SENTENCE NUMBER 95]
+Harp Note
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+It looks like Ace and
+Queen Virgo have an issue
+that they need help
+<PUSH>
+resolving. Ace may need
+your help!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+{0A}{E1}{FD}{00}{80}{E1}z{01}{00}{10}{E2}{CB}{00}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"{BA}{E7}"
+on his Hunter-VG!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,471 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We got the Giga Energy
+Card, Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Y-You really got one!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+It's a miracle!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Thank you so much!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hmm... I gotta touch the Giga
+Energy Card to give it to
+Woody.{13}{EC}
+{03}{E2}{04}{00}{04}{EC}
+<NEW-DIALOG>
+<Game>
+Geo gave the
+"{E4}{E6}"
+to Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+I don't even know what
+to say!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You don't have to say
+anything at all.
+<PUSH>
+But I would be honored to
+have your vote in the
+upcoming election!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+That doesn't seem enough
+to show our appreciation,
+<PUSH>
+but if it means that much
+to you, we'll do it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Well, everyone!
+<PUSH>
+Now that we have the
+card, all we have to do is
+install it! Let's do it!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Alright!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+OK, Woody!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+It's{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} It's.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+It's done!
+<PUSH>
+At long last...
+Our rocket is complete!
+<PUSH>
+Yeeeaaah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Don't cry, Woody!
+<PUSH>
+U{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}waaa{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}aaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm so happy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+I'm so proud of everyone.
+You make me so happy.
+<PUSH>
+You guys believed in me all
+the way to the very end.
+<PUSH>
+The Science Club is the
+greatest team ever!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Of course we did, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+You're the best!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+*sniffle*
+Everything turned out so
+perfect...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Their sacrifice paid off...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'm really glad I joined the
+team, Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+"Luna 4 Prez" is the best!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+This is what a Purpose
+is all about!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+We couldn't have done it
+without you all.
+<PUSH>
+Thank you so much.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Magnes!
+Come out and thank them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+You guys were great!
+Thanks for everything!
+<PUSH>
+Now I'll be able to contact
+the Science Club from
+space.
+<PUSH>
+My dream is going to come
+true!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+I can't wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+It's really all thanks to
+"Luna 4 Prez".
+<PUSH>
+If you don't mind, I'd like
+to form a Brother Band
+<PUSH>
+with the people who worked
+so hard along with me.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Of course we don't mind!
+Right, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+<PUSH>
+{6E}{E1}{00}{00}{11}{00}
+<NEW-DIALOG>
+<Game>
+Geo and Woody
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went up
+by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+How about us, too?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Would it be alright if our
+Team set the same
+Purpose as the Science
+<PUSH>
+Club, until the rocket is
+successfully launched?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Eh!?
+Really?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I want to be there until
+the end.
+<PUSH>
+Now that Woody is our
+Brother, it's a great idea,
+isn't it?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Of course!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Thank you...
+<PUSH>
+Two Teams working
+together is great.
+<PUSH>
+But both Teams having the
+same Purpose is absolutely
+amazing.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{04}{E2}{02}{00}
+<NEW-DIALOG>
+<Game>
+Geo's Purpose has changed!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+I'm planning to have the
+launch ceremony tomorrow.
+<PUSH>
+I would be honored to
+have the "Luna 4 Prez"
+members join as producers.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+We would love to!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I can't wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Do your best, Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+So, let's all meet tomorrow
+on the roof!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Good idea.
+Everyone try and get to
+bed early, tonight!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Understood!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+OK, see you tomorrow!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Let's go home, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sounds good.
+Tomorrow should be a
+blast!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

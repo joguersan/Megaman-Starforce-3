@@ -1,0 +1,576 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Los dos?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Llevan así desde
+que Luna...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ya veo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Eh...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Qué ocurre, Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+La Dele... se ha ido...
+¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No volverá a gritarme por
+llegar tarrde, entonces...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Tarde!{15}{E1} ¡Tarde!{15}{E1} ¡Tarde!{16}{E1}
+¡Llegas{16}{E1} taaaaarde!
+<PUSH>
+You've got guts to make
+me wait for you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Zack!
+<PUSH>
+Para la próxima asegúrate
+de que llegue a tiempo...
+<PUSH>
+¡¿Podrás hacer eso,
+aunque sea?!
+<PUSH>
+No se te ocurra contestar...
+<PUSH>
+¡Sois amigos, eres igual
+de responsable que él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡¿Lo habéis entendido?!
+<PUSH>
+Como me hagáis esperar
+otra vez...
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+Uuhh...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+Snif...{15}{E1}
+¡D-D-De{15}{E1}-Dele!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡Buuuaaaa!
+¡Dele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡B-Bud!{15}{E1} ¡Zack!...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¿Por qué lloráis?!
+<PUSH>
+¡E-Es imposible que
+Luna se haya ido!...
+<PUSH>
+Es...
+Es imposible...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+No... No es...
+<PUSH>
+Uuhh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Bud! ¡Zack!
+<PUSH>
+¡¿De verdad creéis que
+la Dele se ha ido?!
+<PUSH>
+¡No voy a rendirme!
+<PUSH>
+¡¡Me niego a creerlo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+G-Geo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+P-Pero, Geo...
+<PUSH>
+Tú mismo lo viste, ¿no?
+<PUSH>
+J-{15}{E1}Justo en tus narices...
+<PUSH>
+L-{15}{E1}La Dele...
+<PUSH>
+¡E-{15}{E1}Es horrible!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Es verdad, Geo!
+No... ¡Mega Man!
+<PUSH>
+¡¿Por qué no pudiste salvarla?!
+<PUSH>
+¡Hasta ahora siempre
+nos habías ayudado!
+<PUSH>
+Por qué...{15}{E1} Por qué...
+<PUSH>
+¡¿Por qué no has podido
+salvarla esta vez?!
+¡Buuuaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Zack, serás...!
+¡¿Le estás echando la culpa
+a Geo?!
+<PUSH>
+¡¿Qué es lo que te pasa?!
+Es que no sabes lo mal que...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡No pasa nada, Mega!
+<PUSH>
+No pasa nada...
+Es verdad que no he podido
+hacer nada...
+<PUSH>
+Pero...{15}{E1}
+¡Precisamente por eso...!
+<PUSH>
+¡No pienso rendirme!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Bud! ¡Zack!
+¡Mirad vuestros <Hunter>s!
+<PUSH>
+La señal de la Dele no
+ha desaparecido del todo...
+<PUSH>
+¡Ni han cambiado nuestras
+Bandahermano, Propósito
+ni Equipo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+E-Entonces...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Sigue todo igual!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Esto quiere decir que
+no se ha ido del todo, ¿no?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Es verdad!
+<PUSH>
+¡Geo tiene razón!
+<PUSH>
+¡Luna no se ha ido!
+<PUSH>
+¡Yo tampoco voy a rendirme!
+<PUSH>
+No puedo...{16}{E1} ¡rendirme!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+S-Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+P-Pero...
+Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡También queremos
+creer en Geo!...
+<PUSH>
+P-{15}{E1}Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Z-Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Zack, Bud...
+{13}{EC} No podéis rendiros...)
+<PUSH>
+{13}{EC}(Si nos rendimos...
+{13}{EC} Al final desaparecerá...
+{13}{EC} y para siempre.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Por Dios bendito!
+<PUSH>
+¡Menuda panda de lloricas
+depresivos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud y Zack conocen a la
+Dele desde mucho antes
+que Sonia o yo...
+<PUSH>
+La noticia les ha
+sentado mucho peor...
+<PUSH>
+Están intentando
+llevarlo como pueden...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Je!
+<PUSH>
+¿Y tú qué vas a hacer?
+<PUSH>
+¿Tienes algún plan?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Pues sí!
+<PUSH>
+Había pensado en pedir
+ayuda a la Policía Satella...{15}{E1}
+O a Ace, directamente...
+<PUSH>
+Pero no sé cómo puedo
+contactar con él...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Mmm...
+<PUSH>
+Entonces tendremos que
+preguntar a alguien
+que pueda hacerlo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡¡!!
+<PUSH>
+¡Qué buena idea!
+<PUSH>
+¡Gracias, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Conoces a alguien?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+El Sr. {5B}{E2}!
+<PUSH>
+¡Antes trabajaba para
+la NAZA!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ah, Boreal, ¿eh?
+<PUSH>
+Seguramente sepa algo de
+lo que le ha pasado a Luna.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Pues sí!
+<PUSH>
+¡Seguro que a él se le
+ocurre algo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Decidido entonces!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, vamos a ver al Sr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

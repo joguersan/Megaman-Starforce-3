@@ -1,0 +1,350 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Siento la espera, Mega,
+ya puedes salir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{03}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡¡Grr{15}{E1}ooaaa{15}{E1}rrr!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Pero qué ocurre?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo! ¡Por todos
+mis circuitos!
+<PUSH>
+¿Cómo se te ocurre
+actualizar el terminal
+sin avisarme?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+<PUSH>
+¿Por qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Cómo que por qué?!
+¡No debería tener
+que explicártelo!
+<PUSH>
+Gracias a los avances
+en la tecnología de
+ondas, ahora soy
+<PUSH>
+un Wizard, básicamente
+un <CORPO.EM-color>
+integrado en el terminal.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, eso ya lo sé...
+<PUSH>
+El <Hunter>-VG y tú
+estáis unidos
+intrínsecamente.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grr!!! ¡¡Eso es!!
+<PUSH>
+¡Si realizas cambios en
+el sistema, esos cambios
+me afectan a mí también!
+<PUSH>
+¿Y si de pronto yo te
+hiciera tragar un montón
+de información a la fuerza?
+<PUSH>
+¡Ha sido horrible!
+Ohh...
+<PUSH>
+Me encuentro fatal...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Lo siento mucho!
+Ni se me había ocurrido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es igual, pero en adelante
+no lo olvides, chico.
+<PUSH>
+Por cierto...
+<PUSH>
+¿Te has probado el <Visualizer-color>?
+La tecnología EM
+avanza imparable.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mmmm...
+Ahora que lo dices...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿A qué esperas?
+Pruébatelo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Al ponerte el <Visualizer>,
+puedes ver la
+<PUSH>
+"<Wave.Road>" e
+incluso cuerpos EM.
+<PUSH>
+Normalmente, las personas
+no pueden ver estos
+fenómenos.
+<PUSH>
+¿Ves algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+¡Sí, funciona de maravilla!
+<PUSH>
+Sin este <Visualizer> que
+me dio mi padre, tú y yo
+nunca nos habríamos conocido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+<Kelvin-color>...
+Tu padre era un gran
+hombre, chico...
+<PUSH>
+Y ya sabes lo que dicen:
+«De tal palo...».
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Eh, mi padre y yo somos
+muy distintos.
+<PUSH>
+Y yo tengo que encontrar
+mi propio camino.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, te estás haciendo
+todo un hombre.
+<PUSH>
+Bueno, tú acuérdate de
+usar el <Visualizer>
+siempre que puedas.
+<PUSH>
+Pulsa el botón Y para
+utilizarlo.
+<PUSH>
+Mientras lo tengas
+activado solo podrás
+ver cuerpos EM.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Entendido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bueno, si te esfuerzas
+puedes distinguir a la gente,
+pero te costará lo tuyo.
+<PUSH>
+Así que ten cuidado cuando
+vayas por ahí con el
+<Visualizer> activado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+De acuerdo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, me están llamando...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{10}{E2}<Taurus.Fire>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Pii.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eh, Dele...
+¿Qué hay?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{12}{E2}<Mr.King-2>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Cómo que «qué hay»?!
+<PUSH>
+¡No me vengas con esas!
+¡No me puedo creer que
+<PUSH>
+te hayas largado así
+al acabar la clase!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es que...
+tenía que hacer unas
+cosillas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ya, claro!
+<PUSH>
+Te quiero ya en la
+tienda de chuches de la
+primera planta, ¿entendido?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Me{15}{E1} lo{15}{E1} debes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Parece que se ha
+enfadado de verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Será mejor que vayas a
+esa tienda de chuches antes
+de que la cosa empeore.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

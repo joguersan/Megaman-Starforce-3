@@ -1,0 +1,143 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{09}{00}{06}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We can't go there until we're
+finished with the thing here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We can't go back! There's
+out of control Wizards that
+need to be stopped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's kind of rude to just go
+home without everyone else.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It says:
+"Candy Shop Opening Soon!".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We can't go in the Candy
+Shop since it's not open yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Those out of control viruses
+have to be stopped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{0F}{00}{07}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You should go tell Prez that
+everything is taken care of.
+You don't want her angry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hold up a second.
+You should change back
+to normal before you enter!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}All Wave Liner activity is
+suspended for the time being.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Access Forbidden =
+Unable to authenticate
+WAZA Access Key.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

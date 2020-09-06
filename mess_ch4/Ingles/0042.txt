@@ -1,0 +1,233 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The copies should be entering
+any second now...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+If they were to get past us
+and attack the computer...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+P-Prez{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+N-No way!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We're definitely not going to
+let that happen!
+<PUSH>
+Mega and I will take care of
+this area!
+<PUSH>
+You guys should go help
+Dr. Goodall protect the
+main computer!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+...OK, got it.
+<PUSH>
+Bud, Zack!
+Let's go!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Boosh!
+I'll protect you, Prez!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Bud>
+Mmmrrrggg!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Huh!?
+Did I just...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He EM Wave Changed, again!
+<PUSH>
+It looks like we might get
+along, after all!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+He's not going to act all
+wild and crazy...{15}{E1} Right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't know...
+<PUSH>
+But, Bud should be in
+control...
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Taurus.Fire>
+Wow!!
+My power is overwhelming!
+<PUSH>
+Mega Man!
+Leave this area to me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I think you're better off
+going with everyone else!
+<PUSH>
+A newbie to EM Wave
+Changing could cause us a
+a world of problems!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+W-Wait a second, Bud!
+<PUSH>
+You're the{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+The{15}{E1} final defense!
+<PUSH>
+You're{15}{E1} our final defense!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+*snort, snort*
+<PUSH>
+Final...{16}{E1} final defense?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah!
+<PUSH>
+Who's going to protect the
+main computer if something
+happened to us?
+<PUSH>
+Harp Note can't handle them
+all, and Zack can't EM
+<PUSH>
+Wave Change. I need your
+strength to win this fight!
+<PUSH>
+So, please! Please protect
+the main computer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+W-Well...
+<PUSH>
+I can't say no, when you
+ask me like that...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha. He's a simple boy.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Hmm? Did you say something?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-Nope, nothing at all!
+OK, everyone! Move out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Way to go, kid!
+I knew you were smart, but
+that was some quick thinking!
+<PUSH>
+If he were to go all rodeo
+on us in a small room like
+this...!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well, yeah, but...
+<PUSH>
+I also don't want my friends
+to get hurt...
+<PUSH>
+We're not letting anyone get
+past us!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Darn straight!
+<PUSH>
+Are you ready!?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<NEW-DIALOG>
+<Mega>
+Geez, hurry up, kid!
+Tell me when you're ready!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

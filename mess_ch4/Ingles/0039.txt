@@ -1,0 +1,68 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Are you OK!?
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}We are now...
+<PUSH>
+Thank goodness you were
+in the area. Thank you!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'll keep an eye out here,
+for now!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Can you hear me, Mega Man?
+<PUSH>
+There is a large group of
+copies heading your way.
+<PUSH>
+Be prepared.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Understood!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+They're coming! You ready!?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<NEW-DIALOG>
+<Mega>
+Hurry up and get ready!!
+Don't make me wait too long!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

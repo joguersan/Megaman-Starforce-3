@@ -1,0 +1,223 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You've already
+downloaded the
+"{2C}{E1}" card!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to download
+"{2C}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2C}{E1} got:
+"{2D}{E1}"!
+
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yes! The download was
+successful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+The download has
+been canceled!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You've already
+downloaded that data!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to download
+the participation badge
+"Blue Crown"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yes! The download was
+successful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You've already
+downloaded that data!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to download
+the warrior badge
+"Silver Crown"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yes! The download was
+successful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You've already
+downloaded that data!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to download
+the warrior badge
+"Gold Crown"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yes! The download was
+successful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Delete the participation
+badge from your
+first tournament?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Delete the participation
+badge from your
+second tournament?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Delete the participation
+badge from your
+third tournament?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Your participation badge
+has been deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You don't have any
+badges of participation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

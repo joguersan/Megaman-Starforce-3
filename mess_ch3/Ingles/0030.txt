@@ -1,0 +1,37 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+That was close...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We can't let our guard down...
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Now reconfiguring the
+environmental system.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Come on, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

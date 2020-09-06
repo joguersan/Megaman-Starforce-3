@@ -1,0 +1,139 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2F}{E1}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to use
+Sub Card: "{2F}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+This card is used
+automatically.
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You just used that one.
+Let's hold off on it
+for now.
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Let's not use this
+just now.
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+MegaMan recovered
+{23}{E1}{04}{00} HP!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+MegaMan recovered
+all of his HP!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+MegaMan has disappeared!
+Weaker foes won't be able
+to find him for a while!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Mega's eyes twinkled!
+It's very likely he'll meet
+foes that he met before.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Register this
+Opponent Noise?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to set this
+"{88}{E5}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+New wallpaper has
+been set.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to remove
+this wallpaper?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Wallpaper has been removed.
+<PUSH>
+
+[END]
+

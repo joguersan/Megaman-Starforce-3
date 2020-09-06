@@ -1,0 +1,303 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Menuda chatarra de metal.
+Lo usan para escenas
+de acción.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, metal, qué pasada.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No me refiero a ese metal,
+chaval.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una pista de tenis. Es
+solo para empleados, pero
+no parece que la usen mucho.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{11}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Esta salida de emergencia
+se usa también de noche.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una roca.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mm, si te fijas bien, en
+realidad es una Onda Real.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué sentido tiene hacer
+una roca con Ondas Reales?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un proyector de
+Ondas Reales.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un estanque con agua
+clara y cristalina.
+Qué relajante.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{12}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{F7}{00}<Zack>
+
+<START-DIALOG>
+ 
+<NEW-DIALOG>
+<Game>
+En esta pasarela puedes
+coger atrezo. Son piezas
+bastante grandes.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chaval!
+¡Hay algo en el suelo!
+<PUSH>
+{84}{E1}{03}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+la Sub-carta:
+«{D3}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, je. ¡Bien!
+<PUSH>
+{0A}{E1}{F7}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una puerta.
+Solo pueden pasar los
+empleados y reporteros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{88}{13}
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{89}{13}
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9C}{13}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En esta pasarela puedes
+coger atrezo. Son piezas
+bastante grandes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,221 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's Bud's desk.
+<PUSH>
+It looks like it's been a while
+since Bud last sat here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the popular game
+system, "Us".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a TV.
+<PUSH>
+...There's candy scattered
+everywhere...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{26}{16}{09}{00}{0C}{E1}{01}{00}{27}{16}{09}{00}{0C}{E1}{01}{00}{A0}{16}{09}{00}{0C}{E1}{00}{00}{BC}{16}{09}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, it's Ginger Beef spices.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"Spices"!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's set a trap so we can
+find out who the thief is.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A0}{16}{82}{E1}1{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a toy box.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's packed full of toys...
+<PUSH>
+Gross!
+There's food in there, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Haha...
+That doesn't surprise me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a punching bag.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bud's prized possessions
+are proudly displayed.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's Bud's bed.
+<PUSH>
+His pajamas have been
+thrown on top carelessly.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's candy scattered
+everywhere.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll try not to step on any
+of it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a refrigerator.
+<PUSH>
+Only Bud uses it.
+And it's huge!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{8C}{13}
+<END-DIALOG>
+
+[END]
+

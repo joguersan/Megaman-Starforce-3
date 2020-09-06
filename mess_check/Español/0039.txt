@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Yo me encargo del Carmesí!
+<PUSH>
+Kelvin está tan cerca...
+¡¡Chaval, no pierdas
+la calma!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Cuando pare a la Srta. Tia
+y a Jack...
+¡por fin podré ver a papá!
+<PUSH>
+¡¡Nada ni nadie podrá
+evitarlo!!
+<PUSH>
+{0A}{E1}{86}{02}
+<END-DIALOG>
+
+[END]
+

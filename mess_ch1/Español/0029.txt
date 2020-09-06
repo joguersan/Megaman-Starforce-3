@@ -1,0 +1,74 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Este es el
+<Spica.Mall>!?
+<PUSH>
+Es alucinante.
+¡Qué emoción!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Según Pedia...
+<PUSH>
+Se construyó gracias
+al apoyo financiero de la
+"Fundación King".
+<PUSH>
+Se creó como lugar para que
+los niños sean niños
+y sonrían.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Es la fundación presidida
+por el Sr. King, ¿no?
+<PUSH>
+Últimamente mi padre no
+para de hablar de él.
+<PUSH>
+Él cree que si es por
+la sonrisa de un niño,
+<PUSH>
+no hay que escatimar
+en gastos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué alucine...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿A quién le importa
+eso?!
+<PUSH>
+¡¿Aquí no se puede
+pillar para comer o qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Bud, hemos venido a
+conseguir una carta
+Gigaenergía.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+La {BD}{E4} está ahí.
+¡Vamos!
+<PUSH>
+¡Ya ha empezado el torneo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

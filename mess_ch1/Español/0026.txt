@@ -1,0 +1,559 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mmm, aquí no hay nadie...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Era aquí, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Debería, sí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Dónde está tu visita?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pues no lo sé...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Game>
+Ah, lo siento.
+Estoy aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Y este quién es?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ni idea...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+En todas las escuelas hay
+tiendas de chuches, así
+que he ido a la vuestra.
+<PUSH>
+Y me he puesto
+hasta las cejas
+de chucherías.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Eh, oye!
+¡Eso es una "{6A}{E2}"!!
+<PUSH>
+¡Están buenísimas, y eso
+que solo cuestan
+10 zennys!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Oooh, parece que he
+tomado una buena decisión.
+<PUSH>
+Permitid que la pruebe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Ñam, ñam
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Está buena, ¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Ya lo creo!
+Nada mal para haber
+pagado solo 10 zennys.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esto...
+Tú eres quien...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Sí, soy yo.
+<PUSH>
+Estaba aquí cuando ibas de
+un lado para el otro antes,
+pero no te has dado cuenta.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(O puede que sí...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Me llamo Eos.
+A.C. Eos. Pero suelen
+llamarme «Ace».
+<PUSH>
+Encantado de conocerte.
+Eres Geo Stelar, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, pero...
+<PUSH>
+¿Cómo lo sabes?...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+En mi trabajo tu nombre
+es bien conocido...
+<PUSH>
+Y el de Mega Man también.
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(¡¿Pero cómo ha...?!)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Este hombre...)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(Conoce...)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(¡¿La verdadera identidad
+de Mega Man?!)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No os asustéis.
+No soy vuestro enemigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Entonces quién eres?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ahora mismo no puedo decírtelo,
+pero lo haré llegado
+el momento.
+<PUSH>
+Por ahora, quiero que
+vayas mañana al
+<Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Al <Spica.Mall>...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Un centro comercial que
+acaban de abrir. Está
+a 10 minutos en tren.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Allí tendrá lugar el famoso
+«Torneo de Combate de ondas».
+<PUSH>
+Quiero que participes
+en ese torneo.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡No le escuches, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Desde luego! ¡No me fío
+de este tipo! ¡Algo no
+me cuadra aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Vamos, vamos, no
+seáis así.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Bueno, nuestro Equipo
+está ocupado intentando
+<PUSH>
+conseguir una carta
+Gigaenergía.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Una carta Gigaenergía,
+¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿La necesitáis?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Muy bien.
+Os conseguiré una.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Q-Qué quieres decir?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Digo que si tanta falta
+os hace, os conseguiré
+una.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+P-Pero cómo...
+<PUSH>
+Nos han dicho que esas
+cartas no se consiguen
+así como así.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yo puedo conseguirla.
+<PUSH>
+Pero solo os la daré
+si participas en el
+<PUSH>
+«Torneo de Combate de ondas»
+en el <Spica.Mall>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Hazlo, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Decidido, entonces.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Te espero mañana por la
+tarde en la {BD}{E4}
+del <Spica.Mall>.
+<PUSH>
+Si te presentas, os
+daré esa carta
+Gigaenergía.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+No puedo esperar a que
+llegue mañana, Geo...
+<PUSH>
+O mejor dicho, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Quién narices era
+ese tipo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Se parece mucho...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+¿Que se parece a quién?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+A ti, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yo no soy tan guay.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No me refiero a las pintas,
+chico. Es más la energía
+que desprendéis.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Sea como sea, mañana nos
+vamos al <Spica.Mall>!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Puede que allí averigüemos
+quién es ese tal Ace.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es verdad...
+<PUSH>
+Tengo que saber cómo
+conoce la identidad
+de Mega Man.
+<PUSH>
+Además, necesitamos esa
+carta Gigaenergía.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Mañana tenemos que
+presentarnos sin falta.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Pues todo el mundo a
+casa a dormir.
+<PUSH>
+Quedamos mañana en la
+parada de Echo Ridge.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Menudo día, estoy
+reventado.
+<PUSH>
+Vamos a casa, chico.
+<PUSH>
+
+[END]
+

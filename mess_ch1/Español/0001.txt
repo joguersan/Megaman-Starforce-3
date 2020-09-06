@@ -1,0 +1,50 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Eh, Tia{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¿Sabías que si ves una
+estrella fugaz y pides
+un deseo tres veces
+<PUSH>
+antes de que se apague,
+se cumplirá?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}En tal caso no hay duda
+de que nuestro deseo
+se cumplirá.
+<PUSH>
+La estrella fugaz roja
+jamás se apagará.
+<PUSH>
+No hasta el último
+extertor de este planeta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Nuestro{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} deseo{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

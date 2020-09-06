@@ -1,0 +1,553 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, there's no one here...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Is this the right place?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It should be.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Where is your visitor?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm not really sure...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Game>
+Ah, my bad.
+Over here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Who's that?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No clue...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Since all schools have a
+Snack Shop, I took a look
+around and found yours.
+<PUSH>
+Bought me a ton of cheap
+candy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Oh, wow!
+That's a "{6A}{E2}"!!
+<PUSH>
+They're so good even
+though they only cost 10
+zennys each!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Oooh, sounds like I made a
+good decision.
+<PUSH>
+Let me give one a shot.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*munch, munch*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+They're great, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yeah, man that's good!
+Not a bad deal for only
+10 zennys.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Are you the person who...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yep, that's me.
+<PUSH>
+I was here when you were
+running all around, but you
+probably didn't notice, eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Maybe I did see him...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+My name is Eos.
+A.C. Eos. But people usually
+just call me "Ace".
+<PUSH>
+Nice to meet you.
+You're Geo Stelar, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes, but...
+<PUSH>
+How did you know...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Your name is well known in
+my line of work...
+<PUSH>
+And Mega Man, too.
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(How could he...!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(This man...)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(He knows...)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(Mega Man's true identity!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Don't freak out, guys.
+I'm not your enemy.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+So then who are you?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I can't really say at the
+moment, but the time will
+come when I can.
+<PUSH>
+For the time being, I want
+you to come to <Spica.Mall>
+tomorrow.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+<Spica.Mall>...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+It's a new mall that just
+opened. It takes about 10
+minutes by train.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The world famous
+"Wave Battle Tournament"
+will be taking place there.
+<PUSH>
+I want you to participate
+in the tournament.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You don't have to listen
+to this guy, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I agree! This guy's creepy!
+Something isn't right here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Hey, let's be nice now.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Well, our Team is just a
+little bit busy trying to
+<PUSH>
+get our hands on a Giga
+Energy Card right now.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+A Giga Energy Card, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+You need a Giga Energy
+Card?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Alright, I'll get you one.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+W-What do you mean!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Well, if you guys really
+need it, I'm just saying
+that I can get you one.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+B-But that's...
+<PUSH>
+We heard that Giga Energy
+Cards aren't something
+just anyone can get.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I can get you one.
+<PUSH>
+But you'll have to take
+part in the
+<PUSH>
+"Wave Battle Tournament"
+at <Spica.Mall> to earn it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+You have to do it, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Then it's decided.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I'll see you tomorrow
+afternoon at <Spica.Mall>'s
+{BD}{E4}.
+<PUSH>
+As long as you show up
+you'll get that Giga Energy
+Card.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I'm looking forward to
+tomorrow, Geo...
+<PUSH>
+I mean, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Who the heck is that guy?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+He seems similar...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+Similar to who?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+To you, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm not that cool.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Not really similar by looks,
+kid. More like your vibe.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Anyway, we're all going to
+<Spica.Mall> tomorrow!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Maybe we can find out
+who that Ace guy really is.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That's true...
+<PUSH>
+I'm really interested in how
+he knows that I'm Mega
+Man.
+<PUSH>
+And we also really need
+that Giga Energy Card.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Then we're definitely going.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Everyone should go home
+and get some sleep.
+<PUSH>
+We'll meet at the Echo
+Ridge Wicket tomorrow.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...I'm beat after all that
+happened today.
+<PUSH>
+Let's get back home, kid.
+<PUSH>
+
+[END]
+

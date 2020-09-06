@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Record"
+msgstr "Registro"
+
+msgctxt "1"
+msgid "{e124}{3}"
+msgstr "{e124}{3}"
+
+msgctxt "2"
+msgid "{e128}{1}:{e129}{2}:{e12a}{2}"
+msgstr "{e128}{1}:{e129}{2}:{e12a}{2}"
+
+msgctxt "3"
+msgid "-:--:--"
+msgstr "-:--:--"
+
+msgctxt "4"
+msgid "GA Card Atk pwr"
+msgstr "ATQ Carta GA"
+
+msgctxt "5"
+msgid "Your bst Records"
+msgstr "Mejor registro"
+
+msgctxt "6"
+msgid ""
+"Bst Bro. Records\n"
+"including yours "
+msgstr ""
+"Mejor Rgsto Hmno.\n"
+"Incluye el tuyo."
+
+msgctxt "7"
+msgid "Brother Rankings"
+msgstr "Clas. Hermanos"
+
+msgctxt "8"
+msgid "{e120}{1}:{e12d}"
+msgstr "{e120}{1}:{e12d}"
+
+msgctxt "9"
+msgid "-:----------"
+msgstr "-:----------"
+
+msgctxt "10"
+msgid "{e12c}"
+msgstr "{e12c}"
+
+msgctxt "11"
+msgid "Fav Boss"
+msgstr "Jefe fav."

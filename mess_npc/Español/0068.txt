@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tBrrr, ¡qué frío!
+<PUSH>
+¡Este Cibernúcleo
+está congelado!
+<PUSH>
+Eh, ¡ten cuidado con
+los paneles helados durante
+los combates!
+<PUSH>
+¡Si te atacan con un ataque de
+agua mientras estás en un
+panel helado te congelarás!
+<PUSH>
+¡Y precisamente no querrás
+quedarte totalmente congelado
+en medio del combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

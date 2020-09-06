@@ -1,0 +1,110 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡¡Muuuuu!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Muajajaja!
+¿¡Quien se creen que son!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Maldita sea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Toma esto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Siii!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+D-De ninguna manera...
+¿¡Otra vez!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Cómo puede haber virus por
+todas partes, incluso en el
+mundo real?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por la forma en que
+aparecen...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Deben estar siendo creados
+por el Ruido!!
+<PUSH>
+¡Deberíamos revisar todos los
+lugares donde los virus están
+apareciendo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,205 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0A}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Agradecería mucho que alguien
+intercambiara cartas de
+combate conmigo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{2B}{16}{0D}{00}{0C}{E1}{00}{00}{44}{16}{03}{00}{0C}{E1}{01}{00}{2A}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Soy redactor publicitario.
+<PUSH>
+Ahora mismo, estoy trabajando
+en un eslogan pegadizo para el
+centro comercial Spica.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Puedo ayudarte en algo?
+<PUSH>
+
+<NEW-DIALOG>
+-Vaya, pues sí.
+<PUSH>
+Llevo buscando desde hace ya
+cierto tiempo, la carta de
+combate «{8F}{E7}».
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Podría darme una vuelta y
+buscarte una «{8F}{E7}».
+Si quieres, claro.
+<PUSH>
+
+<NEW-DIALOG>
+-¡Eso sería maravilloso!
+<PUSH>
+Sería un honor obtener tu
+ayuda en la búsqueda.
+<PUSH>
+Si por casualidad encuentras
+una «{8F}{E7}», ven a
+informarme de inmediato.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale.
+<PUSH>
+{0A}{E1}{2A}{16}{20}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+-Qué lástima...
+<PUSH>
+Si cambias de opinión,
+infórmame de ello, por
+favor.
+<PUSH>
+{0B}{E1}{44}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-¿Encontraste la carta de
+combate «{8F}{E7}» que
+llevaba tanto tiempo buscando?
+<PUSH>
+{89}{E1}O{01}{00}{08}{00}{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Game>
+¿Entregar la carta de combate
+«{8F}{E7}»?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0C}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar el intercambio?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}
+{11}{EC}{03}{00}{0B}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+-Qué lástima...
+<PUSH>
+Si cambias de opinión,
+infórmame de ello, por
+favor.
+{0B}{E1}{44}{16}{0B}{E1}{2A}{16}{0B}{E1}{2B}{16}{21}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<NEW-DIALOG>
+Si por casualidad encuentras
+una «{8F}{E7}», ven a
+informarme de inmediato.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-¡Muchísimas gracias!
+<PUSH>
+Al fin ha terminado mi
+búsqueda para encontrar una
+«{8F}{E7}».
+<PUSH>
+Acepta esto como muestra de
+agradecimiento, por favor.
+<PUSH>
+{83}{E1}{0D}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{BD}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{2B}{16}{80}{E1}O{FF}{FF}{21}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Muchas gracias por tu ayuda.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

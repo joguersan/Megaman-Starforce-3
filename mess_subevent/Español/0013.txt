@@ -1,0 +1,368 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0A}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
++Quiero compensar lo que
+hice en el pasado...
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{19}{16}{0B}{00}{0C}{E1}{00}{00}{3B}{16}{03}{00}{0C}{E1}{01}{00}{8A}{16}
+{0C}{E1}{01}{00}{87}{16}{07}{00}{0C}{E1}{01}{00}{18}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¿En qué año construyeron
+la escuela Echo Ridge?
+Mmm...
+<PUSH>
+Pillé el poco dinero que
+tenía y abandoné mi hogar
+<PUSH>
+para convertirme en
+carpintero.
+<PUSH>
+Qué tiempos aquellos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
++Vaya, hola.
+<PUSH>
+Cuando era joven, trabajaba
+como carpintero.
+<PUSH>
+La verdad es que ayudé a
+construir la escuela
+Echo Ridge ...
+<PUSH>
+Me alegró tanto terminar la
+construcción que grafiteé mi
+nombre en una de sus paredes.
+<PUSH>
+Grafiteé:
+«¡La escuela está terminada!
+¡Yuju!».
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Los grafitis pueden meterte
+en muchos problemas...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oye, chaval...
+Acabemos rápido con esto,
+que me está aburriendo.
+<PUSH>
+
+<NEW-DIALOG>
++¡E-espera un momento!
+<PUSH>
+Ahora que soy tan viejo, me
+arrepiento mucho de lo que
+hice de joven.
+<PUSH>
+Me gustaría borrar el grafiti
+que hice, pero no recuerdo
+dónde está.
+<PUSH>
+Y además, me duelen las
+piernas...
+<PUSH>
+¿Podrías encontrar y borrar
+ese grafiti por mí, por favor?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Claro.
+Me pongo ahora mismo
+con ello.
+<PUSH>
+
+<NEW-DIALOG>
++Qué buen chico.
+Gracias.
+<PUSH>
+{82}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{9A}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
++Juraría que el grafiti está
+por la terraza.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido!
+¡Voy directo hacia allí!
+<PUSH>
+{0A}{E1}{87}{16}{0A}{E1}{18}{16}{20}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
++Ains...
+¿Qué hago?
+<PUSH>
+{0B}{E1}{3B}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Oh, ¿borraste el grafiti
+por mí?
+
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
++Oh, pues mira que contaba
+contigo...
+<PUSH>
+{0B}{E1}{3B}{16}{0B}{E1}{18}{16}{0B}{E1}{19}{16}{0B}{E1}{87}{16}{0B}{E1}{88}{16}{0B}{E1}{89}{16}{0B}{E1}{8A}{16}{0B}{E1}{AB}{16}{0B}{E1}{AC}{16}{0B}{E1}{AD}{16}{82}{E1}*{FF}{FF}{21}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
++Gracias, muchacho.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Gracias por ayudarme a
+compensar lo que hice
+hace tanto...
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{E1}{E5}»!
+<PUSH>
+¡Han aumentado tus PV
+máximos!
+<PUSH>
+
+<NEW-DIALOG>
++Ahora, al fin he compensado
+lo que hice.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Eres consciente de que otra
+persona hizo todo el trabajo
+por ti?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estoy seguro de que aún te
+queda mucha vida por delante.
+<PUSH>
+
+<NEW-DIALOG>
++¿Podrías ser mi Hermano?
+Eres un jovencito tan
+responsable.
+<PUSH>
+{6E}{E1}{00}{00}$
+<NEW-DIALOG>
+<Game>
+¡Geo y {C4}{E2}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{19}{16}{82}{E1}*{FF}{FF}{21}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Para mí, este es un nuevo
+comienzo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{E1}{82}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++La verdad es que también dejé
+varios grafitis por el <Spica.Mall>
+cuando fue construido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿En serio?!
+¡¡Tiene que ser una broma!!
+<PUSH>
+
+<NEW-DIALOG>
++Estoy casi seguro de que los
+hice cerca de una parada de
+autobús...
+<PUSH>
+Ojalá pudiera ir a borrarlos
+yo mismo, pero creo que ando
+resfriado.
+<PUSH>
+Así que hazlo por mí,
+por favor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No me lo puedo creer...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{E1}{82}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++Lo siento, pero también hice
+grafitis en <Castello.Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale ya, viejo!
+<PUSH>
+
+<NEW-DIALOG>
++Siento mucho todas las
+molestias.
+<PUSH>
+Me gustaría encargarme de
+ello yo mismo, pero...
+<PUSH>
+Me duele un poco la cabeza.
+<PUSH>
+Bueno, más bien, solo el lado
+derecho de la cabeza.
+<PUSH>
+¡Si os parece demasiado,
+lo haré yo mismo!
+<PUSH>
+Pero si me desmayo debido al
+estrés, puede que nunca vuelva
+a ser el mismo
+<PUSH>
+Por lo que gracias por ayudar.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Más vale que terminemos ya
+con esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+

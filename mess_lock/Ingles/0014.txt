@@ -1,0 +1,113 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hang on!
+What are you planning on
+doing when you get home?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}The beach is currently under
+reservation! You can't go in!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{29}{07}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I don't think we can meet
+Strong on the Wave Road...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We need to meet up with
+Prez and the boys up ahead!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We need to get the stolen
+stuff back first!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+This is no time for fooling
+around! I've got to take
+the Astro Wave to WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}All Wave Liner activity is
+suspended for the time being.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Access Forbidden =
+CC Access Key is required
+to trans in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

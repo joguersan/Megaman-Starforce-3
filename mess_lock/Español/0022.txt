@@ -1,0 +1,15 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Les habrá pasado
+algo a los demás?!
+¡Vamos a la WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

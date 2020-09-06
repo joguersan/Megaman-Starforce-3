@@ -1,0 +1,145 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep* Hello!
+<PUSH>
+This statue has been here
+for a long time!
+Long before I was born!
+<PUSH>
+It has actually been
+registered as a world
+heritage site!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+The fact that you're here
+must mean that you got
+here on the Noise Wave.
+<PUSH>
+You must have deleted
+that magnet guy and the big
+fellow... Too bad for them.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey you! I think it's about
+time you made your exit.
+<PUSH>
+Who the heck are you "R"
+guys anyway!?
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+*chuckle* OK!
+I'll tell you.
+<PUSH>
+"R" stands for Rebuilt.
+<PUSH>
+That means that I am the
+rebuilt version of an EM
+Being known as Diamond Ice,
+<PUSH>
+whose data was recorded
+on a server somewhere.
+<PUSH>
+Our master, Sirius...
+<PUSH>
+He obtained that data and
+reconstructed it to create
+<PUSH>
+wonderful EM bodies just
+like me!
+<PUSH>
+That's all!
+Were you able to keep up
+with all that?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega, don't let your
+guard down! She's coming!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+That's right! Here I come!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A9}{00}
+[END]
+

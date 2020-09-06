@@ -1,0 +1,78 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡No me lo puedo creer!
+¡Mira que le dije a Bud
+que no se retrasara!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Típico de Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Verás como no consigamos
+la carta Gigaenergía
+por su culpa...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Lo siento, llego tarde!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Lo siento mucho!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Hombre, por favor!
+¡En lo que te hemos esperado
+ya ha pasado un tren!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Aquí viene el siguiente!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Arriba todo el mundo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

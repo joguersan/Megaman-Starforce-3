@@ -1,0 +1,362 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0A}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
++I want to make up for what
+I did back in the day...
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{19}{16}{0B}{00}{0C}{E1}{00}{00}{3B}{16}{03}{00}{0C}{E1}{01}{00}{8A}{16}
+{0C}{E1}{01}{00}{87}{16}{07}{00}{0C}{E1}{01}{00}{18}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++What year did they build
+Echo Ridge Elementary?
+Hmm...
+<PUSH>
+I grabbed the little bit of
+money that I had, then left
+<PUSH>
+my home to become a
+carpenter.
+<PUSH>
+Those were the days.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
++Why hello there.
+<PUSH>
+I used to be a carpenter
+when I was a young man.
+<PUSH>
+I actually helped build Echo
+Ridge Elementary...
+<PUSH>
+I was so happy to finish the
+building that I put graffiti up
+on one of the walls.
+<PUSH>
+I wrote "The school is done!
+Yahoo!".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Graffiti can get you into a
+lot of trouble...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+Let's blow this popsicle
+stand. He's boring me.
+<PUSH>
+
+<NEW-DIALOG>
++W-Wait a minute!
+<PUSH>
+Now that I'm this old, I'm
+really sorry for what I did
+as a young man.
+<PUSH>
+I would like to remove the
+graffiti I drew, but I don't
+remember where it is.
+<PUSH>
+And my legs hurt, too...
+<PUSH>
+Would you please find and
+delete the graffiti for me?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Sure.
+I'll get right to it.
+<PUSH>
+
+<NEW-DIALOG>
++Well aren't you a nice boy.
+Thank you.
+<PUSH>
+{82}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{9A}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
++I could swear that the
+graffiti is on the roof
+somewhere.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Understood!
+I'll head right there!
+<PUSH>
+{0A}{E1}{87}{16}{0A}{E1}{18}{16}{20}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
++*sigh*
+What should I do?
+<PUSH>
+{0B}{E1}{3B}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Oh, did you remove the
+graffiti for me?
+
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
++Oh, I was really counting on
+you...
+<PUSH>
+{0B}{E1}{3B}{16}{0B}{E1}{18}{16}{0B}{E1}{19}{16}{0B}{E1}{87}{16}{0B}{E1}{88}{16}{0B}{E1}{89}{16}{0B}{E1}{8A}{16}{0B}{E1}{AB}{16}{0B}{E1}{AC}{16}{0B}{E1}{AD}{16}{82}{E1}*{FF}{FF}{21}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
++Thank you, sonny.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Thank you for helping me
+to make up for what I did
+oh so long ago...
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E1}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<NEW-DIALOG>
++Now I have finally made
+up for what I did.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You do realize someone else
+did all the work for you?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm sure you still have
+a lot of life left to live.
+<PUSH>
+
+<NEW-DIALOG>
++Would you be my Brother?
+You're such a reliable
+young man.
+<PUSH>
+{6E}{E1}{00}{00}$
+<NEW-DIALOG>
+<Game>
+Geo and {C4}{E2}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{19}{16}{82}{E1}*{FF}{FF}{21}{EC}{DC}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++This is a great new start
+for me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{E1}{82}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++Actually, I also left graffiti
+around <Spica.Mall> when
+that was built, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really!?
+You can't be serious!!
+<PUSH>
+
+<NEW-DIALOG>
++I'm fairly certain that I did
+it near a Wave Station...
+<PUSH>
+I wish I could go remove
+it by myself, but I think
+I might have a cold.
+<PUSH>
+So please do it for me.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Unbelievable...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{E1}{82}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++Sorry, but I also left graffiti
+in <Castello.Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Give us a break, old man!
+<PUSH>
+
+<NEW-DIALOG>
++I'm really sorry for all the
+trouble.
+<PUSH>
+I want to take care of it
+by myself, but...
+<PUSH>
+My head kind of hurts.
+<PUSH>
+Well, more like the right
+side of my head hurts.
+<PUSH>
+If it's too much for you,
+then I'll do it!
+<PUSH>
+But if I collapse from the
+stress, I might never be
+the same again.
+<PUSH>
+So thanks for helping.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We might as well finish the
+job that we started...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+

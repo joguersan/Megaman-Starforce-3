@@ -1,0 +1,778 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+A-Arrrgh!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Owaaaa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+M...
+<PUSH>
+Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+O-Our...
+Wish...
+Hasn't come{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} true, yet{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha!
+How'd you like that, Corvus!?
+<PUSH>
+So who's stronger after all!?
+<PUSH>
+{13}{EC}(Phew... It was really
+{13}{EC} close there for a minute!)
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Way to go, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+That was an awesome battle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+I told Ace what happened!
+<PUSH>
+He's on his way!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Hey...
+What about Jack...?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+He's OK.
+He just lost consciousness...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Oh, OK... Thank goodness!
+<PUSH>
+Mega Man to the rescue,
+once again!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Haha. Thanks Bud...!
+<PUSH>
+{13}{EC}(That...
+{13}{EC} That took everything I had.
+{13}{EC} Any more and I...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+...Mr. King.
+<PUSH>
+Jack has been defeated by
+Mega Man.
+<PUSH>
+What are your orders?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+So he went off on his own
+and got himself in a pickle,
+did he?
+<PUSH>
+Ho ho ho!!
+His foolishness is infinite!
+<PUSH>
+He's worse than his sister.
+He can't even perform the
+duty of a worthless pawn!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Anyway...
+Return as quickly as you
+can, Joker.
+<PUSH>
+We must decide on the next
+step.
+<PUSH>
+The step that will bring
+a conclusive victory to us!
+<PUSH>
+Ho ho ho ho ho!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+One...{14}{E1} Two..{14}{E1}
+Testing, testing...
+<PUSH>
+Ahem!
+<PUSH>
+Thank you for waiting.
+<PUSH>
+I will now announce the
+election results!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+The new student body
+president of Echo Ridge
+Elementary is...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ahh, my nerves are going
+out of control...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why the heck are you
+nervous?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+*gulp*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Prez.
+Prez.
+Prez...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Luna Platz from the 5th
+Grade Class A!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}"{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alriiight!
+<PUSH>
+Woo hoo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeeeah!
+You did it, Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Con-con-con...
+<PUSH>
+Congratulations, Prez...
+<PUSH>
+*sob*
+<PUSH>
+{A0}{E1}{04}{00}<{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*cheers*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*applause*
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Will the new student body
+president please come to
+the podium!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Of course!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+All the students of Echo
+Ridge Elementary!
+<PUSH>
+I want to express my
+deepest gratitude for your
+hard work and support!
+<PUSH>
+As promised, I will strive to
+improve the school in all
+possible ways, so
+<PUSH>
+that all of you may enjoy
+an improved education, as
+<PUSH>
+well as extra-curricular
+activities.
+<PUSH>
+Change has come to Echo
+Ridge Elementary!
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*applause*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+However...
+<PUSH>
+That is not something that
+I can do all by myself!
+<PUSH>
+With your help, and with the
+help of the people standing
+next to you...
+<PUSH>
+There is one special thing
+that I would like to do as
+<PUSH>
+my first act as student
+body president.
+<PUSH>
+I would like to get every
+teacher and student to form
+<PUSH>
+Brother Bands with each
+other, form one huge Team,
+<PUSH>
+and then aim for a Purpose
+to "Create a School Where
+Everyone is Happy".
+<PUSH>
+I would be honored and
+ecstatic if we could all make
+that happen!
+<PUSH>
+We can do it!
+<PUSH>
+{12}{E2}<Joker>
+{00}{00}{A0}{E1}{04}{00}x{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*cheers*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*applause*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm in!!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Me too!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You're something else, Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+She wants to form one big
+Team with everyone from
+the school, huh?
+<PUSH>
+Is that even possible!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I didn't even think of that...
+It could be kind of difficult.
+<PUSH>
+But...
+That makes it all the more
+worthwhile to try!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good point...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's what I thought!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+Hey, Geo...
+<PUSH>
+I need to talk to you later,
+if that's OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sure, but why are you so
+tense!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+You'll see.
+<PUSH>
+I'm going to ask Ace and
+Sonia to join us, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+Alright...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+What!?
+<PUSH>
+You're going to quit the
+Commandos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I-I can't believe it!
+What's going on, Bud!?
+<PUSH>
+You've put so much into the
+Team, and now you're...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo, Sonia, Ace...
+<PUSH>
+I'm sorry that I'm being so
+selfish.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+But, I...
+I've realized who I really
+want to protect...
+<PUSH>
+And that's Prez!
+<PUSH>
+Of course, it sounds really
+cool to fight for world peace
+and safety!
+<PUSH>
+But it just doesn't feel right!
+<PUSH>
+It's just not me, or rather...
+<PUSH>
+I guess... I'm just not happy
+if I'm not around Prez!
+<PUSH>
+...And Zack, too!
+<PUSH>
+When all three of us aren't
+together, then I'm just not
+the real Bud!
+<PUSH>
+So...
+<PUSH>
+I'm quitting the Commandos.
+<PUSH>
+The Satella Police don't really
+want a pathetic loser like me
+on their side, anyway...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Instead of getting upset, be
+happy!
+<PUSH>
+Be happy that I'm going to
+keep Prez safe!
+<PUSH>
+She'll never be in danger,
+ever again!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Good point!
+<PUSH>
+Take care of her, Bud!
+<PUSH>
+...And Zack, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Don't worry.
+I will!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Poor Zack!
+<PUSH>
+I don't know how he can
+handle the two of you all
+the time!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahahahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm, Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+Bud Bison!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Y-Yes!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I'm going to assign you a
+special task!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+O-OK...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Protect Luna with your life!
+<PUSH>
+That is all!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace...!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+So...
+<PUSH>
+{12}{E2}<Joker>
+{00}{00}
+<NEW-DIALOG>
+<Ace>
+The job of the Satella Police
+is to protect people.
+<PUSH>
+Therefore, Bud is a shining
+example of how a Satella
+Police officer should act.
+<PUSH>
+As long as he never stops
+protecting Luna!
+<PUSH>
+Yet, keeping someone safe
+is not an easy task, Bud...
+<PUSH>
+In some cases, it is even
+more difficult than defending
+the whole world...
+<PUSH>
+Make sure you are ready
+for this, and do the best
+that you can!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+O-OK!
+<PUSH>
+...I mean...
+Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'm sure you'll do great!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Teeheehee!
+Don't let us down!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Thanks for understanding,
+guys! Woooooo!
+<PUSH>
+I'm there for you, Prez!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{E1}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Prez became the
+student body president...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Purpose fulfilled!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

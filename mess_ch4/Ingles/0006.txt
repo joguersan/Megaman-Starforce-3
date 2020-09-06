@@ -1,0 +1,168 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Everyone's done, eh?
+<PUSH>
+Now that you have been
+registered, you are free
+<PUSH>
+to enter and leave WAZA
+as you please.
+<PUSH>
+Just use your fingerprints
+to activate the gate.
+<PUSH>
+That's what I was trying to
+explain earlier.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+As we please...!?
+<PUSH>
+That's a pretty big deal for
+kids like us...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Make sure to be very
+careful.
+<PUSH>
+There is a lot of very
+sensitive information within
+WAZA.
+<PUSH>
+If you ever accidentally
+talked about any of that
+information outside{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+W-What{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+What would happen...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+W-Would we...
+<PUSH>
+Be "erased"...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No...
+<PUSH>
+I would just get in a ton of
+trouble from my boss.
+That's totally not cool.
+<PUSH>
+Anyway, let's head inside.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ace is...
+<PUSH>
+Well, he's a little strange...
+Don't you think...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Just a bit...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Well now...
+So that's Acid, huh?
+<PUSH>
+He seems pretty cool.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ugh!
+What about him seems cool!?
+<PUSH>
+One day, we'll battle and I'll
+make him understand how
+powerful I am!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+You haven't changed one bit.
+<PUSH>
+You know that he's not a
+normal Wizard, right?
+<PUSH>
+He's much more special...
+<PUSH>
+Kind of like how we are...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You think I care!?
+<PUSH>
+No Wizard made by humans
+could possibly take me on!
+<PUSH>
+They're all scrubs!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+{13}{EC}...
+<PUSH>
+I see...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

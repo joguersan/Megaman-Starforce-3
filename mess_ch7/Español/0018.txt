@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡¡Ahhhhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡A todo aquel que desafíe
+a Dealer le espera el mismo
+destino!!
+<PUSH>
+¡¡Nadie puede oponerse a
+mi poder ni al del
+Meteorito G!!
+<PUSH>
+¡¡Así que no intentéis
+haceros los héroes!!
+¡¡Jo, jo, jo, jo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,22 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEsto es solo un rumor...
+<PUSH>
+Pero se dice que
+durante la noche...
+<PUSH>
+Este maniquí humano
+se mueve...
+<PUSH>
+¡Da mucho miedo! Pero como
+estoy dentro, supongo que
+estoy a salvo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

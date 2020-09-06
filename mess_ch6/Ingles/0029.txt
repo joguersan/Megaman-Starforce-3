@@ -1,0 +1,246 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+Geez, and I thought an
+alarm clock in your face
+was a bad way to wake up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}But{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I'm glad to be out of that
+nightmare.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+<PUSH>
+It is you, right?
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}Yeah{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+It's me, A.C. Eos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Alright!
+Woo hoo!
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}I'm in your debt.
+<PUSH>
+...Well, aren't I always? Haha.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Not at all...
+<PUSH>
+I'm just helping you like any
+friend would!
+<PUSH>
+And now we can both take
+on Dealer together, right!
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}You got it.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Awesome!
+<PUSH>
+Then let's...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}A{16}{E1}
+Ac{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}e{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Kid!?
+Hey, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+You jerk!!
+<PUSH>
+You're not really back to
+normal, are you!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}!{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}Please tell this to Geo.
+<PUSH>
+You are stronger than me,
+stronger than anyone in the
+world...
+<PUSH>
+That is why...
+<PUSH>
+From now on, you are to
+protect Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}Make sure your children have
+a peaceful and happy world
+to grow up in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}Geo, you can do anything.
+<PUSH>
+I wouldn't have picked you if
+I didn't believe that.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}...I'm counting on you...
+Hero of Justice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+<PUSH>
+Kid! Wake up!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ugh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+Where's Ace!?
+<PUSH>
+Tell me, Mega!
+Where is he!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He went on ahead...
+<PUSH>
+By himself.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+H-He what!?
+<PUSH>
+But why?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

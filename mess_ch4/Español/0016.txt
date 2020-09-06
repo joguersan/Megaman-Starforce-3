@@ -1,0 +1,368 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+{13}{EC}...
+<PUSH>
+Uuhh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+Uhhh....
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué haces, Zack?
+<PUSH>
+Deja de hacer ruiditos.
+¡Menudo susto!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+L-Lo siento...
+But...
+<PUSH>
+Uhhh....
+<PUSH>
+Es que tengo un
+mal presentimiento...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Un mal presentimiento?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Sí...
+Como si fuera a pasar
+algo malo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡C-Corta el rollo, Zack!
+<PUSH>
+¡Si no fueras un gallina
+no dirías esas cosas!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pero...
+<PUSH>
+¡Yo qué culpa tengo
+de tener un
+mal presentimiento!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...
+<PUSH>
+Bueno, claro...
+<PUSH>
+Por cierto, Geo, Acid
+y Omega-Xis llegan tarde.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ace ha dicho que la
+cosa iba bien...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Ahhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Ah!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Ah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Vosotros dos, ya basta!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Q-Q-Qué pasa?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A9}{00}{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Umm...
+¿Ese no es Omega-Xis?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Eso parece, pero{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Ya han vuelto?!
+<PUSH>
+¡Eh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Espera, Bud!
+<PUSH>
+¡Vamos, Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Eh, Omega-Xis!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué pasa?
+¿Qué haces aquí?
+<PUSH>
+¿Y qué haces solo?
+¿Tienes hambre?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Bud! ¡Ya sabes que
+eso es imposible!
+<PUSH>
+Omega-Xis, ¿dónde está Geo?
+<PUSH>
+¿Por qué estás tú solo?
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A9}{00}{13}{EC}...
+<PUSH>
+{15}{E1}Grrr...
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+{13}{EC}¡¡!!
+<PUSH>
+¡Sonia, cuidado!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Él no es Omega-Xis...
+<PUSH>
+¡Es un impostor!
+<PUSH>
+
+<NEW-DIALOG>
+{A9}{00}...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+{A9}{00}¡Urrraaagh!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Aaaahh!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡S-Sonia!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡¿Eres miembro de Dealer?!
+<PUSH>
+¡Sí que eres valiente, ¿no?!
+¡Viniendo tú solo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+S-Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡No te preocupes!
+¡Yo me ocupo de él!
+¡Vamos allá, Lyra!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ese es...
+<PUSH>
+Umm, {15}{E1}ahí...
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Sonia...
+<PUSH>
+Parece que no está solo.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+{13}{EC}¡¿?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

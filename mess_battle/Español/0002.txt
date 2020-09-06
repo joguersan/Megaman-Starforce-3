@@ -1,0 +1,151 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Eh, mira!
+<PUSH>
+Tu oponente, {2C}{E1},
+es uno de tus Hermanos.
+<PUSH>
+Pero parece que él
+te ha eliminado de
+sus Hermanos.
+<PUSH>
+Vaya...
+¡Pues elimínale tú
+de tu lista!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Eh, mira!
+<PUSH>
+Tu oponente, {2C}{E1},
+es uno de tus Battle Mate.
+<PUSH>
+Pero parece que él
+te ha eliminado de
+sus Battle Mate.
+<PUSH>
+Vaya...
+¡Pues elimínale tú
+de tu lista!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Tu oponente se está
+preparando para luchar.
+Ten paciencia.
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Menudo combate!
+¿Quieres pedirle que
+sea tu Hermano?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Tenemos que esperar
+su respuesta.
+Ten paciencia.
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Vaya... Tu oponente ha
+rechazado tu propuesta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¿Quieres pedirle que
+sea tu Battle Mate?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Parece que el oponente es
+uno de tus Battle Mates.
+<PUSH>
+Si quieres registrarlo
+como tu Hermano, primero
+<PUSH>
+tendrás que sacarle de
+la lista de Battle Mate.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Parece que el oponente es
+uno de tus Hermanos.
+<PUSH>
+Si quieres registrarlo
+como tu Battle Mate, primero
+<PUSH>
+tendrás que sacarle de
+la lista de Hermanos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

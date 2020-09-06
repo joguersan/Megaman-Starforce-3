@@ -1,0 +1,73 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So this is <Spica.Mall>!?
+<PUSH>
+What a cool place.
+I'm really excited!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+According to Pedia...
+<PUSH>
+It was constructed with
+financial support from the
+"King Foundation".
+<PUSH>
+It's meant to be a place
+that inspires children to
+smile and just be kids.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's the King Foundation
+headed by Mr. King, right?
+<PUSH>
+My father has been talking
+about him a lot lately.
+<PUSH>
+He and the foundation
+believe that no amount of
+<PUSH>
+money is a waste when
+making children happy.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's really amazing...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Who cares about that
+stuff anyway!?
+<PUSH>
+Is there somewhere we
+can get some grub!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Bud, our goal here is to
+get the Giga Energy Card.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+The {BD}{E4} is over
+there. Let's get going!
+<PUSH>
+The tournament has already
+started!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

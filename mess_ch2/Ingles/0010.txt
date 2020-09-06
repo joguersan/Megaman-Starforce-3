@@ -1,0 +1,62 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+I'm so nervous I couldn't
+get a wink of sleep.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't be such a wimp.
+You're only an extra.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's true, but Sonia's
+TV show gets a viewer
+<PUSH>
+rating of over 40% on
+average. It's super popular!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So then why don't I take
+your place for you?
+<PUSH>
+I can go buck wild all
+over the set!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sorry, that's not happening.
+<PUSH>
+I'll just work up some
+courage for Sonia's sake.
+<PUSH>
+I might be nervous, but I
+won't make any mistakes!
+<PUSH>
+Alright, let's get to the
+Wave Liner Wicket!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

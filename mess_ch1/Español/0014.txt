@@ -1,0 +1,422 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Mirad!
+¡Parece que el aspersor
+ha vuelto a la normalidad!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Yujuuu!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Pero nosotros estamos
+empapados.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Cierto... Desgraciadamente,
+tendremos que aplazar
+el lanzamiento.
+<PUSH>
+Bueno, ¡al mal tiempo,
+buena cara!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Por cierto! Ahora que lo
+pienso, creo que vi a alguien
+por aquí.
+<PUSH>
+Vi a un chico vestido de
+azul entrar en el aspersor
+cuando empezó el jaleo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡Ay!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¿Qué?!
+¡No hay duda, era Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Guala!
+¿Dices ESE Mega Man?
+¿Nuestro héroe?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Quizás sea cierto el rumor
+de que podría venir a
+esta escuela...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¿Qué? Tengo que cambiar
+de tema antes de que
+esto llegue más lejos.)
+<PUSH>
+¡P-Perdonad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué experimento
+realizáis aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Oh, intentábamos
+lanzar nuestro cohete.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Un cohete?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Estamos construyendo un
+cohete en la 2a planta, en
+la sala del Club de Ciencias.
+<PUSH>
+Pero estamos teniendo
+problemas.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Queríamos hacer pruebas con
+una versión a escala
+<PUSH>
+construida con los
+mismos materiales.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+En el Club de Ciencias hemos
+formado un equipo con
+<PUSH>
+el "Propósito" de 
+"Lanzar un cohete".
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Sé que conseguiremos
+cumplir nuestro
+"Propósito"!
+<PUSH>
+¿A que sí?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Claro que sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿"Propósito"?...
+<PUSH>
+¿Qué quiere decir?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Digamos que un Propósito
+es como un objetivo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Un objetivo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahora los Hermanos han
+evolucionado con la función
+del Propósito
+<PUSH>
+que une a los amigos.
+Cada vez es más común.
+<PUSH>
+Una vez se ha decidido el
+objetivo o sueño que se
+pretende cumplir
+<PUSH>
+se puede seleccionar como
+"<Proposito-color>" y así
+<PUSH>
+formar un "<Squadra-color>" con
+otros que compartan ese
+mismo Propósito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+{13}{EC}¿...?
+<PUSH>
+¿Con quién hablas?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Esto... je, je...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+A todo esto, aún no me
+he presentado.
+<PUSH>
+Me llamo Woodrow Boffin,
+de sexto.
+<PUSH>
+La gente me suele
+llamar "Woody".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yo soy Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Así que Geo.
+¿Y tienes algún propósito
+actualmente, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Yo?
+Pues... no, la verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Ya veo.
+<PUSH>
+Bueno, espero que encuentres
+tu Propósito
+<PUSH>
+y que algún día consigas
+verlo cumplido junto
+a tus amigos.
+<PUSH>
+¡Nosotros cumpliremos nuestro
+Propósito de "Lanzar un
+cohete", seguro!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Yo no tengo ni idea de
+cohetes, pero os deseo
+mucha suerte!
+<PUSH>
+¡Enseñadme ese cohete
+cuando esté listo!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No lo dudes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Bueno, chicos, volvamos a la
+sala del Club de Ciencias.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Sí, jefe!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Vale, Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿A qué viene esa cara
+tan larga, chico?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hablar del cohete me
+ha recordado a papá.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kelvin, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ha pasado mucho tiempo
+y sigue perdido en el
+espacio.
+<PUSH>
+Pero mamá y yo aún
+creemos que sigue vivo
+en alguna parte.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Estoy totalmente seguro
+de que sigue con vida,
+chico.
+<PUSH>
+¡El Kelvin que yo
+conozco no caería
+tan fácilmente!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, tienes razón!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por cierto...
+¿No tienes algo
+que hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Algo que hacer?
+<PUSH>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{11}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Jo, tío!
+<PUSH>
+¡Tengo que ir
+a ver a la Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+En la tienda de chuces de
+la planta baja,
+no lo olvides.
+<PUSH>
+Y vas bastante tarde.
+¡Tiene que estar
+echando chispas!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Tengo que ir pitando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

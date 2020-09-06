@@ -1,0 +1,228 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0A}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.I came all the way from the
+countryside to see my little
+brother.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{23}{16}{0B}{00}{0C}{E1}{00}{00}{40}{16}{03}{00}{0C}{E1}{00}{00}{22}{16}{04}{00}{0C}{E1}{01}{00}{9C}{16}
+{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.This should have been the
+right number...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Is there something that I
+can help you with?
+<PUSH>
+
+<NEW-DIALOG>
+.Maybe.
+<PUSH>
+I came to visit my little
+brother who just moved to
+an apartment in <Echo.Ridge>.
+<PUSH>
+But...
+<PUSH>
+An error pops up whenever
+I enter the room number.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+If you need any help, I'll
+be more than happy to help.
+
+<PUSH>
+
+<NEW-DIALOG>
+.What a nice kid.
+That would be great.
+<PUSH>
+Here, take this memo with
+the room number on it.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{9F}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+.You can enter the room
+number when you stand
+in front of the apartment.
+<PUSH>
+{0A}{E1}{22}{16}{0A}{E1}{9B}{16}{82}{E1}/{01}{00}{20}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+.This stinks.
+<PUSH>
+I even brought a couple of
+crates of local sweet corn
+for him.
+<PUSH>
+{0B}{E1}{40}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Did you happen to find out
+where my brother lives!?
+
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+.This stinks.
+<PUSH>
+I even brought a couple of
+crates of local sweet corn
+for him.
+<PUSH>
+{0B}{E1}{40}{16}{0B}{E1}{22}{16}{0B}{E1}{23}{16}{0B}{E1}{9B}{16}{82}{E1}/{FF}{FF}{21}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+.I know I can count on you.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.I can't believe I was reading
+it upside down.
+<PUSH>
+Thank you. Now I can
+go see my brother.
+<PUSH>
+It must have been fate that
+I bumped into you today.
+<PUSH>
+Umm, I don't really get many
+chances to form Brother
+Bands in the country side...
+<PUSH>
+Would you please form a
+Brother Band with me?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'd be happy to!
+<PUSH>
+{6E}{E1}{00}{00}#
+<NEW-DIALOG>
+<Game>
+Geo and {C3}{E2}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Please say hello to your
+brother for me.
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}/{FF}{FF}{0A}{E1}{23}{16}{21}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Well...
+<PUSH>
+It's time to go put the
+sweet corn on the grill.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+

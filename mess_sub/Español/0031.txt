@@ -1,0 +1,227 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes equipar
+esta carpeta. Edítala
+y vuelve a intentarlo.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Te faltan cartas de
+combate en la
+carpeta.
+<PUSH>
+¿Quieres dejar de
+editar y restaurar
+la carpeta?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes meter más de
+{20}{E1}{01}{00} cartas
+estándar iguales.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes meter más de
+{20}{E1}{02}{00} cartas
+Mega estándar iguales.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes meter más de
+{20}{E1}{01}{00} cartas
+Giga iguales.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes meter dos
+cartas Mega o Giga
+iguales.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+En esta zona solo
+pueden ir cartas
+blancas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Las Cartas Duplo solo
+pueden asignarse de
+dos en dos.
+<PUSH>
+Puedes activarlo o
+desactivarlo con el
+botón Y.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres mover todas
+las cartas de tu carpeta
+a la caja de cartas?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No puedes cambiar
+esta carta.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Salir del comerciante?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}Aún no
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres subir esta
+carta al comerciante?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres restaurar la
+carta seleccionada?
+{10}{EC}{00}{00}Restaurar
+{10}{EC}{01}{00}Salir
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Solo puedes asignar
+cartas estándar como
+cartas favoritas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Solo puedes asignar
+cartas estándar como
+Cartas Duplo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

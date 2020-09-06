@@ -1,0 +1,768 @@
+[SENTENCE NUMBER 1]
+Geo Stelar
+[END]
+
+[SENTENCE NUMBER 2]
+KelvinStelar
+[END]
+
+[SENTENCE NUMBER 3]
+Hope Stelar
+[END]
+
+[SENTENCE NUMBER 4]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 5]
+Bud Bison
+[END]
+
+[SENTENCE NUMBER 6]
+Zack Temple
+[END]
+
+[SENTENCE NUMBER 7]
+Sonia Strumm
+[END]
+
+[SENTENCE NUMBER 8]
+Solo
+[END]
+
+[SENTENCE NUMBER 9]
+Mr. King
+[END]
+
+[SENTENCE NUMBER 10]
+Jack
+[END]
+
+[SENTENCE NUMBER 11]
+(Queen) Tia
+[END]
+
+[SENTENCE NUMBER 12]
+Joker
+[END]
+
+[SENTENCE NUMBER 13]
+Heartless
+[END]
+
+[SENTENCE NUMBER 14]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 15]
+Ken Suther
+[END]
+
+[SENTENCE NUMBER 16]
+L.M. Shin
+[END]
+
+[SENTENCE NUMBER 17]
+WAZA Chief
+[END]
+
+[SENTENCE NUMBER 18]
+Woody Boffin
+[END]
+
+[SENTENCE NUMBER 19]
+Mitch Shepar
+[END]
+
+[SENTENCE NUMBER 20]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 21]
+Belle
+[END]
+
+[SENTENCE NUMBER 22]
+Aaron Boreal
+[END]
+
+[SENTENCE NUMBER 23]
+Bob Copper
+[END]
+
+[SENTENCE NUMBER 24]
+Dr. Goodall
+[END]
+
+[SENTENCE NUMBER 25]
+Damian Wolfe
+[END]
+
+[SENTENCE NUMBER 26]
+Tom Dubius
+[END]
+
+[SENTENCE NUMBER 27]
+Axe Tagrind
+[END]
+
+[SENTENCE NUMBER 28]
+Rolly Pollyn
+[END]
+
+[SENTENCE NUMBER 29]
+Pleya Masta
+[END]
+
+[SENTENCE NUMBER 30]
+Flora Petals
+[END]
+
+[SENTENCE NUMBER 31]
+Brandon Gay
+[END]
+
+[SENTENCE NUMBER 32]
+Janet Hsu
+[END]
+
+[SENTENCE NUMBER 33]
+Iver Gatte
+[END]
+
+[SENTENCE NUMBER 34]
+Miguel Corti
+[END]
+
+[SENTENCE NUMBER 35]
+Kaori Funa
+[END]
+
+[SENTENCE NUMBER 36]
+Jax Dubelz
+[END]
+
+[SENTENCE NUMBER 37]
+Hamer Nayl
+[END]
+
+[SENTENCE NUMBER 38]
+Hide Seek
+[END]
+
+[SENTENCE NUMBER 39]
+Amora McCard
+[END]
+
+[SENTENCE NUMBER 40]
+Jack Flask
+[END]
+
+[SENTENCE NUMBER 41]
+Angel Wise
+[END]
+
+[SENTENCE NUMBER 42]
+Pete Fabiano
+[END]
+
+[SENTENCE NUMBER 43]
+Meala DeVour
+[END]
+
+[SENTENCE NUMBER 44]
+Jon Airhart
+[END]
+
+[SENTENCE NUMBER 45]
+Dadd DeChamp
+[END]
+
+[SENTENCE NUMBER 46]
+Lil O'lady
+[END]
+
+[SENTENCE NUMBER 47]
+Andy Alfonso
+[END]
+
+[SENTENCE NUMBER 48]
+Kipit Real
+[END]
+
+[SENTENCE NUMBER 49]
+Carma Iffy
+[END]
+
+[SENTENCE NUMBER 50]
+Rick Stonwal
+[END]
+
+[SENTENCE NUMBER 51]
+Tru Harmony
+[END]
+
+[SENTENCE NUMBER 52]
+Cash Money
+[END]
+
+[SENTENCE NUMBER 53]
+Candy Bar
+[END]
+
+[SENTENCE NUMBER 54]
+Autumn Leaf
+[END]
+
+[SENTENCE NUMBER 55]
+Chery Blosom
+[END]
+
+[SENTENCE NUMBER 56]
+Han Gard
+[END]
+
+[SENTENCE NUMBER 57]
+Damon Crow
+[END]
+
+[SENTENCE NUMBER 58]
+Trish Trig
+[END]
+
+[SENTENCE NUMBER 59]
+Fany Chase
+[END]
+
+[SENTENCE NUMBER 60]
+Harry Sasoon
+[END]
+
+[SENTENCE NUMBER 61]
+Eatsa Lotte
+[END]
+
+[SENTENCE NUMBER 62]
+Prima Occhio
+[END]
+
+[SENTENCE NUMBER 63]
+Mary McLovin
+[END]
+
+[SENTENCE NUMBER 64]
+Chatty Ditz
+[END]
+
+[SENTENCE NUMBER 65]
+Don McCard
+[END]
+
+[SENTENCE NUMBER 66]
+Stey Phamish
+[END]
+
+[SENTENCE NUMBER 67]
+Marian White
+[END]
+
+[SENTENCE NUMBER 68]
+Ai Conphes
+[END]
+
+[SENTENCE NUMBER 69]
+Roman Ser
+[END]
+
+[SENTENCE NUMBER 70]
+Gelb Derby
+[END]
+
+[SENTENCE NUMBER 71]
+Lady Like
+[END]
+
+[SENTENCE NUMBER 72]
+Max Dubelz
+[END]
+
+[SENTENCE NUMBER 73]
+Angel Smart
+[END]
+
+[SENTENCE NUMBER 74]
+Jack Flask
+[END]
+
+[SENTENCE NUMBER 75]
+Lotta Charm
+[END]
+
+[SENTENCE NUMBER 76]
+Stela Beauty
+[END]
+
+[SENTENCE NUMBER 77]
+Raida Briz
+[END]
+
+[SENTENCE NUMBER 78]
+Boss Hawg
+[END]
+
+[SENTENCE NUMBER 79]
+Lil O'lady
+[END]
+
+[SENTENCE NUMBER 80]
+Luvza Deal
+[END]
+
+[SENTENCE NUMBER 81]
+Jon Airhart
+[END]
+
+[SENTENCE NUMBER 82]
+Fula Hart
+[END]
+
+[SENTENCE NUMBER 83]
+Ima Inluv
+[END]
+
+[SENTENCE NUMBER 84]
+Bono Chops
+[END]
+
+[SENTENCE NUMBER 85]
+Miguel Corti
+[END]
+
+[SENTENCE NUMBER 86]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 87]
+Timus Munny
+[END]
+
+[SENTENCE NUMBER 88]
+Overob Sesed
+[END]
+
+[SENTENCE NUMBER 89]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 90]
+SP Officer F
+[END]
+
+[SENTENCE NUMBER 91]
+Dewatta Cey
+[END]
+
+[SENTENCE NUMBER 92]
+Tap Tappity
+[END]
+
+[SENTENCE NUMBER 93]
+Brandon Gay
+[END]
+
+[SENTENCE NUMBER 94]
+Janet Hsu
+[END]
+
+[SENTENCE NUMBER 95]
+Pete Fabiano
+[END]
+
+[SENTENCE NUMBER 96]
+Kaori Funa
+[END]
+
+[SENTENCE NUMBER 97]
+Max Dubelz
+[END]
+
+[SENTENCE NUMBER 98]
+Hua Mai
+[END]
+
+[SENTENCE NUMBER 99]
+Kaori Funa
+[END]
+
+[SENTENCE NUMBER 100]
+Janet Hsu
+[END]
+
+[SENTENCE NUMBER 101]
+Gian Luigi
+[END]
+
+[SENTENCE NUMBER 102]
+Kard Kolek
+[END]
+
+[SENTENCE NUMBER 103]
+Kaz Nova
+[END]
+
+[SENTENCE NUMBER 104]
+Bo Ribbon
+[END]
+
+[SENTENCE NUMBER 105]
+Winter Snow
+[END]
+
+[SENTENCE NUMBER 106]
+Badatt Cein
+[END]
+
+[SENTENCE NUMBER 107]
+Billy Bonka
+[END]
+
+[SENTENCE NUMBER 108]
+Britta Baker
+[END]
+
+[SENTENCE NUMBER 109]
+Lil O'lady
+[END]
+
+[SENTENCE NUMBER 110]
+Pete Fabiano
+[END]
+
+[SENTENCE NUMBER 111]
+Kee Grip
+[END]
+
+[SENTENCE NUMBER 112]
+Pan Holweet
+[END]
+
+[SENTENCE NUMBER 113]
+Lotsa Pasta
+[END]
+
+[SENTENCE NUMBER 114]
+Paris Trendy
+[END]
+
+[SENTENCE NUMBER 115]
+Britta Baker
+[END]
+
+[SENTENCE NUMBER 116]
+Ravi Oli
+[END]
+
+[SENTENCE NUMBER 117]
+Summer Camp
+[END]
+
+[SENTENCE NUMBER 118]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 119]
+SP Officer F
+[END]
+
+[SENTENCE NUMBER 120]
+Engineer
+[END]
+
+[SENTENCE NUMBER 121]
+Legse Larga
+[END]
+
+[SENTENCE NUMBER 122]
+Lowe Sweet
+[END]
+
+[SENTENCE NUMBER 123]
+Onda Sette
+[END]
+
+[SENTENCE NUMBER 124]
+Ben Tou
+[END]
+
+[SENTENCE NUMBER 125]
+Siesta McNap
+[END]
+
+[SENTENCE NUMBER 126]
+Jotthis Daun
+[END]
+
+[SENTENCE NUMBER 127]
+Directa Mann
+[END]
+
+[SENTENCE NUMBER 128]
+Bery Homsik
+[END]
+
+[SENTENCE NUMBER 129]
+Chacky Jan
+[END]
+
+[SENTENCE NUMBER 130]
+Lily Luz
+[END]
+
+[SENTENCE NUMBER 131]
+Julia Monroe
+[END]
+
+[SENTENCE NUMBER 132]
+WAZA Staff M
+[END]
+
+[SENTENCE NUMBER 133]
+WAZA Staff F
+[END]
+
+[SENTENCE NUMBER 134]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 135]
+SP Officer F
+[END]
+
+[SENTENCE NUMBER 136]
+Sanc Quatr
+[END]
+
+[SENTENCE NUMBER 137]
+Busy Body
+[END]
+
+[SENTENCE NUMBER 138]
+Marina South
+[END]
+
+[SENTENCE NUMBER 139]
+Isle Briny
+[END]
+
+[SENTENCE NUMBER 140]
+Lil O'lady
+[END]
+
+[SENTENCE NUMBER 141]
+Tidal Rider
+[END]
+
+[SENTENCE NUMBER 142]
+F. Torchwood
+[END]
+
+[SENTENCE NUMBER 143]
+Vaga Bonds
+[END]
+
+[SENTENCE NUMBER 144]
+Sheso Lovely
+[END]
+
+[SENTENCE NUMBER 145]
+Brandon Gay
+[END]
+
+[SENTENCE NUMBER 146]
+Hua Mai
+[END]
+
+[SENTENCE NUMBER 147]
+Brandon Gay
+[END]
+
+[SENTENCE NUMBER 148]
+Manny Hunky
+[END]
+
+[SENTENCE NUMBER 149]
+Slinky Lass
+[END]
+
+[SENTENCE NUMBER 150]
+Ray Finn
+[END]
+
+[SENTENCE NUMBER 151]
+Butta Flai
+[END]
+
+[SENTENCE NUMBER 152]
+Balsam Pear
+[END]
+
+[SENTENCE NUMBER 153]
+Beach Gal
+[END]
+
+[SENTENCE NUMBER 154]
+Buff Biggs
+[END]
+
+[SENTENCE NUMBER 155]
+Rip Muscle
+[END]
+
+[SENTENCE NUMBER 156]
+T. Daimonji
+[END]
+
+[SENTENCE NUMBER 157]
+Gale Front
+[END]
+
+[SENTENCE NUMBER 158]
+Bill Webster
+[END]
+
+[SENTENCE NUMBER 159]
+Toshi Burns
+[END]
+
+[SENTENCE NUMBER 160]
+Suss Dabest
+[END]
+
+[SENTENCE NUMBER 161]
+Auta Yerleag
+[END]
+
+[SENTENCE NUMBER 162]
+Ala Moana
+[END]
+
+[SENTENCE NUMBER 163]
+Pete Fabiano
+[END]
+
+[SENTENCE NUMBER 164]
+Bulk N'Skull
+[END]
+
+[SENTENCE NUMBER 165]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 166]
+Keapa Winnin
+[END]
+
+[SENTENCE NUMBER 167]
+WAZA Lt. M
+[END]
+
+[SENTENCE NUMBER 168]
+T. Kusanagi
+[END]
+
+[SENTENCE NUMBER 169]
+SP Officer M
+[END]
+
+[SENTENCE NUMBER 170]
+Strong Bicep
+[END]
+
+[SENTENCE NUMBER 171]
+SPOfficer FA
+[END]
+
+[SENTENCE NUMBER 172]
+Knell Ringer
+[END]
+
+[SENTENCE NUMBER 173]
+Vidy Otaku
+[END]
+
+[SENTENCE NUMBER 174]
+Rob Sidkic
+[END]
+
+[SENTENCE NUMBER 175]
+Gent Gallant
+[END]
+
+[SENTENCE NUMBER 176]
+Ann Prudence
+[END]
+
+[SENTENCE NUMBER 177]
+WAZA Col. M
+[END]
+
+[SENTENCE NUMBER 178]
+WAZA Col. F
+[END]
+
+[SENTENCE NUMBER 179]
+Spunky Noob
+[END]
+
+[SENTENCE NUMBER 180]
+Earl Grey
+[END]
+
+[SENTENCE NUMBER 181]
+Sugar Suet
+[END]
+
+[SENTENCE NUMBER 182]
+SPOfficer MA
+[END]
+
+[SENTENCE NUMBER 183]
+Sho Ryuken
+[END]
+
+[SENTENCE NUMBER 184]
+SPOfficer MC
+[END]
+
+[SENTENCE NUMBER 185]
+SPOfficer FA
+[END]
+
+[SENTENCE NUMBER 186]
+Waye Milky
+[END]
+
+[SENTENCE NUMBER 187]
+SPOfficer FC
+[END]
+
+[SENTENCE NUMBER 188]
+Yung Verdure
+[END]
+
+[SENTENCE NUMBER 189]
+Sol Shiner
+[END]
+
+[SENTENCE NUMBER 190]
+ 
+[END]
+
+[SENTENCE NUMBER 191]
+ 
+[END]
+
+[SENTENCE NUMBER 192]
+ 
+[END]
+

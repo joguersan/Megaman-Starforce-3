@@ -1,0 +1,141 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Meteor G has increased
+Noise output levels greatly!!
+<PUSH>
+What could possibly be going
+on!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Mr. Boreal!
+<PUSH>
+Meteor G's Noise has grown
+too powerful for the rocket
+to handle!
+<PUSH>
+All functions have ceased
+to work.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+W-What did you say...?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Magnes was able to pulse
+out in time, but the rocket
+<PUSH>
+is steadily moving away
+from Meteor G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+W-Wait just a second!
+<PUSH>
+If the rocket moves too far
+away, then how will Geo be
+able to get home!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I believe in him{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+He's going to destroy
+Meteor G and bring his
+father back home...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah!
+<PUSH>
+He's gotten out of every
+other pinch that he's been
+stuck in before!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo can't lose to something
+like Noise or Meteor G.
+<PUSH>
+Geo never loses!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You're right...
+You guys are right!!
+<PUSH>
+Geo won't...
+<PUSH>
+The invincible Mega Man
+won't lose to a measly
+shooting star!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Geo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+You are our final hope{14}{E1}{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Kick some butt, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Watch over him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

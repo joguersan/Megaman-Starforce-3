@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1} ¿Papá?
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} ¿Mega?
+<PUSH>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+Aquí no hay... nadie...
+No oigo... nada...
+<PUSH>
+No, no puedo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Si me quedó aquí{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No podré volver{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+Chicos, os{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} echo de menos{14}{E1}.{14}{E1}.{14}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,586 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Sorry to keep you waiting!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Oh, you're here!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+You're laaate, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You shouldn't ever make a
+lady wait...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sorry!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(So you finally
+ showed up, Geo Stelar...)
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+That's everyone, then!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Whoa...
+This doesn't feel anything
+like Electopia...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's really got that tropical
+island feel!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+As everyone already knows...
+This is Electopia's most
+southern island, <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I never would have thought
+I'd get to go to <Alohaha> for
+a school trip!
+<PUSH>
+What a great year this is!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+The King Foundation has
+made a donation to every
+school in Electopia in order
+<PUSH>
+to give kids the chance to
+experience places they never
+had the chance to visit.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+The King Foundation is
+always doing great things
+to make everyone happy!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+So true!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Well then, everyone...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Over there is the building
+that <Alohaha> is best known
+for{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+<Castello.Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So that's the famous
+<Castello.Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Now...
+<PUSH>
+We will have Ms. Tia explain
+all about <Castello.Alohaha> to
+us!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Me...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+It's the perfect practice
+for you!
+<PUSH>
+Just do your best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+The king who used to rule
+this island lived within the
+great <Castello.Alohaha>...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+So is there still a king living
+in there!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No. Because this island is
+part of Electopia there is
+no king...
+<PUSH>
+Instead, there is a powerful
+"environmental system" inside.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+According to my Wizard...
+<PUSH>
+The "environmental system"
+keeps <Alohaha> in constant
+<PUSH>
+summer, and even protects
+it from natural disasters!
+<PUSH>
+It's Electopia's most
+renowned super system!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A-Awesome!!
+I have to see it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez, you really love that
+kind of stuff, don't you, kid?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Tomorrow's schedule is full,
+so if you really want to see
+it, you should go today.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Moving on... The environmental
+system is not controlled by
+a person, but by a Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A Wizard!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+That's correct...
+He is a completely
+autonomous Wizard...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So he's independent from
+a <Hunter>...
+<PUSH>
+He must be super powerful!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+His name is "Strong"...
+<PUSH>
+And he is revered as a
+"guardian deity" of the island.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Very good, Ms. Tia.
+Well, it's just about time to
+break for our free time!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Mr. Shepar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Yes, Luna?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Since this trip is a special
+event we don't get to do
+<PUSH>
+often, do you mind if we all
+change our Purpose for the
+trip?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Oh, that's not a bad idea.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Is it really OK to change
+our Team's Purpose?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+This is a time for us to
+make great memories
+together!
+<PUSH>
+And also to forget all of
+our worries!
+<PUSH>
+Since we came as a class, I
+think we should all share the
+same Purpose during the trip!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Great idea!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo, why don't you pick the
+new Purpose!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Huh?
+Y-You want me to pick it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I believe in you, Geo!
+<PUSH>
+We'll spend today and
+tomorrow living by the
+Purpose that you pick!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You can do it!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm...
+<PUSH>
+How about...
+A "Trip to Remember"?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Oooh, that sounds good.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Well then, let's set Class
+5-A's Purpose as a
+"Trip to Remember"!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Yey!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{04}{E2}{04}{00}
+<NEW-DIALOG>
+<Game>
+Geo's Purpose has changed!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's pretty moving to have
+the whole class have the
+same Purpose...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Yuck.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Hmm, hey, Jack?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+W-What do you want!?
+Don't come any closer!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You didn't change your
+Purpose. That's no good.
+<PUSH>
+We're all supposed to have
+the same Purpose!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Just leave me alone!
+It's my decision!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Not. A. Chance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+G-Get away...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+There we go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+S-Sis...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You need to do what she
+tells you to do...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Alright, everyone!
+<PUSH>
+Let's make the best
+memories possible and
+fulfill our Purpose!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+OK, let's head off!
+Don't wander off too far!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So... What should we do?
+<PUSH>
+Since we came all this way, I
+think we should check out
+the environmental system.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I wouldn't mind seeing it, too...
+<PUSH>
+I want to see what that
+Wizard, Strong, is like.
+<PUSH>
+Let's go!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Alright!
+We're off to <Castello.Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

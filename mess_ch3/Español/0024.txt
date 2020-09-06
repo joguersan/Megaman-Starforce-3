@@ -1,0 +1,533 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¿Eh?!
+¡¿Qué pasa, Mega Man?!
+¡¿Eso es todo lo que
+puedes hacer?!
+<PUSH>
+¡Aún no hemos terminado!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Uff, uff...
+<PUSH>
+¡Es fuerte!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Esto no va bien, chico...
+¡Tenemos que dar la vuelta
+a la situación!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Qué decepción, Omega-Xis!
+<PUSH>
+¡¿Esa es todo lo que puedes
+hacer después de un
+Cambio de onda EM?!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Alto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Joker!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¿Qué haces tú aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Las órdenes del Sr. King
+eran investigar a Mega Man
+y recolectar Carmesí.
+<PUSH>
+No dijo nada de luchar
+contra Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+El Sr. King te ordenó
+vigilarnos, ¿no es así?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Correcto.
+<PUSH>
+Y tal como pensaba,
+habéis decidido actuar
+por vuestra cuenta.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¿Y qué vas a hacer
+al respecto?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Absolutamente nada...
+<PUSH>
+El Sr. King recalcó que
+si volvíais con él
+<PUSH>
+de inmediato, no habría
+consecuencias.
+<PUSH>
+Queen Tia, Jack...
+Hacedme caso...
+Volved con él...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+No tenemos elección...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Jack, nos retiramos
+por ahora...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Mierda!!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¡Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Q-Quién es esta gente?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Dele, no te acerques aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+L-Lo siento...
+<PUSH>
+La gente de la isla decía que
+la señal de Strong se había
+desvanecido, así que...
+<PUSH>
+No sabía que...
+<PUSH>
+¿Eh?.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Eh, ese es{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡¿Jack?!
+<PUSH>
+¡¿Qué haces ahí, Jack?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Y esa es la Srta. Tia!
+<PUSH>
+¡¿Qué diablos está pasando?!
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Joker>
+Qué interesante...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Y tú quién eres?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Mega Man...
+La furia y dolor que te
+invaden cuando rompen un
+lazo con tus seres queridos,
+<PUSH>
+amplifica enormemente
+tu poder.
+<PUSH>
+Y sé que tu lazo con esta
+chica es muy fuerte.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ni se te ocurra, Joker!!
+¡¡No te atrevas a ponerle
+un dedo encima a la Dele!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Desaparece...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Dele!!
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Por los pelos...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Joker{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡Ya basta!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}¿?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Si quieres luchar, adelante!!
+<PUSH>
+¡Pero no metas a gente
+inocente en esto!
+<PUSH>
+¡¡No hay ninguna razón para
+atacar a Strong o Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tranquilízate, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Si quieres luchar contra mí,
+adelante, detendré todos tus
+ataques!!
+<PUSH>
+¡No metas a Luna en esto!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Mega Man...
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Je...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Joker!!
+<PUSH>
+¡¿Dónde estás?!
+¡¡Da la cara!!
+<PUSH>
+¡¿Te da miedo enfrentarte
+a mí?!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+¡Geo!
+¡Detrás de ti!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ungh!...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡De{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nooo{15}{E1}.{15}{E1}.{15}{E1}.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Jajaja...
+¡Ajajajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Joker...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Explícame por qué has
+hecho eso...
+<PUSH>
+¿Qué sentido tenía eliminar
+a esa chica?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Los débiles no tienen
+razón de ser...
+Esa es mi filosofía.
+<PUSH>
+Simplemente he eliminado
+a la persona que más
+contradecía mi filosofía.
+<PUSH>
+Era una vergüenza para
+la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Estás loco!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Di lo que te venga en gana...
+<PUSH>
+Mega Man...
+Tú eres el siguiente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+...Jack, nos volvemos...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Dónde estás, {15}{E1}Dele{15}{E1}.{15}{E1}.{15}{E1}.?
+<PUSH>
+¡¡Dele!!
+<PUSH>
+¡¡Responde!!
+<PUSH>
+¡¡No puede ser!!
+No puede{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} No puede{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,394 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Gracias por venir a
+tiempo, Mega Man.
+<PUSH>
+Ahora podemos comenzar
+con tu «misión».
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+«Misión»...{15}{E1}!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ahora mismo, la Dra. Goodall
+está usando el ordenador
+central para preparar nuestro
+<PUSH>
+as en la manga y eliminar
+al enemigo de un soplo.
+<PUSH>
+Pero tardará un tiempo hasta
+que esté listo...
+<PUSH>
+¡Tenemos que ganar tiempo
+para la Dra. Goodall!
+<PUSH>
+¡Todos los oficiales y Wizards
+de batalla están desplegados
+para proteger juntos
+<PUSH>
+el ordenador central!
+<PUSH>
+No será fácil...{15}{E1}
+<PUSH>
+¿Pero crees que podrás?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+¡Claro!
+<PUSH>
+{13}{EC}(Sin la NAZA...
+{13}{EC} ¡Si no protejo el
+{13}{EC} ordenador central
+<PUSH>
+{13}{EC} no podremos reconstruir
+{13}{EC} a la Dele!)
+<PUSH>
+{13}{EC}(¡No tenemos elección!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Je!
+¡A mí me da exactamente
+igual tu plan!
+<PUSH>
+¡Como no acabe con esas
+copias baratas, me voy
+a volver loco!
+<PUSH>
+¡Voy a hacerles chatarra!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿M-Mega?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+Y ningún cacho de carne humano
+o Wizard de batalla de tres
+al cuarto se interpondrá...
+<PUSH>
+¡¡O le haré lo mismo que
+a esas malditas copias!!
+<PUSH>
+¡Dejadme esto a mí
+y no habrá problemas!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Hala!
+¡Pero tranquilo, hombre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡¿Otra oleada?!
+¡Me parece que hoy me
+quedo sin hora del café!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ahora mismo, da igual
+cuál sea tu motivo.
+<PUSH>
+Mega Man, tu misión es
+detener a cualquier enemigo
+que trate de destruir el escudo.
+<PUSH>
+Ace y yo defenderemos el
+interior de la NAZA.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Maldito Acid!
+Quién te da derecho a...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Recibido!
+¡Nos quedaremos aquí
+y protegeremos el escudo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+El escudo es una pieza
+clave para la seguridad
+de la NAZA.
+<PUSH>
+Confío en ti, Geo.
+<PUSH>
+¡Y en ti también,
+Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Pues deja de pedirnos
+ayuda como último recurso!
+<PUSH>
+¡Grrr!
+<PUSH>
+Y deja de hacerte el importante
+usando palabras como «misión».
+<PUSH>
+¡Di que tenemos que destrozar
+a quien sea que se acerque
+al escudo y punto!
+<PUSH>
+¡Lo bueno, si breve,
+dos veces bueno!
+<PUSH>
+¡A nadie le gustan los
+tutoriales de una hora!
+<PUSH>
+¡¿A que tengo razón, chaval?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, claro, sí. Desde luego.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Geo! ¡Me quedo contigo
+para proteger el escudo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Vaya...
+<PUSH>
+Vaya, y yo que esperaba que
+me ayudaras a defender la
+sala del ordenador central.
+<PUSH>
+Por si acaso...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Lo entiendo...
+P-Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sonia, no te preocupes
+por mí!
+<PUSH>
+Debes mantener a salvo a
+la Dra. Goodall, Bud
+y Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Vale...
+<PUSH>
+Pero no hagas ninguna
+tontería, ¿entendido?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Te lo prometo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Acid, vámonos también.
+Abre el puerto de acceso.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Recibido, Ace.
+<PUSH>
+Solicitud de acceso a puerto...{16}{E1}
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Enviada.
+<PUSH>
+Se ha concedido acceso
+al servidor satélite Nv. 25.
+<PUSH>
+Iniciando descarga.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Genial, Acid. ¡¿Qué te
+parece si nosotros también
+nos volvemos un poco locos?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+¡Ve con cuidado!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Vale...
+Y Geo,{15}{E1} igualmente.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Omega-Xis...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¿?!
+<PUSH>
+¡¿Qué quieres?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Si necesitas ayuda,
+llámanos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{15}{E1}¡¿Pero qué...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Adieu.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grrrrrr!!
+¡Dios, qué irritante!
+<PUSH>
+¡¡No le aguanto!!
+<PUSH>
+¡Que nadie me toque un pelo
+hoy, que me lo cargo!
+<PUSH>
+¡Eh, chaval!
+¡Escucha bien lo que voy
+a decirte, ¿vale?!
+<PUSH>
+Básicamente, tú no vas a
+tener que luchar.
+<PUSH>
+Solo tienes que ir a por
+las copias.
+<PUSH>
+¡Pulsa el Botón B y yo las
+destruiré con mis garras!
+<PUSH>
+Pero si no lo haces bien y
+fallamos, tendrás que luchar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No habrá tiempo para
+comprobar tu
+<PUSH>
+<Hunter>, expulsionarte
+y esas cosas...
+<PUSH>
+¡Así que organiza tu
+carpeta ahora o calla
+para siempre!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Perderemos la batalla
+si destruyen el
+<PUSH>
+escudo que tenemos detrás
+o estiramos la pata...
+<PUSH>
+¡¡Pero si eliminamos a
+todas y cada una de las
+copias, habremos ganado!!
+<PUSH>
+¡¿Todo listo
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Mega>
+¡¡Pues venga, deprisa!!{15}{E1}
+¡No puedo esperar más!
+<PUSH>
+¡¡Qué ganas de empezar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

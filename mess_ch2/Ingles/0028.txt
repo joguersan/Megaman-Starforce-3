@@ -1,0 +1,215 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We've gathered quite a bit
+of Crimson...
+<PUSH>
+Mr. King should be pleased
+with this amount alone.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Nice job, Geo.
+<PUSH>
+The projector is back to
+normal, thanks to you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+How's the concert going?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+It's going off without a
+hitch.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Great...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Ice...
+Why would you do something
+like that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+For you, Belle...
+<PUSH>
+With Sonia out of the way,
+you could soar right to
+the top...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+I never asked for that!!
+<PUSH>
+Do you think someone who
+would hurt others could
+become popular and loved!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+You're too nice!
+So you don't understand!
+<PUSH>
+No one ever makes it in
+the talent industry without
+a little dirty work.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+That's not true!
+<PUSH>
+It's you who doesn't
+understand!
+<PUSH>
+So are you telling me that
+Sonia stepped all over
+<PUSH>
+people to get to where
+she is now!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+T-That...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Sonia has never done
+anything of the sort!
+<PUSH>
+She just tries her hardest
+to make people happy!
+<PUSH>
+And because of that, she
+is highly admired and has
+a ton of fans!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+She's not someone who
+would cause others pain.
+<PUSH>
+Sonia's not just our rival,
+she's our role model, too...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Belle...
+I'm so sorry...
+<PUSH>
+I lost myself along the
+way, somehow.
+<PUSH>
+I'm not fit to be your
+manager, anymore.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+That's not true...
+<PUSH>
+There's no one else in the
+world that cares for me
+as much as you do.
+<PUSH>
+Ice...
+<PUSH>
+I'll only make you worry
+non-stop, but would you
+continue as my manager?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Belle...!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+No one else could ever be
+my manager...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+I'm so sorry, Belle...
+And thank you...
+<PUSH>
+I'm so proud to be your
+Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Looks like that's settled.
+<PUSH>
+I was worried there for a
+second.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I'll take it from here, Geo.
+You should get to the
+concert.
+<PUSH>
+It's almost time for the
+finale.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

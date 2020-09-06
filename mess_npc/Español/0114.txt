@@ -1,0 +1,24 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{01}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip ¡Este es el
+Cibernúcleo de la mesa de Ace!
+¡Ace es de los mejores polis!
+<PUSH>
+Pero quizá no sabes que
+bajo su mesa esconde una
+provisión de Megachuches
+<PUSH>
+Pip, pip.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

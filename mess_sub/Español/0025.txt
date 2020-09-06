@@ -1,0 +1,846 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El acto de eliminar
+virus EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un programa con consciencia
+que vive dentro de aparatos
+como los Hunter-VG.
+<PUSH>
+Como seres EM, los Wizards
+pueden adoptar formas
+físicas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un dispositivo portátil que
+cabe en la palma de la mano.
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Entidades cuyos cuerpos
+están hechos de ondas EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de Kelvin,
+el padre de Geo, permite
+ver cuerpos EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Los humanos consideran a
+estos cuerpos EM nocivos,
+ya que que provocan daños
+a los aparatos eléctricos
+y de tecnología EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La parte fundamental
+de un dispositivo
+electrónico.
+<PUSH>
+Un cuerpo EM puede entrar
+a un Cibernúcleo, salvo
+cuando su acceso está
+restringido por
+mantenimiento, etc.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cuando un humano se
+fusiona con un Wizard
+y adopta una forma EM.
+<PUSH>
+Solo un puñado de humanos
+son capaces de lograr
+esta hazaña, que les
+otorga increíbles
+capacidades de combate.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un sistema que gestiona
+tecnología EM en
+un amplio radio.
+También actúan como
+puntos de información
+para el público general.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un camino formado a
+partir de la radiación de
+ondas EM de los aparatos
+electrónicos que permite
+a los cuerpos EM viajar
+a grandes velocidades.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Para salir del interior
+de un Cibernúcleo al
+camino onda.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Para salir del interior
+de un Cibernúcleo o
+del camino onda y
+volver al mundo real.
+<PUSH>
+La acción de salir
+de un Cibernúcleo al
+camino onda se conoce
+como expulsión.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una función del Hunter-VG
+que permite que amigos
+compartan un objetivo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un grupo de Hermanos con
+el mismo Propósito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una persona que entra
+en el círculo de otra
+amigos que comparten
+un vínculo
+<PUSH>
+estrecho conocido como
+Banda Hermano. Es una
+función del Hunter-VG.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una zona que emite
+ondas EM anómalas
+llamadas Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Así se llama el último
+terminal móvil del mercado.
+Además de poder eliminar
+virus, contiene una
+función de captura.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+WAZA
+Una organización que
+supervisa toda la
+tecnología espacial.
+Antes era la NAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una organización creada
+para luchar contra los
+crímenes EM.
+El grupo de élite está
+formado por especialistas
+de todos los campos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La isla más al sur
+de Electopía.
+En verano, este paraíso
+turístico se llena
+de visitantes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una antigua pero
+avanzada civilización
+ya extinta.
+La Dra. Vega hizo uso
+de la tecnología de Mu.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Omega-Xis
+Un alienígena del
+espacio exterior y
+el Wizard de Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Luna Platz
+Esta amiga de Geo, puede
+parecer un poco creída,
+pero tiene un gran corazón.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bud Bison
+Este amigo de Geo tiene
+un apetito voraz y una
+faceta cariñosa que
+casi no se deja ver.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Zack Temple
+Este amigo de Geo es
+una rata de biblioteca
+y odia el deporte.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Sonia Strumm
+Esta amiga de Geo es
+una ídolo adolescente
+vivaz y extrovertida.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El Wizard de Sonia Strumm.
+Es un alienígena del espacio
+exterior, como Omega-Xis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Aaron Boreal
+Un buen amigo del padre
+de Geo y un científico
+brillante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Tom Dubius
+Compañero de Aaron Boreal
+y apasionado inventor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Damian Wolfe
+Este jardinero puede ser
+muy conflictivo, pero
+puedes contar con él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un descendiente de Mu.
+Solo Cambia de Onda
+a Rogue, la némesis de
+Mega Man. Detesta la
+amistad, los vínculos
+y esas cosas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Kelvin Stelar
+El padre de Geo.
+Desapareció tras
+un accidente en el
+espacio hace tres años.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Dueño de la tienda
+{B6}{E4},
+en Echo Ridge.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Los tres grandes seres EM
+del Planeta AM que
+antaño usaron las
+Banda Hermano de la
+<PUSH>
+Tierra y las ondas para
+fomentar el desarrollo
+de la civilización.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Engañado por sus
+seguidores para invadir
+la Tierra, comprendió
+la importancia de los
+vínculos tras luchar
+contra Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El planeta natal de
+Omega-Xis. Antes de ser
+invadido por el Planeta FM,
+les unían estrechos lazos.
+El Planeta FM se está
+reconstruyendo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El planeta con el que
+Kelvin, el padre de Geo,
+contactó y el hogar
+<PUSH>
+de Omega-Xis antes de
+que llegara a la Tierra.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bob Copper
+Un detective de la
+Policía Satella
+<PUSH>
+que investigó a Geo,
+que ocultaba su segunda
+identidad como Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Persona que utiliza
+o posee un Wizard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Paquete de cuatro cartas
+blancas muy útiles. Solo
+disponibles en las
+Estaciones Onda.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una carta estándar que
+has elegido como carta
+favorita para que
+<PUSH>
+aparezca la primera en
+la pantalla de cartas.
+Para asignar una carta
+favorita, selecciónala
+<PUSH>
+con el cursor y pulsa
+el botón Y.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Para entrar en un
+Cibernúcleo como un
+cuerpo EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una chuchería deliciosa
+disponible en muchos
+sabores. ¡Y solo cuesta
+10 Zennys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este adaptador te
+permite instalar
+Wizards en tu Hunter-VG.
+<PUSH>
+Introdúcelo en la ranura
+para controlar a varios
+Wizards con tu Hunter-VG.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este dispositivo de
+comunicaciones multifunción
+se ha vuelto indispensable
+para el día a día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

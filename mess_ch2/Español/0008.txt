@@ -1,0 +1,605 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí estaremos a salvo.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Muchísimas gracias, Geo.
+<PUSH>
+Y siento los problemas
+que te he causado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No te preocupes.
+Para eso están los amigos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Estamos en la azotea
+de la escuela entonces?
+<PUSH>
+Qué bien sienta el
+airecito y las vistas
+son preciosas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es el sitio más popular
+de toda la escuela.
+<PUSH>
+Dame un momento y
+llamo a la Dele y el resto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Cómo me alegro
+de verte, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡No me pierdo nunca
+tu programa,
+"Canción de ensueño"!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Gracias, chicos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Por qué habéis venido
+a la azotea en busca
+de refugio?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estaba buscando a Jack,
+pero no le encontraba.
+<PUSH>
+Y entonces me topé
+con Sonia.
+<PUSH>
+Estuvimos un rato
+hablando y un fan
+la reconoció.
+<PUSH>
+Así que hicimos un
+Cambio de onda y vinimos
+por la Carretera de Ondas.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Es verdad, Sonia también
+puede hacer el Cambio
+de onda EM.
+<PUSH>
+Te has transformado
+en Harp Note, ¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Qué envidia!
+¡Ojalá pudiera hacer un
+Cambio de onda EM
+con Pedia!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Lo siento, Zack.
+No me programaron
+con esa función.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Por qué has venido
+a Echo Ridge, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bueno, hacía mucho que
+no os veía y tenía ganas.
+<PUSH>
+También os quería preguntar
+si os gustaría salir
+en mi programa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Nosotros?!
+¡¿Salir en la tele?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bueno, seríais extras.
+Si os parece bien...
+<PUSH>
+¡Pero no os preocupéis!
+Me aseguraré de que se
+os vea bien en pantalla.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Una oportunidad de salir
+en la tele...
+Es un sueño hecho realidad...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Y en esas grabaciones
+siempre hay comida gratis!
+¡Yo me apunto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Solo te interesa
+eso, Bud?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Decidido entonces?...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ya que te has tomado la
+molestia de invitarnos...
+<PUSH>
+Tenemos que ir sí o sí,
+¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Viva!
+<PUSH>
+¡Ah, sí! ¡Voy a dar un
+concierto en el estudio
+después de la grabación!
+<PUSH>
+¡También estáis invitados!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Guay! Hace mucho que
+no te escucho en directo.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sí, he estado bastante
+liada. ¡Pero cantar
+es mi pasión!
+<PUSH>
+¡Qué emoción volver a
+subirme a los escenario!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Y dónde será la
+grabación y el concierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡En <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, lo conozco!
+<PUSH>
+¡Es ese nuevo estudio
+donde hacen programas
+<PUSH>
+con humanos y Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Exacto!
+El director de mi
+programa es un Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Qué guay...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿De verdad os apetece?
+El estudio está
+bastante lejos.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡No pasa nada!
+¡Haríamos cualquier
+cosa por ti!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Irías tan lejos
+por mí, Bud?
+<PUSH>
+Tal vez si te diera
+una pizza de recompensa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Claro que sí!
+¡Y sin pizza ni nada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Ah...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Me acaba de llegar
+una notificación.
+<PUSH>
+Tengo que ir a una
+reunión del programa
+y el concierto. ¡Adiós!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Qué?!
+¡Pero si acabas de llegar!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ya...
+<PUSH>
+¿Y si hago como que
+no lo he visto?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué dices, Sonia!
+<PUSH>
+La grabación y el
+concierto son mañana, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Ji, ji, ji...
+Era broma, tontorrón.
+<PUSH>
+¡¿Cómo iba a pasar de
+mi trabajo y mi pasión?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Pero sí que quería
+estar un rato con
+vosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No te preocupes. ¡Mañana
+nos veremos todo lo
+que quieras!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Pues sí, la verdad.
+¡Entonces nos vemos
+mañana en <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡No puedo esperar!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Relájate, Bud!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, Sonia!
+¡No vayas por ahí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Por qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pondrías la escuela
+patas arriba.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ah, es verdad.
+Volveré por donde he
+venido, entonces.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Parece que se olvida
+de que es una
+superestrella...
+<PUSH>
+Supongo que no es
+algo malo precisamente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Y cómo vamos hasta
+el <Studi.WBG>?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Quedamos en la parada del
+Wave Liner como cuando fuimos
+al <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Vamos a salir en la
+tele y a un concierto!
+¡Qué guaaayyy!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Sí, lo vamos a pasar
+genial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Quiero enseñaros una
+cosa, pero mejor lo
+hago mañana!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿En serio? ¿Qué es?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Je, je, je.
+¡Mañana lo verás!
+<PUSH>
+¡Y no se te ocurra
+llegar tarde, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Recibido!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Eso es todo por hoy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Vamos a casa, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Madre, por fin...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+<Studi.WBG>...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

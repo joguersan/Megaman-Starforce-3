@@ -1,0 +1,179 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+OK, let's begin the tutorial
+program on the
+"Multi-Noise Form".
+<PUSH>
+Multi-Noise Form is when
+you fuse the power of two
+Noise types into one form.
+<PUSH>
+The act of fusing two types
+of Noise together is called
+"Multi-Noising".
+<PUSH>
+It's really easy to do,
+so take a look at the
+bottom screen, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+First, you must equip the
+ability, "<AcePrgm>".
+Don't forget to do that.
+<PUSH>
+Then, you select either a
+Brother Card or an
+<PUSH>
+Opponent Noise from the
+Custom Screen.
+<PUSH>
+So you know, you have to
+pick a Brother Card or
+<PUSH>
+Opponent Noise that is a
+different type of Noise than
+you are.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+That's Multi-Noise Form
+for you. Simple, eh?
+But, oh yeah...
+<PUSH>
+When you select a Brother
+Card or Opponent Noise, you
+will be asked to either
+<PUSH>
+choose to perform a
+Multi-Noise or roulette.
+Understanding them is key.
+<PUSH>
+Roulette is when one of the
+four White Cards the
+Brother or Opponent has
+<PUSH>
+set is randomly selected and
+given to you.
+<PUSH>
+But, roulette will occur
+automatically if you are the
+<PUSH>
+same Noise type as the
+Brother or Opponent.
+<PUSH>
+Upon Muti-Noising, you will
+gain access to the power of
+both Noise types.
+<PUSH>
+If you take a hit by an
+elemental attack, you will
+revert back to Noise Form.
+<PUSH>
+Your elemental weakness
+will be the weakness of the
+<PUSH>
+Noise type you used to
+Multi-Noise.
+<PUSH>
+The same goes for your
+charged shot.
+<PUSH>
+That's it for the tutorial.
+Hurry up and try
+Multi-Noising!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Wait a second...
+Shouldn't you be Multi-Noising?
+<PUSH>
+You can't do it without
+selecting a Brother Card
+or an Opponent Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...Why would you run now?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Shouldn't you be Multi-Noising?
+So select "Multi-Noise" already!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Nice job!
+You seem like you're used
+to Multi-Noise Forms now.
+<PUSH>
+Multi-Noise Forms can be
+really powerful, depending on
+the Noise combination.
+<PUSH>
+Combine the types that work
+well with your battling style!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,214 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Two Weeks Later...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dad...
+Mega...
+<PUSH>
+I was able to make it home
+safely thanks to you.
+<PUSH>
+I've been having a great
+time with everyone.
+<PUSH>
+And I've decided to live my
+life to its fullest, even if
+you're not here...
+<PUSH>
+But every once in a while I
+get pretty sad...
+<PUSH>
+.{13}{E1}.{13}{E1}.{13}{E1}I miss both of you so much.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Huh?{16}{E1}
+What's with that star{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+Is it a blue shooting star{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It's...
+<PUSH>
+It's getting closer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aaahhh!!
+It's coming this way!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+.{15}{E1}.{15}{E1}.{15}{E1}Huh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh heh heh...
+<PUSH>
+Hey, kid!!
+I'm back!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Me.{14}{E1}.{14}{E1}.{14}{E1}ga{14}{E1}.{14}{E1}.{14}{E1}..!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+MEGAAA!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+This isn't a dream, right!?
+<PUSH>
+You're really back!?
+<PUSH>
+I thought I'd never see you
+again!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh heh heh!!
+<PUSH>
+Did you think that I would
+kick the bucket so easily!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Oh yeah...
+Someone else should be
+here any minute now.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}What!?
+<PUSH>
+Y-You mean{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ah, there he is!!
+<PUSH>
+You might want to put your
+baseball glove on, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What!?
+A-Again!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+W-W-Whoooaaa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

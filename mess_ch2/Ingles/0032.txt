@@ -1,0 +1,107 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Here we come, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That's Geo's voice!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Please help us, quickly!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Give it a shot, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+You got it!
+<PUSH>
+Mmmrrrggg!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You did it, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Yeah, I rule!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Thanks, Geo!
+<PUSH>
+I was worried I wouldn't
+make it to the concert!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Sonia! You've got to hurry
+and get ready! You're up
+in a few minutes!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Oh, man! I've got to hurry!
+Thanks, again, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Looks like the concert is
+going to start soon, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Which means the Real Wave
+stage must be set up!
+<PUSH>
+Let's go and see Lee, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK!
+<PUSH>
+
+[END]
+

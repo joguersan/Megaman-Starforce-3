@@ -1,0 +1,123 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Th-This isn't possible...
+<PUSH>
+I have the title of "R".
+I can't be beaten by the
+likes of you...
+<PUSH>
+But it doesn't matter.
+You will be deleted by one
+of the other "R"s eventually...
+<PUSH>
+And then this world will be
+destroyed!
+<PUSH>
+Everything will be wiped out
+by the darkness.{16}{E1}
+So why stick around!?
+<PUSH>
+Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Phew...
+<PUSH>
+That guy fought completely
+different than the real
+Spade Magnes.
+<PUSH>
+He mentioned others who
+have the "R" title. I wonder
+how many there are?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good question.
+<PUSH>
+What should we do?
+He made it seem like they
+were targeting Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, but we have no clues
+to follow right now... Let's go
+back to the Noise Wave.
+<PUSH>
+I feel like we might bump into
+more of those "R" guys if
+we do that.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Looking for a fight is always
+more entertaining than just
+sitting and waiting for one.
+<PUSH>
+It's a good plan, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Oh snap!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I wonder if the Noise Wave
+door will open?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's no need to worry
+about that!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I saw on TV that once a
+door to a Noise Wave is
+<PUSH>
+opened, it will never shut
+permanently again!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sweet!
+<PUSH>
+Let's get a move on then!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

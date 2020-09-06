@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "GeoFldr"
+msgstr "CarpGeo"
+
+msgctxt "1"
+msgid "WAZAFldr"
+msgstr "CarpWAZA"
+
+msgctxt "2"
+msgid "KlvnFldr"
+msgstr "CarpKlvn"
+
+msgctxt "3"
+msgid "XtraFldr"
+msgstr "CarpXtra"
+
+msgctxt "4"
+msgid "TaurusF1"
+msgstr "TaurusC1"
+
+msgctxt "5"
+msgid "TaurusF2"
+msgstr "TaurusC2"
+
+msgctxt "6"
+msgid "TaurusF3"
+msgstr "TaurusC3"
+
+msgctxt "7"
+msgid "CygnusF1"
+msgstr "CygnusC1"
+
+msgctxt "8"
+msgid "CygnusF2"
+msgstr "CygnusC2"
+
+msgctxt "9"
+msgid "CygnusF3"
+msgstr "CygnusC3"
+
+msgctxt "10"
+msgid "LibraF1"
+msgstr "LibraC1"
+
+msgctxt "11"
+msgid "LibraF2"
+msgstr "LibraC2"
+
+msgctxt "12"
+msgid "LibraF3"
+msgstr "LibraC3"
+
+msgctxt "13"
+msgid "OphiucF1"
+msgstr "OphiucC1"
+
+msgctxt "14"
+msgid "OphiucF2"
+msgstr "OphiucC2"
+
+msgctxt "15"
+msgid "OphiucF3"
+msgstr "OphiucC3"
+
+msgctxt "16"
+msgid "GeminiF1"
+msgstr "GeminiC1"
+
+msgctxt "17"
+msgid "GeminiF2"
+msgstr "GeminiC2"
+
+msgctxt "18"
+msgid "GeminiF3"
+msgstr "GeminiC3"
+
+msgctxt "19"
+msgid "CancerF1"
+msgstr "CancerC1"
+
+msgctxt "20"
+msgid "CancerF2"
+msgstr "CancerC2"
+
+msgctxt "21"
+msgid "CancerF3"
+msgstr "CancerC3"
+
+msgctxt "22"
+msgid "WolfF1"
+msgstr "WolfC1"
+
+msgctxt "23"
+msgid "WolfF2"
+msgstr "WolfC2"
+
+msgctxt "24"
+msgid "WolfF3"
+msgstr "WolfC3"
+
+msgctxt "25"
+msgid "CrownF1"
+msgstr "CrownC1"
+
+msgctxt "26"
+msgid "CrownF2"
+msgstr "CrownC2"
+
+msgctxt "27"
+msgid "CrownF3"
+msgstr "CrownC3"
+
+msgctxt "28"
+msgid "VirgoF1"
+msgstr "VirgoC1"
+
+msgctxt "29"
+msgid "VirgoF2"
+msgstr "VirgoC2"
+
+msgctxt "30"
+msgid "VirgoF3"
+msgstr "VirgoC3"
+
+msgctxt "31"
+msgid "CorvusF1"
+msgstr "CorvusC1"
+
+msgctxt "32"
+msgid "CorvusF2"
+msgstr "CorvusC2"
+
+msgctxt "33"
+msgid "CorvusF3"
+msgstr "CorvusC3"
+
+msgctxt "34"
+msgid "Archiv30"
+msgstr "Archiv30"
+
+msgctxt "35"
+msgid "Archiv31"
+msgstr "Archiv31"
+
+msgctxt "36"
+msgid "Archiv32"
+msgstr "Archiv32"
+
+msgctxt "37"
+msgid "Archiv33"
+msgstr "Archiv33"
+
+msgctxt "38"
+msgid "Archiv34"
+msgstr "Archiv34"
+
+msgctxt "39"
+msgid "Archiv35"
+msgstr "Archiv35"
+
+msgctxt "40"
+msgid "Archiv36"
+msgstr "Archiv36"
+
+msgctxt "41"
+msgid "Archiv37"
+msgstr "Archiv37"
+
+msgctxt "42"
+msgid "Archiv38"
+msgstr "Archiv38"
+
+msgctxt "43"
+msgid "Archiv39"
+msgstr "Archiv39"
+
+msgctxt "44"
+msgid "Archiv40"
+msgstr "Archiv40"
+
+msgctxt "45"
+msgid "Archiv41"
+msgstr "Archiv41"
+
+msgctxt "46"
+msgid "Archiv42"
+msgstr "Archiv42"
+
+msgctxt "47"
+msgid "Archiv43"
+msgstr "Archiv43"
+
+msgctxt "48"
+msgid "Archiv44"
+msgstr "Archiv44"
+
+msgctxt "49"
+msgid "Archiv45"
+msgstr "Archiv45"
+
+msgctxt "50"
+msgid "Archiv46"
+msgstr "Archiv46"
+
+msgctxt "51"
+msgid "Archiv47"
+msgstr "Archiv47"
+
+msgctxt "52"
+msgid "Archiv48"
+msgstr "Archiv48"
+
+msgctxt "53"
+msgid "Archiv49"
+msgstr "Archiv49"
+
+msgctxt "54"
+msgid "Archiv50"
+msgstr "Archiv50"
+
+msgctxt "55"
+msgid "Archiv51"
+msgstr "Archiv51"
+
+msgctxt "56"
+msgid "Archiv52"
+msgstr "Archiv52"
+
+msgctxt "57"
+msgid "Archiv53"
+msgstr "Archiv53"
+
+msgctxt "58"
+msgid "Archiv54"
+msgstr "Archiv54"
+
+msgctxt "59"
+msgid "Archiv55"
+msgstr "Archiv55"
+
+msgctxt "60"
+msgid "Archiv56"
+msgstr "Archiv56"
+
+msgctxt "61"
+msgid "Archiv57"
+msgstr "Archiv57"
+
+msgctxt "62"
+msgid "Archiv58"
+msgstr "Archiv58"
+
+msgctxt "63"
+msgid "Archiv59"
+msgstr "Archiv59"

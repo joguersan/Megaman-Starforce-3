@@ -1,0 +1,124 @@
+[SENTENCE NUMBER 1]
+Estos colmillos forman
+parte de la armadura
+de Mega.
+[END]
+
+[SENTENCE NUMBER 2]
+Un pendiente potente
+y equilibrado.
+[END]
+
+[SENTENCE NUMBER 3]
+Una garra que paraliza
+a los enemigos con
+el disparo cargado.
+[END]
+
+[SENTENCE NUMBER 4]
+Con este anillo cargas
+el disparo más
+rápidamente.
+[END]
+
+[SENTENCE NUMBER 5]
+El disparo cargado puede
+encerrar a los enemigos
+en una burbuja.
+[END]
+
+[SENTENCE NUMBER 6]
+Este pendiente carga
+el disparo a gran
+velocidad.
+[END]
+
+[SENTENCE NUMBER 7]
+Estas alas paralizan
+a los enemigos con
+el disparo cargado.
+[END]
+
+[SENTENCE NUMBER 8]
+Estas garras atacan
+a gran velocidad.
+[END]
+
+[SENTENCE NUMBER 9]
+Tras una batalla solo
+obtendrás Zennys.
+[END]
+
+[SENTENCE NUMBER 10]
+Un guante con una
+potencia excepcional.
+[END]
+
+[SENTENCE NUMBER 11]
+Un disparo cargado que
+ciega a los enemigos.
+[END]
+
+[SENTENCE NUMBER 12]
+Un arma de gran calidad
+con un poder excepcional.
+[END]
+
+[SENTENCE NUMBER 13]
+Un disparo cargado que
+puede reducir la vida
+del enemigo.
+[END]
+
+[SENTENCE NUMBER 14]
+Un disparo cargado que
+confunde al enemigo.
+[END]
+
+[SENTENCE NUMBER 15]
+Este brazalete rompe
+los paneles que
+golpea.
+[END]
+
+[SENTENCE NUMBER 16]
+Tras una batalla solo
+obtendrás Cartas de
+Batalla.
+[END]
+
+[SENTENCE NUMBER 17]
+Este arma de gran calidad
+porta el poder de las
+estrellas.
+[END]
+
+[SENTENCE NUMBER 18]
+Este objeto está imbuido
+con el espíritu galante
+de un caballero.
+[END]
+
+[SENTENCE NUMBER 19]
+Este disparo cargado
+puede congelar
+al enemigo.
+[END]
+
+[SENTENCE NUMBER 20]
+Estas garras pueden
+producir un torbellino.
+[END]
+
+[SENTENCE NUMBER 21]
+Cuando este anillo se usa
+con un disparo cargado
+es potente y peligroso.
+[END]
+
+[SENTENCE NUMBER 22]
+Legendaria arma de
+fuego rápido de un
+héroe.
+[END]
+

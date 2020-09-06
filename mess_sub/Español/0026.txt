@@ -1,0 +1,1909 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+No lucho muy bien, ¡pero
+puedes confiar en mí si
+necesitas hacer una
+<PUSH>
+búsqueda o un análisis!
+¡Conmigo a su lado,
+Zack siempre toma las
+mejores decisiones!
+<PUSH>
+{09}{E1}{00}{00}{A1}{06}{5A}{07}l{09}{E1}{00}{00}{B2}{07}{02}{08}l
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Soy el Wizard de Woody
+y le ayudo un montón
+con sus experimentos.
+<PUSH>
+En combate no soy muy
+rápido ni nada,
+<PUSH>
+¡pero puedo controlar
+el magnetismo!
+<PUSH>
+¡Por cierto, el Wizard
+que pilota el cohete es
+Magnes, mi hermano mayor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí! ¡Soy el cerebro y el
+piloto de un cohete que
+va al espacio! ¡Adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Soy un Wizard de combate
+avanzado, una creación
+de la Policía Satella.
+<PUSH>
+Es un honor para mí
+ser el Wizard de Ace.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Ji, ji...
+¡Cuando Sonia hace
+un Cambio de Onda nos
+<PUSH>
+fusionamos en Harp Note!
+¡Yo la ayudo a componer,
+<PUSH>
+y me aseguro de que siempre
+vaya hecha un pincel!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Vogue>
+¡Busco sitios de moda
+para que Luna esté
+siempre fabulosa!
+<PUSH>
+¡Por no decir que mi
+capacidad de memoria
+es de última generación!
+<PUSH>
+Pero lo mío no es luchar.
+Me da muchísimo miedo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¡Soy Taurus, el Wizard
+envuelto en llamas!
+<PUSH>
+¡Siempre estoy dispuesto
+a echar un buen combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡No tengo nada que
+hablar con un extraño!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+¡Lárgate y no
+me molestes!
+¡¡Kia, ja, ja, ja, ja!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{B1}{00}{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9C}{00}¡Pásatelo bomba comprando
+en la Gran ola!
+<PUSH>
+¡Los bomboncitos pueden
+recibir un servicio
+especial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Como la mánager de Belle,
+prometo que la haré llegar
+a lo más alto como idol!
+<PUSH>
+¡Nadie mejor que yo conoce
+sus talentos y habilidades!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{88}{00}Suelo hablar en
+lugar de Tom porque
+<PUSH>
+no es muy aficionado
+a hablar él mismo.
+<PUSH>
+Otra de mis tareas
+consiste en ayudarle
+con sus inventos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AF}{00}Es mi labor ayudar
+a Damian con su rutina
+de combate diaria.
+<PUSH>
+¡Grr! ¡Me hierve la sangre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+SECRETO
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+SECRETO
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+SECRETO
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}El Sr. Cobre viaja
+bastante, la verdad.
+<PUSH>
+Le gusta resolver casos
+a la antigua usanza,
+<PUSH>
+haciendo el trabajo
+sucio del detective.
+<PUSH>
+Yo no tengo que hacer
+gran cosa, él resuelve
+solo todos los casos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Dicen que hay Wizards
+de combate que pueden
+fijar al enemigo y atacar.
+<PUSH>
+Así, pueden acercarse
+al enemigo de forma
+casi instantánea.
+<PUSH>
+Hay varios tipos de
+patrones de búsqueda
+y rangos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}¡Ahí va una pista!
+<PUSH>
+La carta de combate
+AtqCgdor viene muy bien
+porque ciega al enemigo.
+<PUSH>
+¡Los Wizards como yo,
+que no somos muy fuertes,
+<PUSH>
+tenemos que saber cómo
+cegar y confundir a los
+enemigos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Mi operador ya tiene
+sus añitos. Pero parece que
+le ha empezado a interesar
+<PUSH>
+Clarice, del club de
+petanca. Pero que esto
+<PUSH>
+quede entre tú y yo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}Mi operadora no quiere
+que elimine virus
+<PUSH>
+porque dice que no quiere
+que me hagan daño.
+<PUSH>
+¡Es muy buena conmigo!
+¡Pienso protegerla pase
+lo que pase!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}¡Mi operador me quiere
+muchííísimo!
+<PUSH>
+¡Qué suerte tengo de tener
+un operador como él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}Hello!
+Soy un Wizard Tutor.
+¡Me dedico a ayudar a mi
+<PUSH>
+operador a estudiar para
+que suba mejore sus
+notas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}¡Mi operador es muy bueno
+jugando al escondite!
+<PUSH>
+¿Por qué no juegas con
+él algún día?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}Mi operadora se pierde
+constantemente.
+<PUSH>
+Menos mal que tengo
+funciones de navegación...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Mi operador odia perder.
+Es muy competitivo.
+<PUSH>
+¡Por eso, cuando las cosas
+se ponen feas no puedo
+bajar el ritmo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Como ves, mi operador
+es el director del
+colegio.
+<PUSH>
+Creo que estoy empezando
+a parecerme a él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}¡Adoro eliminar virus!
+Pero como tengo pocos PV
+<PUSH>
+Necesito usar muchas
+cartas de recuperación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Mi operador le pone
+tantas ganas a todo lo
+que hace que a veces
+<PUSH>
+se pasa y le da
+dolor de tripa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Mi operador es un gran
+fan de Sonia Strumm.
+<PUSH>
+Se gasta toda la paga
+en cosas de Sonia.
+<PUSH>
+¿Qué voy a hacer con él?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}La carpeta de mi operador
+está repleta de cartas
+elementales de fuego.
+<PUSH>
+Con tanto fuego, me parece un
+desperdicio no tener 
+{D0}{E7}...
+<PUSH>
+Seguro que se enfriaría
+la cosa con esa carta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Mi operador no es muy bueno
+luchando, pero ha estado
+<PUSH>
+aprendiendo varias
+técnicas.
+<PUSH>
+La verdad es que se está
+haciendo un operador
+hecho y derecho.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Mi operador es fan
+de los acertijos. A veces
+me siento con ella y
+<PUSH>
+pensamos nuevos acertijos.
+¿Te gustaría resolver uno
+de nuestros acertijos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}¡Últimamente, mi operador
+está como loca por esa
+nueva estrella, Belle!
+<PUSH>
+Cuando empieza a hablar de
+ella, no para.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}El Propósito de mi operador...
+no es tan guay.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}No soy un Wizard de combate
+y luchar no es lo mío.
+<PUSH>
+Pero el otro día,
+mientras eliminábamos
+a unos virus,
+<PUSH>
+¡convertí tres cartas Cañón
+en una carta superfuerte!
+<PUSH>
+¡Eliminé a esos virus con
+una Efectividad de
+nivel S!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Mi operador es el conserje
+de la escuela Echo Ridge.
+<PUSH>
+No quiero cambiar de tema,
+¿pero conoces las cartas
+que oscurecen la pantalla?
+<PUSH>
+Cuando las usas, se para
+el tiempo y la pantalla
+se oscurece
+<PUSH>
+Debe de haber algún
+uso para ese fenómeno.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Un {60}{E3} no es
+gran cosa, pero cuando
+<PUSH>
+van en grupo, no puedes
+bajar la guardia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}Hace poco, por poco no
+lo cuento en un combate.
+No conseguí Zennys,
+<PUSH>
+cartas de combate ni nada,
+salvo una bola restaura PV.
+<PUSH>
+¡Y madre mía qué falta
+me hacía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡Como ves, mi operador
+es la persona más
+<PUSH>
+importante del
+<Spica.Mall>!
+<PUSH>
+¡Yo me encargo de varias
+tareas, como ayudarle a
+gestionar su agenda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}¿Cómo podré mejorar
+mi Eficacia?
+<PUSH>
+Por una vez, me gustaría
+conseguir una Eficacia
+de nivel S.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Estos niveles tan altos
+de Ruido me ponen malo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Con el aumento de la
+tecnología, los crímenes
+<PUSH>
+son cada vez más y más
+complejos. Ahora ya no
+<PUSH>
+solo luchamos contra
+simples virus.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}¡Mi operador es muy
+rico, riquísimo!
+<PUSH>
+¡¿Te he dicho lo rico
+que es mi operador?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Si derrotas rápidamente
+a los enemigos, tu Eficacia
+será mayor,
+<PUSH>
+pero hay otros métodos
+para conseguirlo.
+<PUSH>
+Por ejemplo, puedes
+eliminar a dos o tres
+enemigos a la vez.
+<PUSH>
+Seguro que hay otras
+formas de aumentar
+tu Eficacia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Tu Eficacia demuestra
+tus habilidades de
+combate.
+<PUSH>
+Eliminar a los enemigos
+rápidamente y eliminar
+a dos tres a la vez
+<PUSH>
+puede aumentar tu
+Eficacia,
+<PUSH>
+pero seguro que hay
+otras formas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Estoy calculando la
+mejor estrategia para
+mi operador. Mmmm...
+<PUSH>
+Sí, va a tener que pulsar
+ese botón todo el rato
+para pasarse el juego.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}A mi operador le
+chiflan los dulces...
+<PUSH>
+Tengo que hacer lo posible
+para que no engorde.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}A veces veo virus
+deambulando por la ciudad.
+<PUSH>
+¿Me darán algo si los
+elimino?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}¡Yo me ocupo del
+mantenimiento del
+equipo del estudio!
+<PUSH>
+Puedo arreglar cualquier
+pieza del equipo, por
+compleja que sea.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}¡Es importante tener
+a tu Wizard bien
+equipado!
+<PUSH>
+No tiene ningún sentido
+tener un objeto y
+no equiparlo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}He oído que en el <Studi.WBG>
+los programas los hacen
+humanos y Wizards juntos.
+<PUSH>
+Mi operador dice que
+algún día quiere
+trabajar ahí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡Una táctica
+infalible es atacar
+a tu oponente con una
+<PUSH>
+carta muy fuerte después
+de paralizarlo con el
+Cañón de plasma!
+tactic!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}A mi operador le encanta
+intercambiar cartas
+de batalla.
+<PUSH>
+Si quieres, puedes cambiar
+cartas con él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Mi operador y yo
+hacemos escenarios.
+<PUSH>
+Las Ondas Reales están
+bien, pero no hay nada
+como algo hecho a mano.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Soy una máquina editando
+v´ídeos.
+<PUSH>
+Ni se te ocurra hablarme
+cuando estoy trabajando
+en la sala de edición.
+<PUSH>
+Podrías salir escaldado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}Soy de lo mejorcito
+realzando la belleza de
+<PUSH>
+las estrellas de la tele.
+¡Dame una cara y verás
+de lo que soy capaz!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}En un combate, debes
+saber cuándo apostar
+y cuándo pasar.
+<PUSH>
+No pasa nada por huir
+de vez en cuando.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}El Ruido da miedo...
+¿Será eso lo que hace que
+las máquinas se vuelvan
+<PUSH>
+locas?
+Dicen que los Wizards
+también emitimos Ruido,
+<PUSH>
+así que, en parte, me
+siento responsable...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}Mi operador es un actor.
+Yo le ayudo a recordar
+líneas y movimientos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡Mi operador es un
+doble de acción!
+<PUSH>
+¡Un doble se gana las
+lentejas con su cuerpo!
+<PUSH>
+¡Yo me encargo de su
+rutina diaria y de
+su dieta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}¿Sabes cuando a veces
+en un combate te atacan
+y te quedas
+<PUSH>
+confundido y mareado?
+¿He intentas usar el
+escudo pero no puedes?
+<PUSH>
+¡Cómo lo odio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Hace no mucho, usé una
+carta de combate llamada
+AtqTbrón. Aparecieron unos
+<PUSH>
+unos tiburones puestos
+en fila y cruzaron nadando
+toda la pantalla.
+<PUSH>
+¿Pero de qué iba eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡El otro día me crucé
+con un virus enorme!
+<PUSH>
+¡Daba un miedo de muerte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}¿Te has dado cuenta de
+que en la pantalla de
+cartas, muchas están
+<PUSH>
+repetidas? Las cartas se
+eligen aleatoriamente, pero
+cuantas más cartas iguales
+<PUSH>
+tengas, más probable es que
+aparezcan duplicados.
+<PUSH>
+Ojalá mi operador eligiera
+las cartas que mete en
+<PUSH>
+la carpeta con más
+cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}Mi operadora está
+deprimida por una
+ruptura reciente.
+<PUSH>
+La verdad, no vale la
+pena llorar por ese chico.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Mi operador y su novia
+son Hermanos. ¡Tengo que
+planear su próxima cita!
+<PUSH>
+¡Creo que al final de
+la cita le hará la
+gran pregunta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}¡Mi operadora y su novio
+están muuuy enamorados!
+<PUSH>
+¡Creo que hasta piensan
+en casarse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}A mi operador le
+encanta nadar.
+<PUSH>
+Menos mal que sé hacer
+RCP, ¡así, si se ahoga
+<PUSH>
+puedo ayudarle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Las cartas de tipo
+espada funcionan mejor
+cuando fijas al enemigo.
+<PUSH>
+Pero seguro que eso ya
+lo sabías, ¿verdad?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}En <Alohaha> han grabado
+muchas pelis y series.
+<PUSH>
+Hace poco, Sonia Strumm
+ha hecho una sesión
+de fotos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Puedes usar
+{54}{E7} para
+<PUSH>
+esquivar un ataque enemigo
+y luego atacarle tú!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Los Wizards de la Policía
+Satella tenemos capacidades
+de combate avanzadas.
+<PUSH>
+Los virus no pueden
+con nosotros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Como Wizard de la Policía
+Satella, me he consagrado
+a luchar por la paz!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Cuando un ataque
+te deje mareado y
+confundido y no
+<PUSH>
+puedas luchar bien,
+¡mantén la calma!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Los Wizards de la Policía
+Satella se especializan
+en combate y los
+<PUSH>
+Wizards de la WAZA
+en darle al coco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Los Wizards de la Policía
+Satella existimos para
+evitar que se produzcan
+<PUSH>
+crímenes... Por la paz,
+no dudaremos en usar
+la fuerza.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Este sistema
+medioambiental que ves lo
+creamos en la WAZA!
+<PUSH>
+Está feo que lo
+diga yo, la verdad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Si combinas bien tus cartas,
+a lo mejor encuentras
+<PUSH>
+algún uso para esas que
+creías que no te servían.
+<PUSH>
+Puedes intentar meter en
+la carpeta, alguna carta
+<PUSH>
+que hayas quitado
+anteriormente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}Trabajo como Wizard guía
+en Alohaha. Mi operadora
+<PUSH>
+se acaba de mudar, así que
+me he pasado días y días
+enseñándole la ciudad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Nos han creado para
+mantener la paz en el mundo.
+Es nuestro propósito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Contamos contigo,
+Omega...
+¡Y Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Stay sharp,
+Mega Man Star Force!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Todo depende de ti!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡No permitas que las
+vidas que se han perdido
+hayan sido en vano!
+<PUSH>
+Please make it back in
+one piece!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Menudos mamporros
+reparte tu Wizard de
+combate, Omega-Xis!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Una carta de combate
+especial como {C9}{E7}
+<PUSH>
+te permitirá atacar a los
+enemigos incluso cuando
+parpadeen.
+<PUSH>
+¡Acid usó una vez esa
+técnica para hacer un
+combo espectacular!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¿Sabes qué son los
+Paneles Antiguardia?
+Cuando estás sobre uno
+<PUSH>
+no puedes usar
+el escudo...
+<PUSH>
+A mí me han dado más de
+un problema.
+<PUSH>
+Ten mucho cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Seguro que ya sabes que
+la carta {B7}{E7}
+coloca dos piedras en el
+<PUSH>
+campo, ¿pero sabías que
+se puede elegir dónde
+colocar las piedras?
+<PUSH>
+La Policía Satella está
+realizando un estudio
+sobre ello.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¿Estás usando las cartas
+blancas? ¿Sabías que la
+Policía Satella las
+<PUSH>
+distribuye a través
+de las Estaciones
+Onda?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Para ganar un combate
+es vital que uses las
+cartas favoritas. Para
+<PUSH>
+asignar una carta favorita,
+selecciónala con el cursor
+y pulsa el botón Y.
+<PUSH>
+Lo recuerdas, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Dependiendo de cómo las
+combines, puedes potenciar
+las Cartas de combate.
+<PUSH>
+A ver qué te parecen
+estas combinaciones.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Cuantas más cartas
+iguales metas en la
+carpeta, más probable
+<PUSH>
+será que aparezca en
+la pantalla de cartas.
+<PUSH>
+Ten cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Para mejorar tu
+Eficacia, eliminar a los
+enemigos rápidamente es
+<PUSH>
+tan importante como
+eliminar a varios a la vez.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Ten cuidado si te cruzas
+con el "fantasma" de
+<PUSH>
+un Wizard enloquecido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Cuando atacas a un
+enemigo con un ataque
+potente,
+<PUSH>
+infligirás el doble
+de daño.
+<PUSH>
+Yo que tú lo
+recordaría.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Cuando veas la
+notificación "ATENCIÓN",
+ten cuidado!
+<PUSH>
+Te está avisando de que
+se acerca un poderoso
+enemigo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}El Carmesí, Ruido
+cristalizado, es una
+sustancia muy peligrosa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}El escudo. Es vital,
+fundamental, muy
+<PUSH>
+importante. En un combate,
+pulsa el botón Y para
+usarlo. ¿Ya lo sabías?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Cambio de Onda EM: ID "003"
+¡Mega Man Star Force!
+¡Eres la última esperanza!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}He estado observándote
+todo este tiempo.
+<PUSH>
+Es un honor poder
+conocernos al fin.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Haré lo que sea
+necesario por la
+paz mundial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Parecía que íbamos a
+perder la lucha, ¡pero
+la Dra. Goodall
+<PUSH>
+le dio la vuelta a la
+tortilla! Es una mujer
+brillante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Tu padre, Kelvin, es un
+ser humano excepcional
+y bondadoso.
+<PUSH>
+Es un honor conocer
+a su hijo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Ni siquiera nosotros
+entendemos muy bien qué
+son las Cartas Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}No me creo que ese chico
+se esté arruinando así...
+Debería hacer algo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<NEW-DIALOG>
+<Pedia>
+¡El apoyo a la Dele
+se sitúa en un {20}{E1}{03}{00}%!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

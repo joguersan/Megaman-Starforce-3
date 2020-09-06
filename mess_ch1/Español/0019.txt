@@ -1,0 +1,331 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esos dos parecen tristes.
+¿Les pasará algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No te preocupes por ellos.
+<PUSH>
+Prueba a ponerte el
+<Visualizer>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh? ¿Y eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Oh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahora ves el mundo de
+otra forma, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí... Ahora que llevo
+el Visualizador,
+<PUSH>
+veo que ese árbol es
+una "Onda Real".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Últimamente se ven
+por todas partes.
+<PUSH>
+Las Ondas Reales son
+objetos creados con
+ondas EM materializadas, ¿no?
+<PUSH>
+Las Cartas de Batalla
+también son Ondas Reales.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Así es. Y ahora las
+ondas EM se usan
+<PUSH>
+para hacer hasta casas
+y coches.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+No vamos a poder, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Eso parece, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Aquí estás, Geo.
+¿Has encontrado a alguien?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Oh, parece que esos
+dos tienen algún
+problema.
+<PUSH>
+¡Eh, vosotros!
+¡¿Puedo ayudaros
+en algo?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Bueno, verás...
+<PUSH>
+Queremos hacerle
+un regalo de cumple
+a nuestra amiga Stey.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Oh, qué bonito!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Los padres de Stey
+trabajan hoy, así que
+estará sola en casa.
+<PUSH>
+Queremos que tenga
+un cumple inolvidable.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Teníamos pensado usar este
+árbol de Ondas Reales.
+<PUSH>
+Queríamos sobreescribir
+los datos del árbol
+para que florezca
+<PUSH>
+y enseñárselo a Stey.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué idea más buena.
+¡Seguro que le
+hace mucha ilusión!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Sí, pero el profe ha
+puesto una
+megaprotección
+<PUSH>
+al programa del árbol.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No tú, Mega.
+Que le han puesto una
+megaprotección.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Y...
+¿Por qué no se lo
+pedís a vuestro
+profesor?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Nos encantaría, pero...
+<PUSH>
+El profe da muchísimo
+miedo.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Nos da miedo ir
+a pedírselo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Un profesor que
+da miedo, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Pues sí, hay una
+megaprotección.
+No puedo hacer nada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Tienes que ayudarles,
+Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Y-Yo?!
+P-Pero han dicho que el
+profesor da miedo...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pero porque es un
+adulto! ¡No te irás a
+asustar por eso!
+<PUSH>
+¡Esto es por nuestro
+Propósito, ¿recuerdas?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué remedio...
+(Con ella no hay
+excusas que valgan.)
+<PUSH>
+Vamos a buscar a ese
+profe terrorífico. Seguro
+que sigue en la escuela.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Valor y al toro, chico.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

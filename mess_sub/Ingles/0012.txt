@@ -1,0 +1,117 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+You have to save before
+you enter this menu.
+Do you want to save?
+{10}{EC}{00}{00}Yes, save
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+You have to save before
+you enter this menu.
+Do you want to save?
+{10}{EC}{00}{00}Yes, save
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you want to save
+your current status?
+{10}{EC}{00}{00}Yes, save
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Uh-oh... It looks like
+there was a
+communication error.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You've been switched to
+your extra folder,
+because the folder
+<PUSH>
+you have equipped is in
+violation of folder
+rules. If you want to
+<PUSH>
+equip that last folder,
+you'll need to edit it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It looks like you don't
+have enough Link Power
+for the ability you have
+<PUSH>
+equipped. Let's fix that
+on the Ability Screen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Friends on standby who
+have already been registered
+were removed from standby.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

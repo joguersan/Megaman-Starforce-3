@@ -1,0 +1,104 @@
+[SENTENCE NUMBER 1]
+Otro
+[END]
+
+[SENTENCE NUMBER 2]
+Volver a empezar
+[END]
+
+[SENTENCE NUMBER 3]
+Geo Finalize
+[END]
+
+[SENTENCE NUMBER 4]
+Black Ace
+[END]
+
+[SENTENCE NUMBER 5]
+Red Joker
+[END]
+
+[SENTENCE NUMBER 6]
+Attack Star
+[END]
+
+[SENTENCE NUMBER 7]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 8]
+Luna Presidenta
+[END]
+
+[SENTENCE NUMBER 9]
+Fans de Sonia
+[END]
+
+[SENTENCE NUMBER 10]
+Pat y Rey
+[END]
+
+[SENTENCE NUMBER 11]
+Apoyar a Zack
+[END]
+
+[SENTENCE NUMBER 12]
+Budicus
+[END]
+
+[SENTENCE NUMBER 13]
+Ganar el torneo
+[END]
+
+[SENTENCE NUMBER 14]
+Ganar 100 combates
+[END]
+
+[SENTENCE NUMBER 15]
+Salvar 100 Hercios
+[END]
+
+[SENTENCE NUMBER 16]
+Derrotar todos jefes
+[END]
+
+[SENTENCE NUMBER 17]
+DS W Rslt
+[END]
+
+[SENTENCE NUMBER 18]
+RsltOnlin
+[END]
+
+[SENTENCE NUMBER 19]
+{24}{E1}{04}{00}  {25}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 20]
+    B     W
+[END]
+
+[SENTENCE NUMBER 21]
+      {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+CmbtNul    
+[END]
+
+[SENTENCE NUMBER 23]
+{2C}{E1}Ruido
+[END]
+
+[SENTENCE NUMBER 24]
+Mega Man
+[END]
+
+[SENTENCE NUMBER 25]
+20{28}{E1}{02}{00}/{29}{E1}{02}{00}/{2A}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 26]
+{24}{E1}{02}{00}:{29}{E1}{02}{00}:{2A}{E1}{02}{00}
+[END]
+

@@ -1,0 +1,245 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00} Este es el Ciber Núcleo
+de la casa de Luna Platz.
+<PUSH>
+¿¡Eres Mega Man!?
+<PUSH>
+¡Me alegro tanto de que hayas
+sido tan buen amigo
+para Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+¡Hola!
+<PUSH>
+Esta casa siempre esta muy bien
+cuidada. La brisa de las OR
+fluye por ella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+¿Lo sabías?
+<PUSH>
+¡Este Ciber Núcleo es
+como la planta baja de la casa!
+<PUSH>
+Mola, ¿¡eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+Este es un buen atajo.
+Siempre a mano
+cuando tienes prisa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+Oigo una voz de OR.
+<PUSH>
+  "Delta75148"
+<PUSH>
+Es lo que me dice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+ClubStrng"R"!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Tú... ¡Tú eres Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Cómo sabes eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Con nuestra red "R", ese
+tipo de cosas es fácil
+de descubrir.
+<PUSH>
+Has sido marcado para 
+para la terminación.
+<PUSH>
+Como tal, hare de donde estás, 
+tu tumba.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Hmph! ¡Ya veremos quién
+termina en la tumba!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Quiénes sois! ¿¡ Y qué
+estáis haciendo en la tierra!?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Somos los "R", creados por nuestro
+maestro. Y en su nombre,
+<PUSH>
+Estamos recolectando planetas
+para su colección.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Colección?
+<PUSH>
+¿¡Estás diciendo que
+estáis robando planetas!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Quién se cree que es?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+*risita* Me gusta este planeta.
+<PUSH>
+Creo que a mi maestro
+le gustará más que otros
+planetas que ha conquistado.
+<PUSH>
+Le debemos este descubrimiento al
+ Astro Hertz que vino aquí
+ en busca de ayuda.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo! Podría ser ese
+Astro Hertz...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, ¡el que vino a nosotros
+en busca de ayuda, con su hermano!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eso significa que estos "R"
+y su maestro
+<PUSH>
+son la causa de todos
+estos incidentes, ¡debemos
+<PUSH>
+arremeter fuertemente
+contra estos idiotas para
+matar dos pájaros de un tiro!
+<PUSH>
+Borremos a este tipo y 
+lleguemos al final de esa
+Onda Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+*risita* Idiota.
+No tienes ni una oportunidad.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Bueno...
+¡Eso ya lo veremos!
+<PUSH>
+¡Hagámoslo! ClubStrng"R"!
+Batalla Onda!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}§
+[END]
+

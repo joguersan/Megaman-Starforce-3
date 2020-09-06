@@ -1,0 +1,132 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡No tienes escapatoria,
+Fantasma Oscuro!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh,{15}{E1} ¿por fin aceptas
+tu destino?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¿Por qué?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡¿Mega Man, por qué no dejas
+de meterte en mi camino?!
+<PUSH>
+¡¿Por qué?!
+¡Dímelo!
+<PUSH>
+¡¿Por qué{15}{E1} no te ciñes
+a mi guión?!
+<PUSH>
+¡Es una trama perfecta!
+<PUSH>
+¡Primero te robo la fuente
+de tu poder, y luego
+te destruyo!
+<PUSH>
+¡Me cobro mi venganza y me
+hago más fuerte a la vez!
+¡Dos pájaros de un tiro!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Pero serás idiota!
+<PUSH>
+¡¿Te crees que nos importa en
+absoluto tu estúpido guión?!
+<PUSH>
+Madre mía. ¡¿Cuántas veces
+te lo tengo que decir?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{13}{EC}¡¡!!
+<PUSH>
+Ahora lo entiendo todo...
+<PUSH>
+{12}{E2}<Solo>
+{01}{00}
+<NEW-DIALOG>
+<Dark.Phantom>
+Necios...
+<PUSH>
+¡Necios, no habéis leído
+mi guión! ¡Por eso no lo
+estáis siguiendo!
+<PUSH>
+No es culpa del guionista{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡Toda la culpa es vuestra,
+actorzuelos egoístas!
+<PUSH>
+Necios{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Necios{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Pero qué dice
+este ahora?!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Dark.Phantom>
+¡¡Es todo culpa vuestra!!
+¡Despedidos!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No, despedido, tú!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Vamos allá, Mega!!
+<PUSH>
+Combate de ondas{15}{E1}
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

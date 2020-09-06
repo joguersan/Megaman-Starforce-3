@@ -1,0 +1,351 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0A}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Someone please go get the
+lunches for the staff!
+I'm too busy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{1D}{16}{0B}{00}{0C}{E1}{00}{00}{3D}{16}{03}{00}{0C}{E1}{00}{00}{1C}{16}{04}{00}{0C}{E1}{00}{00}{90}{16}{07}{00}{0C}{E1}{00}{00}{93}{16}{07}{00}{0C}{E1}{00}{00}{94}{16}{07}{00}{0C}{E1}{00}{00}{95}{16}{07}{00}{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Busy, busy, busy.
+<PUSH>
+I'll take all the help that I
+can get!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Well...
+<PUSH>
+I just ordered lunch for
+the staff, but I don't have
+time to go and pick it up.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+If it will help, I don't
+mind going to pick up
+the lunches for the staff.
+<PUSH>
+
+<NEW-DIALOG>
+<Really!?
+Thank you so much!
+<PUSH>
+If you could pick up the
+order and make sure the
+<PUSH>
+staff gets their lunches,
+I'd really appreciate it.
+<PUSH>
+I ordered them from the
+Echo Ridge Elementary
+school store.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK, got it!
+<PUSH>
+{0A}{E1}{8F}{16}{0A}{E1}{1C}{16}{20}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<You unreliable little punk...
+
+<PUSH>
+{0B}{E1}{3D}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Did you deliver the lunches?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<You unreliable little punk...
+<PUSH>
+{0B}{E1}{3D}{16}{0B}{E1}{1C}{16}{0B}{E1}{1D}{16}{0B}{E1}{8F}{16}{0B}{E1}{90}{16}{0B}{E1}{91}{16}{0B}{E1}{92}{16}{0B}{E1}{93}{16}{0B}{E1}{94}{16}{0B}{E1}{95}{16}{82}{E1},{FF}{FF}{82}{E1}-{FF}{FF}{82}{E1}.{FF}{FF}{21}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Don't let me down, kid!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I delivered the lunches!
+<PUSH>
+
+<NEW-DIALOG>
+<Brilliant!
+You saved my keister.
+<PUSH>
+Here's a reward for helping.
+<PUSH>
+{A1}{E1}{85}{E1}{00}{00}{01}{00}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{1D}{16}{21}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<I would have been in deep
+trouble if it wasn't for you.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{93}{16}{11}{00}{0C}{E1}{01}{00}{90}{16}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Argh, I'm so hungry I could
+eat a house...
+<PUSH>
+Where are those lunches?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Here's your lunch, sir.
+<PUSH>
+
+<NEW-DIALOG>
+<I was almost a goner there!
+<PUSH>
+Thanks, kiddo!
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1},{FF}{FF}{0A}{E1}{93}{16}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Time to pig out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{0C}{E1}{01}{00}{94}{16}<Geo>
+{0C}{E1}{01}{00}{91}{16}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+=I'm starving.
+<PUSH>
+I can't concentrate on work
+without some food in me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Here's your lunch, ma'am.
+<PUSH>
+
+<NEW-DIALOG>
+=Thank you!
+<PUSH>
+You're the cutest delivery
+boy I've ever seen.
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}-{FF}{FF}{0A}{E1}{94}{16}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=I'll be able to focus on work
+after I eat!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{01}{00}{95}{16}<Prez>
+{0C}{E1}{01}{00}{92}{16}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<It's almost break time, but I
+still don't have my lunch.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Here's your lunch, sir.
+<PUSH>
+
+<NEW-DIALOG>
+<You're delivering the lunches?
+<PUSH>
+I guess he was too busy.
+<PUSH>
+Thanks for helping.
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}.{FF}{FF}{0A}{E1}{95}{16}
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Fooooood!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

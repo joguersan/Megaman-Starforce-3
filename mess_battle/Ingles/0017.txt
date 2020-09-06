@@ -1,0 +1,45 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Crown Noise
+<PUSH>
+Increases probability of a
+Mega Class Card appearing
+first on Custom Screen
+<PUSH>
+Elec elemental
+card attacks +20
+<PUSH>
+Land hit with Non-dimming,
+Non-elemental card to
+blind enemies
+<PUSH>
+Charged attack:
+"Plasma Shot",
+paralyzes enemies
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Crown Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C8}{10}
+[END]
+

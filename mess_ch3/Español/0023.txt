@@ -1,0 +1,519 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Los Wizard de élite están
+a otro nivel...
+<PUSH>
+Este ha creado mucho más
+Carmesí que los demás...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Yo he terminado de recoger
+los datos de Mega Man de
+la última batalla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Qué has averiguado?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man tiene potencial
+para aumentar su poder
+a niveles mucho mayores.
+<PUSH>
+Y parece que la clave es
+el Wizard de Geo Stelar,
+Omega-Xis...
+<PUSH>
+Justo como pensábamos...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Tienes datos de Omega-Xis?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Todos los que quieras.
+<PUSH>
+El Sr. King estará
+contento con los resultados.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Geo-2>
+¡¡Jack!!
+¡¡Srta. Tia!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sois vosotros los que
+recolectáis el Carmesí...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Y todo gracias a ti...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Decidme ahora mismo
+qué está pasando!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Somos tus enemigos...
+<PUSH>
+Somos miembros de Dealer...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Así que es cierto...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+El líder de Dealer nos
+ordenó infiltrarnos en
+<PUSH>
+la escuela Echo Ridge
+para investigar a Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Y enloquecimos a los Wizards
+para conseguir datos
+sobre ti.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Y al mismo tiempo
+recolectábamos el
+<PUSH>
+Carmesí que se producía
+durante la batalla.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Por qué?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Porque el Sr. King
+lo necesita...
+<PUSH>
+Y nosotros también...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Ya tenemos todos los
+datos que queremos...
+<PUSH>
+y Carmesí de sobra
+gracias a vosotros.
+<PUSH>
+Hemos cumplido
+nuestra misión.
+<PUSH>
+Así que ya no nos
+sois útiles.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Después de esto no os
+podemos dejar salir de aquí.
+<PUSH>
+Tendremos que acabar con
+Mega Man, el héroe
+justiciero...
+<PUSH>
+Nuestros Wizards están
+deseándolo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Vuestros Wizards?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡Kiajajajajaja!!
+¡Cuánto tiempo sin
+vernos, Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¡La última vez que nos
+vimos fue en el planeta FM!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Virgo!
+¡Corvus!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega, ¿los conoces?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Son alienígenas...
+FM-ianos...
+<PUSH>
+¡Son los peores criminales
+de la historia del
+planeta FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Criminales... del planeta FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He oído que han destruido
+incontables mundos...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Eeehh...
+¡¿Qué pasa, Omega-Xis?!
+<PUSH>
+¿No te alegras de vernos?
+<PUSH>
+En nuestro planeta eras
+famoso por tu poder,
+<PUSH>
+¡¿no habrás perdido
+facultades ahora que
+eres un Wizard?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡Kiajajajaja!!
+¡¿Tienes miedo?!
+<PUSH>
+¡No me lo creo, Omega-Xis
+nos tiene miedo!
+<PUSH>
+¡Fíjate, Corvus!
+¡Está temblando como
+un corderillo!
+<PUSH>
+¡¡Kiajajajajaja!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¿Te acuerdas en nuestro
+planeta, cuando querías
+luchar contra
+<PUSH>
+nosotros y te hacíamos
+morder el polvo?!
+<PUSH>
+¡Espero que te hayas hecho
+un pelín más fuerte desde
+entonces, ¿eh?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡¡Ya está bien!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Se acabó la charla.
+<PUSH>
+Terminaremos esto con una
+batalla, Geo Stelar...
+No... ¡Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Jack...
+No quiero luchar
+contra ti...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Sigues con esas tonterías
+aunque estoy a punto 
+de destruirte?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Dirás lo mismo cuando
+veas nuestro Cambio
+de onda EM?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡Corvus!!
+¡¡Hora del Cambio
+de onda EM!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Por fin!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Cambio de onda EM?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Virgo, estás lista?
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡Yo siempre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡¡Cambio de onda EM!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡Cambio de onda EM!...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Cómo...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Pueden hacer el
+Cambio de onda?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+En esta forma se me conoce
+como Queen Virgo...
+<PUSH>
+Subestimar mis habilidades
+te costará la vida...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Adelante! ¡Cambio de onda EM!
+<PUSH>
+¡¿Crees que podrás vecer
+a Jack Corvus?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Parece que no tengo opción...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien! ¡Vamos a hacerles
+morder el polvo!
+<PUSH>
+¡Chico, Cambio de onda EM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Tia, ¿me dejas los honores?
+<PUSH>
+Corvus tiene muchas ganas
+de luchar contra Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Bien...
+Diviértete...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Geo Stelar...
+Desde el principio, estábamos
+destinados a luchar.
+<PUSH>
+Esta batalla era inevitable.
+<PUSH>
+¡Atácame con todo lo que
+tengas si no quieres que
+te destruya!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No sé qué es lo que
+pretendéis, pero...
+<PUSH>
+¡¡Pero si todos esos incidentes
+son cosa vuestra,
+<PUSH>
+tengo que ganar, sea como sea!!
+<PUSH>
+¡Combate de ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

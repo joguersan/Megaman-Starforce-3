@@ -1,0 +1,115 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+Qué nervios...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Solo somos extras, pero
+estoy temblando como
+un flan.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Dejaos de lloriqueos!
+¡Yo estoy bien! ¡Hasta un poco
+emocionada, diría!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yo tengo hambre...
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Por cierto...
+¿Dónde está ya?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Se ha largado porque
+decía que le daba igual
+todo esto del programa.
+<PUSH>
+¡Tiene narices la cosa!
+¡Después de habernos tomado
+la molestia de invitarle!
+<PUSH>
+
+<NEW-DIALOG>
+<¡Extras, todos preparados!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡P-P-Preparados!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Se encuentra bien?
+<PUSH>
+Está más nerviosa que
+todos vosotros juntos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estará bien.
+Es una luchadora
+<PUSH>
+Vamos nosotros también.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+La arboleda está ahí
+enfrente.
+<PUSH>
+Tú tranquilo, que todo
+saldrá bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Lo haré lo mejor
+que pueda...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

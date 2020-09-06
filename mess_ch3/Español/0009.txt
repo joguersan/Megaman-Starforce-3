@@ -1,0 +1,243 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Jo, jo, jo. Qué interesante.
+<PUSH>
+Jamás me hubiera imaginado
+que Mega Man fuera un
+jovencito...
+<PUSH>
+¡Tus habilidades son
+excepcionales!
+<PUSH>
+Me disculpo por haberte
+hablado de esa forma. Te
+pido disculpas humildemente.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+No te preocupes...
+Lo entiendo...
+<PUSH>
+¿Pero podrías guardar
+el secreto de que soy
+Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Por supuesto...
+Si es lo que quieres.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡Muchísimas gracias,
+Don Wizard Grandote!
+<PUSH>
+¡Gracias a ti hemos
+podido terminar la sesión!
+<PUSH>
+¿Podrías decirme tu nombre?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Me llamo Strong.
+<PUSH>
+Yo controlo el sistema
+medioambiental del
+<Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+¡¿Tú eres la deidad
+guardiana de <Alohaha>?!
+¡¿ESE Strong?!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+No pensé que te
+encontraríamos aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Normalmente estoy en
+el <Castello.Alohaha>...
+<PUSH>
+De casualidad me topé con
+esta jovencita mientras
+<PUSH>
+patrullaba, así que
+me detuve a ayudarla.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡Mañana vamos a ver el
+sistema medioambiental!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Entiendo. ¿Sois estudiantes
+de la escuela Echo Ridge?
+He oído que veníais.
+<PUSH>
+Pero ahora tengo
+que partir. Ha sido un
+honor conoceros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Venid a verme si os
+metéis en problema.
+<PUSH>
+Estaré en el panel de
+control del <Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}{05}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡Eh, chicos!
+¡Os quedáis aquí
+hasta mañana, ¿no?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Pues sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡Entonces yo también!
+¡Vamos a pasarlo bien,
+<PUSH>
+que casi no nos vemos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡¡Sí!!
+¡Por mí perfecto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Jack-swim>
+Míralos, qué contentos
+todos...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+¿Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Strong...
+Es más poderoso de
+lo que esperaba...
+<PUSH>
+Qué divertido va
+a ser esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

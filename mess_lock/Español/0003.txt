@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+{0E}{E1}{01}{00}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geo!
+¿Tienes un momento?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eh...
+Claro, ¿qué pasa, mamá?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0E}{E1}{01}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+¿Tienes algo que
+quieras contarme?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Eh?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Un momento, chaval!
+<PUSH>
+¡¿No ves que tu madre
+está rara?! ¡Mira
+a ver que le pasa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chaval!
+¡Habla con tu madre
+antes de irte!
+<PUSH>
+Parece que está
+preocupada...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡E-eh, chico!
+<PUSH>
+Parece que tu madre
+está enfadada...
+<PUSH>
+¿No deberías ver
+si pasa algo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,57 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ha resurgido un
+recuerdo de Kelvin{16}{E1}.{16}{E1}.{16}{E1}.
+<PUSH>
+Pero empieza a desvanecerse
+debido a la fuerte
+interferencia del Ruido{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+S.{13}{E1}.{13}{E1}.{13}{E1}Kelvin{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1} ¿Has{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1} para él{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}?
+<PUSH>
+
+<NEW-DIALOG>
+R.{13}{E1}.{13}{E1}.{13}{E1}La verdad.{13}{E1}.{13}{E1}.{13}{E1} sí{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+"Geo"{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+S.{13}{E1}.{13}{E1}.{13}{E1}Un nombre{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} podría ocurrir{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+R.{13}{E1}.{13}{E1}.{13}{E1}fuerte y querido{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1}la Tierra,{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+.{13}{E1}.{13}{E1}.{13}{E1}ambas{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+S.{13}{E1}.{13}{E1}.{13}{E1}tan{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1}feliz{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+R.{13}{E1}.{13}{E1}.{13}{E1}Geo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+.{13}{E1}.{13}{E1}.{13}{E1}Nos has hecho{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1}las personas{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+.{13}{E1}.{13}{E1}.{13}{E1}mundo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,56 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Preparaos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Qué gran cantidad de Ruido!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¿Nunca se dan por vencidos?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Tenemos que continuar!
+<PUSH>
+¡Espero que puedas manejar
+una pelea más, Rogue!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

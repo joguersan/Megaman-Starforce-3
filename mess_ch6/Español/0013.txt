@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ace! ¡Acid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+...
+<PUSH>
+Je...
+<PUSH>
+Adelante, Laplace.
+Sigue el rastro del Ruido
+que Joker está dejando atrás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

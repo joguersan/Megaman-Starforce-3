@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¿Quieres guardar?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+

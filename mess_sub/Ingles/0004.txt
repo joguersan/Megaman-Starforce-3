@@ -1,0 +1,459 @@
+[SENTENCE NUMBER 1]
+Special glasses Kelvin
+used to use...
+[END]
+
+[SENTENCE NUMBER 2]
+Geo's mobile terminal
+which stores all of his
+information.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 3]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 4]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 5]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 6]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 7]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 8]
+A piece of the broken
+EM form of Luna.
+[END]
+
+[SENTENCE NUMBER 9]
+Number of Mr. Hertzes
+you have absorbed:
+{20}{E1}{02}{00}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Found at the school,
+this is a portion of a code
+that can open Noise Waves.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+Found at <Spica.Mall>,
+this is a portion of a code
+that can open Noise Waves.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 12]
+Found in {BD}{E4},
+this is a portion of a code
+that can open Noise Waves.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Found at the {BE}{E4},
+this is a portion of a code
+that can open Noise Waves.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 14]
+You have {20}{E1}{02}{00} of
+this extremely rare type
+of materialized Noise.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+Opponent Noise
+Type: Libra Noise
+[END]
+
+[SENTENCE NUMBER 16]
+Opponent Noise
+Type: Corvus Noise
+[END]
+
+[SENTENCE NUMBER 17]
+Opponent Noise
+Type: Cancer Noise
+[END]
+
+[SENTENCE NUMBER 18]
+Opponent Noise
+Type: Gemini Noise
+[END]
+
+[SENTENCE NUMBER 19]
+Opponent Noise
+Type: Ophiuca Noise
+[END]
+
+[SENTENCE NUMBER 20]
+Opponent Noise
+Type: Cygnus Noise
+[END]
+
+[SENTENCE NUMBER 21]
+Opponent Noise
+Type: Taurus
+[END]
+
+[SENTENCE NUMBER 22]
+Opponent Noise
+Type: Virgo Noise
+[END]
+
+[SENTENCE NUMBER 23]
+Opponent Noise
+Type: Crown Noise
+[END]
+
+[SENTENCE NUMBER 24]
+Opponent Noise
+Type: Wolf Noise
+[END]
+
+[SENTENCE NUMBER 25]
+Wallpaper that you can set
+to be the background on
+your <Hunter> VG.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 26]
+A cute card with a picture
+of Sonia winking on it.
+[END]
+
+[SENTENCE NUMBER 27]
+A card with a picture of
+Sonia holding a ticket to see
+a tennis match smiling.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 28]
+This rare card has a picture
+of Sonia striking an
+athletic pose.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 29]
+This heart-stoppingly
+beautiful card has Sonia
+looking very grown up.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 30]
+A paper plane made from
+a folded-up test paper a
+boy threw from the roof.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 31]
+A nervously and hastily
+signed autograph by
+Mega Man.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 32]
+A lovely autograph with
+a heart by Belle.
+[END]
+
+[SENTENCE NUMBER 33]
+A high-end camera on
+loan from one of the
+TV staff.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 34]
+A photograph of a
+crystal clear blue ocean.
+[END]
+
+[SENTENCE NUMBER 35]
+A photograph of the
+historic <Castello.Alohaha>.
+[END]
+
+[SENTENCE NUMBER 36]
+Someone is looking for this
+game that makes them
+hungry when they play it.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 37]
+Someone is looking for this
+highly realistic 3D taco
+fantasy RPG.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 38]
+Coconut that has been
+nourished by the sun's
+goodness.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 39]
+This flower is the
+symbol of Alohaha.
+[END]
+
+[SENTENCE NUMBER 40]
+The origin of this
+super-powerful ingredient
+is unknown.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 41]
+This special <Alohaha>n
+vitamin drink is a
+sparkling gold color.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 42]
+A magic incantation.
+"letsplaytoday!"
+[END]
+
+[SENTENCE NUMBER 43]
+This cleaning set is used to
+remove graffiti from walls.
+[END]
+
+[SENTENCE NUMBER 44]
+This creamy old-fashioned
+ice cream is made with
+fresh milk.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 45]
+A delicious peanut butter
+and jelly sandwich lunch.
+[END]
+
+[SENTENCE NUMBER 46]
+A delicious ham and
+cheese sandwich lunch.
+[END]
+
+[SENTENCE NUMBER 47]
+A delicious egg salad
+sandwich lunch.
+[END]
+
+[SENTENCE NUMBER 48]
+This notepad has the
+numbers 9 6 1 scrawled
+on it.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 49]
+This ginger beef in a can
+is heat-'n-serve ready
+to eat.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 50]
+This stuff is great when
+sprinkled lightly over of a
+nice bowl of ginger beef.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 51]
+This <Hunter> VG
+Gian Luigi gave to you to
+be fixed is kaput.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 52]
+This code allows you access
+to Cyber Cores which have
+been locked by WAZA.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 53]
+This code allows you access
+to Cyber Cores which have
+been locked by Dealer.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 54]
+This ID card allows you
+special access to the
+WAZA bound WaveLiner.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 55]
+The number of Omega
+Pieces you currently have
+is {00}{EA}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+[END]
+

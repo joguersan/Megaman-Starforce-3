@@ -1,0 +1,153 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Ah!!
+¡¿Pero qué narices...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha saltado una pantalla
+virtual de tu <Hunter>.
+<PUSH>
+¿Estará roto?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Pues no se quita...
+¿Qué está pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Eh, vamos!
+¡¿Por qué no se quita esta cosa!
+<PUSH>
+
+<NEW-DIALOG>
+/¡¿Qué está pasando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¿Me lo habré cargado?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Aquí pasa algo...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Geo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Eh, chicos!
+<PUSH>
+¿A vosotros os pasa
+lo mismo?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pedia y yo no hemos detectado
+ningún problema con mi <Hunter>!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Debe de ser cosa de
+unos hackers!
+<PUSH>
+¡Seguro que han accedido
+a vuestros Hunters a
+través de ondas EM!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Madre mía...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Jo, jo, jo...
+<PUSH>
+¿Qué tal, queridos
+humanos idiotizados?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Es King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Al fin ha decidido
+mostrarse.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Yo soy el líder de Dealer...
+<PUSH>
+¡Y desde ahora, el nuevo
+soberano de este planeta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

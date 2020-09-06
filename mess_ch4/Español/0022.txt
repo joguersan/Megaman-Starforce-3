@@ -1,0 +1,199 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué te ha parecido?!
+¡¿Esto también salía
+en tu precioso guión?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Je, je, je!{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡Mua{14}{E1}jajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿De qué te ríes?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¿Que de qué me río?
+<PUSH>
+De vosotros.
+<PUSH>
+¡Estáis siguiendo mi
+guión al pie de la letra!
+<PUSH>
+¡No puedo contener
+la emoción!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Qué?!
+<PUSH>
+¡Fantasma Oscuro,
+¿qué estás planeando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Je, je, je!
+<PUSH>
+No es algo que deba
+saber un actorzuelo...
+<PUSH>
+¡Limitaos a seguir
+mi guión al pie de la
+letra!
+<PUSH>
+¡Bueno, señores!{15}{E1}
+¡Así concluye el
+primer acto!
+<PUSH>
+¡Apuesto a que estáis
+deseando que comience
+el segundo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vuelve si es que
+quieres que te demos
+otra tunda!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+{13}{EC}(¿La Resonancia
+{13}{EC} formaba parte del plan
+{13}{EC} de Fantasma Oscuro?)
+<PUSH>
+{13}{EC}(¿Por qué?{15}{E1}
+{13}{EC} No ha venido solo
+{13}{EC} a pavonearse.)
+<PUSH>
+{13}{EC}(Seguro que Dealer tiene
+{13}{EC} algo que ver en esto...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chaval!
+¡Tierra llamando a Geo!
+<PUSH>
+Sé que esto da mucho que
+pensar, pero tenemos prisa,
+¿te acuerdas?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡!!
+<PUSH>
+¡Ah, sí!
+¡Tenemos que ir enseguida
+con los demás!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No bajes la guardia, chaval!
+<PUSH>
+¡Ese Cervantes de tres
+al cuarto podría aparecer
+en cualquier momento y lugar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+¡En marcha, Mega!
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}<{22}{EC}{00}{00}{02}{00}{22}{EC}{01}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man...
+<PUSH>
+Ahora eres capaz de usar
+el poder del Ruido.
+<PUSH>
+¡Desde ahora eres libre
+de usar el "<AcePrgm>".
+<PUSH>
+Puedes desequipártelo
+si no quieres usarlo.
+<PUSH>
+La Resonancia es un poder
+muy complejo de usar, pero
+muy beneficioso.
+<PUSH>
+Si sabes cómo usarlo...
+<PUSH>
+Tus capacidades y poder
+mejorarán enormemente.
+<PUSH>
+Espero grandes cosas de ti.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man...
+<PUSH>
+Ahora eres capaz de usar
+el poder del Ruido.
+<PUSH>
+¡Desde ahora eres libre
+de usar el "{C2}{E6}".
+<PUSH>
+Puedes desequipártelo
+si no quieres usarlo.
+<PUSH>
+La Resonancia es un poder
+muy complejo de usar, pero
+muy beneficioso.
+<PUSH>
+Si sabes cómo usarlo...
+<PUSH>
+Tus capacidades y poder
+mejorarán enormemente.
+<PUSH>
+Espero grandes cosas de ti.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,325 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Me encantan las hogueras!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Crean muy buen ambiente,
+¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+Dele, deja de comer y
+vente con nosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Crunch, crunch...
+Ñam, ñam...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+No te va a sentar bien
+comer tan rápido...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Cierra el pico, Zack!
+¡No estoy de humor!
+<PUSH>
+¡Voy a comer hasta reventar,
+así que ni me hables!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Sí que está enfadada...
+No me atrevo ni a mirar...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Por qué ha salvado Geo
+la bolsa de Sonia?
+<PUSH>
+Todos sabemos que
+la Dele tiene un
+humor de perros...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Qué poca comida!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Qué bonito, ¿eh?
+<PUSH>
+Durante el día, el océano
+es precioso, pero por
+la noche es...
+<PUSH>
+¿Qué palabra busco?
+<PUSH>
+¿Misterioso?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tienes razón...
+Pero también da miedo...
+<PUSH>
+Si te cayeras de aquí,
+se acabó...
+No se ve nada...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Eres un miedica, Geo...
+<PUSH>
+Luna se pondría triste
+si supiera que su héroe
+Mega Man tiene miedo al mar.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A veces da miedo...
+Estaba muy enfadada...
+<PUSH>
+Da mucho más miedo que
+el océano de noche...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Así es Luna.
+<PUSH>
+Pero tranquilo, yo te
+cogeré de la mano, para
+que no te caigas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Mejor ahora?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tú tira hacia atrás si
+ves que voy a caerme.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Tranquilo, lo prometo.
+<PUSH>
+...Ah, sí.
+Casi me olvido de
+decirte una cosa.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿El qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Gracias...
+<PUSH>
+Muchas gracias.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eehh, ¿por la bolsa?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+En parte.
+Me la regaló un fan y es
+muy especial para mí...
+<PUSH>
+Pero también por todo
+lo que has hecho
+por mí...
+<PUSH>
+{12}{E2}!{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Please become my Brother!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Cuando estaba sola y triste,
+me ofreciste convertirnos
+en Hermanos.
+<PUSH>
+Me hiciste muy feliz...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yo también lo estaba.
+<PUSH>
+Fuiste mi primera Hermana...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Por fin encontré a alguien
+que luchaba a mi lado.
+<PUSH>
+Por muy dura que fuera
+la lucha, no tenía miedo,
+<PUSH>
+porque sabía que no
+estaba solo.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Siempre has creído en mí,
+incondicionalmente.
+<PUSH>
+Incluso cuando trabajaba
+para una organización
+malvada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Porque somos Hermanos...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ese tal Ace me dijo algo...
+<PUSH>
+Que prontó necesitará
+mi poder...
+<PUSH>
+¿Va a comenzar una
+nueva lucha?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Los incidentes en la
+escuela y en tu
+concierto...
+<PUSH>
+Ace estaba relacionado
+con ellos...
+<PUSH>
+También ha dicho que
+era cosa de unos tipos
+malos...
+<PUSH>
+Puede que la lucha ya haya
+empezado y nosotros no
+lo sepamos...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Si vas a luchar, yo
+también.
+<PUSH>
+¡Somos Hermanos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias...
+Sonia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,586 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+...Umm.
+<PUSH>
+And therefore, if I am
+elected as student body
+president, I promise to ban
+<PUSH>
+all Valentine's Day activities
+on school premises!
+<PUSH>
+Thank you everyone for
+your support!
+<PUSH>
+{A0}{E1}{03}{00}<{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*cheers*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+Yaaaay!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+...It is now time for the final
+candidate.
+<PUSH>
+Please welcome Luna Platz
+from the 5th Grade Class A!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+H-Hello!
+<PUSH>
+{13}{EC}(Where is everybody!?)
+<PUSH>
+{13}{EC}(It's my turn!!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+My name is Luna Platz, and
+I am the candidate from
+the 5th Grade Class A.
+<PUSH>
+{A0}{E1}{03}{00}<{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*cheers*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+Woohoo!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Yey, Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+We're here for you, Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Thank you very much for
+your support, everyone!
+<PUSH>
+I am so happy to have this
+opportunity to speak to you
+today.
+<PUSH>
+{13}{EC}(Argh...
+{13}{EC} It's already started,
+{13}{EC} but they're not here!)
+<PUSH>
+{13}{EC}(Where is everyone!?)
+<PUSH>
+{13}{EC}(Bud, Zack, Geo...!)
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...Bah!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+What's that!?
+<PUSH>
+
+<NEW-DIALOG>
+.Wh-Wh-Wh-Who are you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*murmur*
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+...It doesn't look like he's
+here.
+<PUSH>
+What should we do, Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+If he's not here, then we'll
+just have to call him...
+<PUSH>
+If we wreck this place and
+cause a panic, he'll come
+racing to their rescue.
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ohoho!
+That sounds great!
+<PUSH>
+Let's get to it!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+H-Hey, what...
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Umm...
+This can't be good!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*chatter*
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+N-No way...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<Zack>
+{00}{00}{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Everyone!
+It's dangerous over there!
+<PUSH>
+Get over here, quickly!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+O-OK...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Ahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Help!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AF}{00}Oh, this is getting good...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AF}{00}Well, if it isn't my fellow
+FM-ian, Corvus...!
+<PUSH>
+He was so fierce that no
+other Wizard could even lay
+a hand on him in battle!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+I see.
+<PUSH>
+He's not exactly being a
+good visitor to Earth at the
+moment!
+<PUSH>
+If we don't do something to
+stop him soon, we could have
+a real problem on our hands!
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Are you saying you want to
+fight him, Damian?
+<PUSH>
+{15}{E1}...We can't beat him.
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+We just need to buy some
+time for now!
+<PUSH>
+Don't forget, a certain kid
+goes to this school!
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Hmm...
+You've changed, haven't you?
+<PUSH>
+Oh well.
+I guess we have no choice!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Yeah!
+<PUSH>
+EM Wave Change!
+Transcode 011{15}{E1}
+Wolf Woods!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ohohohohoho!
+Run away! Run away!
+<PUSH>
+You never know, someone
+might come and save you!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Stop this, this instant!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Who the!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Luna!
+Get away from there!!
+It's too dangerous!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+You...!
+<PUSH>
+Y-You're alive...!?
+<PUSH>
+B-But that can't be...!
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Jaaack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+This is no time for talking!
+<PUSH>
+Unless you don't mind if
+Queen Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+S-Shut up!!
+<PUSH>
+Hey, girl!
+What do you think you're
+doing!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What do I think I'm doing!?
+<PUSH>
+I should be asking you that
+question, don't you think!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+So...
+What are you doing here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ohohoho!
+<PUSH>
+Can't you tell?
+I'm going to turn this whole
+place into rubble!
+<PUSH>
+And I'm going to take out
+you and your little friends!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Shut up!!
+<PUSH>
+Jack, I'm asking you a
+question here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Please, Jack.
+Answer me...!
+<PUSH>
+You're not capable of hurting
+all of these people, are you?
+<PUSH>
+You wouldn't do something
+like that, right!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...Could you be any more
+annoying...!?
+<PUSH>
+You want me to answer that
+question...?
+<PUSH>
+Fine.
+<PUSH>
+I'll answer with destruction!
+<PUSH>
+Everything{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I'll destroy everything!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+W-Why...!?
+Jack, why!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+It doesn't matter...
+<PUSH>
+I just want to wreck stuff!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Ahhh!
+<PUSH>
+{13}{EC}(H-He isn't going to stop...!
+{13}{EC} I can't stop him all alone...!!)
+<PUSH>
+Mega Man...
+<PUSH>
+Please hurry...!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Grrrrrr...!
+My blood is boiling!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Who!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{8C}{00}You said your name is
+Corvus, right!?
+<PUSH>
+Well, why don't you try yelling
+at me, instead of a little girl!
+<PUSH>
+I'm rip roarin' and ready to
+go!!
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}...Maybe you haven't really
+changed, after all...
+<PUSH>
+
+<NEW-DIALOG>
+{8C}{00}Hey, Geo!
+Can you hear me over the
+school intercom!?
+<PUSH>
+Hurry and get to the roof!!
+<PUSH>
+We've got someone who
+wants to see you up here!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

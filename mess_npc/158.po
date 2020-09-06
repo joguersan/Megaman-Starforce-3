@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}The power core is at the\n"
+"top of the Crimson machine!\n"
+"[NEW_DIALOG]\n"
+"Trans into the Cyber Core\n"
+"and destroy the control\n"
+"panel!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "1"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}We don't know when the\n"
+"system might start up...\n"
+"We have to get going now!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "2"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}We've gathered together\n"
+"Wizards from members of\n"
+"[NEW_DIALOG]\n"
+"the force and put together\n"
+"a Mega Man support unit.\n"
+"[NEW_DIALOG]\n"
+"You take out the Crimson\n"
+"machine's power core\n"
+"[NEW_DIALOG]\n"
+"while we suppress the\n"
+"active shield system!\n"
+"[NEW_DIALOG]\n"
+"Unfortunately our capabilities\n"
+"are severely impaired under\n"
+"heavy Noise conditions...\n"
+"[NEW_DIALOG]\n"
+"Just pulsing in is suicide...\n"
+"Nevermind transing in.\n"
+"[NEW_DIALOG]\n"
+"...\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "3"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}We'll protect you against the\n"
+"active shield system's\n"
+"intercept attacks!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "4"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}You pulse in and head for\n"
+"the power core!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "5"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "6"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "7"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "8"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "9"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "10"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "11"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "12"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "13"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "14"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "15"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "16"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "17"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "18"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "19"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "20"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "21"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "22"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "23"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "24"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "25"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "26"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "27"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "28"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "29"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "30"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "31"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "32"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "33"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "34"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "35"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "36"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "37"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "38"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "39"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "40"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "41"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "42"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "43"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "44"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "45"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "46"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "47"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "48"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "49"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "50"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "51"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "52"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "53"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "54"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "55"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "56"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "57"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "58"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "59"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "60"
+msgid "{ec00}{0}"
+msgstr ""

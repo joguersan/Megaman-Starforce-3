@@ -1,0 +1,2387 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}B{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Hmm?
+Who are you?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Hey!
+<PUSH>
+He's got Zack's pants!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're the thief!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Give us back what
+you stole!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}You think I'm just gonna
+say "here you are" and give
+them back to you?
+<PUSH>
+If you want them back,
+you're gonna have to take
+them back!
+<PUSH>
+{0A}{E1})
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}O-OK...
+I won't steal anymore.
+Please forgive me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}I am the Captain Wizard of
+this ship.
+<PUSH>
+This ship is so high tech,
+that it takes a Wizard to
+pilot it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}&{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}This beach is currently
+booked for a private
+function!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tBlue sky, and blue sea.
+Ahh, <Alohaha> is so
+beautiful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+Welcome to <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Up ahead is the beach!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}I am the Captain Wizard of
+this ship.
+<PUSH>
+It may look small, but it is
+so high tech, that only a
+Wizard can pilot it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Up ahead is the beach!
+And what a beautiful
+beach it is!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tBlue sky, and blue sea.
+Ahh, <Alohaha> is
+beautiful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+Have a nice time
+in <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{43}{07}{53}{07}({09}{E1}{00}{00}{55}{07}{59}{07}2
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Yesterday's catch was big!
+It makes being a Captain
+Wizard worth it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{09}{E1}{00}{00}{43}{07}{53}{07}){09}{E1}{00}{00}{55}{07}{59}{07}3
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Up ahead is the beach!
+And what a beautiful
+beach it is!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{09}{E1}{00}{00}{43}{07}{53}{07}*{09}{E1}{00}{00}{55}{07}{59}{07}4
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThere's something
+chilling in the air...
+I have a bad feeling.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+{09}{E1}{00}{00}{43}{07}{53}{07}+{09}{E1}{00}{00}{55}{07}{59}{07}5
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+<PUSH>
+Thanks to the environmental
+system, today is another
+great day!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Hmm...
+It's an earthquake...
+What is Strong doing?
+<PUSH>
+With him and the
+environmental system,
+<PUSH>
+there should never be any
+earthquakes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I-It's an earthquake!
+Be careful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWaaagh! An earthquake!
+<PUSH>
+There's something wrong
+with the environmental
+system!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vWhat?
+Could this be an earthquake?
+Scary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Th-There's no response
+from Strong...
+What is going on!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}There's no response
+from Strong...
+That's nuts!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI saw what happened in
+the castle...
+S-Strong...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vWh-What the heck
+is going on?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{09}{E1}{00}{00}{6D}{07}{89}{07}P
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}That incident the other
+day was a big surprise!
+<PUSH>
+I'll feel better when
+Strong returns to his
+old self.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+{09}{E1}{00}{00}{6D}{07}{89}{07}Q
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}A famous scientist is
+working to repair
+Strong.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{09}{E1}{00}{00}{6D}{07}{89}{07}R
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI wonder if Strong is OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+{09}{E1}{00}{00}{6D}{07}{89}{07}S
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI heard that a human girl
+got caught up in that
+recent incident.
+<PUSH>
+I wonder if she's OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}I saw a Hertz holding
+something shiny and looking
+around all shifty.
+<PUSH>
+He then disappeared onto
+the Castle's Wave Road.
+<PUSH>
+I'm sure he was up to
+something!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Since the incident the
+other day, I've tightened
+my own security.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI heard that Strong will
+be coming back soon!
+I can't wait to see him again!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThey haven't found that
+one girl, right? I wonder
+where she is?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Hey, look! There's
+something glowing here!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+No doubt about it, Luna
+Platz's data is being
+reassembled.
+<PUSH>
+{0A}{E1}+{82}{E1}{03}{00}{01}{00}{02}{E2}L{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{73}{E5}"!
+
+<PUSH>
+{01}{E2}L
+<NEW-DIALOG>
+<Acid>
+Good work, Geo.
+You found it.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks... Thanks to you,
+Acid!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+*grumble*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+{0D}{E1}{00}{00}CDe
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI think Strong is
+finally back!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tStrong is back!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+{0D}{E1}{00}{00}CDg
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI heard they found the
+girl that went missing!
+<PUSH>
+That's great!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vStrong is back!
+<PUSH>
+Now the environmental
+system should go back
+online!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+{0D}{E1}{00}{00}CDi
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I have to protect
+<Alohaha> until
+Strong gets back!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Strong is back!
+<PUSH>
+Now I can help him keep
+<Alohaha> safe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+{0D}{E1}{00}{00}ST<Apollo.Flame>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThanks to Strong, today
+is another peaceful day
+here in <Alohaha>!
+<PUSH>
+The Guard Wizard should
+also be commended for
+his work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIt doesn't matter if
+Wizards go out of control,
+as long as Strong is here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+{0D}{E1}{00}{00}ST{8F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThis place just isn't the
+same without Strong.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vStrange incidents just
+keep happening all over
+the place.
+<PUSH>
+For the time being, <Alohaha>
+is still safe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+{0D}{E1}{00}{00}ST{91}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}From here on out, I'll
+divide the patrols of
+<Alohaha> up with Strong.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}There haven't been any
+incidents of Wizards going
+out of control on <Alohaha>.
+<PUSH>
+But I can't let my guard
+down, I'm gonna stay on
+patrol!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+{0D}{E1}{00}{00}ST{93}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Thanks to the environmental
+system, the ocean is calm
+as always!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}Wizards are going out of
+control one after another...
+<PUSH>
+I-I...
+I wonder if I'm OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}cf{BE}{00}{0D}{E1}{00}{00}go»
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}I heard they got WAZA...
+<PUSH>
+Even if they managed
+to escape in ships,
+<PUSH>
+how are they supposed
+to beat a meteor?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}No matter what happens
+to the world...
+<PUSH>
+I have a job to do, and I'm
+going to see it through!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+{0D}{E1}{00}{00}cf¿{0D}{E1}{00}{00}go{CA}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis beautiful scenery...
+We can't let it be taken
+away by Dealer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+{0D}{E1}{00}{00}cf¡{0D}{E1}{00}{00}go{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThis is no time for me to
+be saying things like...
+<PUSH>
+Heloha!
+Welcome to <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}A lot of people went inside
+<Castello.Alohaha>...
+Aren't they from WAZA?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPeople from WAZA are
+gathering in front of
+<Castello.Alohaha>.
+<PUSH>
+Could there still be hope?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+Welcome to <Alohaha>!
+<PUSH>
+There's some kind of
+commotion over at
+<Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}If anything goes down,
+my plan is to protect
+the children.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI believe.
+<PUSH>
+Our hero will come and
+save our planet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+Welcome to <Alohaha>!
+<PUSH>
+The Earth is in trouble...
+What's going to happen
+to us?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 211]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 212]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 213]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 214]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 215]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 216]
+{0C}{E1}{01}{00}{00}{18}{D8}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}*snicker*{15}{E1}
+Where should I plant a virus
+this time?{14}{E1} *snicker*
+<PUSH>
+Even if all of these viruses
+are deleted...{16}{E1}
+Then...{14}{E1} *snicker*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 217]
+{0C}{E1}{01}{00}{65}{02}Ÿ
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}It looks like you managed
+to delete all of the viruses
+we placed in the town...
+<PUSH>
+So...{15}{E1} for your reward,{16}{E1}
+I'm going to delete YOU!
+<PUSH>
+{0A}{E1}{63}{02}{0A}{E1}{65}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 218]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Wh-What!?
+You want some more!
+In that case... {15}{E1}Bring it!
+<PUSH>
+{0A}{E1}{63}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 219]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 220]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 221]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 222]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 223]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 224]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 225]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 226]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 227]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 228]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 229]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 230]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 231]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 232]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 233]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 234]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 235]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 236]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 237]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 238]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 239]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 240]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 241]
+{0D}{E1}{00}{00}''{F1}{00}{0D}{E1}{00}{00}((Ú{0D}{E1}{00}{00}00{F3}{00}{0D}{E1}{00}{00}`b{F4}{00}{0D}{E1}{00}{00}cf{F5}{00}{0D}{E1}{00}{00}go{F6}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Heloha!
+Up ahead is
+<Castello.Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 242]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Wh-What is going on!?
+What happened to Strong!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 243]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}There was a lot of
+commotion coming from
+inside the castle, but now,
+<PUSH>
+all of a sudden, everything
+is quiet. I wonder what
+happened?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 244]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}I would have never dreamed
+that they would take Strong
+away from us. I'm so sad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 245]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Those Dealer guys are
+scary.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 246]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}<Castello.Alohaha> is packed
+with people from WAZA
+and the Satella Police.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 247]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Uuugh... The Noise from
+Meteor G is making my whole
+body feel weak.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 248]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 249]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 250]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 251]
+{0D}{E1}{00}{00}''{FB}{00}{0D}{E1}{00}{00}(({FC}{00}{0D}{E1}{00}{00}00{FD}{00}{0D}{E1}{00}{00}`b{FE}{00}{0D}{E1}{00}{00}cf{FF}{00}{0D}{E1}{00}{00}go{00}{01}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Heloha! Up ahead in
+<Castello.Alohaha> is where the
+<PUSH>
+environmental system
+is located!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 252]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}How can there be an
+earthquake when we have
+the environmental system!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 253]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}I think I heard Strong
+screaming...
+Wh-What is going on?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 254]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}I still can't believe that
+they got Strong.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 255]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Dealer, you won't get
+away with this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 256]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}Right now WAZA and the
+Satella Police are using
+<Castello.Alohaha> as
+<PUSH>
+a temporary base!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 257]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9B}{00}The Wizard next to me is
+not doing so well...
+<PUSH>
+It's because of the high
+Noise levels that Meteor G
+is generating.
+<PUSH>
+I'm starting to feel it too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 258]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 259]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 260]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 261]
+{0D}{E1}{00}{00}''{05}{01}{0D}{E1}{00}{00}(({06}{01}{0D}{E1}{00}{00}00{07}{01}{0D}{E1}{00}{00}`b{08}{01}{0D}{E1}{00}{00}cf{09}{01}{0D}{E1}{00}{00}go{0A}{01}
+<START-DIALOG>
+
+<NEW-DIALOG>
+t<Alohaha> is the paradise
+of Electopia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 262]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOh my! An earthquake!?
+<PUSH>
+I can feel massive amounts
+of Noise coming from
+<Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 263]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t<Castello.Alohaha> is quiet...
+Too quiet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 264]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*sob*
+Strooong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 265]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOh man...
+Dealer is really powerful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 266]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t<Castello.Alohaha> is packed with
+people.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 267]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat is going to happen
+to the Earth?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 268]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 269]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 270]
+
+<START-DIALOG>
+
+[END]
+

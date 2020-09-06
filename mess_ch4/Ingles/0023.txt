@@ -1,0 +1,252 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}(...Not sure we
+{13}{EC} can handle this.)
+<PUSH>
+Acid...
+Is the Noise Canceller ready?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Not yet.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...I shouldn't have asked.
+<PUSH>
+But since Dr. Goodall is in
+charge, I'm sure she'll get it
+working in time.
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<HarpNote>
+Ahhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Oh, give me a break!
+<PUSH>
+A copy of me should be way
+stronger than you chumps!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+Beast Slap!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Omega-Xis!?
+.{15}{E1}.{15}{E1}.{15}{E1}So that means...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Are you OK, Sonia!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sorry I'm late...!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+A hero shows up just in the
+nick of time...
+<PUSH>
+*giggle*
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...{15}{E1} What?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Don't worry about it!
+<PUSH>
+More importantly...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You bet...
+I found all of Prez's data!
+<PUSH>
+Now we can...
+Finally bring Prez back!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+{13}{EC}...!
+<PUSH>
+Y-Yay!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+The situation is as bad as
+it looks.
+<PUSH>
+We don't know whether their
+goal is to destroy or take
+over WAZA, but...
+<PUSH>
+Either way, we aren't going
+to let them get away with
+it!
+<PUSH>
+WAZA's main computer is
+definitely going to be needed
+to bring Luna back.
+<PUSH>
+So...
+<PUSH>
+You know what we have to
+do, right, Mega Man?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I'm going to go buck wild
+on those fakes until they
+beg for mercy!
+<PUSH>
+Nothing can stop me!
+<PUSH>
+Come on, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You got it!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+They're all here, at last.
+<PUSH>
+Now we can take them all
+out in one fell swoop...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Kyaha!
+<PUSH>
+At looong last, I can finally
+have a little fun, right?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!
+<PUSH>
+It's pretty fun watching...
+Let's wait a little bit longer.
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Whaaat!?
+That sounds sooo boring!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

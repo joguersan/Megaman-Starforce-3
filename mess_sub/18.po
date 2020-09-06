@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "{e124}{6}"
+msgstr "{e124}{6}"
+
+msgctxt "1"
+msgid "{e124}{4}"
+msgstr "{e124}{4}"
+
+msgctxt "2"
+msgid "/{e125}{4}"
+msgstr "/{e125}{4}"
+
+msgctxt "3"
+msgid "Keyword"
+msgstr "Términos"
+
+msgctxt "4"
+msgid "Menu"
+msgstr "Menú"
+
+msgctxt "5"
+msgid "EXIT"
+msgstr "SALIR"
+
+msgctxt "6"
+msgid "NO ACCESS"
+msgstr "PROHIBIDO"
+
+msgctxt "7"
+msgid "Sel Destination"
+msgstr "Elegir destino"

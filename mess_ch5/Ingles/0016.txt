@@ -1,0 +1,531 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Wh{15}{E1}-What's this...!?
+<PUSH>
+I didn't know that Noise could
+get this big!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I-It's definitely not normal...!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...Pfft!
+<PUSH>
+Don't tell me you're freaking
+out over something so small...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+J-Jack...!?
+<PUSH>
+Is this Noise all your doing!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...What would you do if I did
+do it?
+<PUSH>
+You know{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I just don't get it...!!
+<PUSH>
+How could such imbeciles
+beat Sis!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+About Ms. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Shut up...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Just listen, Jack...!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+I said shut up!!
+Don't talk to me like you
+know me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Man...
+You two really bug me...!!
+<PUSH>
+You think I should listen to
+you!?
+<PUSH>
+You think I'm an idiot!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Not at all...!{15}{E1}
+I was just...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Just quit it, kid!
+<PUSH>
+If you want to talk to him,
+do after we kick his butt!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ha! You sure can talk, can't
+you, Omega-Xis!?
+<PUSH>
+Wait, you don't think...
+<PUSH>
+That you actually gave me
+some competition in the last
+battle, do you?
+<PUSH>
+If so, you must be losing
+your mind at your old age!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+<PUSH>
+Shut that flapping beak of
+yours, and get ready for
+some pain!
+<PUSH>
+We'll see who's the old man!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+{13}{EC}...
+<PUSH>
+Don't get too carried away,
+Omega-Xis...
+<PUSH>
+Jack...{15}{E1}
+Let's rid the planet of this
+chump stain...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Shut up!!
+<PUSH>
+Don't you dare give me
+orders...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Please, Jack!
+<PUSH>
+I don't want to fight you...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+I see...{15}{E1}
+Well, whatever you say.
+<PUSH>
+But I came here for a fight,
+so I'm having one...!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+...So I finally found one of
+those Dealer scum.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Who's that...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...Argh!!
+Who are you...!?
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{12}{E2}<Bud>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+My name is Rogue{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Try not to forget it.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Rogue...!?
+<PUSH>
+The last survivor of Mu?
+That Rogue...!?
+<PUSH>
+{13}{EC}(...King mentioned
+{13}{EC} that he's really dangerous...
+{13}{EC} So that's him, huh...!?)
+<PUSH>
+...What do you want?
+Why are you here!?
+<PUSH>
+Is there something you want
+from me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Not from you...
+<PUSH>
+I have a question for your
+Boss.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...Take me to your leader.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Ha...!
+<PUSH>
+Just who do you think you
+are!?
+<PUSH>
+...If you want to see King,
+then find him yourself!
+No chance I'm helping you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Man, he really spoiled the
+mood!
+<PUSH>
+Next time, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph...
+He ran away.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+W-Wait, Rogue!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Th-Thanks...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}You're as naive as always.
+<PUSH>
+Do you honestly think that
+I was helping you out?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh...?
+<PUSH>
+W-Well, then...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph...
+<PUSH>
+You know what, I don't even
+care what you think.
+<PUSH>
+You're still on my hit list.
+<PUSH>
+Nothing has changed.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...However...
+<PUSH>
+There are others who are
+of more concern to me at
+the moment...
+<PUSH>
+Dealer...
+I'm taking them down.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+You're fighting Dealer, too!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+I'll only say this once.
+I have no intention of
+working with you.
+<PUSH>
+...At the most, you will only
+be a tool of mine to use.
+<PUSH>
+Get that message to the
+Satella Police, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue...
+I mean <Solo-color>.
+<PUSH>
+What did Dealer do to make
+you so angry?
+<PUSH>
+And why did you leave a
+message for the Satella
+Police?
+<PUSH>
+Do you have a history...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Take a look!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I-It's gone...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's finally clear!
+<PUSH>
+That Jack guy must be
+behind that weird Noise!
+<PUSH>
+He made that stuff show up
+in order to cause a ruckus.
+<PUSH>
+Which he knew would draw us
+out!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Hmm...
+<PUSH>
+Things certainly are getting
+more complicated...
+<PUSH>
+For the time being, let's go
+see the Satella Police...!
+<PUSH>
+...It would be great if the
+Wave Liner was running.
+<PUSH>
+Getting through that Noise
+Wave was really rough...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We took care of all that
+weird Noise he set up, plus
+<PUSH>
+there aren't anymore viruses
+running around, so...
+<PUSH>
+It should be working, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Good point!
+Let's go check!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

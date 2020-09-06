@@ -1,0 +1,96 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡¡Jefe!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡¿Qué pasa?!
+<PUSH>
+
+<NEW-DIALOG>
+1Gracias a la retransmisión
+del <Studi.WBG>...
+<PUSH>
+¡¡Todos los habitantes de
+la Tierra comparten el
+mismo Propósito!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Y cuál es?
+<PUSH>
+
+<NEW-DIALOG>
+1«Traer a Geo a casa».
+<PUSH>
+¡¡Todos están haciendo lo
+que pueden para completar
+el Propósito!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+El poder de los Propósitos
+es increíble...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Todos nosotros...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Tenemos que cambiar
+nuestro Propósito a
+«Traer a Geo a casa»!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Vuelve a casa, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Has hecho tanto
+por nosotros...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¡Vuelve a casa y
+tómate unas vacaciones!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡¡Geo!!
+Todos te estamos esperando...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

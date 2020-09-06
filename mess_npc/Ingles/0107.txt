@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is the <Studi.WBG>
+Wicket.
+<PUSH>
+Countless celebrities have
+passed through this gate.
+Even you-know-who!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

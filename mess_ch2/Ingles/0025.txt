@@ -1,0 +1,110 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, a phone call...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What is it, Sonia!?
+How's the concert!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Right now, the stage's
+settings are being altered...
+<PUSH>
+But, I heard about what
+you did, from Lee.
+<PUSH>
+I'm sorry you had to put
+yourself in danger just to
+save me...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Don't be sorry.
+<PUSH>
+I said it before and I'll
+say it again. That's what
+friends are for.
+<PUSH>
+Don't worry and get back
+to the concert. Make them
+happy like only you can!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+OK! You can count on me!
+<PUSH>
+I'll get them so fired up
+that they'll forget about the
+cold!
+<PUSH>
+You better not get even
+a scratch on you, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I can feel some strong
+Noise up ahead.
+<PUSH>
+It feels the same as when
+Magnes was out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So then it must be...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah. There's an out of
+control Wizard here...
+<PUSH>
+There's a good chance it's
+that Wizard, Ice.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's go, Mega!
+<PUSH>
+I'm not letting Sonia's
+concert get ruined any
+more than it already has!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

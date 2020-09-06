@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Time to go buck wild!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Alright!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

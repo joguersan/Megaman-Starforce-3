@@ -1,0 +1,352 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el mostrador
+de recepción...
+<PUSH>
+Si activas el monitor,
+te atenderá el Wizard
+de información.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial!
+¡Vamos a probarlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mejor que no...
+A lo mejor nos regañan
+si nos ven jugando con él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{09}{E1}{00}{00}{13}{00}<Geo>
+{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Izquierda - Policía Satella
+             Derecha - NAZA
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina expendedora
+de bebidas...
+<PUSH>
+No tiene nada de especial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}{F3}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Los oficiales de la Policía
+Satella usan este terminal...
+<PUSH>
+Desprende una luz
+muy brillante.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Oh!
+¡Mira!
+<PUSH>
+{80}{E1}E{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+la Carta de Combate:
+«{85}{E7}»!
+<PUSH>
+{0A}{E1}{F3}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{41}{08}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una megachuche.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Seguro que es de Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Segurísimo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{01}{00}ç{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué pasa, chaval?
+¿Has encontrado algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pues la verdad...
+<PUSH>
+...¡es que sí!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial! ¿Pero qué
+hacía esto aquí?
+<PUSH>
+{0A}{E1}ç
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un escritorio majestuoso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un mapa del mundo.
+<PUSH>
+Aparecen los países con
+cuarteles de la NAZA.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Aparecen datos a velocidad
+vertiginosa.
+<PUSH>
+Aparecen todos los eventos
+que se están produciendo
+en la Tierra.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{93}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Izquierda - Policía Satella
+           Derecha - ¡¿PASSA?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Parece que un virus
+ha estropeado la pantalla.
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Je, je, je. Eh, chico...
+Puede que haya...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Sí?
+<PUSH>
+¡Hala!
+¡¿Cómo lo has sabido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chico, ¿de qué hablas?
+¡Estaba tomándote el pelo!
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} creía haber
+obtenido el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+Mala suerte. ¡Capacidad
+PS NO aumentada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lo siento, chico...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Los oficiales de la Policía
+Satella usan este terminal...
+<PUSH>
+Desprende una luz
+muy brillante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una megachuche.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,217 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}/{02}{00}{0C}{E1}{01}{00}P{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+¿¡Qué!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}¿Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡Policía Satella!
+Entrega lo que sea
+que estés escondiendo.
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}¡Tch! ¿Te crees que
+porque me pidas que te
+entregue algo lo haré?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡!
+<PUSH>
+{0A}{E1}{27}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+¡Tch!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+Ay...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+*glaring*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+*staring*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|¿¡V-vosotros quiénes
+sois!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|¿Te has dado cuenta?
+<PUSH>
+Este Cybernúcleo es como
+<Alohaha>.
+<PUSH>
+A que mola, ¿eh?
+<PUSH>
+Puedes compararlo con la
+imagen del monitor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tHan aparecido de repente
+todos estos Wizards con cara
+de pocos amigos.
+<PUSH>
+En estos momentos me gustaría
+que Strong estuviese
+por aquí. Pip, pip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Aloha!
+¡Disfruta tu estancia
+en <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+

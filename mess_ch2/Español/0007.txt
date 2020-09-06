@@ -1,0 +1,98 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ya estamos lejos.
+Podemos descansar.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Eh... Ha salido una voz
+de mi <Hunter> cuando
+me he transformado...
+<PUSH>
+Ha dicho algo como
+«Transcodificación» y «004».
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, a mí también me pasó.
+yo soy "003".
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+No estoy segura, pero
+parece que nos hemos
+<PUSH>
+registrado en la
+Policía Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No os preocupéis
+por eso ahora.
+<PUSH>
+En marcha.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo... Digo, Mega Man.
+¿Qué hacemos ahora?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sigamos la Carretera hasta
+la azotea de la escuela.
+Allí estaremos a salvo.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Me parece bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Nos quedaremos ahí
+un rato...
+<PUSH>
+¡Vamos, Harp Note!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hay que ver, es tan
+vivaracha como siempre.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Venga, vamos nosotros
+tambíén, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

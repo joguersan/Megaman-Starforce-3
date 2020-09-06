@@ -1,0 +1,183 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beeeeeeep, beep*
+I'm measuring a large amount
+of Crimson!
+<PUSH>
+This...Noise...is in...cre...dible!
+I... I... I'm being blown
+a...way...!
+<PUSH>
+*beep, beeep, beeeep, beep*
+*beeeep, beeeeeeep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+TaursFire"R"!
+Leave Earth now!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+?
+Geo, what are you talking
+about? It's me. Me!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh? ...Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Yeah! I heard that there
+was some strange EM body
+over there.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Oh...
+Who told you that?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Who...? Why Luna did of
+course!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Right!
+Just as I thought,
+you're not Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+That's messed up, Geo! You
+mean to say that you don't
+even trust your Brother!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Just cut the act already!
+We see right through it!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Bud would never call Prez,
+Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+*gulp*... Alright, I guess
+the jig is up!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Did you really think you
+could fool us?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Enough!
+<PUSH>
+You leave me no choice but
+to make you food for my
+flames!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Here he comes, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}<Sirius>
+
+[END]
+

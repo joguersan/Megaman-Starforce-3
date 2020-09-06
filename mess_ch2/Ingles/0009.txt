@@ -1,0 +1,179 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack...
+You can't go off and do
+what you want like that...
+<PUSH>
+Our mission is to find out
+the secret behind Mega
+Man's power...
+<PUSH>
+You can't do things that
+stick out, like fighting with
+<PUSH>
+classmates and making
+Wizards go out of control...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+But, Sis...
+It's just not me.
+<PUSH>
+I can't handle trivial stuff,
+like investigations and
+associating with those kids.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You don't see me doing
+whatever I want to do...
+<PUSH>
+I have to spend the whole
+day with those lower class
+buffoons they call teachers.
+<PUSH>
+So I'm sick of the whole
+thing already, too.
+<PUSH>
+But we have to follow
+Mr. King's orders.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+But it's so boring!!
+Argh!
+<PUSH>
+I just want to go and
+take him out!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Don't you feel the same?
+<PUSH>
+The "Hero of Justice"!?
+How disgusting!
+<PUSH>
+Together we could go
+after him and...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You've got to hold back...
+It's not time for that, yet...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+At the moment, fighting is
+not our duty...
+<PUSH>
+Our duty is to follow
+Mr. King's orders to our
+fullest.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+To make Wizards go out
+of control and record Mega
+Man's battle data.
+<PUSH>
+And to collect the Crimson
+that is created during the
+process.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+That's right...
+<PUSH>
+Quite an easy task for
+us, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Yeah.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Tomorrow, Geo Stelar and
+his friends will be at
+<Studi.WBG>...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+<Studi.WBG>...?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Don't let Geo Stelar out
+of your sight, and continue
+with your investigation...
+<PUSH>
+And if you do anything like
+you did today...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Yeah, I know.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,505 @@
+[SENTENCE NUMBER 1]
+{0D}{E1}{00}{00}<Heartless>
+/{09}{00}{0D}{E1}{00}{00}0?{13}{00}{0D}{E1}{00}{00}<Chery.Blosom>
+O<Jack>
+{0D}{E1}{00}{00}P '{0D}{E1}{00}{00}`o1
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Oh, ¡buenos días!
+<PUSH>
+¡Estoy aquí porque hoy
+es la reapertura de mi
+tienda favorita!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{00}{00}<Heartless>
+/
+{0D}{E1}{00}{00}0?<Geo>
+{0D}{E1}{00}{00}<Chery.Blosom>
+O<(Queen)Tia>
+{0D}{E1}{00}{00}P ({0D}{E1}{00}{00}`o2
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Se dice que <Hunter>-VG
+es capaz de detectar
+la presencia de
+<PUSH>
+virus peligrosos y
+mostrar una notificación
+de alerta
+<PUSH>
+cuando hay uno cerca.
+<PUSH>
+Yo nunca lo he visto.
+¡Seguramente es porque
+<PUSH>
+no tengo un Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Acabo de conseguir esta carta
+llamada "CadBurb".
+<PUSH>
+¡Puede atrapar en burbujas
+a los enemigos!
+<PUSH>
+Y no solo eso, ¡sino que
+además si atacas al enemigo
+que has atrapado
+<PUSH>
+en la burbuja con un ataque
+eléctrico le harás el doble
+de daño!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Se dice que <Hunter>-VG
+es capaz de detectar
+la presencia de
+<PUSH>
+virus peligrosos y
+mostrar una notificación
+de alerta
+<PUSH>
+cuando hay virus cerca.
+<PUSH>
+Yo nunca lo he visto.
+¡Seguramente es porque
+<PUSH>
+no tengo un Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Acabo de conseguir esta carta
+llamada "CadBurb".
+Atrapa a los enemigos
+<PUSH>
+en burbujas.
+Si atacas al
+enemigos que
+<PUSH>
+has atrapado
+<PUSH>
+en una burbuja con un ataque
+eléctrico, le harás el doble
+de daño.
+<PUSH>
+En una situación normal
+estaría más emocionado por
+<PUSH>
+una cosa como esta,
+pero me preocupa
+Luna...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Me han contado lo que ha
+pasado con Luna Platz.
+<PUSH>
+Espero que no tarden en
+encontrarla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡El otro día mi Wizard se
+topó con un virus enorme!
+<PUSH>
+Claro que mi Wizard no
+se quedó a luchar.
+<PUSH>
+Cuando te encuentras un
+enemigo más fuerte que tú,
+¡es mejor salir por patas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡No hay nada mejor que ser
+rápido para aumentar la
+efectividad!
+<PUSH>
+Cuanto más rápido derrotes
+a los enemigos, mejor.
+<PUSH>
+¡Intenta también pensar en
+maneras de usar las cartas
+favoritas y las
+<PUSH>
+cartas blancas para eliminar
+a todos los enemigos
+a la vez!
+<PUSH>
+O eso es lo que he oído que
+hay que hacer.
+<PUSH>
+¡Yo por ahora no tengo
+Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Por lo que parece Luna Platz
+va a ser la nueva presidenta
+del consejo estudiantil!
+<PUSH>
+¿Sabías que yo la voté?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Supongo que se ha
+completado el objetivo
+de Luna Presidenta.
+<PUSH>
+¡Felicidades!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Se está montando una buena
+en todo el mundo.
+<PUSH>
+No creo que mi Wizard
+pueda aguantar esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+No va a pasar nada.
+<PUSH>
+¡Nuestro héroe, Mega Man,
+salvará el planeta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

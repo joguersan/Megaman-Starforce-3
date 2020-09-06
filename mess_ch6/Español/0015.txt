@@ -1,0 +1,344 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+biip
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Zzz
+<PUSH>
+{13}{EC}...
+<PUSH>
+Zzz
+<PUSH>
+Ni en broma puedo terminar
+de comermelo entero...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡{15}{E1}Despierta, hombre!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Qu-!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qu-Que pasa!?
+<PUSH>
+¡¿Dealer ha vuelto a las
+andadas?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Espabila, chico!
+<PUSH>
+¡Te está llamando la
+Dra.Goodall!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡ah, vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por el amor de Dios...
+¿Te parezco un wizard
+despertador?
+<PUSH>
+¡Menudo señorito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Buenos días, Dra.Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Buenos días, Geo.
+<PUSH>
+Jejee.{15}{E1}
+¡Parece que a alguien se le
+ha pegado la almohada!
+<PUSH>
+Como se nota que eres
+joven...
+<PUSH>
+Con la edad me he dado cuenta
+que cuanto más viejo eres,
+más madrugas.
+<PUSH>
+Ya no puedes dormir tanto
+como cuando eras pequeño.
+<PUSH>
+Ains...
+<PUSH>
+¡Dormía tanto cuando era
+una jovenzuela!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Emm...{15}{E1} Dra.Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bueno{15}{E1}...
+<PUSH>
+Dejemos la charla para
+otro momento.
+<PUSH>
+Siento despertarte pero
+necesito que hagas algo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡No te preocupes!
+¿Qué necesitas que haga?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Quiero que investigues los
+siguientes sitios:
+<PUSH>
+La escuela <Echo.Ridge>...
+<PUSH>
+El <Spica.Mall>...
+<PUSH>
+Y los <Studi.WBG>...
+<PUSH>
+Deberías poder encontrar
+Disonancias en esos lugares.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Disonancias!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí.
+<PUSH>
+Creemos que Dealer usa
+disonancias para viajar de
+un sitio a otro.
+<PUSH>
+Si vas y hablas con los
+residentes de esas
+Disonancias...
+<PUSH>
+Podriais ser capaces de
+rastrear a ese chico...
+<PUSH>
+Joker...
+<PUSH>
+Si seguimos sus pasos estos
+nos llevaran hasta la guarida
+de Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tu... ¡Quieres que vayamos
+a extraer datos!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Correcto, Meguita!
+<PUSH>
+Eres un chico muy listo, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tienes que ser tonto para
+no entender a donde quieres
+llegar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Ahora que lo pienso, Mega ha
+{13}{EC} estado viendo ultimamente
+{13}{EC} un programa de crímenes.)
+<PUSH>
+{13}{EC}(Si no recuerdo mal su nombre
+{13}{EC} era «WRI: Wave Road
+{13}{EC} Investigation»...)
+<PUSH>
+{13}{EC}(Parece que se ha enganchado.)
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Jeje. Meguita tonto.
+<PUSH>
+Bueno, hablemos de lo
+que pasó ayer.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+El primer contacto fue en
+la escuela de Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Unos Wizards fuera de control
+aterrorizaron la zona de
+la entrada.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eso fue muy extraño, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Más tarde, tres Wizards en
+las mismas condiciones
+atacaron el <Spica.Mall>.
+<PUSH>
+Las entradas a las
+Disonancias están en el
+mundo real, asi que
+<PUSH>
+aseguraos de revisar todos
+los lugares sospechosos en
+estos tres lugares.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+El último sitio que ha
+recibido un ataque es
+el <Studi.WBG>.
+<PUSH>
+¡Ahí es donde apareció Joker!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+El Ruido en esa área es
+un poco diferente, o debería
+decir especial...
+<PUSH>
+No deberías ir allí hasta
+haber comprobado la escuela
+<PUSH>
+Echo Ridge y el <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Entendido!
+¡Puedes contar con nosotros
+para atrapar a esos tipejos.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Jeje!
+<PUSH>
+Cuento contigo, Meguita.
+<PUSH>
+Ya que las Disonancias son
+muy peligrosas, solo vosotros
+podeis hacerlo...
+<PUSH>
+Confío en ti, pero no hagas
+ninguna locura.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Si, señora!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{11}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Muy bien, ¡vamos a investigar!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Es extraer datos, no
+investigar!
+<PUSH>
+Je je je.
+¡Voy a ser el mejor Wizard
+detective de todos los
+tiempos!
+<PUSH>
+Me vas a dejar ayudar en la
+escena, ¿verdad?
+<PUSH>
+¡Si necesitas ayuda, avísame!
+<PUSH>
+¿¡Entendido detective
+Stellar!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Detective Stelar?
+<PUSH>
+Umm... Me gusta como suena.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sate prisa detective Stellar!
+¡¡el deber nos llama!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

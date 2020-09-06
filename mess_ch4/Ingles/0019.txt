@@ -1,0 +1,141 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Just before...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...And{15}{E1} that's the situation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So I need you to come back
+and help out Dr. Goodall, Acid.
+<PUSH>
+And please tell Geo that we
+need him back here as soon
+as possible!
+<PUSH>
+We just don't have enough
+troops available.
+<PUSH>
+At the moment, Harp Note
+is taking the enemy on all
+alone.
+<PUSH>
+The Satella Police and I are
+heading out to help now.
+<PUSH>
+Over and out.
+<PUSH>
+{10}{E2}{95}{03}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+As you just heard, I must
+return to assist Dr. Goodall.
+<PUSH>
+Ace needs you to get back
+as soon as possible, as well.
+<PUSH>
+Here is the "<Chiave.SP2>".
+<PUSH>
+With this, you can open the
+gate that leads to WAZA
+from the Astro Wave.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}(
+<START-DIALOG>
+{02}{E2}
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"<Chiave.SP2>"!
+<PUSH>
+{01}{E2}
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Be safe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So they're attacking with a
+full frontal assault, huh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+He said that Harp Note is
+fighting, too...
+<PUSH>
+We have to get back ASAP!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's the spirit, Geo!
+<PUSH>
+Let's get to WAZA via the
+Astro Wave!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Let's rock!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

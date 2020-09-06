@@ -1,0 +1,224 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Geo!!
+¡¡Una llamada de Boreal!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Del Sr. Boreal?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, ¿me oyes?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Sr. Boreal!
+¡¡Sr. Boreal!!
+<PUSH>
+¡¿Está usted bien?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Eso parece.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Menos mal!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Cómo están los demás?
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Sr. Boreal?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+No sé cómo decirte esto.{15}{E1}.{15}{E1}.{15}{E1}
+Pero...
+<PUSH>
+El inhibidor se ha tragado
+a la Dra. Goodall...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿La Dra. Goodall?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Nosotros escapamos ilesos
+porque seguimos sus
+órdenes de evacuación.
+<PUSH>
+Pero nos dijo que ella
+debía hacer una cosa.
+Y se quedó...
+<PUSH>
+Y entonces{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Ojalá...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Voy a ir a la NAZA
+a ayudar!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Te lo agradecería.
+Estamos en medio de la
+evacuación me vendría
+<PUSH>
+bien un miembro de las
+Fuerzas Especiales para
+ayudarme a buscar.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Fuerzas Especiales?
+¡Yo soy tu hombre!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Y yo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+En realidad, ¿os importaría
+quedaros donde estáis?
+<PUSH>
+No sabemos cuál será el
+próximo objetivo de Dealer.
+Quiero tener personal listo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ah... Lo entiendo.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bien pensado...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Decidido entonces.
+<PUSH>
+¡Geo, no será fácil, pero
+cuento contigo para
+ayudarme con la búsqueda!
+<PUSH>
+Te he preparado un
+autobús especial para
+venir a la NAZA.
+<PUSH>
+¡¡Ven cuanto antes!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Recibido!
+<PUSH>
+¡Encontraré a la Dra. Goodall!
+¡Lo prometo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Genial!!
+¡¡Ya me he emocionado!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Mmm, ¿los demás os venís
+a mi casa por ahora?
+<PUSH>
+¡¡Os ayudaremos en lo
+que podamos desde ahí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Buen plan!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+

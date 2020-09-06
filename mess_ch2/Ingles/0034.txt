@@ -1,0 +1,196 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Road is frozen?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Must be a problem with
+the EM wave temperature...
+Ice sure is a pain.
+<PUSH>
+Listen up, kid.
+<PUSH>
+The temperature of our
+body will decrease as
+we're on the frozen floor.
+<PUSH>
+Once our body temperature
+reaches the lower limit...
+<PUSH>
+We will freeze up and could
+be stuck here forever.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What about Battle Cards?
+Can we melt the ice with
+Fire Elemental Cards?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No, that won't work.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well there goes that idea...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+However, if we stand on
+a normal floor, our
+temperature will rise.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So that means... We have
+to get off the ice floor
+before we freeze up.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sounds like you got it, kid.
+Don't forget to check the
+thermometer I'm setting up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...All that being said, there's
+still a big risk to this.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+True, but I have no other
+choice. I promise we won't
+get frozen.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Hey, Mega Man.
+Looks like it's my turn
+again, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Just in case, I've opened
+a line between us.
+<PUSH>
+If your body temperature
+hits 0 and you freeze,
+touch my pop-up!
+<PUSH>
+If you do that, I'll warm
+you back up with my
+Taurus Flame.
+<PUSH>
+But I can't stay very long
+in such low temperatures.
+<PUSH>
+Ten seconds is about all
+I can last.
+<PUSH>
+And my Taurus Flame is
+hard to use in the cold.
+<PUSH>
+So I need you to press
+the A Button repeatedly
+for the whole ten seconds.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What if I mess up?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+I'll be able to break the
+ice and get you moving
+again, but...
+<PUSH>
+I won't be able to fully
+restore your body
+temperature.
+<PUSH>
+That's why you have to
+do your best to help me
+for the whole ten seconds.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+I'm counting on you if I
+get frozen.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Ha. I'm sure you'll be just
+fine. Don't worry about it.
+<PUSH>
+But if there are any ice
+walls blocking the way,
+<PUSH>
+call on me and I'll take
+care of them for you.
+<PUSH>
+Go take care of business!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Taurus!
+<PUSH>
+Let's do this, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

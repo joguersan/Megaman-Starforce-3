@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "UndrShrt"
+msgstr ""
+
+msgctxt "1"
+msgid "AirShoes"
+msgstr ""
+
+msgctxt "2"
+msgid "FlotShoe"
+msgstr ""
+
+msgctxt "3"
+msgid "Reflect"
+msgstr ""
+
+msgctxt "4"
+msgid "SprArmr"
+msgstr ""
+
+msgctxt "5"
+msgid "NoFlash"
+msgstr ""
+
+msgctxt "6"
+msgid "NoGravty"
+msgstr ""
+
+msgctxt "7"
+msgid "NoParlyz"
+msgstr ""
+
+msgctxt "8"
+msgid "NoFreeze"
+msgstr ""
+
+msgctxt "9"
+msgid "NoBubble"
+msgstr ""
+
+msgctxt "10"
+msgid "CardHeal"
+msgstr ""
+
+msgctxt "11"
+msgid "FstBarr"
+msgstr ""
+
+msgctxt "12"
+msgid "FstAura"
+msgstr ""
+
+msgctxt "13"
+msgid "+V-Shot"
+msgstr ""
+
+msgctxt "14"
+msgid "+X-Shot"
+msgstr ""
+
+msgctxt "15"
+msgid "+SprdSht"
+msgstr ""
+
+msgctxt "16"
+msgid "+WoodPnl"
+msgstr ""
+
+msgctxt "17"
+msgid "+IcePnl"
+msgstr ""
+
+msgctxt "18"
+msgid "+ParaPnl"
+msgstr ""
+
+msgctxt "19"
+msgid "+GNulPnl"
+msgstr ""
+
+msgctxt "20"
+msgid "+PoisPnl"
+msgstr ""
+
+msgctxt "21"
+msgid "CrsShotC"
+msgstr ""
+
+msgctxt "22"
+msgid "SpreadC"
+msgstr ""
+
+msgctxt "23"
+msgid "MadVlcnC"
+msgstr ""
+
+msgctxt "24"
+msgid "BigDropC"
+msgstr ""
+
+msgctxt "25"
+msgid "BuzzSawC"
+msgstr ""
+
+msgctxt "26"
+msgid "MuTechC"
+msgstr ""
+
+msgctxt "27"
+msgid "MchFlmeC"
+msgstr ""
+
+msgctxt "28"
+msgid "ShuriknC"
+msgstr ""
+
+msgctxt "29"
+msgid "IceSpinC"
+msgstr ""
+
+msgctxt "30"
+msgid "FlshStrC"
+msgstr ""
+
+msgctxt "31"
+msgid "+Wind"
+msgstr ""
+
+msgctxt "32"
+msgid "+Blind"
+msgstr ""
+
+msgctxt "33"
+msgid "+Panic"
+msgstr ""
+
+msgctxt "34"
+msgid "+Gravity"
+msgstr ""
+
+msgctxt "35"
+msgid "+Invis"
+msgstr ""
+
+msgctxt "36"
+msgid "+Paralyz"
+msgstr ""
+
+msgctxt "37"
+msgid "AutoLock"
+msgstr ""
+
+msgctxt "38"
+msgid "QuckGage"
+msgstr ""
+
+msgctxt "39"
+msgid "AntiDmg"
+msgstr ""
+
+msgctxt "40"
+msgid "DiagLock"
+msgstr ""
+
+msgctxt "41"
+msgid "SideLock"
+msgstr ""
+
+msgctxt "42"
+msgid "AcePrgm"
+msgstr ""
+
+msgctxt "43"
+msgid "HumorWrd"
+msgstr ""
+
+msgctxt "44"
+msgid "HumrBstr"
+msgstr ""
+
+msgctxt "45"
+msgid "HumrBst2"
+msgstr ""
+
+msgctxt "46"
+msgid "MaxBstr"
+msgstr ""
+
+msgctxt "47"
+msgid "BodyPack"
+msgstr ""
+
+msgctxt "48"
+msgid "StatGrd"
+msgstr ""
+
+msgctxt "49"
+msgid "AreaEtrS"
+msgstr ""
+
+msgctxt "50"
+msgid "DblStonS"
+msgstr ""
+
+msgctxt "51"
+msgid "GrassS"
+msgstr ""
+
+msgctxt "52"
+msgid "IceS"
+msgstr ""
+
+msgctxt "53"
+msgid "Atk+10S"
+msgstr ""
+
+msgctxt "54"
+msgid "PnlFrmtS"
+msgstr ""
+
+msgctxt "55"
+msgid "WhistleS"
+msgstr ""
+
+msgctxt "56"
+msgid "Recov30S"
+msgstr ""
+
+msgctxt "57"
+msgid "PnicCldS"
+msgstr ""
+
+msgctxt "58"
+msgid "BlkInkS"
+msgstr ""
+
+msgctxt "59"
+msgid "DblEtrS"
+msgstr ""
+
+msgctxt "60"
+msgid "InvisS"
+msgstr ""
+
+msgctxt "61"
+msgid "Parlyz+S"
+msgstr ""
+
+msgctxt "62"
+msgid "PrlyzStS"
+msgstr ""
+
+msgctxt "63"
+msgid "AtkPnlS"
+msgstr ""
+
+msgctxt "64"
+msgid "DivdeLnS"
+msgstr ""
+
+msgctxt "65"
+msgid "BomblzrS"
+msgstr ""
+
+msgctxt "66"
+msgid "NrmlGA+"
+msgstr ""
+
+msgctxt "67"
+msgid "FireGA+"
+msgstr ""
+
+msgctxt "68"
+msgid "AquaGA+"
+msgstr ""
+
+msgctxt "69"
+msgid "ElecGA+"
+msgstr ""
+
+msgctxt "70"
+msgid "WoodGA+"
+msgstr ""
+
+msgctxt "71"
+msgid "CannonCF"
+msgstr ""
+
+msgctxt "72"
+msgid "MdVlcnCF"
+msgstr ""
+
+msgctxt "73"
+msgid "MchFlmCF"
+msgstr ""
+
+msgctxt "74"
+msgid "DrlArmCF"
+msgstr ""
+
+msgctxt "75"
+msgid "PlsmaSCF"
+msgstr ""
+
+msgctxt "76"
+msgid "SprBariF"
+msgstr ""
+
+msgctxt "77"
+msgid "AuraF"
+msgstr ""
+
+msgctxt "78"
+msgid "GrssPnlF"
+msgstr ""
+
+msgctxt "79"
+msgid "IcePnlF"
+msgstr ""
+
+msgctxt "80"
+msgid "GNulPnlF"
+msgstr ""
+
+msgctxt "81"
+msgid "HolyPnlF"
+msgstr ""
+
+msgctxt "82"
+msgid "PlyzPnlF"
+msgstr ""
+
+msgctxt "83"
+msgid "-"
+msgstr ""
+
+msgctxt "84"
+msgid "-"
+msgstr ""
+
+msgctxt "85"
+msgid "-"
+msgstr ""
+
+msgctxt "86"
+msgid "-"
+msgstr ""
+
+msgctxt "87"
+msgid "HP Bug1"
+msgstr ""
+
+msgctxt "88"
+msgid "HP Bug2"
+msgstr ""
+
+msgctxt "89"
+msgid "HP Bug3"
+msgstr ""
+
+msgctxt "90"
+msgid "HP Bug4"
+msgstr ""
+
+msgctxt "91"
+msgid "StatBug1"
+msgstr ""
+
+msgctxt "92"
+msgid "StatBug2"
+msgstr ""
+
+msgctxt "93"
+msgid "StatBug3"
+msgstr ""
+
+msgctxt "94"
+msgid "StatBug4"
+msgstr ""
+
+msgctxt "95"
+msgid "MoveBug1"
+msgstr ""
+
+msgctxt "96"
+msgid "MoveBug2"
+msgstr ""
+
+msgctxt "97"
+msgid "MoveBug3"
+msgstr ""
+
+msgctxt "98"
+msgid "MoveBug4"
+msgstr ""
+
+msgctxt "99"
+msgid "BstrBug1"
+msgstr ""
+
+msgctxt "100"
+msgid "BstrBug2"
+msgstr ""
+
+msgctxt "101"
+msgid "BstrBug3"
+msgstr ""
+
+msgctxt "102"
+msgid "BstrBug4"
+msgstr ""
+
+msgctxt "103"
+msgid "HP+50"
+msgstr ""
+
+msgctxt "104"
+msgid "HP+100"
+msgstr ""
+
+msgctxt "105"
+msgid "HP+150"
+msgstr ""
+
+msgctxt "106"
+msgid "HP+200"
+msgstr ""
+
+msgctxt "107"
+msgid "HP+250"
+msgstr ""
+
+msgctxt "108"
+msgid "HP+300"
+msgstr ""
+
+msgctxt "109"
+msgid "HP+400"
+msgstr ""
+
+msgctxt "110"
+msgid "HP+500"
+msgstr ""
+
+msgctxt "111"
+msgid "MegCls+1"
+msgstr ""
+
+msgctxt "112"
+msgid "MegCls+2"
+msgstr ""
+
+msgctxt "113"
+msgid "GigCls+1"
+msgstr ""
+
+msgctxt "114"
+msgid "Fire+10"
+msgstr ""
+
+msgctxt "115"
+msgid "Fire+20"
+msgstr ""
+
+msgctxt "116"
+msgid "Fire+40"
+msgstr ""
+
+msgctxt "117"
+msgid "Aqua+10"
+msgstr ""
+
+msgctxt "118"
+msgid "Aqua+20"
+msgstr ""
+
+msgctxt "119"
+msgid "Aqua+40"
+msgstr ""
+
+msgctxt "120"
+msgid "Elec+10"
+msgstr ""
+
+msgctxt "121"
+msgid "Elec+20"
+msgstr ""
+
+msgctxt "122"
+msgid "Elec+40"
+msgstr ""
+
+msgctxt "123"
+msgid "Wood+10"
+msgstr ""
+
+msgctxt "124"
+msgid "Wood+20"
+msgstr ""
+
+msgctxt "125"
+msgid "Wood+40"
+msgstr ""
+
+msgctxt "126"
+msgid "Sword+10"
+msgstr ""
+
+msgctxt "127"
+msgid "Sword+20"
+msgstr ""
+
+msgctxt "128"
+msgid "Sword+40"
+msgstr ""
+
+msgctxt "129"
+msgid "Break+10"
+msgstr ""
+
+msgctxt "130"
+msgid "Break+20"
+msgstr ""
+
+msgctxt "131"
+msgid "Break+30"
+msgstr ""
+
+msgctxt "132"
+msgid "Turn+1F"
+msgstr ""
+
+msgctxt "133"
+msgid "Turn+2F"
+msgstr ""
+
+msgctxt "134"
+msgid "AcesLV+1"
+msgstr ""
+
+msgctxt "135"
+msgid "NrmlStar"
+msgstr ""
+
+msgctxt "136"
+msgid "FireStar"
+msgstr ""
+
+msgctxt "137"
+msgid "AquaStar"
+msgstr ""
+
+msgctxt "138"
+msgid "ElecStar"
+msgstr ""
+
+msgctxt "139"
+msgid "WoodStar"
+msgstr ""
+
+msgctxt "140"
+msgid "SwrdStar"
+msgstr ""
+
+msgctxt "141"
+msgid "Br{ff4b}Star"
+msgstr ""
+
+msgctxt "142"
+msgid "-"
+msgstr ""
+
+msgctxt "143"
+msgid "-"
+msgstr ""
+
+msgctxt "144"
+msgid "-"
+msgstr ""
+
+msgctxt "145"
+msgid "-"
+msgstr ""
+
+msgctxt "146"
+msgid "JokrPrgm"
+msgstr ""

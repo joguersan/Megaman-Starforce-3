@@ -1,0 +1,649 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Cool. This is where the
+Real Wave stage is going
+to be set up.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+According to my information
+banks, the stage has been
+designed around Sonia.
+<PUSH>
+Therefore, the main color
+will be light pink.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Sounds cute!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Very interesting, indeed.
+<PUSH>
+The complexity and design
+of the projector really
+tickles my curiosity!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Hey, everyone!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+How are you feeling, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Not bad, not bad.
+<PUSH>
+I'm just a little bit
+nervous...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I didn't think pros like you
+actually got nervous.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+We definitely do...
+<PUSH>
+Either way, I'm going to
+have a fun time and give
+the best concert I can!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You'll be great!
+<PUSH>
+We're all going to root you
+on from the audience!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You're the best, Sonia!
+You'll do just fine!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+And even if you make a
+little mistake, just shrug it
+off and enjoy the moment!
+<PUSH>
+That's how I try to live
+my life, everyday!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's because you're
+always making mistakes...
+<PUSH>
+Sonia is too much of a
+pro for that.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thank you, everyone...
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}I feel much better!!
+I'm not nervous anymore!
+<PUSH>
+Cheer me on as loud as
+you can, OK!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+Can't wait!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Oh, man...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Who could have done this!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hey, it's Lee.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Who's that?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+He's the head of staff,
+here at the studio.
+<PUSH>
+Hi, Lee!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Oh, how's it going, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What's wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Everything...
+<PUSH>
+Someone sent a virus to
+my <Hunter>.
+<PUSH>
+I was able to delete it
+with my Battle Cards, but
+<PUSH>
+now I just received a
+threatening message!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+A threatening message!?
+<PUSH>
+What does it say!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+"I will ruin Sonia Strumm's
+Concert."
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Sonia's concert...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Since the message was
+sent directly to my <Hunter>,
+the sender must have a
+<PUSH>
+connection with the studio
+somehow.
+<PUSH>
+I have no idea what they
+are planning, but it doesn't
+sound good at all.
+<PUSH>
+But still, we "SoniaBackers"
+will do our best to make it
+a "Successful Concert"...!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+"SoniaBackers"?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That's the name of Lee's
+Team.
+<PUSH>
+Their Purpose is to
+make Sonia's concert a
+"Successful Concert".
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Actually, we just updated
+our Purpose a few minutes
+ago.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You updated it?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Yeah, the new Purpose of
+"SoniaBackers" is to
+"Save the Concert".
+<PUSH>
+We don't know who would
+want to ruin the concert,
+<PUSH>
+but we won't let them get
+away with a single thing!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Lee!
+Please let me help out,
+too!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo...
+I really appreciate it, but
+this could turn dangerous.
+<PUSH>
+If a virus was able to
+access the Event Stage,
+<PUSH>
+the whole audience would
+be in grave danger.
+<PUSH>
+If you were mixed up in
+the situation, who knows
+what could happen to you.
+<PUSH>
+Sonia couldn't handle that,
+could she?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+But...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Prez>
+...Lee.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Sonia was Geo's first
+Brother. And they're
+best friends.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Yeah, I know that.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Despite his appearance,
+Geo has actually solved
+<PUSH>
+many problems caused by
+viruses, for many people.
+<PUSH>
+Sonia and everyone else
+here have been saved by
+Geo multiple times.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Prez...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+So couldn't you please let
+Geo join "SoniaBackers"?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Is that OK with you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+That means Geo will have
+to leave "Luna 4 Prez"!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Idiot! Don't you think I
+know that!?
+<PUSH>
+But this goes beyond just
+the concert! Sonia's life
+could be in danger!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+She has a point...
+<PUSH>
+This person is bad enough
+to send viruses and even
+threatening messages!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+If this person is actually
+serious, then this could
+turn into something big.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Exactly.
+<PUSH>
+Once the concert is a
+success, then Geo can
+return to "Luna 4 Prez".
+<PUSH>
+Right now, you need to
+protect Sonia, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Well then...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+If it's true that Geo has
+actually solved other virus
+related problems, then I
+<PUSH>
+can't afford to let such a
+valuable person not join.
+<PUSH>
+And in fact, whoever this
+person is, he has already
+<PUSH>
+started to cause problems
+all over the studio.
+<PUSH>
+I need all the help I can
+get. So, please join my
+Team, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you...
+<PUSH>
+You can count on me, Lee!
+<PUSH>
+{04}{E2}{03}{00}
+<NEW-DIALOG>
+<Game>
+Geo's Team and Purpose
+have changed!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow! I want to help, too!
+<PUSH>
+Taurus!
+Let's check the area for
+anyone suspicious!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Got it!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pedia and I will check for
+any traces of tampering in
+Cyber Cores!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Let's go, Zack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+It looks like I'll just be in
+the way...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Did you say something?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Nope, nothing.
+<PUSH>
+Let's go help, too, Vogue.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Understood, Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sonia really has some
+great friends...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Alright, Geo. Here's your
+first assignment as a
+member of "SoniaBackers".
+<PUSH>
+For now, go inside of the
+studio and check for
+anything strange.
+<PUSH>
+I'll let you know if
+anything happens.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Let's rock, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+I'm gonna go buck wild!
+<PUSH>
+On viruses or whatever, if
+they mess with Sonia, I'm
+gonna to tear 'em up!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Maybe you're a little too
+worked up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

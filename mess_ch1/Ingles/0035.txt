@@ -1,0 +1,288 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We got the Giga Energy
+Card, Prez.
+Here you go.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Wow, you did it, Geo!
+<PUSH>
+Since we couldn't have
+gotten it without you, I
+<PUSH>
+think you should be the
+one to give it to the
+Science Club.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sure, sounds good.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Woohoo!
+Let's get back to school!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+The Science Club members
+are going to be so happy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Are those people...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+They're Satella Police
+Commandos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!
+So it really is them!
+<PUSH>
+I've never seen them in
+person before!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Wow, those guys are just
+soooo cool!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What are you guys so
+excited about?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What are those guys
+up to?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You don't know!?
+They're Satella Police
+Commandos!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I have no clue what that
+even means.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+They're an organization
+directly under the control
+of {51}{E2}.
+<PUSH>
+They deal with the EM
+wave related crimes that
+<PUSH>
+have risen along with the
+spread of Wizards and Real
+Waves.
+<PUSH>
+Only the most skilled and
+experienced members can
+even think of joining.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+They sound really elite!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+They're so cool...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Boys really like that kind
+of stuff, don't they?
+I couldn't care less, really.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You couldn't care less?
+<PUSH>
+We need to get you to
+care if you want to be
+our esteemed Team leader!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo's right...
+<PUSH>
+Would you like to hear a
+complete history of the
+Satella Police?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+No, that's OK!
+<PUSH>
+It's hard, but I'll do my
+best to restrain my
+enthusiasm...
+<PUSH>
+They don't really have
+much to do with our Team
+anyway.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Really, it's fine!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Yeah, I just know you'll be
+moved by the great story
+of the Satella Police!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+But it'll take way too long
+to tell with the both of
+you so crazy about it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ain't that the truth...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Are you OK, Eos?
+Sorry we're late.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No worries.
+<PUSH>
+More importantly, the Wizard
+that went out of control
+<PUSH>
+dropped one of those
+cards. It looks like they've
+started to move.
+<PUSH>
+
+<NEW-DIALOG>
+0That's how it looks, huh?
+<PUSH>
+That Wizard going out of
+control made the Noise
+Level spike quite high.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+That was their intent from
+the beginning. We were
+completely fooled.
+<PUSH>
+The same thing will probably
+occur somewhere else
+sooner or later.
+<PUSH>
+
+<NEW-DIALOG>
+0Oh, yeah. Did you get to
+fight Mega Man, Eos?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No. We were about to
+when the incident occurred.
+<PUSH>
+
+<NEW-DIALOG>
+0Ah, no big deal I suppose.
+<PUSH>
+For now, let's maintain our
+watch on Geo Stelar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

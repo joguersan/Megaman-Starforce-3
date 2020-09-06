@@ -1,0 +1,88 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ya estás a salvo.
+<PUSH>
+
+<NEW-DIALOG>
+t¡MUCHAS GRACIAS!
+<PUSH>
+¡HOY ES MI PRIMER
+DÍA DE TRABAJO!
+<PUSH>
+¡SI ESE VIRUS HUBIERA
+CAMPADO A SUS ANCHAS
+<PUSH>
+ME HABRÍA METIDO EN
+UN LÍO CON MI JEFE!
+<PUSH>
+ME GUSTARÍA AGRADECÉRTELO
+DE ALGÚN MODO, PERO
+<PUSH>
+TENGO QUE ENTREGAR
+ESTE CORREO CUANTO
+ANTES...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Un correo? ¿No será
+de una chica de la
+escuela Echo Ridge?
+<PUSH>
+
+<NEW-DIALOG>
+t¡PUES SÍ!
+<PUSH>
+HOY ERA MI PRIMER DÍA,
+ASÍ QUE ME HAN DADO UN
+CORREO POCO IMPORTANTE.
+<PUSH>
+ES POCO IMPORTANTE
+PORQUE NO TIENE
+INFORMACIÓN DE NEGOCIOS.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Era eso! ¡El correo
+de esa chica seguía en
+la Carretera de Ondas!
+<PUSH>
+
+<NEW-DIALOG>
+t¡TENGO QUE IRME,
+PERO, DE VERDAD,
+MUCHAS GRACIAS!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bien, ahora el correo
+llegará sin problema!
+<PUSH>
+¡Volvamos a hablar
+con la niña en la
+escuela!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

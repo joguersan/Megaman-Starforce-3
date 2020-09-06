@@ -1,0 +1,425 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡G{15}{E1}-Geo...!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿¡E-Ese es...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡S{15}{E1}-Solo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Has cambiado de opinión
+sobre trabajar con la policía
+Satella?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¿No me escuchaste la última
+vez?
+<PUSH>
+No tengo intención de trabajar
+ni con ellos ni contigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ya veo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+E-Entonces...
+¿Por qué estás aquí?
+<PUSH>
+¿¡Estás intentando provocar
+una pelea!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+0¡Solo!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Por favor, ¡tenemos que
+trabajar juntos!
+<PUSH>
+¡Luchemos juntos para proteger
+al mundo de Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+Tontos...
+¿Alguna vez aprendereis?
+<PUSH>
+¿Y cuánto tiempo vais a estar
+persiguiéndome?
+<PUSH>
+
+<NEW-DIALOG>
+0Hasta que te unas a nosotros.
+<PUSH>
+La policía Satella necesita
+mejorar su capacidad de
+combate....
+<PUSH>
+¡¡Por favor únete a los
+Comandos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+¡Pse!
+Está bien.
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Bud>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+Sin embargo...
+<PUSH>
+Sólo si podéis capturarme
+aquí mismo y ahora.
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡Si eso es lo que hará que te
+nos unas...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Lo siento...
+¡Pero no nos dejas otra
+elección!
+<PUSH>
+Wizards... ¡Atacad!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¡Pse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Codigo rojo, el daño ha
+superado el límite aceptable.
+<PUSH>
+Abortando la misión.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡En serio es eso un Wizard!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+Te puedo confirmar que eso
+definitivamente no es un
+Wizard normal.
+<PUSH>
+El es diferente de mi, Taurus,
+Acid o Strong!
+<PUSH>
+Encima{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡Es muy fuerte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Argh...
+¡Todavía no hemos terminado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+¡Pse!
+<PUSH>
+¡Si no venís a mí, entonces
+tendré que ir yo a vosotros!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+¡Ven, Laplace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¡¡Ja!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿¡Co-Cómo puede ser!?
+<PUSH>
+¿¡Cómo es posible vencer a
+tantos Wizards con un único
+ataque!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Se acabó.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+No quiero tener nada que ver
+con gente tan débil.
+<PUSH>
+Si continuais persiguiéndome,
+acabaré con vosotros pero lo
+haré de manera permanentemente.
+<PUSH>
+
+<NEW-DIALOG>
+0¡...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Hizo todo eso sin siquiera
+impulsionarse?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Guau...
+¡Es demasiado fuerte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+Escucha, Mega Man.
+<PUSH>
+Voy a usar mi as bajo la manga
+contra Dealer.
+<PUSH>
+No te atrevas a interponerte
+en mi camino... O serás el
+siguiente.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+Solo...
+<PUSH>
+¿Por qué buscas a Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Los despreciables necios como
+Dealer no tienen derecho a
+usar el poder de Mu.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Qué!?
+¿¡Dealer está usando
+tecnología de Mu!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Toda la organización será
+destruida.
+<PUSH>
+No tienes derecho a pelear
+con ellos por este asunto.
+<PUSH>
+Este es mi problema.
+<PUSH>
+¡Así que no os interpongáis
+en mi camino!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Solo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]

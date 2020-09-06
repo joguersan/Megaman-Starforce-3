@@ -1,0 +1,67 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+...I got 'em, Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Me too!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Way to go, guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Let's attack this Noise at
+the same time!
+We'll destroy it easily!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Sounds good!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Alright!
+Let's do it!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Nice...!{15}{E1}
+Let's move on!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

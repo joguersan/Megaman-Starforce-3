@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrr!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack and Ms. Tia should
+have accessed Meteor G
+from here!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Argh!!
+Access has been restricted!!
+<PUSH>
+They cut it off from the
+other side!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Meteor G...
+Is going to strike Earth...
+<PUSH>
+What should we do!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's nothing else that
+we can do here...
+<PUSH>
+Let's go back and ask that
+Heartless lady if she knows
+anything that can help.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Good idea.
+<PUSH>
+Maybe she knows something
+that we don't!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

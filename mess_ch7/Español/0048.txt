@@ -1,0 +1,47 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Lo has conseguido{13}{E1}.{13}{E1}.{13}{E1}.{14}{E1}
+Geo{13}{E1}.{13}{E1}.{13}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Papá!!
+<PUSH>
+¡¡Papááá!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ya es hora de que{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+destruya el Meteorito G{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

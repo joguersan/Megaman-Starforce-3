@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip ¡Hola!
+¿Estás disfrutando tu estancia
+en <Alohaha>?
+<PUSH>
+Mi recomendación es que te
+compres un perro león
+de recuerdo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

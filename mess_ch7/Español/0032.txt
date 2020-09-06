@@ -1,0 +1,216 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+.{15}{E1}.{15}{E1}.{15}{E1} Viene hacia aquí...
+Para detener nuestra
+estrella fugaz roja{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Está muy cerca{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+La estrella fugaz azul...{15}{E1}
+Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+No tiene ninguna
+oportunidad...
+<PUSH>
+¡Ven a por mí, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Hemos llegado al Cibernúcleo
+del cohete{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Y de una pieza,
+que no es poco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Qué está pasando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡El Ruido es increíblemente
+fuerte!! ¡¡Estamos muy
+cerca del Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿No nos pasará nada?!
+<PUSH>
+¿Y si el cohete se hace
+pedazos antes de que
+entremos en el Meteorito G?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Por eso no os preocupéis!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Magnes!!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡¡Sí!!
+¡¡Mega Man, qué alegría verte!!
+<PUSH>
+Pero no hay tiempo para charlar.
+¡¡Tenemos que aumentar la
+<PUSH>
+resistencia al Ruido y
+cancelar estas vibraciones!!
+<PUSH>
+¡¡S{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Jamás me hubiera imaginado
+cuando lancé el cohete
+<PUSH>
+que se usaría para
+salvar el mundo!
+<PUSH>
+¡Y encima es gracias a que
+es resistente al Ruido
+<PUSH>
+una vez enloquecí!
+<PUSH>
+¡¿A que es una locura?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Magnes...
+¿A qué distancia está
+el cohete del Meteorito G?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+En otras palabras...
+¡¿Vamos a conseguirlo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+El cohete es muy resistente
+frente al Ruido, pero{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+.{14}{E1}.{14}{E1}.{14}{E1} Ya está casi en su límite.
+<PUSH>
+Voy a acercar este trasto
+todo lo que pueda al
+Meteorito G, pero...
+<PUSH>
+Vais a tener que cruzar
+una Disonancia para
+acceder a él...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Tenemos que cruzar
+una Disonancia?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No pasa nada!
+¡Gracias, Magnes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Son virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡¡Han debido de entrar
+con todo ese Ruido!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Uo me engargo!
+<PUSH>
+¡¡Adelante, Mega!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Es hora de dar unos
+cuantos azotes!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

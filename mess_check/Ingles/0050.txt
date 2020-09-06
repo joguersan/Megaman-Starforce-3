@@ -1,0 +1,61 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{A6}{03}{04}{00}{0C}{E1}{01}{00}{AE}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+<PUSH>
+Restricted by:
+Cygnus Wing R
+Wolf Woods R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}°{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+<PUSH>
+Restricted by:
+Cygnus Wing R
+Wolf Woods R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions that
+were set...
+Access granted.
+<PUSH>
+{0B}{E1}{A6}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+

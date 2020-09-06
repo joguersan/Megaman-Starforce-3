@@ -1,0 +1,401 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Jack!!
+¡¡Srta. Tia!!
+<PUSH>
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<NEW-DIALOG>
+<Jack.Corvus>
+Has venido, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Pero llegas demasiado
+tarde...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Acabamos de sobreescribir
+el programa principal.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+El Meteorito G ya no está
+bajo el control de King.
+<PUSH>
+Y ha vuelto a su curso
+contra la Tierra.
+<PUSH>
+Ya nada puede pararlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡N-No!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Es que estáis locos?!
+¡Tenéis que parar esta cosa!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Si el Meteorito G choca contra
+la Tierra, el 80% de la humanidad
+desaparecerá!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Lo sabemos.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+No nos echaremos atrás,
+pase lo que pase.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Todo esto es necesario para
+hacer realidad nuestro
+deseo...
+<PUSH>
+Y nada nos hará cambiar
+de opinión.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿De verdad, Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Pues claro.
+<PUSH>
+¡Aguantamos que King nos
+tratara como esclavos durante
+años solo por este momento!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Y cuál es vuestro deseo?
+<PUSH>
+¿Por qué necesitáis que el
+Meteorito G choque
+contra la Tierra?
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Queen.Virgo>
+Rehacer el mundo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Rehacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Empezar de cero...
+<PUSH>
+La tecnología ha corrompido
+y ensuciado el mundo.
+<PUSH>
+La tecnología nos lo ha
+robado todo. Por eso vamos
+a eliminarla.
+<PUSH>
+Así, el mundo renacerá.
+Puro y maravilloso.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ya veo que estáis
+dispuestos a todo por
+vuestro deseo.
+<PUSH>
+¿Qué os pasó?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+.{14}{E1}.{14}{E1}.{14}{E1} Si tantas ganas tienes de
+saberlo, calla y escucha.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Los rápidos avances en la
+tecnología EM mejoró el
+nivel de vida de las personas.
+<PUSH>
+El mundo cambió con la
+inclusión de la
+<PUSH>
+tecnología EM en la vida
+diaria.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Jack y yo...
+<PUSH>
+Nacimos en una pequeña
+nación que prosperó gracias
+a su tecnología EM.
+<PUSH>
+Nuestro padre era el
+rey de esa nación.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Con el tiempo, las naciones
+colindantes se interesaron
+<PUSH>
+cada vez más por la tecnología
+EM que desarrollábamos en
+nuestro país.
+<PUSH>
+Y así, poco después{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Nos invadieron.
+<PUSH>
+A pesar de desarrollar
+tecnología EM, éramos una
+nación pequeña.
+<PUSH>
+No pudimos contenerlos.
+Y robaron todos nuestros
+secretos y tecnología EM.
+<PUSH>
+Y nuestro país se sumió en
+el caos. Sin tecnología ni
+instalaciones. Sin esperanza.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Fue entonces cuando perdimos
+a nuestros padres.
+<PUSH>
+Nosotros, unos niños
+desvalidos vagando
+sin rumbo...
+<PUSH>
+Cada día era una pesadilla...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Y entonces, conocimos a King...
+<PUSH>
+Y el resto ya lo sabes.
+<PUSH>
+Quería controlar el
+Meteorito G para
+<PUSH>
+poder manipular la
+tecnología EM.
+<PUSH>
+Por eso fingimos lealtad y
+esperamos nuestra oportunidad
+para robar el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Y por fin ha llegado...
+<PUSH>
+¡¡Nuestro deseo va
+a hacerse realidad!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Salvo honrosas excepciones,
+la tecnología ha arruinado
+más vidas que salvado{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+Ha causado y mantenido
+muchas guerras{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+Por eso el mundo debe
+renacer...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Nos vamos a esperar la
+llegada del Meteorito G.
+<PUSH>
+Nosotros seremos los
+heraldos de su juicio
+sobre el mundo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No puedo dejar que lo hagáis!
+<PUSH>
+¡¡Tengo que pararos a
+vosotros y al Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+No puedes detenernos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Spade Magnes?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡No es el auténtico!!
+¡¡Lo han creado a partir
+de un amasijo de datos!!
+<PUSH>
+¡¡Chico, acabemos con él!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Adiós{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Jack!!
+¡¡Srta. Tia!!
+<PUSH>
+{10}{E2}{5E}{04}
+<NEW-DIALOG>
+<Spade-Magnes>
+¡¡Raaaaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Maldición!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

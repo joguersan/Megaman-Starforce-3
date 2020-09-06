@@ -1,0 +1,467 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Choose an ON AIR
+Brother you want to battle.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Oops... It looks like that
+Friend isn't connected to
+Nintendo Wi-Fi Connection yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Do you want to invite
+{2C}{E1} to battle?
+{10}{EC}{00}{00}Invite
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+The invitation has been sent.
+We're waiting for a reply...
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Do you want to cancel your
+invitation to battle?
+{10}{EC}{00}{00}Cancel
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Sorry... It looks like they
+turned down the invitation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+{2C}{E1} has
+invited you to battle!
+{10}{EC}{00}{00}Accept
+{10}{EC}{01}{00}Decline
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+It looks like they
+canceled on you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+The other party either had
+a communication error or
+aren't responding.
+<PUSH>
+It looks like we'll have to
+cancel this time around.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+It looks like they're
+tied up in a battle.
+Let's try again later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Declining invitation.
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Battle has been
+canceled.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Here are your results vs.
+Battle Mate {2C}{E1}.
+{21}{E1}{04}{00} B & {22}{E1}{04}{00} W.
+{10}{EC}{00}{00}Del. Battle Mate
+{10}{EC}{01}{00}Go Back
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{10}{EC}{00}{00}Del. READY icon
+{10}{EC}{01}{00}Go Back
+{0F}{EC}{01}{00}{00}{00}{02}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you really want to
+delete this Battle Mate?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Deleted...{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+This is the list of Battle
+Mates you can battle over
+Nintendo Wi-Fi Connection.
+<PUSH>
+It's pretty empty right now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+This is the list of Battle
+Mates you can battle over
+Nintendo Wi-Fi Connection.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+The friend code
+you entered is
+invalid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+This friend code has
+already been entered.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You don't have a
+friend code. Do you
+wanna connect to
+<PUSH>
+Nintendo Wi-Fi
+Connection and
+obtain a friend code?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You have at least one
+Friend standing by.
+<PUSH>
+Do you want to connect
+to Nintendo Wi-Fi
+Connection and
+<PUSH>
+check to see if they
+are ready or not?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Choose where to
+register your Brother.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Nintendo Wi-Fi
+Connection User
+Information from the
+<PUSH>
+Nintendo DS and the
+Game Card do not match.
+Do you wanna connect
+<PUSH>
+to Nintendo Wi-Fi
+Connection and
+obtain a friend code?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Geo>
+Updating...
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like the
+update failed.
+Let's try again later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yeah!
+A new Battle Mate
+is born!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Update complete!
+<PUSH>
+Those set as READY but
+are already registered, are
+<PUSH>
+no longer set as READY.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this
+Friend isn't ready yet.
+Let's try again later.
+<PUSH>
+Choose the option to
+become Battle Mates via
+friend code, and then
+<PUSH>
+select READY to connect
+to Nintendo Wi-Fi Connection.{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this
+Friend isn't ready yet.
+Let's try again later.{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+My friend code is
+{2C}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

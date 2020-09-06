@@ -1,0 +1,438 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡Aaarrrgggh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Carmesí...
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Agh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¿Q-Qué he hecho?
+<PUSH>
+No he podido evitar que
+me controlaran mis
+pensamientos más oscuros.
+<PUSH>
+He hecho cosas horribles...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué pasó exactamente?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Un par de tipos extraños
+usaron ese naipe conmigo.
+Y me hicieron enloquecer...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dos personas...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Como cuando Magnes
+enloqueció.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Cómo eran esos dos?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¿Qué quieres decir?.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¿No los conocéis?
+<PUSH>
+Estaban en la playa con
+vosotros la última vez
+que hablamos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No serán...
+<PUSH>
+¿Esos dos?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Vamos a tranquilizarnos
+todos un momento, ¿de acuerdo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¿?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}{15}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Quién va?!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Mi nombre es Joker.
+<PUSH>
+Y soy miembro de "Dealer",
+la organización que
+dominará este planeta.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+"Dealer"...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Vosotros sois los responsables
+de todos estos incidentes?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sabéis...
+<PUSH>
+¡¿Sabéis la de gente que
+ha sufrido por todas
+vuestras fechorías?!
+<PUSH>
+¡¿Que vais a dominar la
+Tierra?! ¡No si puedo evitarlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Ja...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¡Infiel!
+<PUSH>
+¡No perdonaré a quien
+ose perturbar la paz
+de esta isla!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Je...
+¡Estúpidos arrogantes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡No!!
+<PUSH>
+¡Atrás, Strong!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¡¡Toma esta!!
+Lluvia de pu...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+¡¡Láser terrorífico!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¡Uh!
+<PUSH>
+¡Gaaaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Strong!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+N_no puede ser{14}{E1}.{14}{E1}.{14}{E1}.!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Si ha muerto ha sido por
+su debilidad.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+{12}{E2}<Solo>
+{02}{00}
+<NEW-DIALOG>
+<Joker>
+En este mundo únicamente
+sobreviven los poderosos.
+<PUSH>
+El fuerte vence, mientras
+el débil perece...
+<PUSH>
+Un Wizard débil no tiene
+razón de ser.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Por qué...?
+<PUSH>
+¿Cómo has podido hacer
+algo así?
+<PUSH>
+Lo hiciste enloquecer
+y luego lo utilizaste...
+<PUSH>
+Y al final lo has matado
+sin remordimientos...
+<PUSH>
+¡Te haré pagar por
+lo que has hecho!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Joker!!
+¡¡Lucha contra mí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Interesante...
+Tus estadísticas han aumentado
+drásticamente sin previo aviso.
+<PUSH>
+¿Es debido a la ira
+por la muerte de ese
+debilucho?
+<PUSH>
+La fuerza de Mega Man
+aumenta al verse rotos
+sus lazos... Interesante...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Prepárate, Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Es una lástima...
+<PUSH>
+El Sr. King no me ha dado
+órdenes de luchar contra ti.
+<PUSH>
+Mi único propósito aquí
+es vigilar a esos dos
+entrometidos.
+<PUSH>
+Puede que estén tramando
+algo a nuestras espaldas.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Esos dos...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Buajajaja...
+Mega Man...
+<PUSH>
+Estoy convencido de que
+el día en que lucharemos
+está cerca.
+<PUSH>
+Y, por mi parte, estoy
+deseando que ese día
+llegue cuanto antes...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Espera!!
+¡¡Vuelve, Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tranquilo, chico!
+¡Se ha ido!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Arg!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Concéntrate.
+<PUSH>
+"Esos dos" de los que
+hablaba Joker tienen que
+ser quienes tú sabes.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Algo está absorbiendo
+el Carmesí...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Va hacia el océano.
+Deprisa, chico. ¡Seguro
+que están ahí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué está pasando?
+<PUSH>
+¡¿Cómo hemos llegado
+a esta situación?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

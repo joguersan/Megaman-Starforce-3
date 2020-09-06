@@ -1,0 +1,193 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Brand new products are
+lined up in the display window.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Powerful lights for
+illuminating the stage.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{F0}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Take a picture with your
+friends! It's fun!
+<PUSH>
+Then you can decorate them
+with all sorts of icons
+and sparkly things! Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What kind of game is this!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!
+Look!
+<PUSH>
+{80}{E1}{0C}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Battle Card:
+"{4C}{E7}"!
+<PUSH>
+{0A}{E1}{F0}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the very popular game,
+"Space-or-Another"!
+<PUSH>
+Your mission is to save
+space from a crisis, one
+way or another!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Authorized Personnel Only!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{84}{13}{0A}{E1}r
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Take a picture with your
+friends! It's fun!
+<PUSH>
+Then you can decorate them
+with all sorts of icons
+and sparkly things! Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why the heck would I want
+to do that!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

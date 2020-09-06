@@ -1,0 +1,716 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+They're really causing a fuss
+this time, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So... Geo.
+<PUSH>
+Are you ready for this?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Never been more ready!
+<PUSH>
+{0A}{E1}{62}{02}
+<NEW-DIALOG>
+<Ace>
+Then let's cause a bit of a
+fuss ourselves, shall we?
+<PUSH>
+Transcode 001!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Transcode!
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+...Try not to fall behind,
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Don't overdo it, yourself,
+old man!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Haha. Not bad, not bad.
+<PUSH>
+Let's do this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Phew...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It looks like we stopped
+them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A-Ace...
+All that Crimson...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+There's nothing we can do.
+<PUSH>
+Darn it...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Usually, the Crimson flies
+away, but...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ace! Mega Man!
+Up above!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+J-Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa...!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Thanks for coming all the
+way to see me...
+<PUSH>
+You saved me the trouble of
+having to find you.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+What were you planning on
+doing once you found me?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Stopping you, of course.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+...I see.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+You're dangerous.
+<PUSH>
+And on top of that...{15}{E1}
+You're a member of Dealer.
+<PUSH>
+You disgust me.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+That's why I'm going to
+stop you for good!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah!
+<PUSH>
+Is this the extent of your
+power?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Apparently it is...
+What a pity.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...!?
+<PUSH>
+What are you doing?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ungh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+A{16}{E1}-Ace...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+I-I can't move!
+<PUSH>
+Tell me, Acid!!{15}{E1}
+What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+I... don't... know.
+<PUSH>
+A...c...e{16}{E1}
+It... hurts{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Acid!!
+<PUSH>
+...Joker...
+What have you done!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+...Ha!
+<PUSH>
+It is not a matter of what
+I have done.
+<PUSH>
+I have simply called Acid
+to me.
+<PUSH>
+And...{15}{E1} he is simply responding
+to my call.
+<PUSH>
+There's nothing more to it.
+<PUSH>
+We are of the same
+"shooting star power", after
+all, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...!
+<PUSH>
+You...
+You knew!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Of course.
+<PUSH>
+Since we are linked together,
+it would be impossible for me
+not to know!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+A{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ce{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Stop this, Joker!!
+<PUSH>
+If you keep this up, Acid
+will...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+I have{16}{E1}... no problem with that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+The Noise Level has reached
+200%!
+<PUSH>
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Finalize!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ungh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}Aaaaaargh!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ac...{16}{E1}id...
+<PUSH>
+{13}{EC}...!
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Re-awaken, Acid!!
+<PUSH>
+Re-awaken as your true
+self!!
+<PUSH>
+Prove our existence to the
+world!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah...
+<PUSH>
+Hah hah hah!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Joker>
+Hah hah hah!!
+<PUSH>
+How are you feeling, Acid?
+Wonderful, I bet!
+<PUSH>
+Go on, do as you please.
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Bah!
+<PUSH>
+{13}{EC}(Something is preventing
+ him from fully Finalizing.)
+<PUSH>
+{13}{EC}(Darn Satella Police...
+ They must have altered
+ Acid, so he can't Finalize!!)
+<PUSH>
+Listen to me, Acid!
+It is that destructive urge,
+<PUSH>
+and that alone, which
+confirms our existence!
+<PUSH>
+Never forget that.
+<PUSH>
+And it is that red shooting
+star that is our bond...
+<PUSH>
+We are one...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A... Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey...
+<PUSH>
+This really, really, really
+doesn't look good.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What's wrong, Ace!?
+<PUSH>
+Where's Joker?
+<PUSH>
+And{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Why do you look
+different...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace!!
+<PUSH>
+Snap out of it, Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I don't think he understands
+anything you're saying...
+<PUSH>
+You better be ready, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No way!
+<PUSH>
+Are you saying that we're
+going to have to fight Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Do you see any other
+option!?
+<PUSH>
+Can you honestly tell me
+that you can watch him be
+<PUSH>
+like this, and not think that
+you should stop him!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's completely out of
+control!
+<PUSH>
+I don't have a clue what
+happened, but...
+<PUSH>
+But we can't let him go on
+like this!!
+<PUSH>
+Let's beat him up, and knock
+some sense into him!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}You're right, Mega...
+<PUSH>
+There's no way that Ace
+and Acid would ever want to
+be like this...
+<PUSH>
+Who knows how bad they
+must be suffering...
+<PUSH>
+And the only people that
+can help them...{15}{E1}
+Are us!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's my boy!
+<PUSH>
+But stay frosty, kid!
+You know they're pretty
+tough!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah...!
+<PUSH>
+{13}{EC}(But...)
+<PUSH>
+{13}{EC}(Even if I fight them
+ with everything I've got...)
+<PUSH>
+{13}{EC}(I don't know if
+ I can beat them...)
+<PUSH>
+{13}{EC}(But Ace said that
+ he can't stay EM Wave
+ Changed for very long...)
+<PUSH>
+{13}{EC}(If I can just hold out
+ and waste some time...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!!
+<PUSH>
+This is it, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

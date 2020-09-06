@@ -1,0 +1,534 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}IT'S SO FUN HERE...
+ARE YOU HAVING FUN TOO?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}DON'T TALK TO ME NOW...
+I'M TRYING TO CONCENTRATE
+ON THIS GAME...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}x{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...'Sup?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{1B}{EC}{00}{00}<Prez>
+{1B}{EC}{03}{00}<Hope(Mom)>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}'Sup!
+<PUSH>
+Thank you for
+volunteering to take
+my favorite quiz!
+<PUSH>
+...I know you're excited, but
+can I ask that you try to
+contain your enthusiasm?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Huh!?
+Wh-What...!?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...Tsk.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Heh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...
+S{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+S...{17}{E1} up?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}!!
+<PUSH>
+{A0}{E1}{03}{00}{0F}{00}
+<NEW-DIALOG>
+{80}{00}Yeah, {16}{E1}'sup!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}*gulp*
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Sup, Quiiiiiiiiz
+Noooooise!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What the...!?
+What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}First question!
+Which of these colors is
+my favorite?
+<PUSH>
+{05}{EC}{00}{00}{00}{00}  {06}{EC}Blue
+  {09}{EC}Yellow
+<PUSH>
+{1B}{EC}{00}{00}<Bud>
+{1B}{EC}{03}{00}<Zack>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{04}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...Tsk.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Heh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...'Sup?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Um... yeah...
+Sup...
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+{A0}{E1}{03}{00}{0F}{00}
+<NEW-DIALOG>
+{80}{00}'Sup!{16}{E1}
+That is correct!
+<PUSH>
+...Moving on,
+second question!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+H-Hey!?
+Would you mind explaining just
+what the heck is going on!?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Which of these items did
+Sonia Strumm have stolen
+from her at the {C5}{E4}?
+<PUSH>
+{05}{EC}{00}{00}{00}{00}  {06}{EC}A fur coat
+  {09}{EC}Her girlish heart
+  {0C}{EC}An empty bag
+<PUSH>
+{1B}{EC}{00}{00}<Bud>
+{1B}{EC}{03}{00}<Bud>
+{1B}{EC}{06}{00}<Sonia>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...'Sup?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+H... {16}{E1}Hey!
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+{A0}{E1}{03}{00}{0F}{00}
+<NEW-DIALOG>
+{80}{00}'Sup!{16}{E1}
+That is correct!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright!
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}OK, now for the
+last question!
+<PUSH>
+...How many time have
+I said "'sup" since
+this quiz started!?
+{7B}{E1}{01}{00}{07}{00}<Bud>
+{04}{EC}{06}{E1}<Solo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}...
+<PUSH>
+...'Sup?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+'Sup!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+'Sup!
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+{A0}{E1}{04}{00}{0F}{00}
+<NEW-DIALOG>
+{80}{00}Sup! Very impressive!
+You answered every
+question correctly!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yesss!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That was a piece of
+cake!
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}And now to give you
+your fabulous prize!
+<PUSH>
+{0A}{E1}x{82}{E1}{0C}{00}{01}{00}{02}{E2}M{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{7C}{E5}"!
+<PUSH>
+{01}{E2}M
+<NEW-DIALOG>
+<Megaman>
+Wh-What's this...!?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}This item was left behind
+by that group that
+<PUSH>
+is terrorizing Noise Waves
+everywhere, "Dollar".
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dollar...?
+<PUSH>
+...Could he mean
+Dealer!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No doubt about it!
+This is a clue!
+<PUSH>
+We did it, Detective
+Stelar!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Megaman>
+'Sup!
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Ahh.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

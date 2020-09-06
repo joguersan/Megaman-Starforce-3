@@ -1,0 +1,340 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Entonces...
+¿Hemos llegado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí.
+Ahí está el Planeta FM.
+<PUSH>
+Y el servidor Agujero Negro
+de Sirio...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...¡está justo encima!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Tenemos que llegar
+cuanto antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Claro. Esta Carretera
+de Ondas lleva a la
+entrada del servidor.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo, Hermano mío.
+Has venido...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Esa voz...!{15}{E1}
+¡Cefeo, ¿eres tú?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Cefeo! ¡¿Estás bien?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Qué alegría verte,
+rey FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Gracias por venir
+hasta aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No te preocupes.
+<PUSH>
+Es normal que un Hermano
+quiera ayudar a otro
+cuando está en problemas.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo...
+No dejas de enseñarme
+cosas de la vida.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, te has vuelto
+un blando.
+<PUSH>
+¿Cuál es la situación
+ahí abajo?
+<PUSH>
+¿Tenemos forma de
+detener el agujero negro?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Hemos intentado todo lo
+habido y por haber.
+<PUSH>
+Nada ha funcionado con
+ese agujero negro.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y ese arma superpoderosa
+en la que estaba
+trabajando el gobierno?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Si te refieres a Ultramisil
+de Ondas, no ha surtido
+ningún efecto.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Madre mía!
+<PUSH>
+¿Has desplegado a las fuerzas
+de defensa para atacar
+el núcleo?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Sí. Y fueron completamente
+aniquiladas...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué?! ¡Pero...!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+No podemos hacer nada.
+<PUSH>
+Según nuestros análisis...
+Tenemos un solo día
+<PUSH>
+antes de que el agujero
+negro engulla el Planeta FM.
+<PUSH>
+He ordenado que todos los
+ciudadanos del Planeta FM
+<PUSH>
+suban a los cohetes de
+resonancia para evacuar.
+<PUSH>
+Geo...{15}{E1}
+Gracias por venir, pero...
+Vuelve a la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Rey FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Sirio y su agujero negro
+son demasiado para ti.
+<PUSH>
+Es trágico perder tu hogar.
+<PUSH>
+Pero, como rey, mi deber
+es mantener a mi pueblo
+a salvo.
+<PUSH>
+Y mantenerte a salvo
+a ti, Hermano mío.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} Has dicho un día, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+¿Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Y si detenemos a Sirio y
+su agujero negro antes
+de un día?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+¡Ni se te ocurra!
+¡He tomado una decisión,
+y es definitiva!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Lo entiendo.
+¡Pero no puedo permitir
+que Sirio haga esto!
+<PUSH>
+¡No tiene ningún derecho
+a hacerte esto a ti
+y a tu pueblo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Estoy con el chico!
+<PUSH>
+¡No puedo quedarme
+sentado mientras mi
+planeta es destruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo... Omega-Xis...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega y yo vamos a entrar
+en el agujero negro.
+<PUSH>
+¡Y vamos a derrotar a Sirius!
+<PUSH>
+Pero no puedo prometerte que
+el Planeta FM no vaya
+a ser engullido.
+<PUSH>
+Cefeo, continúa con las
+tareas de evacuación.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo...{15}{E1}
+No tengo palabras...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+Di que crees en mí.
+La confianza de un Hermano
+no tiene precio
+<PUSH>
+¡Cefeo, vuelve con tu gente!
+Nosotros nos encargamos
+de esto.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+...
+<PUSH>
+Confío en ti, Mega Man.
+<PUSH>
+Como Hermano...
+Y como representante
+del Planeta FM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+¿Sabes cómo me
+siento ahora mismo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pues claro... Parece que
+estás más enfadado que de
+costumbre.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Me conoces demasiado bien.
+<PUSH>
+¡Entonces, ¿por qué no
+estás tan emocionado
+como yo?!
+<PUSH>
+¡Vamos allá, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sí! ¡Pero podrías
+tranquilizarte de vez
+en cuando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

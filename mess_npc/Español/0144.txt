@@ -1,0 +1,1407 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat do you think?
+This tree's pretty cool, huh?
+I grew it for you.
+<PUSH>
+
+<NEW-DIALOG>
+vThat's so nice.
+<PUSH>
+
+<NEW-DIALOG>
+tIt's made of Real Waves.
+So just like our love,
+it will never wither!
+<PUSH>
+
+<NEW-DIALOG>
+vThat's so nice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tCan you see me?
+<PUSH>
+Ordinary humans are not
+able to see me.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's thanks to this <Visualizer>.
+<PUSH>
+
+<NEW-DIALOG>
+tThat is some wonderful
+technology!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tA v-v-virus!
+Inside of the Sprinkler
+System Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}That sure was a surprise.
+<PUSH>
+When I came here to turn
+on the sprinklers, there was
+a virus in the Cyber Core.
+<PUSH>
+But somebody got rid of it...
+I wonder who it was.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis place is soaking wet.
+It must be the work of
+viruses.
+<PUSH>
+I'm afraid of viruses,
+so I'll just stay here and
+watch this spot! *beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's take out those
+viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Right!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe sprinkler system is back
+under control.
+<PUSH>
+But those kids are all wet!
+*beep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat do you think?
+This cherry tree's pretty
+cool, huh? I grew it for you.
+<PUSH>
+
+<NEW-DIALOG>
+vThat's so nice.
+<PUSH>
+
+<NEW-DIALOG>
+tIt's made of Real Waves,
+so just like our love,
+it will never wither!
+<PUSH>
+
+<NEW-DIALOG>
+vThat's so nice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}What a beautiful tree!
+It looks even better than
+the original tree!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tUp ahead is the Rocket
+Cyber Core!
+<PUSH>
+Right now it seems to be
+out of control...
+<PUSH>
+It's dangerous, so I would
+stay away if I were you!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmph! If you think that's
+gonna scare us off, you
+better think again!
+<PUSH>
+C'mon kid, let's put the
+smackdown on some viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Right, let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHey, is it possible to
+make this tree into a
+cherry tree?
+<PUSH>
+
+<NEW-DIALOG>
+tUmm... This tree isn't
+a Real Wave.
+<PUSH>
+
+<NEW-DIALOG>
+vHmm.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat was that stuff called
+again? Crimson? Well anyway,
+<PUSH>
+I saw it on the day of the
+rocket launch.
+<PUSH>
+It looked kind of gross.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}It's my job to take care of
+the animals while the kids
+are away on their trip.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOh Mega Man,
+are you making the rounds?
+Take it easy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI was so busy with work, I 
+couldn't make it to Sonia
+Strumm's concert...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tMy girlfriend is working on
+the Wave Road right now.
+<PUSH>
+Later tonight we're going to
+meet up under the cherry
+tree and talk about love.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}*sigh*
+<PUSH>
+I can't work, because I keep
+worrying about the students
+<PUSH>
+who were involved in that
+incident.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThat Luna was really well
+liked by her classmates.
+<PUSH>
+Her disappearance has
+hurt us Hertzes too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vEveryone is feeling down,
+but now is not the time to
+get depressed!
+<PUSH>
+Maybe we should listen
+to some Sonia Strumm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tLike my girlfriend over there
+says, the harder the road,
+<PUSH>
+the more important it is to
+stay in good spirits.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{08}{E1}{00}{00}C[
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThey found the girl who went
+missing?
+<PUSH>
+My girlfriend was so torn up
+over her disappearance.
+<PUSH>
+And of course, I was too.
+I'm glad she's safe now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat the heck is
+happening?
+<PUSH>
+Well, I don't mind it being a
+little noisy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+{08}{E1}{00}{00}C]
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThe whole time I was singing
+songs by Sonia Strumm
+and praying that
+<PUSH>
+she'd make it back safely.
+I think the songs carried my
+prayers into the heavens!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHey, what's about to
+happen?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+{08}{E1}{00}{00}C 
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYesterday I saw that girl
+named Luna on the roof!
+<PUSH>
+She looked very good.
+I'm glad she's back!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhy is everybody gathered
+on the roof? Is something
+about to happen?
+<PUSH>
+Perhaps a secret Sonia
+Strumm Concert!?
+<PUSH>
+Yeah, in my dreams.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tMy girlfriend is crazy
+about me...
+<PUSH>
+It's not easy being a
+ladies' Hertz.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tGirlfriend,
+what is that Hertz
+talking about?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHey, when do you think
+the next Sonia Strumm
+concert is going to be?
+<PUSH>
+
+<NEW-DIALOG>
+tCome on, haven't we talked
+enough about Sonia Strumm?
+<PUSH>
+Shouldn't we be talking about
+love?
+<PUSH>
+
+<NEW-DIALOG>
+v...
+<PUSH>
+...Yeah.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vSay, you're a Sonia Strumm
+fan aren't you!?
+<PUSH>
+
+<NEW-DIALOG>
+tYeah, but I couldn't go to
+her last concert because
+<PUSH>
+of work, but I'm definitely
+going to go next time!
+<PUSH>
+
+<NEW-DIALOG>
+vOh, I want to go too!
+<PUSH>
+
+<NEW-DIALOG>
+tOK, why don't we go
+together!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+{0D}{E1}{00}{00}STs
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAfter the incident, I saw
+Sonia Strumm on the roof!
+Man, she was beautiful!
+<PUSH>
+Sonia Strumm up close and
+in the flesh... *swoon*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI can't believe someone
+would do this to the school!
+There's Noise everywhere!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+{0D}{E1}{00}{00}``{96}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAaargh!
+It's awful!
+The Earth is in trouble!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tNoise is a nuisance
+sometimes, but it's here
+to stay!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI've never felt Noise so
+powerful... I feel lightheaded.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe Noise keeps getting
+stronger...
+<PUSH>
+I hope nothing bad
+happens.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,152 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos!
+<PUSH>
+¡Devuélvele las cosas a
+la Dele, Sonia y Bud!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}¡¿Y por qué voy
+a hacerte caso?!
+<PUSH>
+¡¿Qué clase de ladrón
+devuelve lo que ha robado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entonces te lo tendré
+que quitar a la fuerza!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}¡Venga, inténtalo!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}¡Arrrgh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Te rindes ya?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}¡Maldición!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que irnos de aquí,
+chico, o vamos a salir
+volando!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Eso no va a pasar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Puedo hacerlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ah!
+¡Solo puedo coger uno!
+<PUSH>
+¡¿Pero cuál?!
+<PUSH>
+{05}{EC}{00}{00}{00}{00}   {06}{EC}El pañuelo de la Dele
+   {09}{EC}La bolsa de Sonia
+   {0C}{EC}La camiseta de Bud
+<PUSH>
+{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}{11}{EC}{06}{00}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Lo tengo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Plash...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{07}{E1}{00}{00}{02}{00}
+[END]
+

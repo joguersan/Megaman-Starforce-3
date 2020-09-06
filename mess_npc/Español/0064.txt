@@ -1,0 +1,371 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tTHIS IS A TEST MESSAGE!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{7B}{00}{0B}{00}{0C}{E1}{01}{00}|{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Aren't you Mega Man!?
+Are you here to help!?
+<PUSH>
+That's great!
+I was so scared...
+<PUSH>
+*sniffle*
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Don't cry, Belle! Everything's
+going to be alright now!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Belle, have you
+seen Lee?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+No, I haven't...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Really?
+Maybe he's in another
+Noise Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Mega Man, what
+should we do?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The Satella Police
+will be here shortly!
+So, please wait here.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+OK, I understand...
+Please take care
+of Lee, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}|
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Aren't you Mega Man!?
+Are you here to help!?
+<PUSH>
+That's great!
+I was so scared...
+<PUSH>
+*sniffle*
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Don't cry, Belle! Everything's
+going to be alright now!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That's right!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright, we found both of
+them! Now let's get out
+of here and leave the rest
+<PUSH>
+to the Satella Police!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Good idea!
+<PUSH>
+Belle, the Satella Police
+will be here shortly!
+<PUSH>
+So, please wait here until
+they arrive, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+OK, I understand!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Thanks, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{60}{02}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+I'll wait here until the
+Satella Police get here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "Keith"
+msgstr ""
+
+msgctxt "1"
+msgid "HevyCannon"
+msgstr ""
+
+msgctxt "2"
+msgid "SpadMgnes"
+msgstr ""
+
+msgctxt "3"
+msgid "Tongue"
+msgstr ""
+
+msgctxt "4"
+msgid "Upnorth"
+msgstr ""
+
+msgctxt "5"
+msgid "Snooker"
+msgstr ""
+
+msgctxt "6"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "7"
+msgid "Peppers"
+msgstr ""
+
+msgctxt "8"
+msgid "Burger Quest"
+msgstr ""
+
+msgctxt "9"
+msgid "Troy"
+msgstr ""
+
+msgctxt "10"
+msgid "DrillArm3"
+msgstr ""
+
+msgctxt "11"
+msgid "DiamndIce"
+msgstr ""
+
+msgctxt "12"
+msgid "Tail"
+msgstr ""
+
+msgctxt "13"
+msgid "Tropica"
+msgstr ""
+
+msgctxt "14"
+msgid "Dodgball"
+msgstr ""
+
+msgctxt "15"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "16"
+msgid "Liver"
+msgstr ""
+
+msgctxt "17"
+msgid "Taco Fantasy"
+msgstr ""
+
+msgctxt "18"
+msgid "Gavin"
+msgstr ""
+
+msgctxt "19"
+msgid "BlackInk"
+msgstr ""
+
+msgctxt "20"
+msgid "DrkPhntm"
+msgstr ""
+
+msgctxt "21"
+msgid "Heart"
+msgstr ""
+
+msgctxt "22"
+msgid "The City"
+msgstr ""
+
+msgctxt "23"
+msgid "Cricket"
+msgstr ""
+
+msgctxt "24"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "25"
+msgid "Okra"
+msgstr ""
+
+msgctxt "26"
+msgid "Fish Hunter"
+msgstr ""
+
+msgctxt "27"
+msgid "Gomer"
+msgstr ""
+
+msgctxt "28"
+msgid "SmileCoin1"
+msgstr ""
+
+msgctxt "29"
+msgid "TaursFire"
+msgstr ""
+
+msgctxt "30"
+msgid "Everywhere"
+msgstr ""
+
+msgctxt "31"
+msgid "Boonies"
+msgstr ""
+
+msgctxt "32"
+msgid "GateBall"
+msgstr ""
+
+msgctxt "33"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "34"
+msgid "Celery"
+msgstr ""
+
+msgctxt "35"
+msgid "Pork Monster"
+msgstr ""
+
+msgctxt "36"
+msgid "Mopey"
+msgstr ""
+
+msgctxt "37"
+msgid "WhtMeteor"
+msgstr ""
+
+msgctxt "38"
+msgid "CygnsWing"
+msgstr ""
+
+msgctxt "39"
+msgid "Optimism"
+msgstr ""
+
+msgctxt "40"
+msgid "Resorton"
+msgstr ""
+
+msgctxt "41"
+msgid "Hockey"
+msgstr ""
+
+msgctxt "42"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "43"
+msgid "Mushroom"
+msgstr ""
+
+msgctxt "44"
+msgid "Chicken Fighter"
+msgstr ""

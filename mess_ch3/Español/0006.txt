@@ -1,0 +1,357 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+¡Qué pasada!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué bonito, ¿eh?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡La brisa marina es
+muy refrescante!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Venga, todos a cambiarse
+y al agua, patos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Tú te apuntas, Srta. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No...
+Yo tengo que vigilaros...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Qué pena... Ya que estás
+aquí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Vamos a cambiarnos, y a
+disfrutar del mar de
+<Alohaha>.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Bud>
+Si vaoms a ponernos
+el bañador...
+<PUSH>
+Tendré que hacer "eso"...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡B-Bud!
+<PUSH>
+¡¿No será...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Te refieres a eso?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Qué demonios es "eso"?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿"Eso" es una técnica solo
+al alcance de los hombres.
+Es la legendaria técnica...
+<PUSH>
+¡"Gayumbos fuera"!
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Gayumbos fuera?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Es una técnica transmitida
+de generación en generación,
+<PUSH>
+un estilo prohibido de cambio
+de ropa convertido en leyenda.
+<PUSH>
+Primero, te quitas los
+pantalones y te pones el
+bañador encima de los gayumbos.
+<PUSH>
+Luego, te quitas los gayumbos
+por debajo del bañador.
+<PUSH>
+¡Y así, puedes cambiarte
+sin quedarte desnudo jamás!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Qué?!
+¡¿De verdad se puede
+hacer eso?!
+<PUSH>
+¿Y por qué está prohibido?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Jack...
+<PUSH>
+Ejecutar esta técnica conlleva
+un gran riesgo para el usuario.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Para quitarte los gayumbos
+por debajo del bañador,
+tienes que bajarte
+<PUSH>
+los gayumbos y sacar las
+piernas, una a una...
+<PUSH>
+¡¡Y cuando lo haces...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Pero eso es un peligro...
+Los calzoncillos podrían...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Exacto. Si fallas, el elástico
+se rasgará y hará un
+ruido espantoso...
+<PUSH>
+¡¡Y en el peor de los casos...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡No, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Bud?!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No sigas{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Es verdad...
+Lo siento, es demasiado
+gráfico...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+En fin...
+Parece que estoy a punto
+de ver algo bueno...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Game>
+¡Eh, ¿qué hacéis vosotros
+solos ahí?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+¿Y bien?
+¿Os da miedo hablar con chicas
+en una excursión?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Dele, estás guapísima!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Ese color te sienta de
+maravilla!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, estás genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+Ji, ji, ji...
+¡Gracias!
+<PUSH>
+¡Ahora venga, a cambiarse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Lo hacemos?
+Gayumbos fuera...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Solo tenemos una oportunidad...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Estoy dispuesto a arriesgarme.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Vamos a intentarlo...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡Eh!
+¡¿Pero qué estáis haciendo?!
+¡¡Daos prisa!!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo-2>
+Vamos allá...
+<PUSH>
+¡¡¡Gayumbos fuera!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Fuuusshhh...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡¡¡Ahhhhhh!!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+Lo hemos conseguido...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+No me arrepiento de nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+Ni yo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¡Vamos a nadar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

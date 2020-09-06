@@ -1,0 +1,13 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+{C6}{30}{B9}{30}{C8}{30}{28}{75}{E1}{30}{C3}{30}{BB}{30}{67}{30}{59}{30}{02}{30}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

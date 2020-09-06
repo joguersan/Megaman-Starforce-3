@@ -1,0 +1,652 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Ace>
+¡Bienvenido a la red
+de la Policía Satella!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Puedes luchar contra
+tus amigos y hacer
+nuevos Hermanos!
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Para ello debes usar
+la conexión Wi-Fi de
+Nintendo.
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Enfréntate a tus
+amigos!
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Después de un combate,
+ofrece a tu oponente
+ser tu Hermano!
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Después de un combate,
+ofrece a tu oponente
+ser tu colega de lucha!
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Puedes intercambiar
+cartas de combate
+con tus amigos!
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Puedes intercambiar los
+últimos datos con hasta
+seis Hermanos!
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Desconectar del
+otro grupo.
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres desconectarte?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Desconectando...
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Ups, parece que el otro
+grupo se ha desconectado.{01}{E1}
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Set up a session
+as the Host and
+let others connect.
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Join a session
+as a Client and
+search for a Host.
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Enter a 2 digit number
+to find a specific
+person.
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Ace>
+Waiting for a Client
+to join...
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Ace>
+Waiting for a Client to
+join... (A Button: Stop
+accepting clients)
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Ace>
+Looking for a Host...
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Initiate a connection?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 20]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+It looks like the Host
+canceled the connection.
+<PUSH>
+Do you want to search
+again for a new host?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 21]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Ace>
+Negotiating with Host...
+Hold on for a second.
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+It looks like the Client
+canceled the connection.
+<PUSH>
+Do you want to restart
+the session and wait for
+a new Client to connect?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+No Host was found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+1 battle showdown
+determines the winner.
+Results are unaffected.
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Best 2 out of 3
+battles is the winner.
+Results are unaffected.
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+1 battle showdown
+determines the winner.
+Winner gets Illegal data!
+[END]
+
+[SENTENCE NUMBER 27]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Best 2 out of 3
+battles is the winner.
+Winner gets Illegal data!
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Decide the number of
+turns for this match.
+{10}{EC}{00}{00}15 Turns
+{10}{EC}{01}{00}10 Turns
+{10}{EC}{02}{00}5 Turns
+{10}{EC}{03}{00}3 Turns
+{0F}{EC}{03}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 29]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Face off against Brothers
+and Battle Mates
+from around the globe.
+[END]
+
+[SENTENCE NUMBER 30]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Become Brothers with
+friends far away by
+entering a friend code.
+[END]
+
+[SENTENCE NUMBER 31]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Become Battle Mates with
+friends far away by
+entering a friend code.
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Update your Brothers'
+information.
+[END]
+
+[SENTENCE NUMBER 33]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Prepare to connect to
+Nintendo Wi-Fi
+Connection.
+[END]
+
+[SENTENCE NUMBER 34]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Oops... It looks like
+both of you chose
+different modes.{34}{EC}
+[END]
+
+[SENTENCE NUMBER 35]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Please wait while the other
+party wraps things up...
+[END]
+
+[SENTENCE NUMBER 36]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Battle Mates on standby who
+have already been registered
+were removed from standby.
+[END]
+
+[SENTENCE NUMBER 37]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents with
+card-based Power Ups.
+Star Server use allowed.
+[END]
+
+[SENTENCE NUMBER 38]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents without
+card-based Power Ups.
+Star Server use not allowed.
+[END]
+
+[SENTENCE NUMBER 39]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents
+regardless of strength.
+[END]
+
+[SENTENCE NUMBER 40]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents with
+similar strength.
+[END]
+
+[SENTENCE NUMBER 41]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents who
+have their Wave Battle
+Attack Stars ON.
+[END]
+
+[SENTENCE NUMBER 42]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Battle opponents who do
+not have their Wave Battle
+Attack Stars ON.
+[END]
+
+[SENTENCE NUMBER 43]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Use these criteria to
+search for an opponent?
+[END]
+
+[SENTENCE NUMBER 44]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Searching for an opponent.
+Depending on criteria, an
+opponent may not be found.
+[END]
+
+[SENTENCE NUMBER 45]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Do you want to cancel your
+search for a Wi-Fi opponent?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 46]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+You have to save before
+you enter this menu.
+Do you want to save?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 47]
+{00}{EC}{03}{00}{10}{EC}{00}{00}Opponent search
+{10}{EC}{01}{00}Opponent list
+{10}{EC}{02}{00}Disconnect
+{10}{EC}{03}{00}Cancel
+{0F}{EC}{04}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 48]
+{00}{EC}{03}{00}{10}{EC}{00}{00}Opponent list
+{10}{EC}{01}{00}Disconnect
+{10}{EC}{02}{00}Cancel
+{0F}{EC}{02}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 49]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+OK to disconnect
+from Nintendo Wi-Fi
+Connection?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 50]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Disconnecting from
+Nintendo Wi-Fi Connection.
+[END]
+
+[SENTENCE NUMBER 51]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Disconnected from
+Nintendo Wi-Fi Connection.
+[END]
+
+[SENTENCE NUMBER 52]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+The other party
+canceled the match.
+[END]
+
+[SENTENCE NUMBER 53]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+1 battle showdown
+determines the winner.
+[END]
+
+[SENTENCE NUMBER 54]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Best 2 out of 3
+battles is the winner.
+[END]
+
+[SENTENCE NUMBER 55]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Send a short message
+to your opponent.
+[END]
+
+[SENTENCE NUMBER 56]
+{17}{EC}{00}{00}{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Ace>
+The other party
+canceled the match.
+<PUSH>
+Search for a new
+opponent?
+{10}{EC}{00}{00}Opponent search
+{10}{EC}{01}{00}Opponent list
+{10}{EC}{02}{00}Disconnect
+{0F}{EC}{02}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 57]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+The other party
+canceled the match.
+<PUSH>
+Search for a new
+opponent?
+{10}{EC}{00}{00}Opponent list
+{10}{EC}{01}{00}Disconnect
+{0F}{EC}{01}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 58]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Searching for an opponent.
+Depending on the criteria, an
+opponent may not be found.
+[END]
+
+[SENTENCE NUMBER 59]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Use the +Control Pad to
+choose a message. Use
+the A Button to send.
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+You can only have up to 8
+Opponent Noises. Choose an
+Opponent Noise to overwrite.{01}{E1}
+[END]
+
+[SENTENCE NUMBER 61]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Do you want to abandon
+this Opponent Noise?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 62]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+You have abandoned
+this Opponent Noise.{01}{E1}
+[END]
+
+[SENTENCE NUMBER 63]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Time is up. You have no
+choice but to abandon
+this Opponent Noise.{01}{E1}
+[END]
+
+[SENTENCE NUMBER 64]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Overwrite this one?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 65]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Codename: {2C}{E1}
+Type: {2D}{E1}
+[END]
+
+[SENTENCE NUMBER 66]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Abandon and delete
+this Opponent Noise?
+[END]
+
+[SENTENCE NUMBER 67]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Opponent Noise overwrite
+has been completed.{01}{E1}
+[END]
+
+[SENTENCE NUMBER 68]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+The other party is saving
+Opponent Noise. Let's
+wait for them to finish up.
+[END]
+
+[SENTENCE NUMBER 69]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+That Opponent Noise has
+already been registered.
+<PUSH>
+Do you want to unregister
+it and overwrite it?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 70]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Connecting to other party...
+[END]
+

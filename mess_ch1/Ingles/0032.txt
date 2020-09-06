@@ -1,0 +1,245 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}{10}{E2}{3A}{03}
+<NEW-DIALOG>
+<Game>
+*gasp*
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+It really is Mega Man!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+They seem pretty excited
+to see me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*munch, munch*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So you finally showed up.
+You kept us waiting.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Should we get started?
+Everyone's getting antsy.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Wait a minute!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I don't understand.
+<PUSH>
+Why are you willing to go
+this far just to get a
+chance to battle with me?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+There's something terrible
+coming...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I need to see if you
+truly have the power to
+stop it.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So then I'll be battling with
+your Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+This time around, yes.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+This time?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I'll know fairly quickly, so
+let's get started...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*alarm siren*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's the Security System
+again...
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+<Mega>
+Another malfunction!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No, something's happening...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Attention, all <Spica.Mall>
+visitors!
+<PUSH>
+There is currently a Wizard
+within <Spica.Mall> that has
+gone out of control!!
+<PUSH>
+Please move to a safe
+area as quickly as possible!
+<PUSH>
+{10}{E2}{3B}{03}
+<NEW-DIALOG>
+*Everyone, please calm down!
+<PUSH>
+As long as we don't leave
+this area we will be safe!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A Wizard is running out of
+control!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I've never heard of
+something like that before...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We've got to stop it!
+Let's go, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's tear 'em up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Looks like we'll have to
+postpone your little test.
+<PUSH>
+
+<NEW-DIALOG>
+ÌWhat should we do, Ace?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Of course we're going, Acid.
+<PUSH>
+This is a good chance to
+see Mega Man's skills!
+<PUSH>
+
+<NEW-DIALOG>
+ÌUnderstood.
+<PUSH>
+
+[END]
+

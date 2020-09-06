@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "PntdFang"
+msgstr ""
+
+msgctxt "1"
+msgid "StarHoop"
+msgstr ""
+
+msgctxt "2"
+msgid "ShadowClaw"
+msgstr ""
+
+msgctxt "3"
+msgid "Quick Ring"
+msgstr ""
+
+msgctxt "4"
+msgid "AquaFang"
+msgstr ""
+
+msgctxt "5"
+msgid "StormHoop"
+msgstr ""
+
+msgctxt "6"
+msgid "ParlyzWing"
+msgstr ""
+
+msgctxt "7"
+msgid "R-F Claw"
+msgstr ""
+
+msgctxt "8"
+msgid "ZennyFindr"
+msgstr ""
+
+msgctxt "9"
+msgid "TitnGlve"
+msgstr ""
+
+msgctxt "10"
+msgid "FlashBand"
+msgstr ""
+
+msgctxt "11"
+msgid "K.Knckle"
+msgstr ""
+
+msgctxt "12"
+msgid "VirusClaw"
+msgstr ""
+
+msgctxt "13"
+msgid "HypnoEye"
+msgstr ""
+
+msgctxt "14"
+msgid "ImpctRoar"
+msgstr ""
+
+msgctxt "15"
+msgid "CardFindr"
+msgstr ""
+
+msgctxt "16"
+msgid "CosmicRave"
+msgstr ""
+
+msgctxt "17"
+msgid "Chivalry"
+msgstr ""
+
+msgctxt "18"
+msgid "WhiteFang"
+msgstr ""
+
+msgctxt "19"
+msgid "GaleClaw"
+msgstr ""
+
+msgctxt "20"
+msgid "DangerRing"
+msgstr ""
+
+msgctxt "21"
+msgid "BN BlstrEX"
+msgstr ""

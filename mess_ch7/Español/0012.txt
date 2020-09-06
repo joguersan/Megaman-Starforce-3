@@ -1,0 +1,64 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Gracias, Mega Man.
+<PUSH>
+Siempre supe que me
+rescatarías, por eso
+he aguantado aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pero... sabiendo que
+estaría en peligro,
+¿por qué se quedó?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Había algo que debía
+terminar a toda costa...
+<PUSH>
+No te preocupes, cuando
+volvamos os diré a todos
+de qué se trataba.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡A expulsionarse, que
+mañana es tarde!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ja, ja, buena idea.
+<PUSH>
+Muy bien, Dra. Goodall.
+Hora de irnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Vale, tendrás que
+guiarme hasta la salida.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sin problema!
+¡¡Usted sígame!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+

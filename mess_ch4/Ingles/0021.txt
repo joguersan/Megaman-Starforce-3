@@ -1,0 +1,272 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ungh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Noise is too intense{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr...!
+<PUSH>
+W-What is this...?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Heh, heh, heh...
+<PUSH>
+Does it hurt, Mega Man!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...!?
+<PUSH>
+T-That voice...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Is that Dark Phantom...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh!
+It is quite the honor to
+have you remember me!
+<PUSH>
+...It's almost enough to make
+crawling out of the darkness
+that I came from worth it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Gahh...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ooowa...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh!
+<PUSH>
+How does it feel, Mega Man!?
+Does it hurt!? Well, does it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+This is your doing{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Me?
+<PUSH>
+I'm just a spectator.
+<PUSH>
+You are practically swimming
+in a dense soup of Noise...
+<PUSH>
+You've reached your limit
+for how much you can handle!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...!?
+<PUSH>
+{13}{EC}(Mr. Boreal did
+ mention this...)
+<PUSH>
+{13}{EC}(Noise builds up
+ inside of EM beings...!)
+<PUSH>
+{13}{EC}(Umph! I should have
+ listened to him...!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+In other words, you guys
+are destroying yourselves!
+<PUSH>
+I've been watching you and
+waiting for this very moment!
+<PUSH>
+Everything is going according
+to the script!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+!!
+<PUSH>
+So it was you that I sensed
+back in <Alohaha>!
+<PUSH>
+Is this revenge for us
+destroying <Mu-color>?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh. Revenge{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}?
+Indeed it is.
+<PUSH>
+However, not because of Mu.
+<PUSH>
+This is for myself!
+I lost everything I've ever
+had or desired!
+<PUSH>
+And it was you two who
+took it all away from me!
+<PUSH>
+My power... My dreams...
+Why must the script always
+call for the hero to win!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Do you think...
+This will change anything?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh!
+<PUSH>
+Now for the next scene.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ungh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+Still not doing your own
+dirty work, I see.
+<PUSH>
+Once a coward...!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Unfortunately, I'm only
+capable of writing one kind
+of script!
+<PUSH>
+But at least...
+They're always exciting, are
+they not?{15}{E1} Heh, heh, heh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrrrrr...!
+I'm gonna rip you apart!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+I can't control my anger!
+Time to let it all out, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+O...{15}{E1} OK!
+<PUSH>
+{13}{EC}(Arg...! I'm up...
+{13}{EC} But... It's too...)
+<PUSH>
+{13}{EC}(I...{15}{E1} I can't give up!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh.
+Don't bother if it's too much
+trouble for you!
+<PUSH>
+And now for my most well-
+crafted of finales!
+<PUSH>
+Revenge is mine!
+And... action!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

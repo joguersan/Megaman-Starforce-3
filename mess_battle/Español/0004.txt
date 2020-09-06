@@ -1,0 +1,174 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vale, ahora hablaré
+del MegaAtaque y
+fijar a un enemigo.
+<PUSH>
+A ver, coge dos
+cartas de espada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico! ¡Coge una
+carta de una vez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡He dicho cartas
+de espada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico, coge una más!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico! ¡No es
+momento de huir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Estás listo, ¿no?
+Vale, pues te explico.
+<PUSH>
+El MegaAtaque es un
+ataque combinado
+entre los dos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, me acuerdo.
+<PUSH>
+Primero, pulsa abajo en la
++ Cruceta y cambiaré
+al modo de fijación.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eso es. Pulsa abajo en la
++ Cruceta para cambiar
+a modo fijación.
+<PUSH>
+Así, aparecerán unas flechas
+apuntando en tres direcciones.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Si ves las flechas, es que
+estás en el modo de fijación.
+Vale...
+<PUSH>
+En este modo, aparecerá
+un icono redondo sobre
+<PUSH>
+los enemigos frente a ti
+o en diagonal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eso se llama punto de mira.
+Cuando aparezca, intenta
+usar una espada.
+<PUSH>
+¡Nos lanzaremos hacia el
+enemigo y atacaremos con
+mi increíble velocidad!
+<PUSH>
+¡Primero, pulsa abajon en
+la + Cruceta, y cuando
+<PUSH>
+aparezca el punto de mira,
+pulsa el botón A!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Bien...
+Esperaba que llegaras
+hasta aquí... Mega Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Jack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Me llamo Jack Corvus...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ojojojo...
+Omega-Xis, por fin ha llegado
+el momento de vernos
+las caras.
+<PUSH>
+¡¡Voy a destruirte!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí solo uno va a caer,
+y eres tú! ¡T-Ú!
+<PUSH>
+¡No te confundas, Corvus!
+¡No soy el mismo de antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+No vais a impedir que nuestro
+deseo se haga realidad.
+<PUSH>
+Vuestra existencia
+acaba aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Voy a luchar para proteger a
+las personas que quiero y
+a toda la gente de la Tierra!
+<PUSH>
+¡¡Vuestro deseo se quedará
+en un triste y patético sueño!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Si eso crees, adelante!!
+<PUSH>
+¡¡Este será el final del
+héroe de la justicia!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Cuando termine contigo
+iré a por el Meteorito G!!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

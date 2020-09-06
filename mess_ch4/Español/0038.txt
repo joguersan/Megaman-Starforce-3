@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Se han caído todos
+los sistemas de la
+Policía Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

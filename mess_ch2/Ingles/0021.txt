@@ -1,0 +1,274 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}C-C-Cold...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+He's frozen solid!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}S-So c-c-cold...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'll get you out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Full Charge!
+Fire!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+No way!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's no good...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, the phone...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Hey, Mega Man!
+How's it going?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm in a bit of a bind at
+the moment...
+<PUSH>
+There's a Wizard that's
+been frozen solid.
+I can't thaw him out.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I see...
+<PUSH>
+Then I'll just have to lend
+you Taurus for a bit!
+<PUSH>
+I'm sending him to your
+<Hunter>, right now!
+<PUSH>
+{02}{E2}({10}{E2}{46}{05}
+<NEW-DIALOG>
+<Game>
+Taurus was installed into
+the <Hunter>-VG!
+<PUSH>
+{01}{E2}(
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrggg!
+Here I am!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Bud!
+<PUSH>
+...But, you really don't mind?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Not at all.
+<PUSH>
+It looks like you could use
+him a lot more than I
+could, right now.
+<PUSH>
+Take care of him for me!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You bet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Taurus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+Time for some fun!
+Just leave this to me!
+Fire!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The ice melted!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No one can deny that kind
+of fire power!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+If you bump into any more
+ice that you need to melt,
+just touch me!
+<PUSH>
+Any time you need me, I'll
+come out and do what I
+do best! Fire!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Thanks for saving me!
+<PUSH>
+I was frozen when I came
+to check out that lock
+nearby...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Did you see who did it?
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}No. Surprised me from
+behind...
+<PUSH>
+But it looked like a female
+as she walked away.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A female...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}I'm going to open the lock
+and get back to work.
+<PUSH>
+Thanks again for helping
+me out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Female EM beings are
+pretty rare... I don't know
+anyone but Lyra...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah...
+Well, at least we helped
+that Wizard out.
+<PUSH>
+Let's keep going.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

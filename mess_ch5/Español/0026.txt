@@ -1,0 +1,307 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias por esperar,
+Sr. Wolf!
+<PUSH>
+
+<NEW-DIALOG>
+{8C}{00}¡Grrr!
+¡Es bastante fuerte!
+<PUSH>
+¡He llegado a mi límite!
+<PUSH>
+¡Ni te rindas, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, Wolf.
+¿Contento de verme?
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}¡Tarde como siempre!
+<PUSH>
+¡Te dejo a este para ti,
+Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Gracias!
+<PUSH>
+A cambio le patearé el
+trasero.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¿Te crees capaz de hacerlo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Vamos...
+<PUSH>
+¿En serio crees que todo lo
+que digas me va a afectar?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ahora que lo dices...
+Siempre fuiste un poco tonto.
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Tu, te arrepentiras de esto!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*Uuuaaahhh* Si, claro.
+<PUSH>
+¿Podemos empezar a pelear ya?
+¡Combate de ondas, adelante!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Grr!
+¡No puedo esperar más!
+<PUSH>
+¡¡Jaaack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Deja de llorar, Corvus!
+<PUSH>
+Estoy harto de oírte hablar
+tanto...
+<PUSH>
+Con el paso del tiempo, no
+quedarán suficientes para una
+recuperación de datos exitosa.
+<PUSH>
+Voy a mostrarles lo que es el
+verdadero dolor
+<PUSH>
+Y los libraremos del mundo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+¡Tienes que detenerte y pensar
+en esto!
+<PUSH>
+Eres nuestro compañero de
+clase y amigo, ¿verdad?
+<PUSH>
+Fuimos de excursión juntos e
+hicimos muchos buenos
+recuerdos.
+<PUSH>
+¿O fue todo una farsa?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Tú eres el que necesita
+despertar, Mega Man.
+<PUSH>
+¿«Amigo»?
+<PUSH>
+¡No me fastidies!
+<PUSH>
+Sólo fingía ser vuestro amigo.
+<PUSH>
+Eres patético{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¿Pones toda tu esperanza en
+una persona que te mintió todo
+el tiempo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Eso no importa!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+No importa el por qué te
+juntaste con nosotros.
+<PUSH>
+¡Durante el viaje pasamos
+tiempo juntos y nos
+divertimos!
+<PUSH>
+Mientras compartamos esos
+recuerdos, ¡¡siempre serás
+nuestro amigo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Escúchalo, Jack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡También me divertí mucho
+contigo en la excursión!
+<PUSH>
+No me importa lo que digas,
+¡¡el tipo con el que salimos
+es nuestro amigo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+Callaos.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡¡Cierra el pico!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡Cállate! ¡Cállate!
+¡Cállate! ¡Cállate!
+<PUSH>
+¡Sois un grano en el culo!
+¡Callaos de una vez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Voy a eliminarlos...
+<PUSH>
+Voy a borrar todos esos
+recuerdos sin valor...
+<PUSH>
+¡¡Y a ti y a ellos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+J-Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Lo se Mega...
+<PUSH>
+Bud.
+Sonia.
+<PUSH>
+Lo siento, pero tengo que
+combatir contra Jack solo.
+<PUSH>
+Confiad en mí, por favor.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+{13}{EC}...
+<PUSH>
+¡De acuerdo, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Confiamos en ti, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, chicos!
+<PUSH>
+¡¡Jack!!
+<PUSH>
+¡Eres nuestro amigo!
+<PUSH>
+Y esa es...
+¡¡Mi razón para detenerte!!
+<PUSH>
+Combate de ondas,
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{15}{E1}¡adelante!{30}{EC}
+<END-DIALOG>
+
+[END]

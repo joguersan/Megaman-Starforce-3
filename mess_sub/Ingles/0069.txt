@@ -1,0 +1,84 @@
+[SENTENCE NUMBER 1]
+MEGA MAN SF
+[END]
+
+[SENTENCE NUMBER 2]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 3]
+Ability
+[END]
+
+[SENTENCE NUMBER 4]
+SeeRecrds
+[END]
+
+[SENTENCE NUMBER 5]
+NoiseCard
+[END]
+
+[SENTENCE NUMBER 6]
+Turn ON
+[END]
+
+[SENTENCE NUMBER 7]
+Turn OFF
+[END]
+
+[SENTENCE NUMBER 8]
+MAX HP     {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+Mega       {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+Giga       {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+Supt           
+[END]
+
+[SENTENCE NUMBER 12]
++{20}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+Normal         
+[END]
+
+[SENTENCE NUMBER 14]
+Sword          
+[END]
+
+[SENTENCE NUMBER 15]
+Break          
+[END]
+
+[SENTENCE NUMBER 16]
+Fire           
+[END]
+
+[SENTENCE NUMBER 17]
+Aqua           
+[END]
+
+[SENTENCE NUMBER 18]
+Elec           
+[END]
+
+[SENTENCE NUMBER 19]
+Wood           
+[END]
+
+[SENTENCE NUMBER 20]
+Abilty         
+[END]
+
+[SENTENCE NUMBER 21]
+Noise
+[END]
+

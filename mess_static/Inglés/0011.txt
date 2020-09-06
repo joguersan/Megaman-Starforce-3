@@ -1,0 +1,24 @@
+[SENTENCE NUMBER 1]
+SmEnrgy
+[END]
+
+[SENTENCE NUMBER 2]
+LrgEnrgy
+[END]
+
+[SENTENCE NUMBER 3]
+D.Enrgy
+[END]
+
+[SENTENCE NUMBER 4]
+Unlocker
+[END]
+
+[SENTENCE NUMBER 5]
+Cloaker
+[END]
+
+[SENTENCE NUMBER 6]
+SrchEye
+[END]
+

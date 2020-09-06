@@ -1,0 +1,82 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Nice job, Geo.
+It looks like you handled
+all the problems for now.
+<PUSH>
+But we can't let our guard
+down just yet.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It seems that the culprit
+is a female Wizard.
+<PUSH>
+But we didn't find out
+much else.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+That's a good enough
+starting place for now.
+<PUSH>
+Thank you for allowing
+"SoniaBackers" to see its
+Purpose fulfilled.
+<PUSH>
+If you don't mind, I'd like
+to become Brothers with
+you.
+<PUSH>
+You've helped me out so
+much, and I feel like we're
+comrades in arms!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That'd be great!
+<PUSH>
+{6E}{E1}{00}{00}{13}{00}
+<NEW-DIALOG>
+<Game>
+Geo and Lee formed a
+Brother Band!
+<PUSH>
+Geo's Link Power went up
+by 50!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+The show's going to start
+soon... I can't wait! All the
+preparations are done!
+<PUSH>
+Except for turning on the
+stage!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Real Wave On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

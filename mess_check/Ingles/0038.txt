@@ -1,0 +1,50 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Push on through, kid!!
+Leave the Crimson to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sounds like a plan!
+What would I do without you!?
+<PUSH>
+{0A}{E1}{85}{02}
+<END-DIALOG>
+
+[END]
+

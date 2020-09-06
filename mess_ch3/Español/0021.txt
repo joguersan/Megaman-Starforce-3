@@ -1,0 +1,60 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Strong...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Mega Man...
+<PUSH>
+¿Le has dicho a las gentes
+que deben venerarme como
+su nuevo rey?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No. ¡¿Crees que ellos
+quieren algo así?!
+<PUSH>
+¡Despierta, Strong!
+¡¡Tu deber es proteger
+<Alohaha>!!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡¡Bah!!
+¡Cómo osas rechistar
+a tu rey!
+<PUSH>
+¡¡No perdono a los traidores
+que no me obedecen!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No hay nada que hacer, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡<Alohaha> no será gobernada
+con el terror!!
+<PUSH>
+¡Combate de ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

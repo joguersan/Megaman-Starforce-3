@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPuedes conseguir esa onda
+misteriosa de ahí cuando tu
+campo magnético sea azul.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

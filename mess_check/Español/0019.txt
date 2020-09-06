@@ -1,0 +1,257 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Esta máquina expendedora
+vende Cartas de Sonia.
+Ya no queda ni una...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el escenario.
+Aún no me creo que
+sean Ondas Reales.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una valla publicitaria
+de Sonia. En realidad
+es una pantalla virtual.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este foco sigue a Sonia
+durante su actuación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un altavoz.
+De aquí sale música que
+te toca el corazón.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un amplificador
+de esos. Nunca he
+sabido para qué se usan.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El escenario es alegre
+y colorido, como la
+personalidad de Sonia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+No puedo entrar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡V-I-V-A S-O-N-I-A!
+¡¡VIVA Sonia!!
+¡Oooohhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{00}{00}u{0C}{00}{0C}{E1}{00}{00}v{0C}{00}{0C}{E1}{00}{00}w{0C}{00}{0C}{E1}{00}{00}x{0C}{00}{0C}{E1}{01}{00}{86}{13}{0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+<PUSH>
+ACCESS CODE SET{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Yujuuu!
+¡He podido entrar!
+<PUSH>
+{0A}{E1}{86}{13}{0A}{E1}t
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Se ha abierto la
+entrada a la
+Disonancia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ERROR DE ACCESO!
+<PUSH>
+INTRODUCE EL
+CÓDIGO DE ACCESO.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Mmm...
+<PUSH>
+Parece que para entrar en
+esta disonancia necesitas
+una clave especial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}<Taurus.Fire>
+{10}{00}{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¡!!
+<PUSH>
+{13}{EC}(Noto una leve
+{13}{EC} presencia de
+{13}{EC} Ruido...)
+<PUSH>
+{13}{EC}(¿Será mi imaginación?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{8A}{13}
+[END]
+

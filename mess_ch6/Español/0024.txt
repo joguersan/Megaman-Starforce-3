@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡El camino onda vuleve a
+estar entero!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial!
+<PUSH>
+¡Parece que las ondas EM de
+esta zona se han vuelto más
+fuertes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+{13}{EC}(Es como si todo el mundo nos
+{13}{EC}dijera que sigamos adelante...)
+<PUSH>
+¡No podemos defraudarlos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

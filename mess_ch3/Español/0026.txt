@@ -1,0 +1,85 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Aahh...
+Los temblores están
+yendo a más...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡La carretera de ondas!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Se está derumbando!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Corre, chico!
+¡No te pares!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡V-Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡La carretera está llena de
+grietas por culpa de los
+terremotos!
+<PUSH>
+¡Usa el Botón A para saltar
+sobre las grietas!
+<PUSH>
+¡Si te tropiezas con una
+grieta, perderás velocidad
+y tiempo!
+<PUSH>
+¡Sal de aquí lo más rápido
+que puedas, y no te caigas!
+<PUSH>
+¡Volver aquí arriba no
+será fácil!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡De acuerdo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

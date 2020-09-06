@@ -1,0 +1,103 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Vamos al Camino Onda a
+eliminar aesos virus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Vamos a decirle a Wood
+que los virus
+han desaparecido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+La Dele nos espera en
+la primera planta.
+¡Vamos ya mismo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos, chico!
+¡Hay que eliminar a los
+virus del CN del aspersor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No estaría mal ir a ver
+a ese tal Woody.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Dele nos está esperando,
+¿eh? ¡Pues al primer piso!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hay alguien en la
+entrada, ¿no?
+En marcha, chico.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

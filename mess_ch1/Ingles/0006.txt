@@ -1,0 +1,348 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Sorry for the wait, Mega.
+You can come out now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{03}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Roo{15}{E1}aaa{15}{E1}rrr!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+W-What's wrong!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo!
+For cryin' out loud!
+<PUSH>
+Let me know before you
+ever do something like
+upgrade your mobile terminal!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+<PUSH>
+Why?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What do you mean why!?
+You should know!
+<PUSH>
+Thanks to the recent
+advancements in wave
+technology, I've become a
+<PUSH>
+Wizard, which is basically an
+<CORPO.EM-color> that is integrated
+into the mobile terminal!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, of course I know
+that much...
+<PUSH>
+You and the <Hunter>-VG are
+intimately linked together.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grr!!! Exactly!!!
+<PUSH>
+So if you make a change
+to the system, then you
+change me, too!
+<PUSH>
+Do you think it feels nice
+to have a ton of data
+shoved down your gullet?
+<PUSH>
+It was terrible!
+Ohh...
+<PUSH>
+I don't feel so good all of
+a sudden...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+S-Sorry!
+I didn't think of that...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No big deal, kid.
+Just keep it in mind for
+the future.
+<PUSH>
+By the way...
+<PUSH>
+Have you tried on your
+<Visualizer-color> since EM wave
+technology has advanced?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+Now that you mention it...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, try them on, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+When you put on your
+<Visualizer>, you are able to
+<PUSH>
+see the "<Wave.Road>" and
+even EM bodies.
+<PUSH>
+Regular people can't see
+these phenomena.
+<PUSH>
+So, can you see anything?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Yeah, it works great!
+<PUSH>
+If my dad hadn't given me
+this <Visualizer>, you and I
+wouldn't have met, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+<Kelvin-color>...
+Your father was a great
+man, kid...
+<PUSH>
+And as they say,
+"like father, like son."
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Hey, don't compare me to
+my dad, OK?
+<PUSH>
+I need to make my own
+path in life.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh, you sound like you're
+growin' up, kid.
+<PUSH>
+Anyway...
+You should try using the
+<Visualizer> everywhere.
+<PUSH>
+Just press the Y Button
+to use it anytime.
+<PUSH>
+Also, you won't be able to
+see people while you're
+using it. Just EM bodies.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Got it.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, you can kind of see
+people, but it's pretty
+difficult.
+<PUSH>
+Just be really careful when
+walking around with the
+<Visualizer> on.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-Visualizer>
+Alright.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, a phone call...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{10}{E2}<Taurus.Fire>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, Prez...
+What's up?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{12}{E2}<Mr.King-2>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+"What's up?"!?
+<PUSH>
+Don't give me "What's up?"!
+I can't believe that you
+<PUSH>
+just took off like that
+after class!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Uhh...
+I kinda had something...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Yeah, yeah.
+<PUSH>
+Just come over to the
+Snack Shop on the 1st
+Floor, OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+On{15}{E1} the{15}{E1} double!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Man, she sure is angry
+with me today.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You better get over to
+that Snack Shop before
+she gets any angrier!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

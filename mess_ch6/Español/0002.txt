@@ -1,0 +1,153 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Y entonces...
+<PUSH>
+El día después de que
+Jack atacara la escuela...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Parece que la escuela ha
+{13}{EC} vuelto a la normalidad...)
+<PUSH>
+{13}{EC}(Jack y la Srta. Tia{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} se han ido...)
+<PUSH>
+{13}{EC}(¿Por qué ha tenido que
+{13}{EC} ser así?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Todavía sigues preocupado
+por ellos?
+<PUSH>
+¡Compórtate como un hombre!
+<PUSH>
+¡La lucha contra Dealer no ha
+hecho más que empezar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+C-Cierto...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a machacarles!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrrr!
+<PUSH>
+¡¡No puedo esperar a hacerlos
+pedazos!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Relájate, Mega!
+<PUSH>
+¡Lo único que piensas es
+en pelear!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrrr! ¡Los humanos le dais
+muchas vueltas a todo!
+<PUSH>
+¡Y por eso siempre acabáis
+metidos en líos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡...!!
+<PUSH>
+P{15}{E1}-Puede...
+Puede{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} que tengas razón...
+<PUSH>
+P-Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geeeo!
+¡Tus amigos están aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Ya voyyy!!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Vamos a la escuela...{13}{EC})
+<PUSH>
+{13}{EC}(No sé si pasará algo,
+{13}{EC} pero...)
+<PUSH>
+{13}{EC}(No importa lo que
+{13}{EC} ocurra, yo...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,45 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Quieres introducir datos
+de una Carta Ruido?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres desactivar los
+efectos de la Carta Ruido?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres activar los
+efectos de la Carta Ruido?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+

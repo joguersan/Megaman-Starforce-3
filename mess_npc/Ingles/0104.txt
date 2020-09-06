@@ -1,0 +1,29 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{01}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat?
+<PUSH>
+You think I'm sleeping on
+the job because I don't run
+the sprinklers all day long!?
+<PUSH>
+How rude!
+<PUSH>
+If I water the flowers
+during the day, they'll wilt.
+<PUSH>
+So, I only water them
+in the morning and in
+the evening.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

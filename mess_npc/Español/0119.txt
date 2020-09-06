@@ -1,0 +1,66 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip. ¡Este es
+el Cibernúcleo de la
+puerta de la escuela!
+<PUSH>
+¡Nuestra política de
+saludos siempre se lleva
+a cabo!
+<PUSH>
+¡Por las mañanas decimos
+"buenos días"
+<PUSH>
+y cuando la gente se
+va a casa "adiós"!
+<PUSH>
+¡Con una sonrisa en la cara!
+Por cierto, "pip" es como los
+hercios nos damos las gracias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}¿¡Qué pasa jovenzuelos!?
+<PUSH>
+¡Soy el Wizard a cargo
+del Cibernúcleo de
+esta nuestra escuela!
+<PUSH>
+Me encargo de que nadie
+sospechoso entre.
+<PUSH>
+¡Esto es un trabajo
+para mayores!
+¿¡Lo pillas jovencito!?
+<PUSH>
+¡A muchos jóvenes de
+hoy en día les falta
+carácter!
+<PUSH>
+Primero el amor, luego
+el carácter,
+y después...
+<PUSH>
+¿¡Qué!? ¿¡Ya
+te vas!?
+<PUSH>
+¡Niños! Siempre con
+tanta prisa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,111 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The Next Day...
+<PUSH>
+
+<END-DIALOG>
+{11}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Alright!
+Let's go check out that
+environmental system!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's Electopia's most powerful
+computer system...
+That's so cool!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'm so excited I might just
+wet myself!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+It should be fun!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...?
+<PUSH>
+Hey, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What's up, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Is it me, or did it kinda feel
+like the ground shook just
+now...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really?
+I didn't notice anything, but...
+<PUSH>
+There's no way it could have
+been an earthquake.
+<PUSH>
+The environmental system
+protects the island from all
+natural disasters.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Oh, yeah. That's true.
+<PUSH>
+Sorry that I stopped you.
+Let's get going, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

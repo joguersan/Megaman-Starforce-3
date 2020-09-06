@@ -1,0 +1,205 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So this is <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I've seen this tree road
+before on TV!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, someone's coming.
+<PUSH>
+He seems familiar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+It's Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Why is he here?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I was just walking by and
+noticed you guys.
+<PUSH>
+I was hoping maybe I could
+hang out, too... hehe.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow! And here I thought
+you were a jerk. But you
+actually seem pretty nice.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(...Ugh.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+If you want to, Jack, you
+can appear on TV with us!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Appear?
+<PUSH>
+Appear in what?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We're going to be used
+as extras in a TV show!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Do you know the star,
+Sonia Strumm?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+She's actually a friend of
+ours.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+There's going to be a TV
+show recording and a
+concert, today!
+<PUSH>
+Come with us, Jack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(A-A TV show and a
+ concert? Man, I hate
+ that kind of stuff...)
+<PUSH>
+{13}{EC}(I can't believe you're
+ making me do this stuff,
+ Sis...!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What the heck are you
+grumbling about?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Oh! N-Nothing at all.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Then come on, Jack!
+<PUSH>
+It's time for our dream to
+come true!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+It's not really a dream of
+mine...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Quit complaining and move
+your butt!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...He actually went along
+with them. Do you think
+it'll be OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, you were like that
+not too long ago, right?
+Let's give him a shot.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You're right.
+Let's go into the studio
+with everyone else.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

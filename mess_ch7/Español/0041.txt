@@ -1,0 +1,157 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Así que has derrotado
+a Jack...
+<PUSH>
+Ha llegado el momento{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Tu aventurita
+termina aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahí estás, Queen Virgo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+El núcleo principal del
+Meteorito G está más
+adelante...
+<PUSH>
+No os dejaré llegar
+hasta él...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Él{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¿Te refieres a mi padre?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Conque sí que es tu padre...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¿Lo ves?!
+Te lo dije, ¿a que sí?
+<PUSH>
+¡El viejo y este tontolaba
+tienen la misma frecuencia!
+<PUSH>
+¡¡Pero el viejo está
+en las últimas!!
+<PUSH>
+¡¡De aquí a nada no
+será más que un recuerdo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Qué dices?!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Lo que has oído...
+<PUSH>
+Ese hombre está usando su
+increíble energía para
+que no entremos al núcleo...
+<PUSH>
+Pero su lucha con el
+Meteorito G ha durado
+demasiado.
+<PUSH>
+Muy pronto llegará a
+su límite...
+<PUSH>
+Y me lo quitaré de en medio
+sin mover un solo dedo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Que te lo has creído!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+En fin...
+<PUSH>
+No tengo ni idea de qué
+pasaría si vosotros dos os
+encontrarais...
+<PUSH>
+Lo más seguro es que
+volvierais a entrometeros
+en nuestros planes...
+<PUSH>
+Por eso...
+debo detenerte aquí
+y ahora...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Yo tampoco puedo perder aquí.
+<PUSH>
+¡¡Voy a arruinar vuestros planes!!
+¡¡Y voy a hacerlo por Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+Niño estúpido{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡¡Sí que tienes agallas!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace, dame fuerzas!!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,550 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It's the science club...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Is everybody ready?
+
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Ready!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Great!
+Well let's get started, shall
+we?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+We've finally completed
+this small scale rocket
+in our lab!
+<PUSH>
+At last, we can actually
+perform the flight test!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}{29}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*clak, clak*
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Huh? What's that sound?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*swooosh*
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Ahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+The Sprinkler is out of
+control!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm reading a virus
+somewhere in the area!
+<PUSH>
+...It's inside the Sprinkler
+<Nucleo.Pro{67}{01}ramma-color> (CC)!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Everyone, stay calm!
+<PUSH>
+We all have Hunters and
+Battle Cards just for this
+very occasion, right?
+<PUSH>
+Let's take care of the
+virus together!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Take this!
+<Cannone>!!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+<PlasmaGu{6E}{01}>!!
+<MiniGrnade>!!
+<PUSH>
+It's no use!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+If only we had Wizards...
+
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Then we could use Battle
+Cards more effectively!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Argh!
+Is science worthless!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Sir!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+We have to protect the
+rocket!
+<PUSH>
+It's the symbol of all of
+our hard work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Ahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Whoaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Aaah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We gotta help them, kid!
+<PUSH>
+What do you want to do?
+<PUSH>
+How about I hop into the
+Sprinkler Cyber Core and
+<PUSH>
+go buck wild on the
+viruses!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Hmm...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No.
+Let's get them together.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright! It's been a while
+since we've done an
+"{47}{E2}"!
+<PUSH>
+Just don't forget to stay
+frosty, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You got it!
+Let's <Trans.in-color> to the
+Sprinkler Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Take it easy, everyone!
+I can help!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+What? How can you help?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+J-Just don't worry about it.
+It's under control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So, kid...
+About EM Wave Changes...
+<PUSH>
+Until now we could only
+EM Wave Change in certain
+areas.
+<PUSH>
+But thanks to the recent
+advancements in EM wave
+technology...
+<PUSH>
+We can do it anywhere!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really? Cool.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Just "Cool"!?
+Are you even paying
+attention!?
+<PUSH>
+Whatever...
+For now let's just do this
+thing!
+<PUSH>
+Time to EM Wave Change
+into Mega Man!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Let's do it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh, wait.
+There's one more thing...
+<PUSH>
+Take a look at that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's the "<Stazione.d'Onda-color>"
+that controls all the EM
+waves for the school.
+<PUSH>
+As Mega Man we can
+enter the Wave Road
+with it!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Got it, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+It's EM Wave Change time!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+...Umm?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Uh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I-It's not working, Mega!
+<PUSH>
+I even yelled and everything..
+Man this is so embarrassing!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's really strange. Yelling
+makes everything work...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beeeep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, there's a message
+coming through the Hunter.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+EM Wave Change Detected...
+<PUSH>
+Satella Police accessing{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Authenticating{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What the heck?
+<PUSH>
+This seems pretty serious!
+Are we in trouble?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Authentication complete...
+<PUSH>
+Registering Geo Stelar
+and Omega-Xis as 
+EM Wave Change ID "003".
+<PUSH>
+ID card issued.
+Authentication code...
+<PUSH>
+"Mega Man".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Upon EM Wave Change,
+authentication code is now
+required.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What was that?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like we were
+registered with the
+{52}{E2}...
+<PUSH>
+And that we won't be able
+to EM Wave Change so
+easily anymore.
+<PUSH>
+I'm not really sure, but
+it seems like we need to 
+<PUSH>
+use the code "Mega Man"
+when we EM Wave Change.
+<PUSH>
+Don't worry about it
+too much for now, OK?
+<PUSH>
+Let's do this thing!
+Use the R Button to
+EM Wave Change!
+<PUSH>
+Then enter the Wave Road
+through the Wave Station!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+OK, let's do it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,349 @@
+[SENTENCE NUMBER 1]
+{10}{EC}{00}{00}Make an original Team logo
+{10}{EC}{01}{00}Quit
+{0F}{EC}{01}{00}{00}{00}{02}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{10}{EC}{00}{00}Make an original Team logo
+{10}{EC}{01}{00}Copy a Brother's Team logo
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{10}{EC}{00}{00}Choose a Team logo
+{10}{EC}{01}{00}Make an original Team logo
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{10}{EC}{00}{00}Choose a Team logo
+{10}{EC}{01}{00}Make an original Team logo
+{10}{EC}{02}{00}Copy a Brother's Team logo
+{10}{EC}{03}{00}Quit
+{0F}{EC}{04}{00}{00}{00}{04}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Choose the logo of the
+Purpose you want to change.
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to
+overwrite?
+{10}{EC}{00}{00}Overwrite
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{10}{EC}{00}{00}Enter an original Team name
+{10}{EC}{01}{00}Quit
+{0F}{EC}{01}{00}{00}{00}{02}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{10}{EC}{00}{00}Enter an original Team name
+{10}{EC}{01}{00}Make the same as Brother's
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{10}{EC}{00}{00}Choose a Team name
+{10}{EC}{01}{00}Enter an original Team name
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{10}{EC}{00}{00}Choose a Team name
+{10}{EC}{01}{00}Enter an original Team name
+{10}{EC}{02}{00}Make the same as Brother's
+{10}{EC}{03}{00}Quit
+{0F}{EC}{04}{00}{00}{00}{04}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Enter Purpose Card
+data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{10}{EC}{00}{00}Enter Purpose Card
+{10}{EC}{01}{00}See Purpose Card Screen
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{10}{EC}{00}{00}Choose Purpose
+{10}{EC}{01}{00}Enter manually
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+{10}{EC}{00}{00}Choose Purpose
+{10}{EC}{01}{00}Enter manually
+{10}{EC}{02}{00}Enter Purpose Card
+{10}{EC}{03}{00}See Purpose Card Screen
+{0F}{EC}{04}{00}{00}{00}{0D}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+this Purpose Card?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Purpose Card has been
+entered successfully!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+That Purpose Card has
+already been entered.
+<PUSH>
+Overwrite the previous one?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Reset your Purpose Card
+and revert to auto-input.
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}Quit
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You can reset your edited
+Team logo, Team name, or
+Purpose and revert to
+<PUSH>
+auto-input. Which one would
+you like to reset?
+{10}{EC}{00}{00}Team logo
+{10}{EC}{01}{00}Team name
+{10}{EC}{02}{00}Purpose
+{10}{EC}{03}{00}Quit
+{0F}{EC}{03}{00}{03}{00}{04}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Enter White Card
+data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Purpose Card has been
+entered successfully!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Changing your codename will
+reset your Online and DS
+Wireless Play battle results.
+<PUSH>
+Are you sure you want to
+change your codename?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{10}{EC}{00}{00}Choose from list
+{10}{EC}{01}{00}Enter manually
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 24]
+{10}{EC}{00}{00}Choose from list
+{10}{EC}{01}{00}Enter manually
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 25]
+{10}{EC}{00}{00}Auto-input
+{10}{EC}{01}{00}Enter manually
+{10}{EC}{02}{00}Quit
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{0C}{00}{2D}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Changing your Team name will
+not carry over your current
+team's Purpose.
+{10}{EC}{00}{00}Change anyway
+{10}{EC}{01}{00}Quit
+{0F}{EC}{00}{00}{00}{00}{02}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You cannot change your
+Team's name at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You cannot change your
+Team's logo at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You cannot change your
+Team's Purpose at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You cannot choose that
+option at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

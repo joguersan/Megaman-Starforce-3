@@ -1,0 +1,129 @@
+[SENTENCE NUMBER 1]
+{0D}{E1}{00}{00}35{01}{00}{0D}{E1}{00}{00}io{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Ahem...
+<PUSH>
+Special permission is required
+to use the Wave Liner.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+You can't use it because
+you don't have permission.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Let's deal with all of these
+copy freaks first!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's way too dangerous to
+cancel your EM Wave Change!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Now's not the time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's time to go buck wild!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Ahem...
+<PUSH>
+All Wave Liner activity is
+suspended for the time being
+due to Noise interference.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I need to talk to
+Dr. Goodall.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Access Forbidden =
+CC Access Key is required
+to trans in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

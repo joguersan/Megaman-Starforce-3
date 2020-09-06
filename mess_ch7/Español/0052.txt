@@ -1,0 +1,121 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡¡Tiene que haber algo
+que podamos hacer!!
+<PUSH>
+
+<NEW-DIALOG>
+/¡¡Es fácil que se produzca
+un milagro si muchas
+personas trabajan unidas!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¡Hola!
+¡Soy yo! ¡¡El gerente de
+<Spica.Mall>!!
+<PUSH>
+¡¡Redirigid a la NAZA todo el
+suministro eléctrico del
+<Spica.Mall> !!
+<PUSH>
+¡¡Ya me habéis oído!! ¡¡Todo!!
+<PUSH>
+¡¡Me da igual que se
+caiga el sistema!!
+¡¡Tenemos que ayudar a la NAZA!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡A lo mejor les sirve el
+telescopio ultrachachiplus
+que me compró mi papi!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Tia, ¿qué hacemos?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Vamos a la base de Dealer.
+<PUSH>
+Puede que encontremos
+algo que sirva de ayuda...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Vale, vamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Ven con nosotros.
+<PUSH>
+Tres cabezas piensan
+más que dos.
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Je, supongo.
+<PUSH>
+Mega Man y yo no llegamos
+a decidir nuestra pelea...
+<PUSH>
+Si se convierte en polvo
+espacial, no podré cobrarme
+mi venganza...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

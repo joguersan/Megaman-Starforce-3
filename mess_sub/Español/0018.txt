@@ -1,0 +1,182 @@
+[SENTENCE NUMBER 1]
+Carta de combate
+[END]
+
+[SENTENCE NUMBER 2]
+Sonia
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Quiero una carta
+de combate. Se llama
+"{B2}{E7}"...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Mi hermano
+[END]
+
+[SENTENCE NUMBER 5]
+Jax Dubelz
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Mi hermano gemelo se ha
+mudado a un apartamento
+en <Echo.Ridge>.
+<PUSH>
+He venido a verle, pero
+me da un error cuando
+meto su número.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+Prueba
+[END]
+
+[SENTENCE NUMBER 8]
+Alic Tebek
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Mysterio
+[END]
+
+[SENTENCE NUMBER 11]
+Bud Bison
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Estaba en casa a punto
+de hincarle el diente
+a mi carne de jengibre
+<PUSH>
+cuando me di cuenta
+de que me había
+olvidado de algo!
+<PUSH>
+¡¡Las especias más
+importantes!!
+<PUSH>
+Fui a la nevera a por
+las especias y cuando
+me di la vuelta, ¡me
+<PUSH>
+encontré el plato vacío!
+¡¿Quién ha podido
+comerse mi carne de
+gengibre?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Cambiar cartas
+[END]
+
+[SENTENCE NUMBER 14]
+Lowe Sweet
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Si encuentras la
+carta "{79}{E7}",
+<PUSH>
+te la cambio por la
+carta "{D4}{E7}".
+<PUSH>
+¿Vale? Ven a verme
+si la consigues.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Carta de combate
+[END]
+
+[SENTENCE NUMBER 17]
+Kard Kolek
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Busco una carta llamada
+"{8F}{E7}".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Hunter roto
+[END]
+
+[SENTENCE NUMBER 20]
+Gian Luigi
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Pues estaba cazando
+virus y mi Hunter-VG
+acabó frito,
+<PUSH>
+¿Podré arreglarlo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

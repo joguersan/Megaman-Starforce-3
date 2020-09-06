@@ -1,0 +1,144 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{09}{00}{06}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hasta que no acababemos aquí,
+no podemos movernos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No podemos volver!
+¡Tenemos que parar a los
+Wizards enloquecidos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Es de mala educación ir
+tú solo a casa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Pone: "¡Próxima apertura:
+confitería!".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No podemos ir a la confitería,
+aún no han abierto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Tenemos que parar a esos
+virus fuera de control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{0F}{00}{07}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ve y dile a Dele que nos
+hemos ocupado de todo.
+¡No querrás que se enfade!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Espera un momento.
+¡Vuelve a la normalidad
+antes de entrar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Se han suspendido de
+forma temporal todas las
+líneas del surcaondas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Imposible autenticar
+la clave de la WAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

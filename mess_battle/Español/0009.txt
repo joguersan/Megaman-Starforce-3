@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Libra
+<PUSH>
+Cartas no elem.
+y no aten. restauran PV
+<PUSH>
+Cartas Fuego y Agua:
+ataque +10
+<PUSH>
+Ataque cargado:
+"Difusión lateral", al
+golpear, daña a los lados
+<PUSH>
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Libra
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C0}{10}
+[END]
+

@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Ability"
+msgstr "Habilidad"
+
+msgctxt "1"
+msgid "{e127}{4}"
+msgstr "{e127}{4}"
+
+msgctxt "2"
+msgid "{e127}{1}"
+msgstr "{e127}{1}"
+
+msgctxt "3"
+msgid "{e127}{4}"
+msgstr "{e127}{4}"
+
+msgctxt "4"
+msgid "{e127}{4}p usd"
+msgstr "{e127}{4}p usd"
+
+msgctxt "5"
+msgid "Rem     p"
+msgstr "Rem     p"
+
+msgctxt "6"
+msgid "-{e123}{4}"
+msgstr "-{e123}{4}"
+
+msgctxt "7"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "8"
+msgid "P VALUE"
+msgstr "VALOR P"
+
+msgctxt "9"
+msgid "Quit"
+msgstr "Salir"

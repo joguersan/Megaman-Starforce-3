@@ -1,0 +1,88 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+This place feels... different.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, it feels like we're going
+to have some fun!
+<PUSH>
+Stay frosty, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+W-{16}{E1}Wait...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!?
+<PUSH>
+{13}{E2}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+*huff, huff*
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A-Ace...
+<PUSH>
+You don't look like you're
+feeling so great...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I'm going ahead, and you're
+staying put.
+<PUSH>
+D-Don't{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} follow me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What's with Ace?
+<PUSH>
+Something about him wasn't
+right...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I hear that...
+<PUSH>
+You know what we have to
+do, kid. Let's follow him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

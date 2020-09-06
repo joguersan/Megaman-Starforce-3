@@ -1,0 +1,574 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{F6}{00})
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a route map for
+the Wave Liner.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sweet!
+We found something good!
+<PUSH>
+{84}{E1}{02}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Sub-Card:
+"{D2}{E5}"!
+<PUSH>
+{0A}{E1}{F6}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the <Spica.Mall> mascot,
+"Spimo the Cat". He almost
+looks like he wants to say
+<PUSH>
+something... Like, "What up!?
+This is the famed <Spica.Mall>!
+Check it out!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's an advertisement
+for "<Hunter>-VGs".
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{08}{16}{0C}{00}{0C}{E1}{01}{00}{09}{16}{0C}{00}{0C}{E1}{01}{00}{59}{16}{0C}{00}{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a dentist office...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...
+<PUSH>
+{13}{EC}(My molar is definitely
+{13}{EC} not hurting at all.)
+<PUSH>
+{13}{EC}(Definitely not at all!!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"We're always closed!
+   This restaurant is
+      Good for nothing!"
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nice slogan they got there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{EE}{00}(
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a poster of <Spica.Mall>'s
+mascot, Spimo the Cat.
+<PUSH>
+If it could talk, it would
+probably say...
+<PUSH>
+"What up!? It's shopping
+everyday for everybody
+here at Spica Mall!"
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nice! Look what I found!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{EE}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the men's bathroom.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{00}{00}{14}{16}{10}{00}{0C}{E1}{01}{00}{15}{16}{10}{00}{0C}{E1}{01}{00}{81}{16}{10}{00}{06}{E1}%
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a control panel for
+the security system.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+It's no good!
+It won't budge!
+<PUSH>
+Let's have a look in the
+Cyber Core of the security
+system!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a projector.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+<Hunter>-VGs are lined up
+in front of the store.
+<PUSH>
+Nowadays, it is almost
+impossible to live without
+having one of your own.
+<PUSH>
+It has truly become an
+EM wave society.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}{18}{16}#{0C}{E1}{01}{00}{19}{16}#{0C}{E1}{00}{00}{88}{16}#{0C}{E1}{01}{00}{89}{16}#{06}{E1}$
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{8F}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the women's bathroom.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{83}{13}{0A}{E1}q
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, it's "{93}{E5}"!
+<PUSH>
+5000 Zennys!?
+That's crazy expensive!
+Should I buy it?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Buy it?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Buy it
+  {09}{EC}Don't buy it
+<PUSH>
+{11}{EC}{00}{00}<Heartless>
+{11}{EC}{03}{00}"
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{8A}{E1}{88}{13}!
+<NEW-DIALOG>
+<Geo>
+*sigh*
+I don't have enough Zennys.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+{0A}{E1}{59}{16}{82}{E1}#{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{93}{E5}"!
+<PUSH>
+{81}{E1}{78}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<NEW-DIALOG>
+<Geo>
+I really don't need to
+right now.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The wall has writing on it.
+"The mall is done! Yahoo!"
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, I found the graffiti!
+I better remove it.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*scrub, scrub*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's nice and clean now.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{89}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+*heart pounding*
+If I just knock three times
+and chant the spell...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*knock* {15}{E1}*knock* {15}{E1}*knock*
+<PUSH>
+
+<END-DIALOG>
+{7A}{E1}&'
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That should do it.
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+Nothing's happening.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Shhh...
+I can hear something, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...?
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Play {16}{E1}with {16}{E1}me...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Aaahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+They're here!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{7F}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 39]
+letsplaytoday!
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Nothing's happening.
+The spell must be wrong.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a poster of Spica Mall's
+mascot, Spimo the Cat.
+<PUSH>
+If it could talk, it would
+probably say...
+<PUSH>
+"What up!? It's shopping
+everyday for everybody
+here at Spica Mall!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a route map for
+the Wave Liner.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

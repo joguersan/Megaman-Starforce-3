@@ -1,0 +1,1821 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYou got two Luna Frags!
+So let's start the demo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}${15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Heloha!
+Welcome to <Castello.Alohaha>!
+<PUSH>
+Behind me is the
+environmental system,
+<PUSH>
+which regulates the weather
+here on <Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Are you Strong?
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Strong is away somewhere
+on <Alohaha> Island.
+<PUSH>
+I'm just filling-in for him
+while he's gone.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Strong's away...
+That's too bad.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh well, let's just hope we
+get a chance to meet him
+at another time.
+<PUSH>
+{0A}{E1}$
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Strong is away somewhere
+on <Alohaha> Island.
+<PUSH>
+I'm just filling-in for him
+while he's gone.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh well, if he's not here,
+we might as well have a
+look around town.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}I am the information
+Wizard of <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{33}{07}{37}{07}<Joker>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+If you ever need anything
+do not hesitate to come and
+see me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{0C}{E1}{01}{00}(<Heartless>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Hmm? What seems to be
+the problem, young man?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Actually...
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+...
+<PUSH>
+Ohh...
+Your friends had their
+belongings stolen...
+<PUSH>
+I'm afraid that it was the
+work of bandit Wizards.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bandit Wizards?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+They are masterless
+Wizards who do villainous
+deeds.
+<PUSH>
+Recently, they have banded
+together and started
+<PUSH>
+targeting tourists to steal
+from.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Do you know where these
+bandit Wizards might be?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+They are usually on the
+Wave Road, well out of
+the reach of humans.
+<PUSH>
+They usually take stock
+of their goods on the
+Wave Road.
+<PUSH>
+If you hurry, you may be
+able to catch them.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK.
+I'll go right away!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Normally, I would be the one
+to go, but at the moment,
+<PUSH>
+I am terribly busy managing
+the environmental system.
+<PUSH>
+However, I don't imagine that
+you will need my help.
+<PUSH>
+I wish you success.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you!
+Come on, let's go Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright!
+Let's EM Wave Change and
+check out the Wave Road!
+<PUSH>
+{0A}{E1}(
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+If you are looking for the
+band of bandit Wizards, they
+should be on the Wave Road.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}I am the information
+Wizard of <Alohaha>.
+<PUSH>
+One day I want to be
+a really cool Wizard
+like Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWelcome to <Castello.Alohaha>.
+Please be advised,
+<PUSH>
+you cannot enter the
+environmental system's
+Cyber Core.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tRecently, there have been
+some incidents of theft by
+Wizards. Be careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{6D}{07}{89}{07}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe aftermath of the recent
+incidents still linger...
+<PUSH>
+For now, we feel secure
+because the Satella Police
+are still here.
+<PUSH>
+But I'm a little uneasy about
+when they leave, after they
+finish their investigation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+{09}{E1}{00}{00}{6D}{07}{89}{07}B
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Hmm...
+<PUSH>
+There is evidence of there
+having been very powerful
+Noise here...
+<PUSH>
+But I'm skeptical as to
+whether or not it will be
+<PUSH>
+enough to lead us to
+the culprit.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI saw someone strange go
+inside the environmental
+system Cyber Core...
+<PUSH>
+Maybe I should let the
+Satella Police know about it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}I thought I saw someone
+enter that Cyber Core over
+there just a while ago...
+<PUSH>
+But I could have just been
+imagining things.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+{0D}{E1}{00}{00}CDe
+<START-DIALOG>
+
+<NEW-DIALOG>
+tStrong is undergoing a final
+check at WAZA!
+<PUSH>
+He should be back with us
+tomorrow!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tStrong is back!
+And he's as big as ever!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}I am the information
+Wizard of <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}Strong is so cool!
+Welcome back, Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+{0C}{E1}{01}{00}<Coil>
+i
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+You are Geo Stelar,
+aren't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Strong!
+<PUSH>
+How do you know
+about me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Dr. Boreal rebuilt my
+program using the WAZA
+Main Computer.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Are you completely
+back to normal?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+...
+<PUSH>
+No, there was a partial
+irrecoverable data loss.
+<PUSH>
+That data represented what
+humans know as memory.
+<PUSH>
+I have data about you, but
+no data of ever having
+met you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ohh...
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+But...
+As you might have expected,
+I started remembering things
+<PUSH>
+the moment I connected to
+the environmental system!
+<PUSH>
+The details, however, are
+faint.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+I do not know how to
+explain it...
+<PUSH>
+But I remember the
+people who live here
+on <Alohaha> Island.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well that's a step.
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+It may take time, but there
+may be many more things
+that I will remember.
+<PUSH>
+While I protect the peace of
+<Alohaha>, I would like to find
+my own memories, as well.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Yeah!
+<PUSH>
+Good luck with that, Strong!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Thank you,
+Geo Stelar!
+<PUSH>
+{0A}{E1}<Coil>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+The environmental system is
+functioning normally.
+Continuing with system check.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+{0D}{E1}{00}{00}CDe
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe environmental system
+is working as well as ever,
+thanks to Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEverything will be OK, as
+long as we have Strong!
+<PUSH>
+We love Strong!
+He's the best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{93}{00}I am the information
+Wizard of <Alohaha>.
+<PUSH>
+You should know
+my face by now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+I am the Wizard charged with
+governing the environmental
+system...
+<PUSH>
+This system can only
+function here on <Alohaha>,
+<PUSH>
+I cannot do all of the things
+that you can do...
+<PUSH>
+But leave it to me to
+protect the island of
+<Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}cf{BE}{00}{0D}{E1}{00}{00}go»
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+It's encouraging to see
+that visitors are starting
+to return.
+<PUSH>
+But we still have a long
+way to go. It's going to
+take time.
+<PUSH>
+We've all gone through a lot...
+But we can't let down our
+guard just yet, Geo Stelar...
+<PUSH>
+I mean, Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}We're in the middle of some
+very important work.
+<PUSH>
+I know you're not the type
+to interfere with important
+work,
+<PUSH>
+but it's my job to say that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}That woman over there is
+my operator.
+<PUSH>
+Right now she is discussing a
+way for us to fight Dealer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+{0D}{E1}{00}{00}cf¡{0D}{E1}{00}{00}go{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIs it true that Dealer
+attacked WAZA!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+This is an emergency
+situation.
+<PUSH>
+If you can use the system
+to save the Earth, please
+be my guest.
+<PUSH>
+The weather in <Alohaha>
+should be fine for a while.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEveryone from WAZA is
+here! That's so cool!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Everyone has returned now
+that WAZA is finally free
+from the Jamming...
+<PUSH>
+I pray from the bottom of
+my heart that we can stop
+Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEveryone from WAZA has
+returned. I hope everything
+is alright.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,157 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{49}{05}
+<NEW-DIALOG>
+<Acid>
+Luna Frag Search!{15}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{08}{E1}{06}{00}{00}{02}{09}{00}{08}{E1}{06}{00}{01}{02}{09}{00}{08}{E1}{06}{00}{03}{02}{09}{00}{08}{E1}{06}{00}{00}{92}{09}{00}{08}{E1}{06}{00}{01}{92}{09}{00}{08}{E1}{06}{00}{03}{92}{09}{00}{08}{E1}{06}{00}{00}{62}{09}{00}{08}{E1}{06}{00}{01}{62}{09}{00}{08}{E1}{06}{00}{02}{62}{09}{00}{08}{E1}{06}{00}{00}{72}{09}{00}{08}{E1}{06}{00}{01}{72}{09}{00}{08}{E1}{06}{00}{0E}{77}{09}{00}{08}{E1}{06}{00}{0F}{77}{09}{00}{08}{E1}{06}{00}{10}{77}{09}{00}{08}{E1}{06}{00}{02}{78}{09}{00}
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+I am not picking up a Luna
+Frag signal in this area.
+<PUSH>
+I believe we should take the
+Wave Liner to <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+I am not picking up a Luna
+Frag signal in the Real World
+of this area anymore.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+I am not picking up a Luna
+Frag signal in the Wave
+Road of this area anymore.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Target signal... acquired.
+<PUSH>
+Details, such as specific
+location, are not yet known.
+<PUSH>
+I suggest we search the
+whole area exhaustively.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{10}{E2}{AF}{03}{00}{E1}2{10}{E2}{AF}{03}{00}{E1}2
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Target signal... acquired.
+It's coming from nearby.
+<PUSH>
+Getting closer will help me to
+specify the exact location.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{10}{E2}{AE}{03}{00}{E1}9{10}{E2}{AE}{03}{00}{E1}9
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Target signal... acquired
+But it is still distant from
+our location.
+<PUSH>
+Getting closer will help me to
+specify the exact location.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{10}{E2}{AD}{03}{00}{E1}<{10}{E2}{AD}{03}{00}{E1}<
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Target signal... acquired.
+But it is still distant.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{10}{E2}{AC}{03}{00}{E1}E{10}{E2}{AC}{03}{00}{E1}E{10}{E2}{AC}{03}{00}{E1}E
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Target signal... acquired.
+It is faint, but definitely
+in this area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+I am not picking up a Luna
+Frag signal in this area. We
+should search another area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

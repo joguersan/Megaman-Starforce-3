@@ -1,0 +1,368 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Darn it.
+It's no good...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+It just won't open!
+What's going on!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+This one too...!
+<PUSH>
+What the...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Maybe it's the Noise?
+<PUSH>
+The Noise did get more
+dense, recently...
+<PUSH>
+This whole place is probably
+chock full of Noise!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Noise...
+This must be Jack's doing...!
+<PUSH>
+We really have to get to
+the roof quick...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I don't see the problem!
+<PUSH>
+Let's just smash down this
+stupid door!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Really!?
+Isn't that a little too...
+<PUSH>
+W-Well...
+I guess we have no choice...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+...Hey you.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ahh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+M-M-M{15}{E1}-Me!?
+<PUSH>
+Y-Y-Y{15}{E1}-Yes!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Where's the Wave Station?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Th-Th-Th{15}{E1}-The Wave Station...!?
+<PUSH>
+Th-Th-Th{15}{E1}-The first floor!
+It's on the first floor!!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Down, huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+Laplace...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Ah{15}{E1}hhhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Whoa...
+<PUSH>
+That's a big hole...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+G-Geez...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+S-Solo...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+...Hmph.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Argh...
+What should we do...?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Hmm...
+We don't have much choice.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I guess...
+<PUSH>
+We'll just have to use this
+hole to get to the roof.
+<PUSH>
+...EM Wave Change!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+OK, let's go!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Boosh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Wait here, Zack!
+<PUSH>
+We'll come check on you
+later!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+O-OK...
+<PUSH>
+I think that Solo is headed
+for the Wave Station on the
+first floor.
+<PUSH>
+He asked me about it just
+a minute ago.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Station...
+So he's going to the roof
+via the Wave Road!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The elevator probably isn't
+working because of the
+Noise, too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah.
+OK, let's follow Solo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Wow!
+<PUSH>
+So this room is...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The faculty room...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+...Geo.
+It looks like Solo left from
+over there...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Y-Yeah...
+<PUSH>
+That's a nice hole he put in
+that wall...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+L-Let's go.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Right.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

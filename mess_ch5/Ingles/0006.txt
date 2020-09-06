@@ -1,0 +1,1195 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Satella Police Commandos
+squad leader, Ace...
+<PUSH>
+And special members,
+Geo Stelar, {15}{E1}Sonia Strumm,{15}{E1}
+and Bud Bison...
+<PUSH>
+Reporting for duty.
+<PUSH>
+
+<NEW-DIALOG>
+4At ease...
+<PUSH>
+Everyone, thank you for
+coming...!
+<PUSH>
+I would first like to thank
+you for helping to defend
+not only WAZA, but the
+<PUSH>
+Earth as well, from Dealer's
+attack.
+<PUSH>
+We are deeply in your debt.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y-You don't have to...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Aww!
+I'm getting embarrassed...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+You were impressive, Bud!
+<PUSH>
+I got to see a whole new
+side of you that I didn't
+know existed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+R-Really...!?
+<PUSH>
+*blushes*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+I was impressed, too!
+<PUSH>
+And I can hardly believe that
+you've been training with
+Ace almost every day...
+<PUSH>
+But why did you think you
+had to keep it a secret?
+<PUSH>
+Prez and Zack totally
+thought that you were up
+to something shifty!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+W-Well...
+<PUSH>
+You see...!
+<PUSH>
+I wanted to train real hard,
+then surprise everyone with
+my mad skills!
+<PUSH>
+Wouldn't that have been
+really cool!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+For sure!
+<PUSH>
+Just like a comic book or
+video game hero!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Right!{15}{E1} Exactly!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Haha!
+Tell them the truth, Bud!
+<PUSH>
+The fact is that you really
+wanted to brag.
+<PUSH>
+But you were so worn out
+and tired each day, that you
+<PUSH>
+thought you would seem
+uncool.
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Gaaah!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bud...
+<PUSH>
+Now that is uncool...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What!?
+<PUSH>
+B-But...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahaha!
+<PUSH>
+
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+{15}{E1}...Ahem!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+E-Excuse us...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hehehe.
+Don't worry, Geo.
+<PUSH>
+It's very nice for all of us
+to hear such joyful voices
+after so much tragedy.
+<PUSH>
+...Right, Chief?
+<PUSH>
+
+<NEW-DIALOG>
+4It sure is...
+<PUSH>
+By the way, Ace...
+<PUSH>
+How is getting the last
+member of the Commandos
+to join going?
+<PUSH>
+You have your work cut
+out for you with that one.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!
+<PUSH>
+{13}{EC}(The last member...!?)
+<PUSH>
+{13}{EC}(So there's someone else
+{13}{EC} who still hasn't joined...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Well... we did get in contact
+with him recently.
+<PUSH>
+But he hasn't given us an
+answer, yet.
+<PUSH>
+
+<NEW-DIALOG>
+4...I see.
+<PUSH>
+Moving on then...
+<PUSH>
+Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y-Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+4Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sir!
+<PUSH>
+
+<NEW-DIALOG>
+4Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yo!
+<PUSH>
+...I mean,{15}{E1} Sir!
+<PUSH>
+
+<NEW-DIALOG>
+4I know that Ace has already
+spoken to you of this, but...
+<PUSH>
+I too, would like to request
+your assistance, on behalf
+of all of WAZA.
+<PUSH>
+There is no doubt that
+without your help, WAZA
+would have been destroyed.
+<PUSH>
+Yet, we suffered substantial
+losses.
+<PUSH>
+And we are now incapable
+of performing a number of
+our standard functions.
+<PUSH>
+We have managed to maintain
+enough forces to fight, but
+<PUSH>
+if another event such as
+the recent attack from
+Dealer were to occur...
+<PUSH>
+Thus, we have no other
+choice but to rely on you
+<PUSH>
+three and your ability to
+EM Wave Change!
+<PUSH>
+That is why we have asked
+you to join the Satella Police
+<PUSH>
+Commandos, as special
+members.
+<PUSH>
+It is vital that we can rely
+on you, so that we can
+stay in the fight.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You can count on me!
+<PUSH>
+I'm willing to do anything I
+can to help!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+For people like Prez...
+<PUSH>
+And for Ms. Tia and Jack!
+<PUSH>
+If Dealer is left to do as it
+pleases, then countless more
+people will suffer...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dealer must be stopped!
+<PUSH>
+And if I can be a part of
+that, then I'm ready to fight!
+<PUSH>
+
+<NEW-DIALOG>
+4There is no guarantee for
+your safety in this fight...
+<PUSH>
+Your very lives...{15}{E1} could
+be in jeopardy.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+We are prepared for that!
+<PUSH>
+...And,{15}{E1} I'm not just saying
+this lightly. I've thought long
+and hard about this...
+<PUSH>
+I want to fight!
+<PUSH>
+For all the people that listen
+to my music...
+<PUSH>
+For this world that has
+given me the chance to sing
+<PUSH>
+my songs and have such a
+wonderful life!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'm gonna fight, too!
+<PUSH>
+Sonia's songs have given me
+hope!
+<PUSH>
+...And I want to keep on
+trying great new foods!
+<PUSH>
+
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+Omega-Xis, {15}{E1}Lyra,{15}{E1} Taurus.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Huh? What is it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+*sigh*
+<PUSH>
+Omega-Xis...
+You could at least try to be
+a little more respectful...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrggg!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...I'm better than Mr. Brahma
+Bull over here...
+<PUSH>
+
+<NEW-DIALOG>
+4I want to confirm with you
+three, as well.
+<PUSH>
+Are you sure you want to
+be a part of this?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're asking us this now!?
+<PUSH>
+I'm not just doing this for
+you guys. I can't stand
+those Dealer jerks!
+<PUSH>
+I'd take 'em out with or
+without WAZA's help!!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Yeah...
+<PUSH>
+I'm not the type to do
+something that I don't want
+to do...
+<PUSH>
+So if I say that I'm in, then
+I'm in.
+<PUSH>
+Plus, I'm always there for
+Sonia!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrggg!
+<PUSH>
+Let's cut the chit-chat, and
+get to the fighting!
+<PUSH>
+Mmmrrrggg!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+4I-I see...
+<PUSH>
+Understood!
+<PUSH>
+Thank you, all.
+<PUSH>
+WAZA is much better off
+having you as a part of it.
+<PUSH>
+Let's stop Dealer in order
+to bring back peace to this
+great planet!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!!
+<PUSH>
+
+<NEW-DIALOG>
+4...Ace.
+<PUSH>
+I'm counting on you as the
+leader of such an important
+Team.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yes, sir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Everyone...
+<PUSH>
+From now on, we are
+officially a Team.
+<PUSH>
+Our name...
+"SP Commandos".
+<PUSH>
+Our Purpose...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Ace>
+To "Crush Dealer"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cr{15}{E1}-Crush...
+<PUSH>
+That sounds kind of...
+I don't know...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Y-Yeah...
+It doesn't have much of a
+ring to it... Does it?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Can't we change it to like
+something about protecting
+the Earth? Or...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It's the same thing.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I like it!
+Short and to the point!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Right!
+<PUSH>
+See, Acid?
+Everyone likes it!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Everyone{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+...Umm, the only people who
+like the Team name are you
+and Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(It looks like Acid doesn't
+{13}{EC} like the name, either...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+...It's no good?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+*sigh*
+Fine,{15}{E1} let's go with something
+else then!
+<PUSH>
+How about we use...
+"Foil Dealer Plan"?
+<PUSH>
+Anyone have a problem with
+that?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+That sounds really cool!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That has a much more
+mature ring to it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Really?
+"Crush" sounds way cooler
+to me...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Agreed!
+<PUSH>
+See, Acid? I was right.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{15}{E1}*sigh* Anyway, our Purpose
+has been decided.
+<PUSH>
+Ace, shall we all form
+Brother Bands now?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hum...
+<PUSH>
+...Sure.
+<PUSH>
+Let's all be Brothers, guys!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+F{15}{E1}-Form a Brother Band with
+Ace...!?
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo-2>
+M{15}{E1}-M{15}{E1}-My pleasure...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why the heck are you
+so nervous all of a sudden?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+This is awesome!
+Thanks, Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, thanks Ace!
+And you, too, Acid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{6E}{E1}{00}{00}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo and Ace formed a
+Brother Band!
+<PUSH>
+Geo's Link Power went up
+by 100!
+<PUSH>
+
+<END-DIALOG>
+{04}{E2}{06}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo's Team and Purpose
+have changed!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...OK, then. For the time
+being, everyone will remain
+on active standby.
+<PUSH>
+Dealer's members could
+enact their next plans at
+any time.
+<PUSH>
+We will respond to them
+when that happens.
+<PUSH>
+At the moment, that is our
+most effective option.
+<PUSH>
+I know...{15}{E1} It's irritating just
+waiting around, but...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+There's nothing else we can
+do based on the current
+situation.
+<PUSH>
+We have to be very careful...
+<PUSH>
+...And we also need to take
+care of one other thing.
+<PUSH>
+Dealer is not our only worry.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What...!?
+<PUSH>
+W{15}{E1}-What do you mean...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Don't you think it is
+rude to keep secrets from
+them, Ace?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hmm, it's really not a big
+deal for them to not know
+about it...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Haha! They'll find out some
+way or another!
+<PUSH>
+Children know there's a
+problem when adults get
+agitated and flustered.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+W-What is it, Ace!?
+Don't hold back!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, Ace!
+<PUSH>
+We need to know everything
+we can, in order to perform
+our duties the best we can.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I guess there's no avoiding
+telling you now.
+<PUSH>
+Well...
+The world could be destroyed.
+<PUSH>
+{15}{E1}...There, I said it.
+See? Not a big deal.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+T-The whole world...?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+D-D-D-Destroyed!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh, Ace.
+Don't be so grandiose.
+<PUSH>
+That is the worst case
+scenario.
+<PUSH>
+Recently, we have come
+upon some new data about
+Meteor G.
+<PUSH>
+...In fact, it was Aaron that
+acquired the data. I'm so
+proud of that child.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You mean Mr. Boreal?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That's right, Geo.
+<PUSH>
+Aaron is here at WAZA,
+helping us research not only
+<PUSH>
+Noise, but also Crimson and
+Meteor G.
+<PUSH>
+And faster than Bud couild
+eat an apple pie, he stumbled
+upon a great discovery.
+<PUSH>
+He has discovered that
+Meteor G is actually a giant
+Noise cluster!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+!!
+<PUSH>
+An asteroid...
+<PUSH>
+That's completely made of
+Noise!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That's what the data is
+telling us.
+<PUSH>
+It's an absolutely gigantic
+collection of Noise bound
+together.
+<PUSH>
+It is possible that EM Waves
+that travel to space are all
+gathering at the same spot...
+<PUSH>
+Thus, creating Noise, and
+ultimately Meteor G.
+<PUSH>
+On top of that, it is being
+pulled by the Crimson that
+has collected on the Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Meteor G is being pulled!?
+<PUSH>
+N-No way...{15}{E1}
+If the Earth was destroyed...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What do you mean by "if"!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, um...
+<PUSH>
+What if Meteor G were to
+hit the planet...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Exactly.{15}{E1} That is the worst
+case scenario.
+<PUSH>
+The impact of Meteor G
+hitting the Earth would cause
+it to break up...
+<PUSH>
+And the highly concentrated
+Noise would spread, knocking
+<PUSH>
+out every piece of EM
+technology.
+<PUSH>
+Therefore, our society that
+we have built upon EM
+technology would collapse...
+<PUSH>
+We have relied on EM
+technology for so long, that
+I fear that humans would
+<PUSH>
+lack hope for the future and
+turn on each other out of
+confusion and anger.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+See? I told you.
+<PUSH>
+You were better off not
+knowing!
+<PUSH>
+Well...
+<PUSH>
+Like Doc said, the planet
+being destroyed is the worst
+case scenario.
+<PUSH>
+But WAZA is sure to come
+up with something.
+<PUSH>
+That's what WAZA is for!
+<PUSH>
+So we need to do all that
+we can to help.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Y-Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I think we should end our
+meeting today, right here...
+<PUSH>
+
+<NEW-DIALOG>
+0A{15}{E1}-Ace..
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Excuse me...
+<PUSH>
+I ran into some trouble while
+scouting "him"...
+<PUSH>
+...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1...Take it easy!
+<PUSH>
+
+<NEW-DIALOG>
+0I-I'm fine.
+<PUSH>
+Hahaha...{15}{E1}
+He sure got me good...
+<PUSH>
+He said he would have no
+business with weaklings...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0...But we can't give up!
+<PUSH>
+We've got to win him over
+to our side...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...You did your best.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm, Ace...
+<PUSH>
+Who is the last member that
+you mentioned, anyway?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+1There is an incident occurring
+in <Echo.Ridge>!
+<PUSH>
+Viruses have appeared.
+The point of infection is...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}What?
+<PUSH>
+Th-This can't be...{15}{E1}
+The Real World...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh boy...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+How can a virus appear in
+the Real World...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+They said <Echo.Ridge>, right?
+<PUSH>
+We've got to do something!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+OK, everybody.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+It looks like we have our
+first mission.
+<PUSH>
+We are to get to <Echo.Ridge>
+ASAP, and then destroy the
+viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Roger!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Something very strange
+must be happening, in order
+<PUSH>
+for viruses to appear in the
+Real World.
+<PUSH>
+Take care of yourselves!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+[END]
+

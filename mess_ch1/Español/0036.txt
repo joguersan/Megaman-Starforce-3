@@ -1,0 +1,476 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Woody, tenemos la
+carta Gigaenergía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡¿D-De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Es un milagro!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Muchas gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mmm... Tengo que tocar la
+carta Gigaenergía para
+dársela a Woody.{13}{EC}
+{03}{E2}{04}{00}{04}{EC}
+<NEW-DIALOG>
+<Game>
+¡Geo le ha dado la
+"{E4}{E6}"
+a Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No sé qué decir!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No hace falta que
+digas nada.
+<PUSH>
+¡Pero sería un honor
+tener vuestro voto
+en las elecciones!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No creo que sea suficiente
+para mostrar nuestro
+agradecimiento,
+<PUSH>
+pero si tanto significa
+para ti, ya los tienes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Bueno!
+<PUSH>
+¡Ahora solo nos queda
+instalar la carta!
+¡Vamos allá!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Vale, Woody!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Está{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} Está.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+¡Está listo!
+<PUSH>
+Por fin...
+¡Nuestro cohete está listo!
+<PUSH>
+Yeeeaaah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡No llores, Woody!
+<PUSH>
+¡Bu{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}aaaa{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}aaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Qué feliz soy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Estoy muy orgulloso de
+nosotros. Soy muy feliz.
+<PUSH>
+Vosotros habéis creído
+en mí todo el tiempo.
+<PUSH>
+¡El club de ciencias
+es el mejor equipo
+del mundo!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Pues claro, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Tú sí que eres el mejor!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Sniff...
+Todo ha salido
+a la perfección...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+El sacrificio ha
+dado sus frutos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Me alegro de haber creado
+este grupo, Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡"Luna Presidenta"
+es el mejor equipo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Por estas cosas
+existen los Propósitos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+No podríamos haberlo
+conseguido sin vuestra
+ayuda.
+<PUSH>
+Muchas gracias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Magnes!
+¡Sal y dales las gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+¡Sois los mejores!
+¡Gracias por todo!
+<PUSH>
+Ahora podré hablar con
+el club de ciencias
+desde el espacio.
+<PUSH>
+¡Voy a cumplir mi sueño!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No puedo esperar!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Y todo gracias a
+"Luna Presidenta".
+<PUSH>
+Si no os importa, me gustaría
+formar una Bandahermano
+<PUSH>
+con las personas que han
+trabajado tan duro por mí.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Claro que no nos importa!
+¿Verdad, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+{6E}{E1}{00}{00}{11}{00}
+<NEW-DIALOG>
+<Game>
+¡Geo y Woody han formado
+una Bandahermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40 puntos.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Y nosotros qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¿Qué quieres decir?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿No estaría bien que
+nuestro equipo tuviera
+el mismo Propósito que
+<PUSH>
+el club de ciencias
+hasta que lancemos el
+cohete?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¿Eh?!
+¿De verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Quiero quedarme
+hasta el final.
+<PUSH>
+No es mala idea ahora
+que Woody es nuestro
+Hermano, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Gracias...
+<PUSH>
+Es genial que dos Equipos
+trabajen juntos.
+<PUSH>
+¡Pero que dos Equipos tengan
+el mismo Propósito es
+una pasada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{04}{E2}{02}{00}
+<NEW-DIALOG>
+<Game>
+¡El Propósito de Geo ha cambiado!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Tengo pensado realizar la
+ceremonia de lanzamiento
+mañana.
+<PUSH>
+Sería un honor que los
+miembros de «Luna Presidenta»
+fueran los productores.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Encantados!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Lo espero con ansias!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Magnes, mañana es tu día!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Quedamos mañana en
+la azotea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Buena idea.
+¡Esta noche todos
+a la cama pronto!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vale, mañana os veo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Vamos a casa, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Perfecto.
+¡Mañana va a ser
+la bomba!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,43 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Who cares about the Wave
+Road!? Let's hit the beach!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Swimming lessons are over,
+kid! Move, move, move!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Access Forbidden =
+Unable to authenticate
+WAZA Access Key.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

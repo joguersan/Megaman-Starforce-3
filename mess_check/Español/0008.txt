@@ -1,0 +1,519 @@
+[SENTENCE NUMBER 1]
+{0E}{E1}{01}{00}>{19}{E1}{01}{00}>{0C}{E1}{01}{00}{7A}{02}{11}{00}{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una zona de comunicación.
+<PUSH>
+Aquí la gente puede cambiar
+Cartas de Batalla y hacerse
+Bandahermanos.
+<PUSH>
+¡Te fijas bien y ves
+una etiqueta!
+<PUSH>
+"Amigos...{16}{E1}
+    {15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}No tienen precio."
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En esta vitrina hay colocadas
+cuidadosamente unas
+cartas muy raras.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un registro.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahora que lo pienso...
+Creo que nunca he visto
+al Sr. Suther usándolo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Las cartas normales están
+colocadas alineadas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{08}{16}{0B}{00}{0C}{E1}{01}{00}{09}{16}{0B}{00}{0C}{E1}{01}{00}{5A}{16}{0B}{00}{06}{E1}:
+[END]
+
+[SENTENCE NUMBER 8]
+{0E}{E1}{01}{00}?{19}{E1}{01}{00}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La palmera es
+muy realista...
+<PUSH>
+
+<NEW-DIALOG>
+#¡Pero si es real!
+<PUSH>
+¡Estos árboles
+crecen como locos en
+cuanto los plantas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un recorte a tamaño
+real del Sr. Suther.
+Menuda sonrisa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un altavoz casero.
+<PUSH>
+La madera seca de cierto
+árbol tropical produce
+un gran sonido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un recorte a tamaño real
+de una tortuga. No puedo
+moverlo, es muy grande.
+<PUSH>
+Es bastante majestuoso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay artículos muy caros
+expuestos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#¡Bienvenido!
+¡Estamos de rebajas y
+tenemos artículos estupendos!
+<PUSH>
+{0C}{E1}{01}{00}{B9}{00}{12}{00}{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#¡Bienvenido!
+¡Nos han llegado cosas
+superchulas!
+<PUSH>
+{0B}{E1}{7A}{02}{0C}{E1}{01}{00}{B9}{00}{12}{00}{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+{19}{E1}{01}{00}>
+<NEW-DIALOG>
+#¡Y si quieres podemos
+pedir cosas a otras
+tiendas!
+<PUSH>
+Pero te costará un 20% más
+por gastos de envío.
+<PUSH>
+¿Qué prefieres?
+{05}{EC}{00}{00}{0D}{00}   {06}{EC}Comprar aquí
+   {09}{EC}Engargar compra
+<PUSH>
+
+<END-DIALOG>
+{1B}{EC}{00}{00}{13}{00}{1B}{EC}{03}{00}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<END-DIALOG>
+{78}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 21]
+{0A}{E1}{7D}{02}{06}{E1}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{0A}{E1}{81}{02}{0B}{E1}{82}{02}{0B}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<(Queen)Tia>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0B}{E1}{81}{02}{0A}{E1}{82}{02}{0B}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0B}{E1}{81}{02}{0B}{E1}{82}{02}{0A}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{05}{E1}<Zack>
+{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{0C}{E1}{01}{00}{81}{02}<(Queen)Tia>
+{0C}{E1}{01}{00}{82}{02}<Joker>
+{0C}{E1}{01}{00}{83}{02}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{01}{00}{7E}{02}<Sonia>
+{0C}{E1}{01}{00}{7F}{02}<Solo>
+{0C}{E1}{01}{00}{80}{02}<Mr.King-2>
+{06}{E1}<Jack>
+
+[END]
+
+[SENTENCE NUMBER 27]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 28]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 29]
+{07}{E1}{00}{00}{02}{00}
+[END]
+
+[SENTENCE NUMBER 30]
+{07}{E1}{00}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 31]
+{05}{E1}!{05}{E1}#{05}{E1}%{10}{EC}{03}{00}Página 2.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}"{1B}{EC}{03}{00}${1B}{EC}{06}{00}&{1B}{EC}{09}{00}<Hope(Mom)>
+{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 32]
+{05}{E1}'{05}{E1}){05}{E1}+{10}{EC}{03}{00}Página 3.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}({1B}{EC}{03}{00}*{1B}{EC}{06}{00},{1B}{EC}{09}{00}<Prez>
+{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 33]
+{05}{E1}-{05}{E1}/{05}{E1}1{10}{EC}{03}{00}Principio.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}.{1B}{EC}{03}{00}0{1B}{EC}{06}{00}2{1B}{EC}{09}{00}{15}{00}{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 34]
+{0C}{E1}{00}{00}{BB}{00}3{10}{EC}{00}{00}<Echo.Ridge>
+[END]
+
+[SENTENCE NUMBER 35]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}{BB}{00}7{0A}{E1}{7E}{02}{78}{E1}{05}{00}{02}{00}
+[END]
+
+[SENTENCE NUMBER 36]
+{0C}{E1}{00}{00}{BC}{00}4{10}{EC}{01}{00}<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 37]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{BC}{00}7{0A}{E1}{7F}{02}{78}{E1}{05}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 38]
+{0C}{E1}{00}{00}{BD}{00}5{10}{EC}{02}{00}{C1}{E4}
+[END]
+
+[SENTENCE NUMBER 39]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}{BD}{00}7{0A}{E1}{80}{02}{78}{E1}{05}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 40]
+{0C}{E1}{00}{00}{BE}{00}3{10}{EC}{00}{00}{5A}{E5}
+[END]
+
+[SENTENCE NUMBER 41]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}{BE}{00}8{0A}{E1}{7E}{02}{78}{E1}{05}{00}{05}{00}
+[END]
+
+[SENTENCE NUMBER 42]
+{0C}{E1}{00}{00}{BF}{00}4{10}{EC}{01}{00}{C9}{E4}
+[END]
+
+[SENTENCE NUMBER 43]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{BF}{00}8{0A}{E1}{7F}{02}{78}{E1}{05}{00}{06}{00}
+[END]
+
+[SENTENCE NUMBER 44]
+{0C}{E1}{00}{00}À5{10}{EC}{02}{00}{D5}{E4}
+[END]
+
+[SENTENCE NUMBER 45]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}À8{0A}{E1}{80}{02}{78}{E1}{05}{00}{07}{00}
+[END]
+
+[SENTENCE NUMBER 46]
+{0C}{E1}{00}{00}Á3{10}{EC}{00}{00}{CF}{E4}
+[END]
+
+[SENTENCE NUMBER 47]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}Á9{0A}{E1}{7E}{02}{78}{E1}{05}{00}{08}{00}
+[END]
+
+[SENTENCE NUMBER 48]
+{0C}{E1}{00}{00}{C2}{00}4{10}{EC}{01}{00}{D2}{E4}
+[END]
+
+[SENTENCE NUMBER 49]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{C2}{00}9{0A}{E1}{7F}{02}{78}{E1}{05}{00}{09}{00}
+[END]
+
+[SENTENCE NUMBER 50]
+{0C}{E1}{00}{00}{C3}{00}5{10}{EC}{02}{00}{5C}{E5}
+[END]
+
+[SENTENCE NUMBER 51]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}{C3}{00}9{0A}{E1}{80}{02}{78}{E1}{05}{00}
+
+[END]
+
+[SENTENCE NUMBER 52]
+{10}{EC}{00}{00}????
+[END]
+
+[SENTENCE NUMBER 53]
+{10}{EC}{01}{00}????
+[END]
+
+[SENTENCE NUMBER 54]
+{10}{EC}{02}{00}????
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#Lo siento, pero aún
+lo tenemos agotado.
+<PUSH>
+Estará listo enseguida.
+Ten paciencia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{05}{E1}6{06}{E1}<(Queen)Tia>
+
+[END]
+
+[SENTENCE NUMBER 57]
+{05}{E1}6{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 58]
+{05}{E1}6{06}{E1}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Hala, «{94}{E5}»!
+<PUSH>
+¡Vaya, qué caro!
+¡5000 Zennys!
+¿Me lo compro?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¿Quieres comprarlo?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{11}{EC}{00}{00};{11}{EC}{03}{00}=
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+{8A}{E1}{88}{13}<
+<NEW-DIALOG>
+<Geo>
+Jo...
+No tengo tanto dinero.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{0A}{E1}{5A}{16}{82}{E1}${01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{94}{E5}»!
+<PUSH>
+{81}{E1}{78}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<NEW-DIALOG>
+<Geo>
+Debería ahorrar
+un poco de dinero.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡No puedo comprar
+con estas pintas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La palmera está
+espectacular.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

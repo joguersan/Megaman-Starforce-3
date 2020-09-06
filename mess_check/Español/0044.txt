@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Parece que controlan
+el Meteorito G con
+este ordenador...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Maldición!
+¡¡No podemos entrar!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Si no hacemos nada,
+el Meteorito G caerá
+sobre la Tierra!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+

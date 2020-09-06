@@ -1,0 +1,185 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sirius>
+Gahaha...
+<PUSH>
+Welcome, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So you're Sirius!{15}{E1}
+How dare you...
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+It has been a long time
+since I last had a guest.
+<PUSH>
+Oh, about... 100 years or so.{15}{E1}
+Yes, that sounds right.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Stop talking to yourself
+and pay attention for once!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+...
+<PUSH>
+I don't need that rude EM
+being for my collection.
+<PUSH>
+Mega Man will look much
+better on my shelf.
+<PUSH>
+So, Mega Man...
+Stand still, please. It's time
+to remove your will.
+<PUSH>
+Then we'll get you started
+battling with all sorts of fun
+EM beings...{16}{E1}
+<PUSH>
+Your battles are always so
+enjoyable to watch!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He wants to make us his
+toys...
+<PUSH>
+This guy... {15}{E1}is insane.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm not letting you get
+anywhere near me!
+<PUSH>
+I'll make you pay for what
+you have done, Sirius!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Oh! {14}{E1}Fantastic!{15}{E1}
+I just thought of something!
+<PUSH>
+Let's set Planet FM as your
+first battle stage!
+<PUSH>
+Do me a favor and go as
+"buck wild" as you like.
+<PUSH>
+I was hoping to enjoy
+watching everyone on the
+planet panic for a bit...
+<PUSH>
+But I suppose destroying it
+outright would be fun too.
+<PUSH>
+There are so many planets
+for me to play with.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Peoples lives... Planets...
+They aren't toys for you to
+play with.
+<PUSH>
+Have you even considered
+the pain you are putting all
+<PUSH>
+those people down there
+through?
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Everything here will cease to
+exist.
+<PUSH>
+A black hole has no need
+for such things as emotions.
+<PUSH>
+You should... be happy.
+<PUSH>
+You will live forever within
+the darkness.
+<PUSH>
+You will be mine.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I wouldn't call that living!
+<PUSH>
+I'd rather not exist!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+.{15}{E1}.{15}{E1}.{15}{E1}I see.
+Do you think that you might
+change your mind?
+<PUSH>
+Stopping you without causing
+you any injury would be a
+bit of a nuisance for me.
+<PUSH>
+It will be hard for us to
+play together with you
+injured.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Do you ever shut up!?
+You don't stand a chance
+against us!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+I have full control over
+all aspects of this server.
+<PUSH>
+You do realize that, right?
+<PUSH>
+That gives you absolutely no
+chance of stopping me.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}But I suppose some children
+need to be punished in order
+to learn their lesson.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Here he comes, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm ready!
+This fight...{16}{E1}
+Is ours!!
+<PUSH>
+Last Battle!{14}{E1}
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

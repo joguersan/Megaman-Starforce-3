@@ -1,0 +1,21 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* This is the
+Administrative Monitor's
+Cyber Core!
+<PUSH>
+All of WAZA's monitors can
+be managed from here!
+<PUSH>
+So much data passes through
+here, I think my head is
+going to explode!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

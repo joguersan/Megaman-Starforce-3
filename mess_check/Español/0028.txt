@@ -1,0 +1,312 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{EB}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un instrumento de medición.
+Es antiguo, pero parece que
+funciona.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Alucinante!
+¡Mira lo que he encontrado!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS mejorado!
+<PUSH>
+{0A}{E1}{EB}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{00}{00}`{FF}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay incontables tanques
+de Carmesí puestos en fila.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No puedo creer que tengan
+tanto Crimson almacenado...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que movernos,
+chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0D}{E1}{00}{00}`{FF}{00}{11}{00}{09}{E1}{00}{00}{35}{08}{3F}{08}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina Carmesí.
+Está rodeada por una
+corriente de alta tensión.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Tenemos que detener
+a esta gente!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}ù<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+No puedo pasar...
+Hay una tubería
+en medio.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico!
+¡Ahí hay algo!
+<PUSH>	
+{84}{E1}{03}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido
+la Sub-carta:
+«{D3}{E5}»!
+<PUSH>
+{0A}{E1}ù
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La Carretera de Ondas
+está cortada...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No podemos pasar...
+¿Qué hacemos?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Puede que el sistema de
+seguridad tenga algo
+<PUSH>
+que ver. ¿Por qué no nos
+impulsionamos dentro?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La Carretera de Ondas
+está cortada...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a impulsionarnos
+al Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La Carretera de Ondas
+está cortada...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que destruir
+el núcleo de energía!
+¡Impulsiónate, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay incontables tanques
+de Carmesí puestos en fila.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina Carmesí.
+Parece que ya no
+funciona...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina Carmesí.
+Parece que ya no
+funciona...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ja!
+¡Para que aprender!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un instrumento de medición.
+Es antiguo, pero parece que
+funciona.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+No puedo pasar...
+Hay una tubería
+en medio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,116 @@
+[SENTENCE NUMBER 1]
+{27}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{27}{E1}{03}{00}{0B}{FF}{26}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{0B}{FF}{27}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+UltmteBattleMstr
+[END]
+
+[SENTENCE NUMBER 5]
+UltmteFireMstr
+[END]
+
+[SENTENCE NUMBER 6]
+UltmteAquaMstr
+[END]
+
+[SENTENCE NUMBER 7]
+UltmteElecMstr
+[END]
+
+[SENTENCE NUMBER 8]
+UltmteWoodMstr
+[END]
+
+[SENTENCE NUMBER 9]
+UltmteSwordMstr
+[END]
+
+[SENTENCE NUMBER 10]
+UltmteBreakMstr
+[END]
+
+[SENTENCE NUMBER 11]
+UltmteGuardMstr
+[END]
+
+[SENTENCE NUMBER 12]
+UltmteParlyzMstr
+[END]
+
+[SENTENCE NUMBER 13]
+UltmteFinalize
+[END]
+
+[SENTENCE NUMBER 14]
+SatelliteServer
+[END]
+
+[SENTENCE NUMBER 15]
+
+[END]
+
+[SENTENCE NUMBER 16]
+Break
+[END]
+
+[SENTENCE NUMBER 17]
+AquaElmntl
+[END]
+
+[SENTENCE NUMBER 18]
+ElecElmntl
+[END]
+
+[SENTENCE NUMBER 19]
+WoodElmntl
+[END]
+
+[SENTENCE NUMBER 20]
+FireElmntl
+[END]
+
+[SENTENCE NUMBER 21]
+Sword
+[END]
+
+[SENTENCE NUMBER 22]
+AquaElmntl
+[END]
+
+[SENTENCE NUMBER 23]
+ElecElmntl
+[END]
+
+[SENTENCE NUMBER 24]
+WoodElmntl
+[END]
+
+[SENTENCE NUMBER 25]
+FireElmntl
+[END]
+
+[SENTENCE NUMBER 26]
+
+[END]
+
+[SENTENCE NUMBER 27]
+Pur:
+[END]
+
+[SENTENCE NUMBER 28]
+???
+[END]
+
+[SENTENCE NUMBER 29]
+---
+[END]
+

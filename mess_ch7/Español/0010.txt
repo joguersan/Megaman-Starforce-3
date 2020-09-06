@@ -1,0 +1,197 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Este es el inhibidor...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué Ruido tan intenso...
+<PUSH>
+Somos resistentes al
+Ruido, no debería haber
+ningún problema.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Seguramente el Sr. Boreal no
+dejó que Sonia ni Bud
+vinieran con nosotros.
+<PUSH>
+No podrían ni acercarse
+aquí, sería muy peligroso.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí.
+Esa anciana está ahí
+entonces, ¿no?
+<PUSH>
+No creo que podamos entrar
+ni siquiera habiéndonos
+impulsionado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tiene que haber
+alguna forma...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+Puede que la haya, chico.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qué quieres decir?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que tu cuerpo se
+ha acostumbrado al Ruido.
+<PUSH>
+Puede que con mi increíble
+fuerza podamos destruir
+parte del Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿D-De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No funcionará siempre...
+<PUSH>
+¡Pero puede servir en
+zonas donde el Ruido
+sea muy débil!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Buen plan!
+¡¡Mega, tú puedes!!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Wizard On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Maldito Ruido...
+<PUSH>
+¡¡Toma esta!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grrrrrr!! ¡¡Roooaaar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Hala, hay un montón de
+entradas en las
+ondas de Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Podemos entrar por ahí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡La Dra. Goodall debe de
+estar en algún lugar, dentro
+de las ondas de Ruido!
+<PUSH>
+¡¡Démonos prisa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

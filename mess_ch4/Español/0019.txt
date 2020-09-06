@@ -1,0 +1,140 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un rato antes...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Y{15}{E1} esa es la situación...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Acid, necesito que vuelvas
+y ayudes a la Dra. Goodall.
+<PUSH>
+¡Y dile a Geo que necesito
+que vuelva cuanto antes!
+<PUSH>
+No tenemos suficientes tropas.
+<PUSH>
+Ahora mismo, Harp Note se
+está ocupando del enemigo
+ella sola.
+<PUSH>
+La Policía Satella y yo
+vamos a ayudarla.
+<PUSH>
+Cambio y corto.
+<PUSH>
+{10}{E2}{95}{03}
+<NEW-DIALOG>
+<Game>
+Bip...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Ya lo has oído, debo volver
+para ayudar a la Dra. Goodall.
+<PUSH>
+Y Ace necesita que volváis
+lo antes posible.
+<PUSH>
+Tomad, la "<Chiave.SP2>".
+<PUSH>
+Con esto podréis abrir la
+puerta a NAZA desde la
+Carretera Astral.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}(
+<START-DIALOG>
+{02}{E2}
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"<Chiave.SP2>"!
+<PUSH>
+{01}{E2}
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Tened cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Se han decidido a un
+ataque frontal, ¿eh?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ha dicho que Harp Note
+también está luchando...
+<PUSH>
+¡Tenemos que llegar
+cuanto antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien dicho, Geo!
+<PUSH>
+¡Vamos a NAZA desde la
+Carretera Astral!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

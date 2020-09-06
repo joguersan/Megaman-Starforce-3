@@ -1,0 +1,10 @@
+[SENTENCE NUMBER 1]
+Item that makes your max
+HP go up by 10.
+[END]
+
+[SENTENCE NUMBER 2]
+Item that makes your max
+HP go up by 20.
+[END]
+

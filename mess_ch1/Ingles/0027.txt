@@ -1,0 +1,100 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright, we're ready to go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Oh, are you going out
+today, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hey, Mom.
+<PUSH>
+Yeah, I'm going with my
+friends to <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Alright. Just be safe, OK?
+<PUSH>
+Take care of him, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You can count on me!
+<PUSH>
+By the way, where's the
+Echo Ridge Wicket?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+It's by the river.
+<PUSH>
+But it doesn't really stand
+out very much.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+By the river, huh?
+Let's get a move on, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't worry, Hope!
+<PUSH>
+I won't let anything happen
+to the kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+I know I can count on
+you, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Why are you being so
+ energetic in front of
+ Mom today, Mega?)
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Well, be safe and don't
+stay out so late this
+time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

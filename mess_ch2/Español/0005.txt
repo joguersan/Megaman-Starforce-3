@@ -1,0 +1,214 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No está aquí...
+<PUSH>
+Pensaba que había
+ido por aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Esto, disculpe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}¿Te opuedo a yudar?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Ha visto usted a un chico
+de mi edad por aquí?
+<PUSH>
+Es un compañero de clase...
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}He visto pasar a
+muchos chicos, tendrás
+que especificar un poco.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A ver...
+Tiene el pelo negro...
+<PUSH>
+Y es un poco más
+bajito que yo...
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}Entiendo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Agh!
+<PUSH>
+¡Sabía que investigar a
+estos estúpidos sería
+un aburrimiento!
+<PUSH>
+¡Voy a cargármelo
+ahora mismo!
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+Jack...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¿Qué pasa, Corvus?
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+Me encantaría poner a
+prueba los poderes
+de Mega Man, ya lo sabes.
+<PUSH>
+Pero sería una locura
+ignorar las órdenes del
+Sr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Tienes razón...
+¡Pero primero,
+una pequeña prueba!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}¡Uff!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿?
+<PUSH>
+¿Qué ocurre?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Mi cuerpo...
+¡Le pasa algo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No será..
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}¡Graaaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡O-Oh, no!
+¡Ha enloquecido!
+<PUSH>
+¡¿Por qué siempre
+me pasa a mí?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Concéntrate, chico!
+¡Es hora de hacer un
+Cambio de onda EM!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué remedio, ¿no?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos allá, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+¡Tenemos que pararle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

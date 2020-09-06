@@ -1,0 +1,248 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{91}{00}This is the Cyber Core for
+Luna Platz's house.
+<PUSH>
+Aren't you Mega Man!?
+<PUSH>
+I'm so glad that you have
+been such a good friend
+to Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHello!
+<PUSH>
+This house is always so well
+kept. The EM wave breeze
+just flows through it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tDid you know?
+<PUSH>
+This Cyber Core is like
+a floor plan of the house!
+<PUSH>
+Cool huh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+uThis is a good shortcut.
+It really comes in handy
+when you're in a hurry.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI hear an EM voice.
+<PUSH>
+  "Delta75148"
+<PUSH>
+That's what it's saying
+to me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+ClubStrng"R"!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+You... You're Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How did you know that?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+With our "R" network, that
+sort of thing isn't hard to
+find out.
+<PUSH>
+You've been targeted for
+termination.
+<PUSH>
+As such, I will make where
+you stand, your grave.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmph! We'll just see who
+gets buried!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Who are you guys! And what
+are you doing on Earth!?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+We "R"s were created by our
+master. In his name,
+<PUSH>
+we are surveying planets
+suitable for his collection.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Collection?
+<PUSH>
+Are you saying that you're
+trying to take planets and
+make them your own!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Who does this guy think
+he is?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+*snicker* I like this planet.
+<PUSH>
+I think my master will like it
+more than other planets he
+has conquered as well.
+<PUSH>
+We owe this discovery to
+the Astro Hertz that
+fled here seeking refuge.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo! Could that be that one
+Astro Hertz...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah the one that asked us
+for help, with the brother!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So that means that if these
+"R" guys and their master
+<PUSH>
+are at the root of all of
+these incidents, then all we
+<PUSH>
+have to do is get buck wild
+on these fools to get two
+birds with one stone!
+<PUSH>
+Let's delete this guy and
+get to the end of this
+Noise Wave!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+*snicker* Fool.
+You don't stand a chance.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well...
+We'll just see about that!
+<PUSH>
+Let's do this! ClubStrng"R"!
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}§
+[END]
+

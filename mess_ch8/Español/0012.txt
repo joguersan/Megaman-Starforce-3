@@ -1,0 +1,107 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Hemos ganado...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Jajaja...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Sirio?!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Veo que habéis eliminado
+a todos mis Rs...
+<PUSH>
+Ya solo os queda
+venir a visitarme.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué, tienes miedo de
+venir a por nosotros?!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Si venís a verme, os
+añadiré a mi colección.
+<PUSH>
+Iréis justo después
+del Planeta FM.
+<PUSH>
+Nos vemos.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ese chaval no escucha ni una
+palabra de lo que decimos...
+Me está empezando a cabrear.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, a mí también...
+Bueno... ¡No nos ha dejado
+otra opción!
+<PUSH>
+¡Tenemos que eliminarlo!
+<PUSH>
+¡Es la única forma!
+¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je.
+¡Ese es mi Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ja, ja!
+<PUSH>
+¡Vamos allá, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Estoy listo cuando
+tú lo estés!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+

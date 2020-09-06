@@ -1,0 +1,529 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Thank you for coming out
+today, everyone!
+<PUSH>
+It's finally time for the
+Science Club to launch the
+rocket we constructed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}{45}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Woohoo! Yay! Right on!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+But first I would like to
+introduce the Team that
+acted as producer for us.
+<PUSH>
+I give you the leader of
+"Luna 4 Prez", Luna Platz,
+and the other members!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}{45}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Woo! Go Luna! Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What a wonderful feeling to
+have everyone cheer for
+me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+Zack, Prez's approval
+rating is skyrocketing!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+If the rocket launches
+successfully, there's no
+<PUSH>
+doubt her approval rating
+will go over 40%!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+At long last...
+Let's launch the rocket!
+<PUSH>
+Magnes, please start the
+launch preparations!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{01}{00}{F0}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*dum* {13}{E1}*dum* {13}{E1}*dum* {13}{E1}*dum*{13}{E1}.{13}{E1}.{13}{E1}.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}*badump, badump*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*boom*
+*bzzt... bzzt!*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+W-What's going on?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Something must be wrong!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+What the heck?
+The controls aren't working!
+<PUSH>
+Magnes!?
+Magnes, respond!
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+M-Magnes!?
+What's wrong!?
+What happened to you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Uwaaaa!
+I'm invincible!
+Invincible!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+What the...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+The energy output won't
+stop increasing!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+W-What!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+What does that mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+It's going to explode!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Run!
+<PUSH>
+Everyone, run!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Ahhh!
+It's pulling me in!
+<PUSH>
+
+<NEW-DIALOG>
+*It's too powerful!
+I can't get away!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Magnes' magnetic force is
+out of control!
+<PUSH>
+It's using the metallic
+items they have on them
+to pull them in!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Bud>
+Forget about that! What do
+we do if it explodes!?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+If the Giga Energy Card's
+energy suddenly fires out...
+It's too terrible to say...!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Zack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+The magnetic force is still
+rapidly rising due to the
+Wizard being out of control!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Magnes is out of control...?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+What are the damage
+estimates!?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+If the rocket explodes,
+Echo Ridge Elementary will
+be completely destroyed!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+There will be considerable
+damage to <Echo.Ridge>, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+That can't happen...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Why...
+<PUSH>
+Why is this happening!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+This is just like what
+happened at <Spica.Mall>...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's true.
+So, kid, then that means...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo-2>
+Yeah, let's stop it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+You can't turn into Mega
+Man and try to stop it!
+<PUSH>
+It might explode!
+It's too dangerous!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+But, we're the only ones
+that can do it.
+<PUSH>
+And I can't stand around
+and watch the school be
+destroyed.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You're always like this...
+<PUSH>
+...Fine.
+<PUSH>
+If you're going, then I'm
+not leaving until you come
+back.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+W-What are you saying!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Our Team shares the same
+Purpose, right? And I'm the
+leader!
+<PUSH>
+I wouldn't dare leave a
+teammate behind!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Prez...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'm gonna wait, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Same here!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud! Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Get going, Geo...
+<PUSH>
+"Luna 4 Prez" won't move
+an inch until you get back.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Umm...
+<PUSH>
+I didn't really hear the
+whole conversation, but I'm
+staying, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+After all, we're responsible
+for the rocket!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh heh...
+None of this talk matters
+unless we stop the rocket!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Right!
+Let's rock, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

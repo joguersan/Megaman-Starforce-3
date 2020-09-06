@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+This is the last one!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't let your guard down,
+kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

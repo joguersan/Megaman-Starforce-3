@@ -1,0 +1,99 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Todo listo, vámonos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ah, ¿vas a salir, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hola, mamá.
+<PUSH>
+Sí, voy con mis amigos
+al <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Muy bien. Pero ten
+cuidado, ¿vale?
+<PUSH>
+Cuida de él, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No te preocupes!
+<PUSH>
+Por cierto, ¿dónde está
+la parada de Echo Ridge?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Al lado del río.
+<PUSH>
+Pero no destaca mucho,
+la verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Al lado del río, ¿no?
+¡En marcha, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No te preocupes, Hope!
+<PUSH>
+¡Conmigo cerca, al chico
+no le pasará nada!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Me dejas mucho más
+tranquila, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Mega, ¿qué te pasa
+hoy con mi madre?
+¡Cuánta energía!)
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Bueno, tened cuidado
+y no volváis tarde.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

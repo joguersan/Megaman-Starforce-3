@@ -1,0 +1,68 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Genial...
+<PUSH>
+Por fin podemos colarnos
+en la base de Dealer..
+<PUSH>
+No sabemos qué clase
+de trampas nos esperan.
+<PUSH>
+¡Así que no bajéis la
+guardia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Apartaos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Así que...
+<PUSH>
+Por fin has llegado...
+<PUSH>
+¡Ja {15}{E1}ja {15}{E1}ja {15}{E1}ja {15}{E1}ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+[END]

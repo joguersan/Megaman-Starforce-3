@@ -1,0 +1,1761 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿El Sr. Boreal?
+Está en <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Cómo lo sabes?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Que cómo lo sé?
+¿Cómo iba a saberlo?
+Ji, ji, ji.
+<PUSH>
+{0A}{E1}{10}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{08}{E1}{00}{00}{04}{00}<Geo>
+{08}{E1}{00}{00}{05}{00}<(Queen)Tia>
+{08}{E1}{00}{00}{06}{00}<(Queen)Tia>
+{08}{E1}{00}{00}{07}{00}({08}{E1}{00}{00}{08}{00}2
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Bienvenido Geo.
+<PUSH>
+Me han dicho que has formado
+un Equipo con tus amigos.
+¡Eso es fantástico!
+<PUSH>
+Desde que desapareció Kelvin
+has estado evitando a la
+gente, pero parece que ahora
+<PUSH>
+te lo pasas genial en
+el cole.
+<PUSH>
+Guardalos como tesoros y
+diviértete, pero no olvides
+estudiar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Te vas a
+<Spica.Mall>?
+Pasalo bien y ten cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Eh, Geo, ¿te has encargado de
+esa cosa que tenías que
+por hacer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Bienvenido a casa, Geo.
+Si estás cansado deberías
+irte a descansar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Hoy hacíais despegar el
+cohete desde el techo de
+la escuela, ¿no?
+<PUSH>
+Me hubiese hecho ilusión ir
+porque decías que ibas a
+<PUSH>
+echar una mano, pero tengo
+que ir a trabajar. Lo siento.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{08}{E1}{00}{00}<Geo>
+:
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Me han contado que el
+despegue del cohete fue
+impresionante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Buenos días, Geo!
+<PUSH>
+¿Así que vas a salir en el
+programa de Sonia?
+<PUSH>
+¡Es maravilloso! ¡Ya me dirás
+como ha ido cuando vuelvas!
+<PUSH>
+¡Qué te vaya bien!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Oh, Geo, ¿ya vuelves del
+viaje escolar? ¿Has echado
+de menos tu casa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{09}{E1}{00}{00}{61}{07}{89}{07}K{0C}{E1}{01}{00}{10}{00}G
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Aaron?
+<PUSH>
+Si mal no recuerdo, creo que
+le vi en <Spica.Mall> no hace
+mucho. Pero hacía mucho que
+<PUSH>
+no le veía. Además iba de
+camino a <Alohaha> por algo
+de un trabajo urgente.
+<PUSH>
+Parecía tener mucha prisa.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+<Alohaha>...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Me pregunto si tendrá algo
+que ver con la desaparición
+de Luna en <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Todo va a salir bien. Seguro
+que la policía Satela la trae
+de vuelta sana y salva.
+<PUSH>
+Se como te sientes, pero
+por favor deja esto en manos
+de los adultos.
+<PUSH>
+¿Lo has entendido?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pero, pero...
+<PUSH>
+{A0}{E1}{02}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ni peros ni peras, ¿qué crees
+que puedes hacer tú? ¡No eres
+más que un crío!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡!{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Perdona...
+No pretendía gritarte
+cariño, pero...
+<PUSH>
+{12}{E2}<Heartless>
+{01}{00}
+<NEW-DIALOG>
+<Hope(Mom)>
+Mamá tiene miedo...
+Miedo de perderte.
+<PUSH>
+Sé que estás preocupado por
+lo que le pueda pasar a Luna,
+y que ella te importa mucho.
+<PUSH>
+Lo importante que es ella
+para todos sus amigos.
+<PUSH>
+Créeme, sé lo que debéis
+estar pasando...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Pero si al ir a salvarla te
+llegase a pasar algo...
+<PUSH>
+Yo, yo no sé qué haría...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale mamá...
+<PUSH>
+No te preocupes, lo dejaré
+en las manos de la policía
+Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Voy a salir.
+Ahora vuelvo.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+Vale.
+Ten cuidado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí.
+<PUSH>
+{13}{EC}(Lo siento mamá...)
+<PUSH>
+{0A}{E1}{10}{00}
+<END-DIALOG>
+{11}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Estoy segura de que la
+encontrarán.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Oh...
+Estaba pidiendo a tu padre
+ayuda para encontrar a Luna
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+[END]
+
+[SENTENCE NUMBER 101]
+{0C}{E1}{01}{00}Te
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Buenos días, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Buenos días, mamá.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+Parece que están pasando
+muchísimas cosas en tu
+escuela...
+<PUSH>
+Haces cara de estar hecho
+polvo, ¿te encuentras bien,
+Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, estoy bien, solo
+tengo un poco de sueño.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿En serio?
+Deberías tomarte las cosas
+con más calma.
+<PUSH>
+Tengo un mal presentimiento.
+<PUSH>
+Como si algo malo fuese
+a pasarte.
+<PUSH>
+Igual que lo que le
+pasó a tu padre...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mamá...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Perdona, no debería decir
+estas cosas.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No te preocupes, Hope.
+¡Cuidaré del chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ja, ja, ja.
+¡Gracias Mega!
+<PUSH>
+¡Cuida de mi hijito!
+Es todo lo que tengo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Yo me encargo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Mamá, me tengo que ir!
+¡Nos vemos luego!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Cuídate, Geo!
+<PUSH>
+{0A}{E1}T
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Cuidate, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Eh, ¿Geo?
+¿Qué pasa con la escuela?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Vas a salir?
+<PUSH>
+No estés fuera hasta
+muy tarde, ¿vale?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+[END]
+
+[SENTENCE NUMBER 111]
+{0C}{E1}{01}{00}Xo{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Geo...{16}{E1}
+<PUSH>
+Me acaba de llamar el
+Sr. Shepar...
+<PUSH>
+Me ha dicho que has salido
+antes de lo normal.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡!
+<PUSH>
+{12}{E2}<Zack>
+{01}{00}
+<NEW-DIALOG>
+<Hope(Mom)>
+¿¡Qué está pasando Geo?!
+<PUSH>
+¿Dónde has estado y qué
+has estado haciendo todo
+este rato?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Emmm...
+{13}{EC} Esto no pinta bien...)
+<PUSH>
+{13}{EC}(¿Qué debería
+{13}{EC} decirle?)
+<PUSH>
+{13}{EC}(¿Que soy Megaman y he
+{13}{EC} estado echando una
+{13}{EC} mano a la Policía Satella
+<PUSH>
+{13}{EC} para eliminar Wizards que
+{13}{EC} se salen fuera de control?
+{13}{EC} No se lo va a creer...)
+<PUSH>
+Ah...{16}{E1} Emm...{16}{E1}
+Sí... Eso...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¿Cómo me las arreglo
+{13}{EC} para salir de este
+{13}{EC} marrón?)
+<PUSH>
+{13}{EC}(La mejor solución es
+{13}{EC} contarle la verdad...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chaval!
+¿¡Cuando vas a dejar de
+ser un gallina!?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿?...
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿¡!?
+<PUSH>
+{13}{EC}(¿¡M-Mega!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Lo siento Hope!
+¡Yo tengo toda la culpa!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Qué quieres decir,
+Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Noise! All of a sudden, the
+Noise at school got really
+terrible!
+¡Ruido! ¡De repente el
+Ruido en la escuela se
+ha vuelto insoportable!
+<PUSH>
+Me encontraba tan mal...
+¡No podía aguantarlo más!
+<PUSH>
+¡Así que le pedí a Geo
+que hiciese algo!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Y por eso os habéis
+ido antes?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Emm... ¡Sí! ¡Por eso Geo
+me llevó a algún lugar donde
+no hubiese tanto Ruido!
+<PUSH>
+Geo solo se preocupaba de mi
+estado, de verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+¿Geo? {16}{E1}
+¿Es eso verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Claro que sí!?...
+<PUSH>
+Emm... ¡ha pasado todo como
+lo ha dicho Mega! lo estaba
+pasando fatal...
+<PUSH>
+¡Tenía que hacer todo lo
+posible para sacarle de esa
+clase llena de Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+A resumidas cuentas...
+Lo has hecho para ayudar a
+Mega.
+<PUSH>
+Si eso es lo que ha pasado,
+no puedo enfadarme contigo.
+<PUSH>
+Después de todo, ¡Mega es
+tu amigo!
+<PUSH>
+{11}{E2}{02}{00}
+<NEW-DIALOG>
+<Geo>
+(¡Menos mal!
+ Casi no lo contamos,
+ Mega...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Lo que te he dicho, ¡si
+lo dejabas en mis manos no
+pasaría nada!)
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+¡Pero!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Glup.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Fuese lo que fuese, has hecho
+que el Sr. Shepar se
+preocupase por ti.
+<PUSH>
+Así que ya puedes pedirle
+perdón la próxima vez que
+<PUSH>
+lo veas, ¿me has entendido,
+chavalín?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, mamá!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Bien!
+<PUSH>
+{0A}{E1}X
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ah, por cierto, Geo.
+Mañana no hay escuela, han
+cancelado las clases.
+<PUSH>
+Supongo que las cosas no
+van bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+{09}{E1}{00}{00}{D5}{07}{D9}{07}y{0D}{E1}{00}{00}CD{7B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Oh, Geo,
+bienvenido a casa.
+<PUSH>
+¡Has vuelto pronto a casa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+{0C}{E1}{01}{00}{88}{00}z{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡!{17}{E1}
+<PUSH>
+¡Geo! ¡Estás bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Emm, ¡nada!
+<PUSH>
+¿¡Dónde te habías metido,
+jovencito!?
+<PUSH>
+¡En <Echo.Ridge> habían
+virus descontrolados!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Emm...
+Y-yo estaba en la escuela...
+<PUSH>
+¡En la escuela!
+<PUSH>
+Pensaba que en la escuela
+estaría a salvo.
+<PUSH>
+Porque ahí están los
+profesores...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+En la escuela...
+Supongo que sí es buen lugar
+donde quedarse a salvo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+Pero, Geo, preferiría que
+cuando pasen cosas de este
+estilo vengas a casa...
+<PUSH>
+Quiero que estés aquí,
+a mi lado...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Perdoname por hacer que te
+preocupases, mamá. Intentaré
+que no vuelva a pasar.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Agh, he vuelto a
+{13}{EC} mentir a mamá,
+{13}{EC} lo siento...)
+<PUSH>
+{0A}{E1}{88}{00}
+<END-DIALOG>
+{11}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Se lo has prometido a mamá,
+¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, mamá...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+{0C}{E1}{01}{00}{DB}{07}|
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geo! ¡Despierta
+dormilón!
+<PUSH>
+¡Luna y tus amigos se
+han ido sin ti!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Oh, Geo,
+¿te has dejado algo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+{0D}{E1}{00}{00}dd{96}{00}{0D}{E1}{00}{00}eg{A0}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Hay muchos peligros fuera,
+intenta no pasar demasiado
+rato fuera de casa, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+{09}{E1}{00}{00}{5D}{08}{5F}{08}{97}{00}{09}{E1}{00}{00}{5F}{08}{61}{08}{98}{00}{0A}{E1}{A2}{00}
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Lo siento, hoy no es mi día.
+<PUSH>
+Buenas noches, cariño.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Buenos días, Geo.
+¡Ya casi es hora de
+desayunar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Haz lo que puedas como solo
+tú sabes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Thank you, Mega Man.
+<PUSH>
+I stayed brave the whole
+time, believing that you
+would come to rescue me.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+But... Why did you stay behind
+even though you knew you
+were in danger?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I had something that I
+absolutely HAD to finish...
+<PUSH>
+Don't worry, once we're back
+I'll tell everyone what it was.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well then, let's pulse out
+yesterday!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Haha, good idea.
+<PUSH>
+OK, Goodall.
+It's time to go.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+OK, you'll have to lead me
+to the exit.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No problem!
+Just follow me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+

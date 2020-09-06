@@ -1,0 +1,559 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es el club de ciencias...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¿Todos listos?
+
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Sí, jefe!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Lista!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Perfecto.
+Comencemos entonces.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Por fin hemos terminado
+este cohete en miniatura
+para el laboratorio.
+<PUSH>
+¡Y ha llegado la hora de
+hacer la prueba de campo!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}{29}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Clic, clac
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¿Eh? ¿Qué ha sido
+ese ruido?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Fuuuooosss
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡Ahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡El aspersor se
+ha vuelto loco!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡He localizado
+un virus en la zona!
+<PUSH>
+¡Está en el <Nucleo.Pro{67}{01}ramma-color>
+del aspersor!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡Mantened la calma!
+<PUSH>
+TContamos con los Hunters
+y las Cartas de Batalla.
+<PUSH>
+¡Unidos acabaremos
+con ese virus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Ahora verás!
+¡<Cannone>!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡<PlasmaGu{6E}{01}>!
+¡<MiniGrnade>!
+<PUSH>
+¡No funciona!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Si tuviéramos Wizards...
+
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Podríamos usar todo el
+potencial de las
+Cartas de Combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Ah! ¿Es que no hay
+nada que podamos hacer
+por medio de la ciencia?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Jefe!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Tenemos que proteger
+el cohete!
+<PUSH>
+¡Representa la culminación
+de todo nuestro trabajo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Aah!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Uaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Aah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que ayudarles,
+chico!
+<PUSH>
+¿Cómo lo hacemos?
+<PUSH>
+Puedo conectarme
+al Cibernúcleo y
+<PUSH>
+enseñarle a esos
+virus lo que es bueno.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mmm...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No.
+Hagámoslo juntos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Así se habla! ¡Hace tiempo
+que no hacemos una
+"{47}{E2}"!
+<PUSH>
+Recuerda mantenerte
+alerta, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Pues claro!
+¡A <Trans.in-color> al
+Cibernúcleo del aspersor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡No os preocupéis, chicos!
+¡La ayuda va en camino!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¿Qué? ¿Y cómo piensas
+ayudarnos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Eeh...
+Tú no te precupes
+y déjamelo a mí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Escucha, chico...
+Hay algo que debería contarte
+sobre el Cambio de Ondas EM...
+<PUSH>
+Antes solo podíamos realizar
+un Cambio de Ondas EM en
+ciertos lugares.
+<PUSH>
+Pero gracias a los recientes
+avances en tecnología EM,
+<PUSH>
+¡ahora podemos realizarlo
+en cualquier parte!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿En serio? Genial.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Cómo que genial?
+¿Pero tú me estás
+escuchando?
+<PUSH>
+Olvídalo...
+lo primero es encargarnos
+de este lío.
+<PUSH>
+¡Cambio de Ondas EM
+a Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vamos allá!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh, espera.
+Se me olvidaba algo...
+<PUSH>
+¿Ves eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Es la "<Stazione.d'Onda-color>"
+que controla las ondas EM
+de la escuela.
+<PUSH>
+Podemos entrar en ella a
+través de la Carretera
+de Ondas como Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+De acuerdo.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡Hora del Cambio
+de Ondas EM!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Eh...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Mega, esto no funciona!
+<PUSH>
+¡Y yo aquí gritando como
+un descosido! ¡Menudo
+corte!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué raro... Gritar siempre
+hace que funcionen
+las cosas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mmm, ha aparecido un
+mensaje en el Hunter.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Detectado Cambio de Ondas EM
+<PUSH>
+Acceso a la Policia Satella{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Verificando autorización{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué leches!
+<PUSH>
+Esto no tiene buena pinta.
+¿Nos meteremos en un lío?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Verificación finalizada
+<PUSH>
+Registrando a Geo Stelar
+y a Omega-Xis bajo
+Cambio de Ondas con ID "003".
+<PUSH>
+Tarjeta ID expedida.
+Código de autenticación...
+<PUSH>
+"Mega Man".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Se requerirá un código de
+autenticación al realizar
+Cambios de Ondas EM.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué acaba de ocurrir?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que acaban de
+registrarnos en la
+{52}{E2}...
+<PUSH>
+Supongo que ya no podremos
+hacer el Cambio de Ondas
+EM tan fácilmente.
+<PUSH>
+Creo que tendremos que
+utilizar el código 
+<PUSH>
+"Mega Man" cuando realicemos
+un Cambio de Ondas EM.
+<PUSH>
+Bueno, dejemos esto
+para más tarde.
+<PUSH>
+¡No hay tiempo que perder!
+Pulsa el botón R para
+iniciar el
+Cambio de Ondas EM
+<PUSH>
+y entra a la Carretera de Ondas
+a través de la
+Estación de Ondas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Muy bien, vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

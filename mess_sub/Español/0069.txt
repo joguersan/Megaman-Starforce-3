@@ -1,0 +1,84 @@
+[SENTENCE NUMBER 1]
+MEGA MAN SF
+[END]
+
+[SENTENCE NUMBER 2]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 3]
+Habilidad
+[END]
+
+[SENTENCE NUMBER 4]
+Registros
+[END]
+
+[SENTENCE NUMBER 5]
+CartaRuido
+[END]
+
+[SENTENCE NUMBER 6]
+Activar
+[END]
+
+[SENTENCE NUMBER 7]
+Desactivar
+[END]
+
+[SENTENCE NUMBER 8]
+PV MÁX.     {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+Mega       {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+Giga       {24}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+Apoyo           
+[END]
+
+[SENTENCE NUMBER 12]
++{20}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+Normal         
+[END]
+
+[SENTENCE NUMBER 14]
+Espada          
+[END]
+
+[SENTENCE NUMBER 15]
+Rotura          
+[END]
+
+[SENTENCE NUMBER 16]
+Fuego           
+[END]
+
+[SENTENCE NUMBER 17]
+Agua           
+[END]
+
+[SENTENCE NUMBER 18]
+Eléc.           
+[END]
+
+[SENTENCE NUMBER 19]
+Bosque           
+[END]
+
+[SENTENCE NUMBER 20]
+Hab.         
+[END]
+
+[SENTENCE NUMBER 21]
+Ruido
+[END]
+

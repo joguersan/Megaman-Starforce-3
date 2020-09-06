@@ -1,0 +1,171 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Ding, dong...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Y al final obtenemos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Eh, Bud!
+<PUSH>
+¿Por qué no intentas resolver
+este problema?
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Eh?!
+<PUSH>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud>
+A ver...
+De esto pasamos a eso y...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(¡Mal, Bud!)
+<PUSH>
+{13}{EC}(¡De eso pasamos a esto!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Eh?
+<PUSH>
+¿Cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(¡Es{14}{E1}to{14}{E1} pa{14}{E1}sa{14}{E1} a{14}{E1}ser{14}{E1} esto!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+P-Pero...
+<PUSH>
+Si coges esto, entonces...
+Aah, es demasiado complicado...
+<PUSH>
+{13}{EC}...
+<PUSH>
+Zzz...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¿B-Bud?!
+¡¿E-En serio se ha...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Jajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Jajaja!
+¡Despierta, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Ya está bien!
+¡Callaos!
+<PUSH>
+A ver...{15}{E1}
+Geo, ¿por qué no respondes
+por Bud?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Riiing...
+<PUSH>
+¡H{15}{E1}-Hay un Wizard
+como loco en la entrada
+de la escuela!
+<PUSH>
+¡Es demasiado peligroso,
+que nadie salga del aula!
+<PUSH>
+Profesores, por favor vigilen
+a los alumnos...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Un Wizard fuera de control?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Seguro que es cosa de Dealer!
+<PUSH>
+¡¡Vamos, chaval!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

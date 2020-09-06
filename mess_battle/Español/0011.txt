@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Cáncer
+<PUSH>
+Cartas Agua no aten.:
+ataque +30
+<PUSH>
+Cartas Agua no aten.
+encierran a los enemigos
+una burbuja
+<PUSH>
+Ataque cargado:
+"Disparo burbuja",
+<PUSH>
+atrapa a los enemigos en
+una burbuja Revisa tu
+correo para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Cáncer
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C2}{10}
+[END]
+

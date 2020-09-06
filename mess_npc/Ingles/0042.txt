@@ -1,0 +1,395 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}DZZT... DZZT, DZZT...
+IT'S BRIGHT IN HERE...
+TOO BRIGHT...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}THE BRIGHTER THE LIGHT
+THE DARKER THE SHADE...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}w{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}Zztzzt... Zzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Excuse me...
+C-Can I ask you something?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Zztzzt... Zzt...
+...Huh!?
+I-I must have fallen asleep...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...
+<PUSH>
+{13}{EC}(That Zzt... sound
+{13}{EC} was him snoring?)
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Gyaaaagh!
+M-More people from the
+outside!
+<PUSH>
+Who is it this time!?
+<PUSH>
+Can you people just stay
+away, and stop messing up
+our Noise Waves!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+More...?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+H-Has anyone else been
+here besides us!?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}You bet someone else
+was here!!
+<PUSH>
+You know, big and scary,
+short and scary, and
+cute and scary...
+<PUSH>
+Just traipsing Noise Waves
+all over! This isn't a hallway
+<PUSH>
+people can just pass through
+whenever they feel like it!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Big and scary...!?)
+<PUSH>
+{13}{EC}(That could have
+{13}{EC} been Joker...)
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Oh, and one of them dropped
+this piece of trash on the
+ground! You can have it!
+<PUSH>
+{0A}{E1}w{82}{E1}{0B}{00}{01}{00}{02}{E2}M{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{7B}{E5}"!
+<PUSH>
+{01}{E2}M
+<NEW-DIALOG>
+{80}{00}It's a piece to some kind of
+access key!
+<PUSH>
+From the looks of it, the
+entire key was broken into
+four pieces of data!
+<PUSH>
+Just one piece won't do you
+any good!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We did it, Geo! ...Err,
+I mean, Detective Stelar!
+We found a clue!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yes!
+<PUSH>
+Thank you, very much!
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}Y-You're welcome, I guess.
+<PUSH>
+{0A}{E1}f
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}You...
+<PUSH>
+Maybe you're not so
+bad after all...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+{80}{00}N-No! What am I thinking!?
+<PUSH>
+Everyone from the outside
+is scary and bad!
+<PUSH>
+And I hate them, no
+exceptions!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+So this is the world of
+Cyber Cores...
+A Noise Wave...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, Dr. Goodall!
+Thank goodness you're OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur used to fight in
+Cyber Cores like this one...
+<PUSH>
+If an old woman like myself
+can be happy and healthy at
+this age...
+<PUSH>
+Then why{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Then why did such a good
+boy like him have to...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dr. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I couldn't do anything to
+help him...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A virus!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We're here to rescue you!
+<PUSH>
+Ace's sacrifice would mean
+nothing if you died here!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You're...
+<PUSH>
+You're right...!
+<PUSH>
+I still have a lot that I can
+contribute to the fight!
+<PUSH>
+You better get me out of
+here, Mega Man!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm not leaving without you!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Mmmrrrrgh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No creo que pueda
+oírte, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡I won't let Sonia and all
+the other people's dream
+<PUSH>
+of making the TV show be
+ruined like this!
+<PUSH>
+Taurus Fire has to be
+stopped!
+<PUSH>
+¡Combate de ondas!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

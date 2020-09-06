@@ -1,0 +1,151 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!!
+What the heck!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+An air display popped up
+right out of your <Hunter>.
+<PUSH>
+Maybe it's broken?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It won't turn off...
+What's wrong with it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Hey now!
+Darn thing won't go away!!
+<PUSH>
+
+<NEW-DIALOG>
+/What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I hope it's not busted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Something weird is going on...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hey, guys!
+<PUSH>
+So you're having the same
+problem too?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+But Pedia and I haven't
+detected any abnormalities
+in my <Hunter>!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+It must be hackers!
+<PUSH>
+They must have used EM
+waves to gain access!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Holy cow...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...Ho ho ho.
+<PUSH>
+How are all of you idiotic
+humans doing today?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+It's King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So he finally showed up.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+I am the leader of Dealer...
+<PUSH>
+And now, the new ruler of
+the entire planet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

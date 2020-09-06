@@ -1,0 +1,118 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+At the Same Time...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{15}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+...Queen Tia was captured
+by the Satella Police?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+That's correct.
+<PUSH>
+But the assault lead by her
+wiped out most of WAZA and
+the Satella Police.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Then I suppose the assault
+proved to be a success.
+<PUSH>
+It is so close...!
+<PUSH>
+The day that I use
+Meteor G to take over the
+planet is so close!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Indeed.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}By the way, Mr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Yes, what is it?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+What should be done about
+Jack?
+<PUSH>
+He is not behaving himself,
+to put it mildly.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ha ha ha!
+He isn't, is he!?
+<PUSH>
+Get rid of him.
+Queen Tia and him were just
+simple pawns from the start.
+<PUSH>
+When you lose someone, you
+grow numb and careless.
+<PUSH>
+And as for Jack, he is not
+capable of much without his
+sister by his side.
+<PUSH>
+He is of no use...yet.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Some parental feelings still
+linger within myself.
+<PUSH>
+Let him stay and do as he
+pleases.
+<PUSH>
+...Hah hah hah!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes, sir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

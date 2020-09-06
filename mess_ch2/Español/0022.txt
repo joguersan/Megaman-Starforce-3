@@ -1,0 +1,109 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Adelante, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Déjamelo a mí!
+¡Fuego!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Sin problema!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡Q-Qué frío hacía!
+Muchas gracias.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Viste a quien te hizo esto?
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Era un Wizard femenino.
+Pero era la primera vez
+que la veía.
+<PUSH>
+Aunque era totalmente
+mi tipo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Un Wizard que nadie
+conoce...
+¿Quién será?
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}No sé, pero dijo
+que no había ningún
+programa bomba.
+<PUSH>
+¡Gracias otra vez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Así que la amenaza
+de bomba era una farsa.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, pero hemos ayudado
+a ese Wizard.
+<PUSH>
+Volvamos con Lee.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

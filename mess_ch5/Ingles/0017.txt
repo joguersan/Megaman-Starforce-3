@@ -1,0 +1,195 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I see.
+<PUSH>
+So Jack will be coming next...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{06}{00}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Jack...
+<PUSH>
+His emotions often get the
+best of him, and he just
+loses control.
+<PUSH>
+He can be very brutal when
+in the wrong state of mind.
+<PUSH>
+...And only his older sister,
+Queen Tia, can calm him down.
+<PUSH>
+Yet, at the moment...{15}{E1}
+His beloved older sister is a
+little pre-occupied.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+In short, the kid's a ticking
+time bomb.
+<PUSH>
+We've got to catch him the
+next time he shows up to
+fight Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I can't believe that he's so
+dangerous...
+<PUSH>
+He was really fun to hang
+out with at the beach.
+<PUSH>
+Isn't there anything we can
+do, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I-I hope so...
+<PUSH>
+{13}{EC}(I really want to
+{13}{EC} help him, too, Bud...)
+<PUSH>
+{13}{EC}(But he's not the same
+{13}{EC} Jack we knew before...)
+<PUSH>
+{13}{EC}{08}{FF}I'm{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} I'm responsible for
+{13}{EC} his sister's capture...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+Oh, by the way, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Y-Yes...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Rogue...
+<PUSH>
+Solo called Dealer his enemy,
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah, pretty much...{15}{E1}
+<PUSH>
+He said there are others
+that are of more concern
+to him...
+<PUSH>
+And that he has no intention
+of working with me or with
+the Satella Police.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Darn.
+It looks like that idea is out.
+<PUSH>
+It had so much potential...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+<PUSH>
+What does Solo have to do
+with the Satella Police?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ah, didn't I tell you?
+<PUSH>
+Solo was going to be the
+final special member of the
+Commandos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Sonia>
+Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+But he turned us down.
+<PUSH>
+Remember that officer that
+came back all beaten up?
+<PUSH>
+He was trying to recruit
+Solo, but ended up getting
+attacked by him.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+So that's what happened...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+At the very least, I'm glad
+to see that he doesn't see
+the Satella Police as enemies.
+<PUSH>
+...OK, everyone.
+<PUSH>
+Great work today.
+<PUSH>
+You all did well handling Jack
+and the Noise Wave incident.
+<PUSH>
+Leave the follow-up work to
+WAZA, for now!
+<PUSH>
+You may all go now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

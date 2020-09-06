@@ -1,0 +1,106 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ha!
+That should be all of them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Can you hear me, Mega Man?
+<PUSH>
+It looks like more copies
+have shown up.
+<PUSH>
+We're going to ambush them
+the best we can, out here.
+<PUSH>
+I'm counting on you in there!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+The enemies are targeting
+the main computer and the
+Satella Police computer.
+<PUSH>
+Please keep them safe until
+this is all over.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The main computer and the
+Satella Police computer{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+It's going to be rough trying
+to protect them both...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Don't worry, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}We won't let anyone get to
+the <Centro.Comando>!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+OK! Then we'll do our best
+to protect the Satella Police
+computer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you ready!?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Mega>
+Hurry up and get ready, kid!
+We don't have all day!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

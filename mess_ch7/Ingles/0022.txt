@@ -1,0 +1,164 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Phew...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Man, I never expected more
+of those things to show up!
+Copy freaks!!
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}We will take these two to
+the hospital for tests.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+The hospital?
+But I haven't been injured.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Yes, but you were in the
+Noise Wave for some time.
+<PUSH>
+It would be prudent to have
+a detailed examination, just
+to be safe.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+That makes sense...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Oh, I hate hospitals...
+<PUSH>
+They smell really weird...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+You should let a doctor take
+a look at you, Belle.
+<PUSH>
+You'll never surpass Sonia if
+you fall ill.
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}Carrying on...
+Job well done, Mega Man.
+<PUSH>
+Stay safe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, there's a message...
+I wonder who it's from?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Take a look.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A code that will give us
+access to where King is!?
+<PUSH>
+{02}{E2}{0B}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Mega Man got:
+"Dealer Key"!
+<PUSH>
+{01}{E2}{0B}{00}
+<NEW-DIALOG>
+<Megaman>
+Who could have...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are we going to try it out?
+<PUSH>
+It could be a trap.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I have to try.
+<PUSH>
+If it's a trap, we'll be ready
+for it.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There should be a door in
+the Astro Wave that we can
+open with that key.
+<PUSH>
+Come on, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

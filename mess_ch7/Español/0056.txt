@@ -1,0 +1,249 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Geo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Abre los ojos{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Por el amor de Dios!
+¡¿Cuánto tiempo piensas
+seguir durmiendo?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Papá{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Mega{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}En la Tierra todos están
+esperando a que vuelvas.
+<PUSH>
+Hijo, no es momento de
+echarse una siesta.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que todo el planeta
+comparte el mismo
+Propósito...
+<PUSH>
+Y gracias a eso, la Tierra
+está emitiendo un montón
+de energía.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Es la energía que se crea
+al seguir un Propósito.
+<PUSH>
+Y es una cantidad inmensa.
+Podríamos llamarlo una
+Onda Propósito...
+<PUSH>
+Con el poder combinado de Mega
+y el mío, podremos enviarte
+de vuelta a la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Espera!
+<PUSH>
+¡¿Y qué pasa con vosotros?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}{13}{EC}...
+<PUSH>
+Yo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} volveré a casa,
+te lo aseguro.
+<PUSH>
+Tú adelántate y dile a
+Hope{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} O sea, tu madre...
+que yo iré enseguida.
+<PUSH>
+Y da recuerdos a tus amigos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Adiós, chico...
+<PUSH>
+Nuestro tiempo en la Tierra
+fue breve, pero ha sido
+toda una aventura.
+<PUSH>
+¡Venga, sal pitando de aquí!
+<PUSH>
+Todos te están esperando.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Has estado increíble{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡¡Tu padre está muy
+orgulloso de ti!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Heartless>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Papá!!
+¡¡Mega!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+Kelvin...
+<PUSH>
+¿Has pensado en un
+nombre para él?
+<PUSH>
+
+<NEW-DIALOG>
+RLa verdad es que sí.
+<PUSH>
+Va a llamarse «Geo»...
+<PUSH>
+
+<NEW-DIALOG>
+SJi, ji, ji...
+Un nombre que solo a ti
+se te podría ocurrir.
+<PUSH>
+
+<NEW-DIALOG>
+RQuiero que sea un niño
+fuerte y querido...
+<PUSH>
+Por eso, su nombre tiene
+que ser el de la Tierra,
+que es ambas cosas.
+<PUSH>
+
+<NEW-DIALOG>
+SGeo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Me gusta.
+<PUSH>
+
+<NEW-DIALOG>
+R¿Qué tal, Geo?
+Yo soy tu padre.
+<PUSH>
+
+<NEW-DIALOG>
+SSoy tan feliz.
+<PUSH>
+No puedo esperar a tenerte
+enter mis brazos{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+RNi yo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Gracias, Geo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Nos has hecho las personas
+más felices del mundo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eso era{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Un recuerdo de papá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+El Meteorito G lo
+absorbería cuando
+papá estaba ahí{14}{E1}{14}{E1}.{14}{E1}.{14}{E1}.
+<PUSH>
+Papá, mamá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Gracias por todo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Soy el chico más
+afortunado del mundo{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eso es la Tierra{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Nuestro hogar{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Vuelve a casa!!
+<PUSH>
+¡¡Vuelve, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Os oigo a todos{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Muchas gracias{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+Ya voy...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+

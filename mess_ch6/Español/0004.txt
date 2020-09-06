@@ -1,0 +1,146 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Parad los dos!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{9E}{00}¡Guau!
+<PUSH>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{99}{00}¡Miauuu!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Están fuera de sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué hacemos, chaval?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(A este paso, acabarán
+{13}{EC} destruyendo la escuela
+{13}{EC} otra vez...)
+<PUSH>
+{13}{EC}(Ni los profesores ni los
+{13}{EC} alumnos pueden hacer nada.
+<PUSH>
+¡¡No dejaré que todos pasen
+por esto otra vez!!
+<PUSH>
+¡¡Mega!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Sí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Es hora de impulsionarse!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{01}{00}
+<NEW-DIALOG>
+<Geo-2>
+¡Transcodificación!{15}{E1}
+¡Mega Man!{30}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}Guau... ¿Guau?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{99}{00}Miauuu...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡A ver, vosotros! ¡¿Por qué
+no os metéis conmigo?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}¿Guauu?
+<PUSH>
+
+<NEW-DIALOG>
+{99}{00}¿Miauuu?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{9E}{00}¡Guauuu!
+<PUSH>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{99}{00}¡Miauuuuu!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+[END]

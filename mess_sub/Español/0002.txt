@@ -1,0 +1,2429 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+Atk knocks 1
+enemy back 1
+pnl if hits 
+[END]
+
+[SENTENCE NUMBER 3]
+Atk knocks 1
+enemy back 1
+pnl if hits 
+[END]
+
+[SENTENCE NUMBER 4]
+Atk knocks 1
+enemy back 1
+pnl if hits 
+[END]
+
+[SENTENCE NUMBER 5]
+Atk and     
+paralyze    
+1 enemy     
+[END]
+
+[SENTENCE NUMBER 6]
+3-shot atk. 
+Spreads dmg 
+in V ptrn   
+[END]
+
+[SENTENCE NUMBER 7]
+3-shot atk. 
+Spreads dmg 
+in X ptrn   
+[END]
+
+[SENTENCE NUMBER 8]
+3-shot atk. 
+Spreads dmg 
+to adj pnls 
+[END]
+
+[SENTENCE NUMBER 9]
+Lob a 6-shot
+grenade at  
+your enemy  
+[END]
+
+[SENTENCE NUMBER 10]
+Atk 2 fwd   
+pnls & knock
+emies bck 1 
+[END]
+
+[SENTENCE NUMBER 11]
+Atk 2 fwd   
+pnls & knock
+emies bck 1 
+[END]
+
+[SENTENCE NUMBER 12]
+Atk 2 fwd   
+pnls & knock
+emies bck 1 
+[END]
+
+[SENTENCE NUMBER 13]
+Mega slashes
+fwd 3x2 pnls
+            
+[END]
+
+[SENTENCE NUMBER 14]
+Mega slashes
+fwd 3x2 pnls
+            
+[END]
+
+[SENTENCE NUMBER 15]
+Mega slashes
+fwd 3x2 pnls
+            
+[END]
+
+[SENTENCE NUMBER 16]
+Knock emy in
+frnt all the
+way back    
+[END]
+
+[SENTENCE NUMBER 17]
+Knock emy in
+frnt all the
+way back    
+[END]
+
+[SENTENCE NUMBER 18]
+Knock emy in
+frnt all the
+way back    
+[END]
+
+[SENTENCE NUMBER 19]
+Confus emies
+on normal   
+pnls 8 secs 
+[END]
+
+[SENTENCE NUMBER 20]
+Cuts emy in 
+frnt of you 
+[END]
+
+[SENTENCE NUMBER 21]
+Cuts enmies 
+in row in   
+frnt of you 
+[END]
+
+[SENTENCE NUMBER 22]
+Cuts emy in 
+frnt of you.
+Rnge:2 pnls 
+[END]
+
+[SENTENCE NUMBER 23]
+Swing Wood  
+ax thru 3x2 
+pnls        
+[END]
+
+[SENTENCE NUMBER 24]
+Lft hook all
+of the same 
+type of emy 
+[END]
+
+[SENTENCE NUMBER 25]
+Lft hook all
+of the same 
+type of emy 
+[END]
+
+[SENTENCE NUMBER 26]
+Lft hook all
+of the same 
+type of emy 
+[END]
+
+[SENTENCE NUMBER 27]
+Hit far 9   
+normal pnls 
+w/Meteors   
+[END]
+
+[SENTENCE NUMBER 28]
+Hit far 9   
+normal pnls 
+w/Meteors   
+[END]
+
+[SENTENCE NUMBER 29]
+Blinding atk
+spreads dmg 
+to adj pnls 
+[END]
+
+[SENTENCE NUMBER 30]
+For 3 turns,
+cut 2 rows  
+from field  
+[END]
+
+[SENTENCE NUMBER 31]
+Piercing atk
+can change  
+direc once  
+[END]
+
+[SENTENCE NUMBER 32]
+Piercing atk
+can change  
+direc once  
+[END]
+
+[SENTENCE NUMBER 33]
+Piercing atk
+can change  
+direc once  
+[END]
+
+[SENTENCE NUMBER 34]
+Piercing    
+strght line 
+rush atk    
+[END]
+
+[SENTENCE NUMBER 35]
+Piercing    
+strght line 
+rush atk    
+[END]
+
+[SENTENCE NUMBER 36]
+Piercing    
+strght line 
+rush atk    
+[END]
+
+[SENTENCE NUMBER 37]
+3x3-pnl     
+frontal     
+Hammer atk  
+[END]
+
+[SENTENCE NUMBER 38]
+3x3-pnl     
+frontal     
+Hammer atk  
+[END]
+
+[SENTENCE NUMBER 39]
+3x3-pnl     
+frontal     
+Hammer atk  
+[END]
+
+[SENTENCE NUMBER 40]
+Rain down   
+coins on emy
+fwd 3 rows  
+[END]
+
+[SENTENCE NUMBER 41]
+Rain down   
+coins on emy
+fwd 3 rows  
+[END]
+
+[SENTENCE NUMBER 42]
+Rain down   
+coins on emy
+fwd 3 rows  
+[END]
+
+[SENTENCE NUMBER 43]
+Drop Ku'i on
+field, crack
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 44]
+Drop Ku'i on
+field, crack
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 45]
+Drop Ku'i on
+field, crack
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 46]
+Set bomb 2  
+pnls ahead. 
+3 sec timer 
+[END]
+
+[SENTENCE NUMBER 47]
+Set bomb 2  
+pnls ahead. 
+3 sec timer 
+[END]
+
+[SENTENCE NUMBER 48]
+Set bomb 2  
+pnls ahead. 
+3 sec timer 
+[END]
+
+[SENTENCE NUMBER 49]
+Hit 1 emy   
+with a Flmng
+uppercut    
+[END]
+
+[SENTENCE NUMBER 50]
+Hit 1 emy   
+with a Flmng
+uppercut    
+[END]
+
+[SENTENCE NUMBER 51]
+Hit 1 emy   
+with a Flmng
+uppercut    
+[END]
+
+[SENTENCE NUMBER 52]
+Flamethrowr.
+Missed pnls 
+become holes
+[END]
+
+[SENTENCE NUMBER 53]
+Flamethrowr.
+Missed pnls 
+become holes
+[END]
+
+[SENTENCE NUMBER 54]
+Flamethrowr.
+Missed pnls 
+become holes
+[END]
+
+[SENTENCE NUMBER 55]
+Fireball. If
+after guard,
+3 shots     
+[END]
+
+[SENTENCE NUMBER 56]
+Fireball. If
+after guard,
+3 shots     
+[END]
+
+[SENTENCE NUMBER 57]
+Fireball. If
+after guard,
+3 shots     
+[END]
+
+[SENTENCE NUMBER 58]
+Send out a  
+wave a row  
+wide        
+[END]
+
+[SENTENCE NUMBER 59]
+Send out a  
+wave a row  
+wide        
+[END]
+
+[SENTENCE NUMBER 60]
+Send out a  
+wave a row  
+wide        
+[END]
+
+[SENTENCE NUMBER 61]
+2-pnl bubble
+atk on 3 far
+side pnls   
+[END]
+
+[SENTENCE NUMBER 62]
+2-pnl bubble
+atk on 3 far
+side pnls   
+[END]
+
+[SENTENCE NUMBER 63]
+2-pnl bubble
+atk on 3 far
+side pnls   
+[END]
+
+[SENTENCE NUMBER 64]
+Summons Blue
+Shark Atk on
+col ahead   
+[END]
+
+[SENTENCE NUMBER 65]
+Summons Blue
+Shark Atk on
+col ahead   
+[END]
+
+[SENTENCE NUMBER 66]
+Summons Blue
+Shark Atk on
+col ahead   
+[END]
+
+[SENTENCE NUMBER 67]
+Launches    
+zig-zagging 
+Spinguin    
+[END]
+
+[SENTENCE NUMBER 68]
+Launches    
+zig-zagging 
+Spinguin    
+[END]
+
+[SENTENCE NUMBER 69]
+Launches    
+zig-zagging 
+Spinguin    
+[END]
+
+[SENTENCE NUMBER 70]
+3-shot laser
+atk to enemy
+w/highest HP
+[END]
+
+[SENTENCE NUMBER 71]
+3-shot laser
+atk to enemy
+w/highest HP
+[END]
+
+[SENTENCE NUMBER 72]
+3-shot laser
+atk to enemy
+w/highest HP
+[END]
+
+[SENTENCE NUMBER 73]
+Mummy Hand  
+Parlyzes 3x2
+panels ahead
+[END]
+
+[SENTENCE NUMBER 74]
+Mummy Hand  
+Parlyzes 3x2
+panels ahead
+[END]
+
+[SENTENCE NUMBER 75]
+Mummy Hand  
+Parlyzes 3x2
+panels ahead
+[END]
+
+[SENTENCE NUMBER 76]
+Rdmly rain  
+down thunder
+on 3x3 area 
+[END]
+
+[SENTENCE NUMBER 77]
+Rdmly rain  
+down thunder
+on 3x3 area 
+[END]
+
+[SENTENCE NUMBER 78]
+Rdmly rain  
+down thunder
+on 3x3 area 
+[END]
+
+[SENTENCE NUMBER 79]
+5-shot Flash
+Strike atk  
+2 rows ahead
+[END]
+
+[SENTENCE NUMBER 80]
+5-shot Flash
+Strike atk  
+2 rows ahead
+[END]
+
+[SENTENCE NUMBER 81]
+5-shot Flash
+Strike atk  
+2 rows ahead
+[END]
+
+[SENTENCE NUMBER 82]
+Arachnid atk
+from above, 
+confuses emy
+[END]
+
+[SENTENCE NUMBER 83]
+Arachnid atk
+from above, 
+confuses emy
+[END]
+
+[SENTENCE NUMBER 84]
+Arachnid atk
+from above, 
+confuses emy
+[END]
+
+[SENTENCE NUMBER 85]
+Shuriken    
+whiz around 
+battlefield 
+[END]
+
+[SENTENCE NUMBER 86]
+Shuriken    
+whiz around 
+battlefield 
+[END]
+
+[SENTENCE NUMBER 87]
+Shuriken    
+whiz around 
+battlefield 
+[END]
+
+[SENTENCE NUMBER 88]
+Pollen Shot 
+emies on fwd
+grass pnls  
+[END]
+
+[SENTENCE NUMBER 89]
+Pollen Shot 
+emies on fwd
+grass pnls  
+[END]
+
+[SENTENCE NUMBER 90]
+Pollen Shot 
+emies on fwd
+grass pnls  
+[END]
+
+[SENTENCE NUMBER 91]
++Control Pad
+up & explode
+Acorn Bomb  
+[END]
+
+[SENTENCE NUMBER 92]
++Control Pad
+up & explode
+Acorn Bomb  
+[END]
+
+[SENTENCE NUMBER 93]
++Control Pad
+up & explode
+Acorn Bomb  
+[END]
+
+[SENTENCE NUMBER 94]
+Buzz Saw Atk
+turns once  
+after thrown
+[END]
+
+[SENTENCE NUMBER 95]
+Buzz Saw Atk
+turns once  
+after thrown
+[END]
+
+[SENTENCE NUMBER 96]
+Buzz Saw Atk
+turns once  
+after thrown
+[END]
+
+[SENTENCE NUMBER 97]
+Selct w/same
+card makes  
+swrd strongr
+[END]
+
+[SENTENCE NUMBER 98]
+Selct w/same
+card makes  
+swrd strongr
+[END]
+
+[SENTENCE NUMBER 99]
+Selct w/same
+card makes  
+swrd strongr
+[END]
+
+[SENTENCE NUMBER 100]
+Skull Arrow 
+imoblz emies
+back 3 pnls 
+[END]
+
+[SENTENCE NUMBER 101]
+Skull Arrow 
+imoblz emies
+back 3 pnls 
+[END]
+
+[SENTENCE NUMBER 102]
+Skull Arrow 
+imoblz emies
+back 3 pnls 
+[END]
+
+[SENTENCE NUMBER 103]
+5-shot Vlcn 
+atk also    
+ignites rear
+[END]
+
+[SENTENCE NUMBER 104]
+8-shot Vlcn 
+atk also    
+ignites rear
+[END]
+
+[SENTENCE NUMBER 105]
+12-shot Vlcn
+atk also    
+ignites rear
+[END]
+
+[SENTENCE NUMBER 106]
+3-shot laser
+gets strongr
+w/holey pnls
+[END]
+
+[SENTENCE NUMBER 107]
+3-shot laser
+gets strongr
+w/holey pnls
+[END]
+
+[SENTENCE NUMBER 108]
+3-shot laser
+gets strongr
+w/holey pnls
+[END]
+
+[SENTENCE NUMBER 109]
+Noise Wizard
+atks far row
+from outside
+[END]
+
+[SENTENCE NUMBER 110]
+Noise Wizard
+atks far row
+from outside
+[END]
+
+[SENTENCE NUMBER 111]
+Noise Wizard
+atks far row
+from outside
+[END]
+
+[SENTENCE NUMBER 112]
+Mal Wizard  
+prlyz whip  
+atk 2 pnls  
+[END]
+
+[SENTENCE NUMBER 113]
+Mal Wizard  
+prlyz whip  
+atk 2 pnls  
+[END]
+
+[SENTENCE NUMBER 114]
+Mal Wizard  
+prlyz whip  
+atk 2 pnls  
+[END]
+
+[SENTENCE NUMBER 115]
+Emies w/less
+than 100 HP 
+are deleted 
+[END]
+
+[SENTENCE NUMBER 116]
+Emies w/less
+than 130 HP 
+are deleted 
+[END]
+
+[SENTENCE NUMBER 117]
+Emies w/less
+than 160 HP 
+are deleted 
+[END]
+
+[SENTENCE NUMBER 118]
+Spin twice, 
+hit adj pnls
+with wind   
+[END]
+
+[SENTENCE NUMBER 119]
+Spin 3 times
+hit adj pnls
+with wind   
+[END]
+
+[SENTENCE NUMBER 120]
+Cmd settngs 
+let you put 
+2 stones    
+[END]
+
+[SENTENCE NUMBER 121]
+Blow up all 
+obstcls, dmg
+adj pnls    
+[END]
+
+[SENTENCE NUMBER 122]
+Make row in 
+front of you
+holes 3 trns
+[END]
+
+[SENTENCE NUMBER 123]
+Make all    
+pnls on     
+field normal
+[END]
+
+[SENTENCE NUMBER 124]
+Swing giant 
+fire ax thru
+3x2 sqrs    
+[END]
+
+[SENTENCE NUMBER 125]
+Make opp M  
+cards unus- 
+able VS only
+[END]
+
+[SENTENCE NUMBER 126]
+If previous 
+is atk card,
+add imoblz  
+[END]
+
+[SENTENCE NUMBER 127]
+Recover     
+10 HP       
+            
+[END]
+
+[SENTENCE NUMBER 128]
+Recover     
+30 HP       
+            
+[END]
+
+[SENTENCE NUMBER 129]
+Recover     
+50 HP       
+            
+[END]
+
+[SENTENCE NUMBER 130]
+Recover     
+80 HP       
+            
+[END]
+
+[SENTENCE NUMBER 131]
+Recover     
+120 HP      
+            
+[END]
+
+[SENTENCE NUMBER 132]
+Recover     
+150 HP      
+            
+[END]
+
+[SENTENCE NUMBER 133]
+Recover     
+200 HP      
+            
+[END]
+
+[SENTENCE NUMBER 134]
+Recover     
+300 HP      
+            
+[END]
+
+[SENTENCE NUMBER 135]
+Barrier     
+blocks most 
+atks 1 time 
+[END]
+
+[SENTENCE NUMBER 136]
+Barrier     
+blocks most 
+atks 5 times
+[END]
+
+[SENTENCE NUMBER 137]
+Absorbs all 
+dmg less    
+than 100    
+[END]
+
+[SENTENCE NUMBER 138]
+Temp invis. 
+Most atks   
+ineffective 
+[END]
+
+[SENTENCE NUMBER 139]
+Call all    
+enemies     
+to you      
+[END]
+
+[SENTENCE NUMBER 140]
+VS only. Use
+Elmnt S card
+to unleash  
+[END]
+
+[SENTENCE NUMBER 141]
+VS only.    
+Use swrd crd
+trap sprngs 
+[END]
+
+[SENTENCE NUMBER 142]
+VS only.    
+Use recv crd
+trap sprngs 
+[END]
+
+[SENTENCE NUMBER 143]
+VS only.    
+M Summon crd
+trap sprngs 
+[END]
+
+[SENTENCE NUMBER 144]
+VS only.    
+Use Giga crd
+trap sprngs 
+[END]
+
+[SENTENCE NUMBER 145]
+Farthest 3x3
+pnls change 
+into grass  
+[END]
+
+[SENTENCE NUMBER 146]
+Farthest 3x3
+pnls change 
+into ice    
+[END]
+
+[SENTENCE NUMBER 147]
+Paralyze atk
+on far 3x3  
+panels      
+[END]
+
+[SENTENCE NUMBER 148]
+Current pnl 
+becomes 1/2 
+dmg HolyPnl 
+[END]
+
+[SENTENCE NUMBER 149]
+Use crd when
+on pnl Atk  
+pwr +10     
+[END]
+
+[SENTENCE NUMBER 150]
+If previous 
+is atk card,
+add imoblz  
+[END]
+
+[SENTENCE NUMBER 151]
+If previous 
+is atk card,
++10 to atk  
+[END]
+
+[SENTENCE NUMBER 152]
+SpadeMgnes  
+slices twice
+max 2 hits  
+[END]
+
+[SENTENCE NUMBER 153]
+SpadeMgnes  
+slices twice
+max 2 hits  
+[END]
+
+[SENTENCE NUMBER 154]
+SpadeMgnes  
+slices twice
+max 2 hits  
+[END]
+
+[SENTENCE NUMBER 155]
+Diamond Dust
+diagonal    
+3-hit atk   
+[END]
+
+[SENTENCE NUMBER 156]
+Diamond Dust
+diagonal    
+3-hit atk   
+[END]
+
+[SENTENCE NUMBER 157]
+Diamond Dust
+diagonal    
+3-hit atk   
+[END]
+
+[SENTENCE NUMBER 158]
+SwingStrmAtk
+that pwrs up
+on grass pnl
+[END]
+
+[SENTENCE NUMBER 159]
+SwingStrmAtk
+that pwrs up
+on grass pnl
+[END]
+
+[SENTENCE NUMBER 160]
+SwingStrmAtk
+that pwrs up
+on grass pnl
+[END]
+
+[SENTENCE NUMBER 161]
+HydroDrgnAtk
+hits more w/
+proximity   
+[END]
+
+[SENTENCE NUMBER 162]
+HydroDrgnAtk
+hits more w/
+proximity   
+[END]
+
+[SENTENCE NUMBER 163]
+HydroDrgnAtk
+hits more w/
+proximity   
+[END]
+
+[SENTENCE NUMBER 164]
+2-pnl claw  
+atk on 3 far
+side cols   
+[END]
+
+[SENTENCE NUMBER 165]
+2-pnl claw  
+atk on 3 far
+side cols   
+[END]
+
+[SENTENCE NUMBER 166]
+2-pnl claw  
+atk on 3 far
+side cols   
+[END]
+
+[SENTENCE NUMBER 167]
+Atk w/total 
+of 3 gigaton
+buildings   
+[END]
+
+[SENTENCE NUMBER 168]
+Atk w/total 
+of 3 gigaton
+buildings   
+[END]
+
+[SENTENCE NUMBER 169]
+Atk w/total 
+of 3 gigaton
+buildings   
+[END]
+
+[SENTENCE NUMBER 170]
+Slash 1 emy 
+w/lock-on   
+sword       
+[END]
+
+[SENTENCE NUMBER 171]
+Slash 1 emy 
+w/lock-on   
+sword       
+[END]
+
+[SENTENCE NUMBER 172]
+Slash 1 emy 
+w/lock-on   
+sword       
+[END]
+
+[SENTENCE NUMBER 173]
+TaurusFire  
+covers field
+in flames   
+[END]
+
+[SENTENCE NUMBER 174]
+TaurusFire  
+covers field
+in flames   
+[END]
+
+[SENTENCE NUMBER 175]
+TaurusFire  
+covers field
+in flames   
+[END]
+
+[SENTENCE NUMBER 176]
+CygnusWing  
+dances round
+field edge  
+[END]
+
+[SENTENCE NUMBER 177]
+CygnusWing  
+dances round
+field edge  
+[END]
+
+[SENTENCE NUMBER 178]
+CygnusWing  
+dances round
+field edge  
+[END]
+
+[SENTENCE NUMBER 179]
+Dart to emy,
+slice row,  
+then upper  
+[END]
+
+[SENTENCE NUMBER 180]
+Dart to emy,
+slice row,  
+then upper  
+[END]
+
+[SENTENCE NUMBER 181]
+Dart to emy,
+slice row,  
+then upper  
+[END]
+
+[SENTENCE NUMBER 182]
+Phantom atks
+fwd pnl with
+Phantom Claw
+[END]
+
+[SENTENCE NUMBER 183]
+Phantom atks
+fwd pnl with
+Phantom Claw
+[END]
+
+[SENTENCE NUMBER 184]
+Phantom atks
+fwd pnl with
+Phantom Claw
+[END]
+
+[SENTENCE NUMBER 185]
+4-shot      
+consecutive 
+fwd attack  
+[END]
+
+[SENTENCE NUMBER 186]
+4-shot      
+consecutive 
+fwd attack  
+[END]
+
+[SENTENCE NUMBER 187]
+4-shot      
+consecutive 
+fwd attack  
+[END]
+
+[SENTENCE NUMBER 188]
+Lft 3-col or
+right 1-col 
+cutter atk  
+[END]
+
+[SENTENCE NUMBER 189]
+Lft 3-col or
+right 1-col 
+cutter atk  
+[END]
+
+[SENTENCE NUMBER 190]
+Lft 3-col or
+right 1-col 
+cutter atk  
+[END]
+
+[SENTENCE NUMBER 191]
+Solar Flare 
+atk on fwd  
+3x3 pnls    
+[END]
+
+[SENTENCE NUMBER 192]
+Solar Flare 
+atk on fwd  
+3x3 pnls    
+[END]
+
+[SENTENCE NUMBER 193]
+Solar Flare 
+atk on fwd  
+3x3 pnls    
+[END]
+
+[SENTENCE NUMBER 194]
+Satellite   
+Blazer atk  
+on 3x4 pnls 
+[END]
+
+[SENTENCE NUMBER 195]
+Satellite   
+Blazer atk  
+on 3x4 pnls 
+[END]
+
+[SENTENCE NUMBER 196]
+Satellite   
+Blazer atk  
+on 3x4 pnls 
+[END]
+
+[SENTENCE NUMBER 197]
+3-pnl wide
+fwd center  
+break attack
+[END]
+
+[SENTENCE NUMBER 198]
+Del if below
+250HP:virus,
+500HP:boss  
+[END]
+
+[SENTENCE NUMBER 199]
+Mad 24-shot 
+MilliKick   
+attack      
+[END]
+
+[SENTENCE NUMBER 200]
+Set unblock-
+able bmb atk
+2 pnls ahd  
+[END]
+
+[SENTENCE NUMBER 201]
+Regenerate  
+wall of Mu  
+w/each move 
+[END]
+
+[SENTENCE NUMBER 202]
+Crack 3 fwd 
+pnls w/Dread
+MeteorLazer 
+[END]
+
+[SENTENCE NUMBER 203]
+Hit all     
+enemies on  
+normal pnls 
+[END]
+
+[SENTENCE NUMBER 204]
+Rapd & Chrg:
+max pwr.    
+Atk: max+   
+[END]
+
+[SENTENCE NUMBER 205]
+OxTackle    
+all enemies 
+in 1 column 
+[END]
+
+[SENTENCE NUMBER 206]
+Mirror sucks
+HP of emies 
+on same col 
+[END]
+
+[SENTENCE NUMBER 207]
+????????????
+????????????
+????????????
+[END]
+
+[SENTENCE NUMBER 208]
+????????????
+????????????
+????????????
+[END]
+
+[SENTENCE NUMBER 209]
+2nd fwd pnl 
+Scythe atk. 
+Max 3 hits  
+[END]
+
+[SENTENCE NUMBER 210]
+2nd fwd pnl 
+Scythe atk. 
+Max 3 hits  
+[END]
+
+[SENTENCE NUMBER 211]
+2nd fwd pnl 
+Scythe atk. 
+Max 3 hits  
+[END]
+
+[SENTENCE NUMBER 212]
+Atk 3 sqrs  
+ahead with  
+flamethrowr 
+[END]
+
+[SENTENCE NUMBER 213]
+Flamethrowr 
+atk in a    
+T shape     
+[END]
+
+[SENTENCE NUMBER 214]
+Flamethrowr 
+radiating 3 
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 215]
+Lobs bomb at
+emy if fire 
+attack hits 
+[END]
+
+[SENTENCE NUMBER 216]
+Lobs bomb at
+emy if fire 
+attack hits 
+[END]
+
+[SENTENCE NUMBER 217]
+Lobs bomb at
+emy if fire 
+attack hits 
+[END]
+
+[SENTENCE NUMBER 218]
+Roll snoball
+that grows  
+w/each hit  
+[END]
+
+[SENTENCE NUMBER 219]
+Roll snoball
+that grows  
+w/each hit  
+[END]
+
+[SENTENCE NUMBER 220]
+Roll snoball
+that grows  
+w/each hit  
+[END]
+
+[SENTENCE NUMBER 221]
+Piranha atk 
+enemies from
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 222]
+Piranha atk 
+enemies from
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 223]
+Piranha atk 
+enemies from
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 224]
+Max 6-hit   
+wind atk 2  
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 225]
+Max 6-hit   
+wind atk 2  
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 226]
+Max 6-hit   
+wind atk 2  
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 227]
+PuffBlast   
+hits 2nd    
+row ahead   
+[END]
+
+[SENTENCE NUMBER 228]
+PuffBlast   
+hits 2nd    
+row ahead   
+[END]
+
+[SENTENCE NUMBER 229]
+PuffBlast   
+hits 2nd    
+row ahead   
+[END]
+
+[SENTENCE NUMBER 230]
+Atk using   
+grass pnls  
+on field    
+[END]
+
+[SENTENCE NUMBER 231]
+Atk using   
+ice pnls  
+on field    
+[END]
+
+[SENTENCE NUMBER 232]
+Atk using   
+poisn pnls  
+on field    
+[END]
+
+[SENTENCE NUMBER 233]
+Lob a 9-pnl 
+fire grenade
+at enemy    
+[END]
+
+[SENTENCE NUMBER 234]
+Grenade that
+turns 9 pnls
+into grass  
+[END]
+
+[SENTENCE NUMBER 235]
+Grenade that
+turns 9 pnls
+into ice    
+[END]
+
+[SENTENCE NUMBER 236]
+Missile atk.
+Targts Non- 
+elm enemies 
+[END]
+
+[SENTENCE NUMBER 237]
+Punch and   
+paralyze emy
+in front    
+[END]
+
+[SENTENCE NUMBER 238]
+Punch and HP
+bug emy in  
+frnt of you 
+[END]
+
+[SENTENCE NUMBER 239]
+Punch and   
+freez emy in
+frnt of you 
+[END]
+
+[SENTENCE NUMBER 240]
+Elec swrd   
+cut 'n prlyz
+emy in row  
+[END]
+
+[SENTENCE NUMBER 241]
+Wood swrd   
+cuts emy in 
+row in frnt 
+[END]
+
+[SENTENCE NUMBER 242]
+Fire swrd   
+cuts emy in 
+row in frnt 
+[END]
+
+[SENTENCE NUMBER 243]
+Diag saber  
+atk. Cuts   
+thru shield 
+[END]
+
+[SENTENCE NUMBER 244]
+If hit emy, 
+adj pnls trn
+into grass  
+[END]
+
+[SENTENCE NUMBER 245]
+If hit emy, 
+adj pnls trn
+into ice    
+[END]
+
+[SENTENCE NUMBER 246]
+If hit emy, 
+adj pnls trn
+into poison 
+[END]
+
+[SENTENCE NUMBER 247]
+9-shot atk  
+across 3    
+columns     
+[END]
+
+[SENTENCE NUMBER 248]
+9-shot atk  
+across 3    
+columns     
+[END]
+
+[SENTENCE NUMBER 249]
+9-shot atk  
+across 3    
+columns     
+[END]
+
+[SENTENCE NUMBER 250]
+In match,   
+uprcut nulls
+5 body abils
+[END]
+
+[SENTENCE NUMBER 251]
+MaxBstr &   
+SprArmr. But
+also, HP Bug
+[END]
+
+[SENTENCE NUMBER 252]
+Sword Atk is
+as strong as
+you are weak
+[END]
+
+[SENTENCE NUMBER 253]
+Rain Meteors
+down on far 
+9 panls     
+[END]
+
+[SENTENCE NUMBER 254]
+Turn entire 
+field into  
+poisn panels
+[END]
+
+[SENTENCE NUMBER 255]
++30 atk pwr 
+to Fire elm 
+cards       
+[END]
+
+[SENTENCE NUMBER 256]
++30 atk pwr 
+to Aqua elm 
+cards       
+[END]
+
+[SENTENCE NUMBER 257]
++30 atk pwr 
+to Elec elm 
+cards       
+[END]
+
+[SENTENCE NUMBER 258]
++30 atk pwr 
+to Wood elm 
+cards       
+[END]
+
+[SENTENCE NUMBER 259]
+ThndrBalls 
+come up from
+holes. 9 max
+[END]
+
+[SENTENCE NUMBER 260]
+ThndrBalls 
+come up from
+holes. 9 max
+[END]
+
+[SENTENCE NUMBER 261]
+ThndrBalls 
+come up from
+holes. 9 max
+[END]
+
+[SENTENCE NUMBER 262]
+Mad 3-slash 
+sword       
+attack      
+[END]
+
+[SENTENCE NUMBER 263]
+Mad 4-slash 
+sword       
+attack      
+[END]
+
+[SENTENCE NUMBER 264]
+Mad 5-slash 
+sword       
+attack      
+[END]
+
+[SENTENCE NUMBER 265]
+SpinBlade   
+cuts diag   
+across field
+[END]
+
+[SENTENCE NUMBER 266]
+SpinBlade   
+cuts diag   
+across field
+[END]
+
+[SENTENCE NUMBER 267]
+SpinBlade   
+cuts diag   
+across field
+[END]
+
+[SENTENCE NUMBER 268]
+Speeds up   
+Custom Gauge
+            
+[END]
+
+[SENTENCE NUMBER 269]
+Restore     
+norml Custom
+Gauge speed 
+[END]
+
+[SENTENCE NUMBER 270]
+Slows down  
+Custom Gauge
+            
+[END]
+
+[SENTENCE NUMBER 271]
+w/holey pnl 
+copy last   
+summon atk  
+[END]
+
+[SENTENCE NUMBER 272]
+Take no     
+dmg during  
+a Mega atk  
+[END]
+
+[SENTENCE NUMBER 273]
+Cannon atk  
+spreads dmg 
+to adj pnls 
+[END]
+
+[SENTENCE NUMBER 274]
+Atk & prlyz 
+1 enemy for 
+a long time 
+[END]
+
+[SENTENCE NUMBER 275]
+3-shot atk. 
+Spreads dmg 
+to adj pnls 
+[END]
+
+[SENTENCE NUMBER 276]
+3-hit atk   
+dmgs all adj
+pnls if hits
+[END]
+
+[SENTENCE NUMBER 277]
+Atk 2 fwd   
+pnls & knock
+emies bck 1 
+[END]
+
+[SENTENCE NUMBER 278]
+Mega slashes
+fwd 3x2 pnls
+            
+[END]
+
+[SENTENCE NUMBER 279]
+Knock emy in
+frnt all the
+way back    
+[END]
+
+[SENTENCE NUMBER 280]
+Swing Guard-
+busting ax  
+thru 3x2 pnl
+[END]
+
+[SENTENCE NUMBER 281]
+Lft hook all
+of the same 
+type of emy 
+[END]
+
+[SENTENCE NUMBER 282]
+Hit far 9   
+normal pnls 
+w/Meteors   
+[END]
+
+[SENTENCE NUMBER 283]
+Piercing atk
+can change  
+direc once  
+[END]
+
+[SENTENCE NUMBER 284]
+Piercing    
+strght line 
+rush atk    
+[END]
+
+[SENTENCE NUMBER 285]
+3x3-pnl     
+frontal     
+Hammer atk  
+[END]
+
+[SENTENCE NUMBER 286]
+Rain down   
+coins on emy
+fwd 3 rows  
+[END]
+
+[SENTENCE NUMBER 287]
+Drop Ku'i on
+field, crack
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 288]
+Set bomb 2  
+pnls ahead  
+3 sec timer 
+[END]
+
+[SENTENCE NUMBER 289]
+Hit 1 emy   
+with a Flmng
+uppercut    
+[END]
+
+[SENTENCE NUMBER 290]
+Flamethrowr.
+Missed pnls 
+become holes
+[END]
+
+[SENTENCE NUMBER 291]
+Fireball. If
+after guard,
+3 shots     
+[END]
+
+[SENTENCE NUMBER 292]
+Send out a  
+wave a row  
+wide        
+[END]
+
+[SENTENCE NUMBER 293]
+2-pnl bubble
+atk on 3 far
+side pnls   
+[END]
+
+[SENTENCE NUMBER 294]
+Summons Blue
+Shark Atk on
+col ahead   
+[END]
+
+[SENTENCE NUMBER 295]
+Launches    
+zig-zagging 
+Spinguin    
+[END]
+
+[SENTENCE NUMBER 296]
+3-shot laser
+atk to enemy
+w/highest HP
+[END]
+
+[SENTENCE NUMBER 297]
+Mummy Hand  
+Parlyzes 3x2
+panels ahead
+[END]
+
+[SENTENCE NUMBER 298]
+Rdmly rain  
+down thunder
+on 3x3 area 
+[END]
+
+[SENTENCE NUMBER 299]
+5-shot Flash
+Strike atk  
+2 rows ahead
+[END]
+
+[SENTENCE NUMBER 300]
+Arachnid atk
+from above  
+confuses emy
+[END]
+
+[SENTENCE NUMBER 301]
+Shuriken    
+whiz around 
+battlefield 
+[END]
+
+[SENTENCE NUMBER 302]
+Pollen Shot 
+emies on fwd
+grass pnls  
+[END]
+
+[SENTENCE NUMBER 303]
++Control Pad
+up & explode
+Acorn Bomb  
+[END]
+
+[SENTENCE NUMBER 304]
+Buzz Saw Atk
+turns once  
+after thrown
+[END]
+
+[SENTENCE NUMBER 305]
+Selct w/same
+card makes  
+swrd strongr
+[END]
+
+[SENTENCE NUMBER 306]
+Skull Arrow 
+imoblz emies
+back 3 pnls 
+[END]
+
+[SENTENCE NUMBER 307]
+15-shot Vlcn
+atk also    
+ignites rear
+[END]
+
+[SENTENCE NUMBER 308]
+3-shot laser
+gets strongr
+w/holey pnls
+[END]
+
+[SENTENCE NUMBER 309]
+Noise Wizard
+atks far row
+from outside
+[END]
+
+[SENTENCE NUMBER 310]
+Mal Wizard  
+prlyz whip  
+atk 2 pnls  
+[END]
+
+[SENTENCE NUMBER 311]
+Emies w/less
+than 190 HP 
+are deleted 
+[END]
+
+[SENTENCE NUMBER 312]
+Spin 4 times
+hit adj pnls
+with wind   
+[END]
+
+[SENTENCE NUMBER 313]
+2nd fwd pnl 
+Scythe atk. 
+Max 3 hits  
+[END]
+
+[SENTENCE NUMBER 314]
+Flamethrowr 
+radiating 3 
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 315]
+Lobs bomb at
+emy if fire 
+attack hits 
+[END]
+
+[SENTENCE NUMBER 316]
+Roll snoball
+that grows  
+w/each hit  
+[END]
+
+[SENTENCE NUMBER 317]
+Piranha atk 
+enemies from
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 318]
+Max 6-hit   
+wind atk 2  
+pnls ahead  
+[END]
+
+[SENTENCE NUMBER 319]
+PuffBlast   
+hits 2nd    
+row ahead   
+[END]
+
+[SENTENCE NUMBER 320]
+9-shot atk  
+across 3    
+columns     
+[END]
+
+[SENTENCE NUMBER 321]
+ThndrBalls 
+come up from
+holes. 9 max
+[END]
+
+[SENTENCE NUMBER 322]
+Mad 5-slash 
+sword       
+attack      
+[END]
+
+[SENTENCE NUMBER 323]
+SpinBlade   
+cuts diag   
+across field
+[END]
+
+[SENTENCE NUMBER 324]
+Diag saber  
+atk. Cuts   
+thru shield 
+[END]
+
+[SENTENCE NUMBER 325]
+Atk 3x3 pnls
+w/6 snoball 
+rounds      
+[END]
+
+[SENTENCE NUMBER 326]
+Atk 3x3 pnls
+w/6 snoball 
+rounds      
+[END]
+
+[SENTENCE NUMBER 327]
+Atk 3x3 pnls
+w/6 snoball 
+rounds      
+[END]
+
+[SENTENCE NUMBER 328]
+Hit nearest 
+emy's row w/
+Aqua Fang   
+[END]
+
+[SENTENCE NUMBER 329]
+Hit nearest 
+emy's row w/
+Aqua Fang   
+[END]
+
+[SENTENCE NUMBER 330]
+Hit nearest 
+emy's row w/
+Aqua Fang   
+[END]
+
+[SENTENCE NUMBER 331]
+3-shot misle
+atk straight
+down 3 rows 
+[END]
+
+[SENTENCE NUMBER 332]
+3-shot misle
+atk straight
+down 3 rows 
+[END]
+
+[SENTENCE NUMBER 333]
+3-shot misle
+atk straight
+down 3 rows 
+[END]
+
+[SENTENCE NUMBER 334]
+2 columns   
+atk. Left 2 
+if frm cntr.
+[END]
+
+[SENTENCE NUMBER 335]
+2 columns   
+atk. Left 2 
+if frm cntr 
+[END]
+
+[SENTENCE NUMBER 336]
+2 columns   
+atk. Left 2 
+if frm cntr.
+[END]
+
+[SENTENCE NUMBER 337]
+GeminiSpark 
+tagteam pnch
+and slice   
+[END]
+
+[SENTENCE NUMBER 338]
+GeminiSpark 
+tagteam pnch
+and slice   
+[END]
+
+[SENTENCE NUMBER 339]
+GeminiSpark 
+tagteam pnch
+and slice   
+[END]
+
+[SENTENCE NUMBER 340]
+From nearest
+enemy, 3x2  
+tidal wave  
+[END]
+
+[SENTENCE NUMBER 341]
+From nearest
+enemy, 3x2  
+tidal wave  
+[END]
+
+[SENTENCE NUMBER 342]
+From nearest
+enemy, 3x2  
+tidal wave  
+[END]
+
+[SENTENCE NUMBER 343]
+Unblockable 
+3-column    
+rush attack 
+[END]
+
+[SENTENCE NUMBER 344]
+Unblockable 
+3-column    
+rush attack 
+[END]
+
+[SENTENCE NUMBER 345]
+Unblockable 
+3-column    
+rush attack 
+[END]
+
+[SENTENCE NUMBER 346]
+2-hit Fire, 
+Aqua on last
+and 1st row 
+[END]
+
+[SENTENCE NUMBER 347]
+2-hit Fire, 
+Aqua on last
+and 1st row 
+[END]
+
+[SENTENCE NUMBER 348]
+2-hit Fire, 
+Aqua on last
+and 1st row 
+[END]
+
+[SENTENCE NUMBER 349]
+2nd to last 
+row centr, X
+lightng atk 
+[END]
+
+[SENTENCE NUMBER 350]
+2nd to last 
+row centr, X
+lightng atk 
+[END]
+
+[SENTENCE NUMBER 351]
+2nd to last 
+row centr, X
+lightng atk 
+[END]
+
+[SENTENCE NUMBER 352]
+Rush atk    
+w/RocktLnch 
+& GravRockt 
+[END]
+
+[SENTENCE NUMBER 353]
+Rush atk    
+w/RocktLnch 
+& GravRockt 
+[END]
+
+[SENTENCE NUMBER 354]
+Rush atk    
+w/RocktLnch 
+& GravRockt 
+[END]
+
+[SENTENCE NUMBER 355]
+Heavily Dmg 
+1 emy w/    
+DiamndIceHmr
+[END]
+
+[SENTENCE NUMBER 356]
+Heavily Dmg 
+1 emy w/    
+DiamndIceHmr
+[END]
+
+[SENTENCE NUMBER 357]
+Heavily Dmg 
+1 emy w/    
+DiamndIceHmr
+[END]
+
+[SENTENCE NUMBER 358]
+Smack fwd 3 
+rows a total
+of 10 times 
+[END]
+
+[SENTENCE NUMBER 359]
+Smack fwd 3 
+rows a total
+of 10 times 
+[END]
+
+[SENTENCE NUMBER 360]
+Smack fwd 3 
+rows a total
+of 10 times 
+[END]
+
+[SENTENCE NUMBER 361]
+SpadeMgnes  
+slices twice
+max 2 hits  
+[END]
+
+[SENTENCE NUMBER 362]
+Diamond Dust
+diagonal    
+3-hit atk   
+[END]
+
+[SENTENCE NUMBER 363]
+SwingStrmAtk
+that pwrs up
+on grass pnl
+[END]
+
+[SENTENCE NUMBER 364]
+HydroDrgnAtk
+hits more w/
+proximity   
+[END]
+
+[SENTENCE NUMBER 365]
+2-pnl claw  
+atk on 3 far
+side cols   
+[END]
+
+[SENTENCE NUMBER 366]
+Atk w/total 
+of 3 gigaton
+buildings   
+[END]
+
+[SENTENCE NUMBER 367]
+Slash 1 emy 
+w/lock-on   
+sword       
+[END]
+
+[SENTENCE NUMBER 368]
+TaurusFire  
+covers field
+in flames   
+[END]
+
+[SENTENCE NUMBER 369]
+CygnusWing  
+dances round
+field edge  
+[END]
+
+[SENTENCE NUMBER 370]
+Dart to emy,
+slice row,  
+then upper  
+[END]
+
+[SENTENCE NUMBER 371]
+Phantom atks
+fwd pnl with
+Phantom Claw
+[END]
+
+[SENTENCE NUMBER 372]
+4-shot      
+consecutive 
+fwd attack  
+[END]
+
+[SENTENCE NUMBER 373]
+Lft 3-col or
+right 1-col 
+cutter atk  
+[END]
+
+[SENTENCE NUMBER 374]
+Fwd 3x3     
+Solar Flare 
+attack      
+[END]
+
+[SENTENCE NUMBER 375]
+Satellite   
+Blazer atk  
+on 3x4 pnls 
+[END]
+
+[SENTENCE NUMBER 376]
+Atk 3x3 pnls
+w/6 snoball 
+rounds      
+[END]
+
+[SENTENCE NUMBER 377]
+Hit nearest 
+emy's row w/
+Aqua Fang   
+[END]
+
+[SENTENCE NUMBER 378]
+3-shot misle
+atk straight
+down 3 rows 
+[END]
+
+[SENTENCE NUMBER 379]
+2 columns   
+atk. Left 2 
+if frm cntr 
+[END]
+
+[SENTENCE NUMBER 380]
+GeminiSpark 
+tagteam pnch
+and slice   
+[END]
+
+[SENTENCE NUMBER 381]
+From nearest
+enemy, 3x2  
+tidal wave  
+[END]
+
+[SENTENCE NUMBER 382]
+Unblockable 
+3-column    
+rush attack 
+[END]
+
+[SENTENCE NUMBER 383]
+2-hit Fire, 
+Aqua on last
+and 1st row 
+[END]
+
+[SENTENCE NUMBER 384]
+2nd to last 
+row centr, X
+lightng atk 
+[END]
+
+[SENTENCE NUMBER 385]
+Rush atk    
+w/RocktLnch 
+& GravRockt 
+[END]
+
+[SENTENCE NUMBER 386]
+Heavily Dmg 
+1 emy w/    
+DiamndIceHmr
+[END]
+
+[SENTENCE NUMBER 387]
+Smack fwd 3 
+rows a total
+of 10 times 
+[END]
+
+[SENTENCE NUMBER 388]
+Pegasus     
+Freeze far  
+3x3 panels  
+[END]
+
+[SENTENCE NUMBER 389]
+Leo Blazer  
+far 3x3     
+panels      
+[END]
+
+[SENTENCE NUMBER 390]
+Dragon      
+Cyclone far 
+3x3 panels  
+[END]
+
+[SENTENCE NUMBER 391]
+Shoot a     
+laser beam  
+dwn a column
+[END]
+
+[SENTENCE NUMBER 392]
+Gemini      
+Thunder     
+centr column
+[END]
+
+[SENTENCE NUMBER 393]
+Far 3x3 pnl 
+sword attack
+RogueBreak  
+[END]
+
+[SENTENCE NUMBER 394]
+Wipe out    
+entire field
+w/Avalanche 
+[END]
+
+[SENTENCE NUMBER 395]
+2-column    
+high-speed  
+ram attack  
+[END]
+
+[SENTENCE NUMBER 396]
+Tidal wave  
+wash all obj
+from field  
+[END]
+
+[SENTENCE NUMBER 397]
+Emerge 3 pnl
+ahead & atk 
+adjacnt pnls
+[END]
+
+[SENTENCE NUMBER 398]
+Unleash 12  
+WickdFlam on
+far 3 rows  
+[END]
+
+[SENTENCE NUMBER 399]
+
+[END]
+
+[SENTENCE NUMBER 400]
+
+[END]
+
+[SENTENCE NUMBER 401]
+
+[END]
+
+[SENTENCE NUMBER 402]
+
+[END]
+
+[SENTENCE NUMBER 403]
+
+[END]
+
+[SENTENCE NUMBER 404]
+
+[END]
+
+[SENTENCE NUMBER 405]
+
+[END]
+
+[SENTENCE NUMBER 406]
+
+[END]
+
+[SENTENCE NUMBER 407]
+
+[END]
+
+[SENTENCE NUMBER 408]
+
+[END]
+
+[SENTENCE NUMBER 409]
+
+[END]
+

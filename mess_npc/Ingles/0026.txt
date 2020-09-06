@@ -1,0 +1,1910 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}A{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Welcome to the National
+WAZA Headquarters!
+<PUSH>
+Up the stairs and to the
+left is the Satella Police
+headquarters.
+<PUSH>
+The elevator on the
+right will take you to
+WAZA's <Centro.Comando>.
+<PUSH>
+Dr. Goodall might be a
+while, so why don't you go
+<PUSH>
+talk to some of the people
+on the force?
+<PUSH>
+I think some of them
+might have even known
+your father.
+<PUSH>
+Oh, and please don't
+go into the Satella
+Police headquarters
+<PUSH>
+until they've finished
+their preparations.
+<PUSH>
+You should get a
+pop-up when they're
+ready for you.
+<PUSH>
+I guess that'll be all.
+<PUSH>
+{0A}{E1}A
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I bet you're getting a
+little bored waiting for
+Dr. Goodall.
+<PUSH>
+Could I ask you to
+give me a hand with
+something?
+<PUSH>
+They seem to be having
+a slight problem in the
+WAZA <Centro.Comando>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Please wait just a little
+longer, Geo... I'll be
+there shortly.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+So this is the Satella
+Police headquarters...
+It's really big.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+So where do we go to get
+help for Luna!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+If there's anybody who
+can do something for her,
+it's these guys.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I hope they find a
+clue to help bring her
+back.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Dangit, Dr. Goodall is
+taking forever!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Even though this is my
+first time to come to
+<PUSH>
+WAZA, a place that few
+people get to see,
+<PUSH>
+it's hard for me to get
+excited. I wish they'd
+hurry up and finish.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{08}{E1}{00}{00}2<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Hey, I've heard all about
+you from Ace.
+I understand how you
+<PUSH>
+feel, but it's better to
+take it easy and not get
+all antsy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{08}{E1}{00}{00}2<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0You can take this
+elevator to get to the
+<Centro.Comando>.
+<PUSH>
+You all have been granted
+special permission,
+<PUSH>
+so you can come and
+go as you please.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{08}{E1}{00}{00}2<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Noise response
+negative... What about
+the East area?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{08}{E1}{00}{00}2<Mr.King-2>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1There is nothing out of
+the ordinary at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Why don't you go to the
+<Centro.Comando> and talk to
+the guys on the force?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+With Acid around
+everything will be fine.
+<PUSH>
+Just sit back, relax, and
+leave everything to him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Be careful! Acid, you
+know what to do.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Geo, I'm counting on you!
+Good luck!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo, Acid, oh, and I can't
+forget Mega... Bring Prez
+back in one piece!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How could you almost
+forget me!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+I've never been so ashamed
+of my own powerlessness
+as I am now...
+<PUSH>
+Geo, we're all counting
+on you now!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0It looks like we found a
+clue that may help your
+friend.
+<PUSH>
+No matter what it takes, no
+matter how long it takes,
+we'll find your friend!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Oh I almost forgot...
+I have to finish
+yesterday's report.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1<Alohaha>... I'm not
+picking up any suspicious
+Noise readings.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Dr. Goodall is a world-
+renowned scientist. I'm
+sure she can do something.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0The system just went
+down! This one might be
+offline as well!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Dang, we need to get
+the system back up
+and running ASAP!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1We've lost a lot of
+classified data...
+<PUSH>
+Who would've thought that
+this could actually happen
+in the real world?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Attempting data backup...
+Checking damaged areas...
+Th-The damage is too great.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{0C}{E1}{01}{00}ú4{0C}{E1}{01}{00}Ì3
+<START-DIALOG>
+
+<NEW-DIALOG>
+3{13}{EC}{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}!{15}{E1}
+<PUSH>
+Oh, you...
+<PUSH>
+*giggle*
+You're funny...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+???
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3{13}{EC}{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}!{15}{E1}
+<PUSH>
+Oh, you...
+You can access the
+"Satellite Server"!
+<PUSH>
+I'm impressed!
+<PUSH>
+I knew that it existed,
+but I couldn't manage to
+access it...
+<PUSH>
+*giggle*
+You must be someone
+special.
+<PUSH>
+Very well...
+Go ahead and give it
+a try.
+<PUSH>
+...Here, hold out your
+Hunter-VG and try not
+to move.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}*beep, beep*{16}{E1}
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+One Access Port has
+been added!
+<PUSH>
+
+<NEW-DIALOG>
+3OK, all done.
+<PUSH>
+I've hacked into the
+Satellite Server and added
+a new Access Port for you...
+<PUSH>
+What? Is that legal?
+<PUSH>
+{13}{EC}...
+*giggle* Of course not...
+<PUSH>
+So be sure to keep this
+a secret just between
+{16}{E1}me {16}{E1}and {16}{E1}you{16}{E1}.
+<PUSH>
+*giggle*
+See you later!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}ú
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3{13}{EC}...
+<PUSH>
+I hope that we can
+meet again sometime.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+OK, this is the Commandos'
+first assignment. Geo, Sonia,
+Bud, we're counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Thank you all for your
+hard work. Go home and
+get some rest.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh hello, Geo.
+Come on in.
+<PUSH>
+How is Luna doing?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes! She's perfectly
+fine now!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Is that so? I'm glad
+to hear it. Very glad to
+hear it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Viruses in the real
+world? ...What could this
+mean?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+{0D}{E1}{00}{00}AAA{0D}{E1}{00}{00}BDB
+<START-DIALOG>
+
+<NEW-DIALOG>
+0WAZA and the Satella Police
+seem to have recovered
+somewhat!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+{0C}{E1}{01}{00}{D1}{07}C
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Due to the incident,
+Wave Liner service has
+been temporarily suspended.
+<PUSH>
+To get to <Echo.Ridge>, use
+the Astro Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+{09}{E1}{00}{00}{D5}{07}{D7}{07}C
+<START-DIALOG>
+
+<NEW-DIALOG>
+0I can't believe Solo showed
+up...
+<PUSH>
+If he'd only join forces with
+us, I think we would make
+a good team.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Good work!
+All of you! Please keep
+it up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+{0D}{E1}{00}{00}AAE{0D}{E1}{00}{00}BDF
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Thanks to your efforts, we
+were able to escape
+disaster...
+<PUSH>
+But I fear that the worst
+has yet to come.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+{0C}{E1}{01}{00}{D1}{07}G
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Viruses have been sighted
+in <Echo.Ridge>!
+All Commandos, respond!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{09}{E1}{00}{00}{D5}{07}{D7}{07}G
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Solo...
+<PUSH>
+Won't you join forces
+with us?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Great work! This is
+a magnificent team
+Ace has put together!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Oh, Geo, you're here.
+<PUSH>
+Let's head on over to
+the Command Center.
+<PUSH>
+The Chief is expecting
+you.
+<PUSH>
+{0A}{E1}W
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+{0C}{E1}{01}{00}{0B}{08}f
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh, good morning, Geo!
+...But shouldn't you be
+in school?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo, Mega, I want you two
+to take care of <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You did a good job today.
+Geo, you should go home
+and get some rest!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+{0C}{E1}{01}{00}{21}{08}i
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Go to the scene of the
+incident where the Wizards
+went out of control.
+<PUSH>
+There may be a clue that
+could lead us to Dealer!
+Thank you in advance, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+So, you found Dealer's
+hideout, did you?
+...Finally.
+<PUSH>
+It's time for a showdown
+with Dealer! Geo, Mega, we
+can't afford to lose!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0We're a little down, but
+nowhere near out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0That was a stellar
+performance, Mega Man!
+<PUSH>
+I'm so glad we can be
+friends!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0We would love to be
+fighting right along side
+you and Ace,
+<PUSH>
+but our job is here
+relaying information.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Geo, SP Commandos,
+we're counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Nice work, Geo Stelar!
+<PUSH>
+I'm the one who contacted
+you!
+<PUSH>
+Important members of WAZA
+will be gathering in the
+<PUSH>
+WAZA Command Center for
+an important meeting.
+<PUSH>
+I'd like you to attend that
+meeting.
+<PUSH>
+Go with Ace to the
+Command Center.
+<PUSH>
+That'll be all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1The situation is bleak...
+But we have to keep
+fighting!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1We've managed to get
+most Wizards back under
+control.
+<PUSH>
+But we still can't let
+our guard down.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1King...
+We'll get you, it's just
+a matter of time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1You and Ace are the only
+hope we have left!
+...Godspeed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Good work.
+Go home and
+get some rest.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+{0D}{E1}{00}{00}io{B4}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Working in <Castello.Alohaha>
+was fine, but I think I like
+working here the best...
+<PUSH>
+Oops, I can't lose focus!
+Work, work, work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+{0D}{E1}{00}{00}io{B5}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+1We'll mourn for Ace when
+all of this is over. We don't
+have time to cry now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0The fate of the Earth
+is in your hands!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1You are our final
+hope... I believe in you,
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+

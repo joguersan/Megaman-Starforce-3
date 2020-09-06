@@ -1,0 +1,141 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Contraseña correcta.
+Acceso concedido.
+<PUSH>
+¡Bienvenido a las
+oficinas de WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ha funcionado!
+Qué fácil.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí que habéis tardado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Bienvenidos a las
+oficinas de WAZA
+en Electopía!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Ace!
+<PUSH>
+Esto{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Gracias por
+ofrecerte a ayudarnos...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No me des las gracias, Geo.
+Quiero ayudaros.
+<PUSH>
+¡Venga, entrad!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Sí?
+<PUSH>
+Ah...
+<PUSH>
+Uff, por qué poco.
+Casi se me olvida...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+A ver...
+<PUSH>
+Escuchadme bien.
+<PUSH>
+Estra puerta tiene un
+sistema de de huellas
+dactilares.
+<PUSH>
+Nuestra prioridad es la seguridad,
+así que me gustaría que
+registrarais vuestras huellas.
+<PUSH>
+Una vez registrados, vuestras
+huellas confirmarán vuestra
+identidad en las instalaciones.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Hu-{15}{E1}Huellas dactilares?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿C-{15}{E1}Confirmar?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿S-{15}{E1}Seguridad?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ya entraré luego en detalles.
+Ahora acercaos al dispositivo,
+por favor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

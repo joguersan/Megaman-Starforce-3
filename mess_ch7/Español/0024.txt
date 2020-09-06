@@ -1,0 +1,16 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Algo no va bien...
+<PUSH>
+¡¡Pero vamos a abrirnos
+paso a tiro limpio!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

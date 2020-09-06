@@ -1,0 +1,43 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Cisne
+<PUSH>
+Equipa ZapAire, ZapFlot
+<PUSH>
+Cartas no elem.:
+ataque +10
+<PUSH>
+Cartas Viento no aten.:
+ataque +30
+<PUSH>
+Ataque cargado:
+"Volcán emplumado",
+incendia paneles
+<PUSH>
+traseros.
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Cisne
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C5}{10}
+[END]
+

@@ -1,0 +1,1312 @@
+[SENTENCE NUMBER 1]
+Resonancia
+[END]
+
+[SENTENCE NUMBER 2]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Parece que funciona.
+<PUSH>
+La función principal de
+mi <AcePrgm> es la
+Resonancia... Cuando el
+<PUSH>
+<AcePrgm> detecta
+grandes concentraciones
+de Ruido, se instala y
+<PUSH>
+resuena con el Ruido,
+invocando más Ruido
+desde un servidor
+<PUSH>
+en el espacio. De este
+modo, el Ruido ya no
+<PUSH>
+dañará a Mega Man, sino
+que le hace más fuerte
+cuanta más cantidad
+<PUSH>
+absorba. Este poder
+entraña sus riesgos,
+y me disculpo por ello.
+<PUSH>
+Pero, Geo, creo que
+tú podrás mantener
+<PUSH>
+el Ruido bajo control.
+<PUSH>
+Ahora te explicaré
+cómo funciona la
+Resonancia.
+<PUSH>
+Este sistema no hace efecto
+hasta que el nivel de
+<PUSH>
+Ruido sea mayor al 50%.
+<PUSH>
+Con menos de un 50%,
+tu color se mantiene azul,
+<PUSH>
+y no podrás usar ciertas
+cartas de ataque, mejoras
+y habilidades.
+<PUSH>
+Esa es tu Forma Ruido.
+<PUSH>
+Pero cuando el Ruido
+supera el 50%, mejorará
+notablemente tu
+<PUSH>
+rendimiento en combate.
+Conseguirás un color
+extra y ataques cargados,
+<PUSH>
+contraataques, NFBs (Noise
+Force Big Bang), etc. will
+<PUSH>
+Si quieres luchar sin
+estas características,
+<PUSH>
+solo tienes que quitarte
+el <AcePrgm> de tus
+habilidades.
+<PUSH>
+¿Tenía que decirte
+algo más?
+<PUSH>
+Ah, sí...
+Es cierto que cuanto
+<PUSH>
+mayor sea el nivel de Ruido,
+mejor lucharás, pero si
+<PUSH>
+el nivel de Ruido es muy
+alto, digamos, al 200%,
+<PUSH>
+no tengo claro qué
+podría pasar...
+<PUSH>
+Pero sé que no tendrás
+ningún problema, Geo.
+<PUSH>
+¡Está claro que eres
+el héroe que yo creía!
+¡A por ellos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Viento
+[END]
+
+[SENTENCE NUMBER 5]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Eh, Geo!
+¡Buenas noticias!
+<PUSH>
+¿Sabes que hay cartas
+de combate que tienen
+<PUSH>
+"propiedades de viento"?
+<PUSH>
+Por ejemplo, AtqVnto,
+tiene una función muy
+interesante.
+<PUSH>
+Puede destruir barreras,
+auras, etc. de un disparo,
+sin importar el daño
+<PUSH>
+¡Hay más cartas con
+propiedades de viento,
+<PUSH>
+así que abre bien
+los ojos!
+<PUSH>
+Bueno, vamos hablando.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+¡Abierto!
+[END]
+
+[SENTENCE NUMBER 8]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¡Esto es un mensaje del
+<Spica.Mall>!
+¡La confitería ha abierto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Vente
+[END]
+
+[SENTENCE NUMBER 11]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 12]
+{0A}{E1}<Corvus>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Tengo una cosa importante
+que decirte.
+<PUSH>
+Ven al Cibernúcleo del
+ordenador principal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Disonancia
+[END]
+
+[SENTENCE NUMBER 14]
+Harp Note
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+La perturbación de los
+virus se ha calmado,
+<PUSH>
+¡pero ahora hay una
+disonancia aún más
+grande en el escenario!
+<PUSH>
+¿Podrías venir?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Importante
+[END]
+
+[SENTENCE NUMBER 17]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Geo, quiero explicarte
+una cosa de las
+Multiformas de Ruido.
+<PUSH>
+Te envío un programa
+tutorial. Échale un
+ojo cuando puedas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Resonancia
+[END]
+
+[SENTENCE NUMBER 20]
+Goodall
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hola, Geo.
+<PUSH>
+Espero que te vaya bien.
+<PUSH>
+He descubierto algo sobre
+la Resonancia que quería
+<PUSH>
+compartir contigo.
+Existe una posibilidad
+<PUSH>
+de que, habiendo realizado
+una Resonancia, puedas
+<PUSH>
+volver a Resonar de pronto
+<PUSH>
+en presencia de un
+Ruido intenso.
+<PUSH>
+Además, puede que Arthur
+ya te lo dijera, pero
+<PUSH>
+es posible Resonar cuando
+luchas contra virus
+muy grandes,
+<PUSH>
+porque tienen la habilidad
+de modificar la zona
+<PUSH>
+creando bolas de Ruido.
+<PUSH>
+Aún hay muchas cosas
+que no conocemos de
+la Resonancia...
+<PUSH>
+Por eso, debes tener
+cuidado, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+Misterioso
+[END]
+
+[SENTENCE NUMBER 23]
+Zack
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Hay un cuerpo EM extraño
+reteniendo el tráfico en
+la Onda Aérea Nacional 2.
+<PUSH>
+No parece que esté
+con Dealer.
+<PUSH>
+Pero si vas ahí,
+ten cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+Para Geo
+[END]
+
+[SENTENCE NUMBER 26]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 27]
+{22}{EC}{01}{00}`
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Si estás leyendo esta
+notificación, es probable
+<PUSH>
+que ya me haya ido
+de este mundo.
+<PUSH>
+Hice que esta notificación
+se activara en caso
+<PUSH>
+de que me pasara algo.
+<PUSH>
+¿Cómo habrá sido mi fin?
+No me lo imagino.
+<PUSH>
+Solo espero haberte
+transmitido la voluntad
+<PUSH>
+de seguir luchando
+hasta el final.
+<PUSH>
+Quiero que ayudes a mis
+amigos y compañeros
+<PUSH>
+de la policía Satella
+y a Queen Tia.
+<PUSH>
+He luchado tantísimo
+porque quería proteger
+a mis seres querido...
+<PUSH>
+Tú también, Geo. Lucha
+para proteger los lazos
+que has creado,
+<PUSH>
+y por todo lo que
+te importa.
+<PUSH>
+Supera al enemigo, a
+ti mismo y a todo lo
+que se meta en tu camino.
+<PUSH>
+Eres nuestra última
+esperanza. Te lego
+la antorcha.
+<PUSH>
+Y, por último, el
+"arma definitiva"
+<PUSH>
+de la policía Satella
+es tuya...
+<PUSH>
+Cuento contigo,
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+Clave de Dealer
+[END]
+
+[SENTENCE NUMBER 29]
+?????
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+King está en la base
+orbital, en el espacio.
+Esta clave abrirá la
+<PUSH>
+Onda Aérea que te
+llevará ahí.
+¡Deprisa, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+Última hora
+[END]
+
+[SENTENCE NUMBER 32]
+Noticias
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*El Meteorito G ha corregido
+su curso y vuelve a ir
+hacia el planeta.
+<PUSH>
+Además, es de suponer
+que el líder de la
+organización conocida
+<PUSH>
+como Dealer ha fallecido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+¡Es horrible!
+[END]
+
+[SENTENCE NUMBER 35]
+Boreal
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sr.Boreal>
+¡Geo, enciende la tele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+Ven a verme
+[END]
+
+[SENTENCE NUMBER 38]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo, si tienes tiempo,
+¿te importaría venir
+a Echo Ridge?
+<PUSH>
+Todos quieren
+decirte algo.
+<PUSH>
+Quedamos en la azotea
+del colegio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+Interferencia
+[END]
+
+[SENTENCE NUMBER 41]
+NAZA
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Actualmente, la NAZA y sus
+alrededores están
+experimentando
+<PUSH>
+interferencias EM.
+Se cree que la causa
+es algún tipo de Ruido.
+<PUSH>
+Todos los miembros
+disponibles de la
+Policía Satella deben
+<PUSH>
+volver de inmediato
+a las inmediaciones
+de la NAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+Surcaondas
+[END]
+
+[SENTENCE NUMBER 44]
+NAZA
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Aviso al departamento
+de la policía Satella.
+<PUSH>
+Quien desee solicitar una
+identificación para el
+surcaondas que
+<PUSH>
+permite usar los surcaondas
+exclusivos de la NAZA,
+deberá entregar su
+<PUSH>
+solicitud al oficial en
+la jefatura de la NAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+Mapa de ondas
+[END]
+
+[SENTENCE NUMBER 47]
+Serv. NAZA
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Información para Geo Stelar.
+<PUSH>
+Desde hoy puedes usar las
+estaciones de ondas para
+conseguir mapas de ondas.
+<PUSH>
+Para usar este servicio,
+selecciona la opción "Mapas"
+en el menú de la estación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Huir
+[END]
+
+[SENTENCE NUMBER 50]
+Zack
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Casi se me olvida
+decir algo muy
+importante!
+<PUSH>
+Si te encuentras con
+un enemigo al que no
+<PUSH>
+puedes derrotar,
+¡intenta huir!
+<PUSH>
+Solo tienes que pulsar
+el botón L en la
+pantalla de cartas.
+<PUSH>
+Pero ten en cuenta que
+a veces no podrás huir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Nivel Ruido
+[END]
+
+[SENTENCE NUMBER 53]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Bueno, ¿qué te parece
+la Onda Áerea?
+<PUSH>
+Por cierto, ¿ya has
+usado el <AcePrgm>
+que te di?
+<PUSH>
+Cuando lo instalas,
+verás un Nivel de Ruido
+<PUSH>
+en la parte superior
+derecha de la pantalla.
+<PUSH>
+Ese número sube o baja
+dependiendo de ciertas
+condiciones del combate.
+<PUSH>
+Hasta el 99%, no te
+tienes que preocupar
+por él.
+<PUSH>
+¡Pero cuidado con
+llegar al 100%!
+<PUSH>
+Hemos observado todo
+tipo de fenómenos
+extraños. Por ejemplo,
+<PUSH>
+puede que los ataques
+te afecten aunque brilles.
+<PUSH>
+O que un ataque que se
+supone que tiene que
+empujar a los enemigos,
+<PUSH>
+los acerque a ti.
+<PUSH>
+Y esto no lo hemos
+confirmado, pero el Ruido
+<PUSH>
+podría convertir los datos
+obtenidos en combate en
+<PUSH>
+datos que no tienen nada
+que ver con el enemigo
+que has eliminado.
+<PUSH>
+Esos on algunos informes
+que me han llegado.
+<PUSH>
+No estamos seguros de
+qué condiciones hacen
+subir el nivel de Ruido,
+<PUSH>
+pero los informes
+provisionales indican
+que cuando se usa
+<PUSH>
+una carta no elemental
+y no especial para
+eliminar a un virus,
+<PUSH>
+la diferencia entre el
+ataque de la carta y
+<PUSH>
+los PV del virus
+equivale al porcentaje
+de aumento en el Ruido.
+<PUSH>
+Te diría que tuvieras
+cuidado. Pero siendo
+Mega Man, tal vez
+<PUSH>
+puedas controlar el
+aumento del Ruido.
+<PUSH>
+Lo que quiero decir es:
+no te pases.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Carta Propósito
+[END]
+
+[SENTENCE NUMBER 56]
+NAZA
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Confirmada introducción
+del programa secreto de
+la NAZA: Carta Propósito.
+<PUSH>
+Solo se puede introducir
+una de estas Cartas Propósito.
+<PUSH>
+Tras instalar estos datos,
+se potenciará tu
+virtualización.
+<PUSH>
+Y si estás en un equipo
+con Hermanos Realest,
+<PUSH>
+puedes compartir estos
+datos con ellos.
+<PUSH>
+Así que, cuantos más
+Hermanos Reales tengas
+en tu equipo,
+<PUSH>
+más potenciadores podrás
+compartir.
+<PUSH>
+Aunque para formar un
+equipo con Hermanos
+Reales,
+<PUSH>
+primero debes pasarte
+el juego.
+<PUSH>
+Puedes activar o desactivar
+los potenciadores en la
+pantalla de Carta Propósito.
+<PUSH>
+Aquí concluye la
+explicación de las
+Cartas Propósito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+Carta Ruido
+[END]
+
+[SENTENCE NUMBER 59]
+¿¿??
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+Ja, ja, ja...
+<PUSH>
+Veo que por fin has
+conseguido la preciada
+Carta Ruido...
+<PUSH>
+Permite que te explique
+cómo se usa.
+<PUSH>
+Solo puedes introducir
+cinco Cartas Ruido
+a la vez.
+<PUSH>
+Si quieres introducir
+otra Cartas Ruido,
+primero tienes que
+<PUSH>
+seleccionar una de las
+introducidas y tocarla
+para sacarla de la lista.
+<PUSH>
+Las Cartas Ruido son de
+cuatro palos. Pica, trébol,
+corazón y diamante.
+<PUSH>
+Lo mejor es que intentes
+introducir cartas del
+mismo palo.
+<PUSH>
+Si introduces cartas
+de distinto palo,
+<PUSH>
+podrían producirse
+errores que te hagan
+daño...
+<PUSH>
+Oh, eso me recuerda que...
+<PUSH>
+Si encuentras una
+carta con el logo
+<PUSH>
+Star Force, ¡considérate
+afortunado!
+<PUSH>
+Porque esas cartas
+pueden combinarse con
+cartas de otros palos.
+<PUSH>
+Una última cosa...
+Te voy a contar una forma
+de controlar el Ruido.
+<PUSH>
+Puedes formar manos
+de póker llamadas
+Manos de Ruido.
+<PUSH>
+Dependiendo del tipo
+de Mano de Ruido
+que formes,
+<PUSH>
+no solo controlarás
+el Ruido,
+<PUSH>
+además se te otorgará
+el poder del Ruido
+mismo.
+<PUSH>
+Por último, el poder
+de las Cartas Ruido
+puede activarse
+<PUSH>
+o desactivarse en
+la pantalla de Mega Man.
+<PUSH>
+¡Ay de mí! ¡¿Podrás
+dominar todo el potencial
+de las Cartas Ruido?!
+<PUSH>
+¡Mua, ja, ja, ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+Recuperar PV
+[END]
+
+[SENTENCE NUMBER 62]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Chico, tengo una
+cosa que decirte.
+<PUSH>
+Cuando estás impulsionado,
+las subcartas, los datos
+<PUSH>
+obtenidos y las bolas de PV
+son la única forma de
+restaurar tus PV,
+<PUSH>
+¡pero si te expulsionas,
+recuperarás todos tus
+PV de una sentada!
+<PUSH>
+Pero ten en cuenta que
+no vale con expulsionarte
+y mantener la forma
+<PUSH>
+de Mega Man. ¡Tienes
+que volver al
+mundo real!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+Not. AYUDA
+[END]
+
+[SENTENCE NUMBER 65]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡La misión del equipo
+Luna Presidenta es
+ayudar a los demás!
+<PUSH>
+¡Esa maravillosa tarea
+no se limita al colegio!
+<PUSH>
+Debe continuar por
+toda la nación... ¡No!
+<PUSH>
+¡El equipo Luna Presidenta
+ayudará a las gentes de
+todo el mundo!
+<PUSH>
+Por eso, si hablas con
+alguien y salta una
+notificación que diga,
+<PUSH>
+"AYUDA", significa que
+esa persona necesita que
+le echen una mano.
+<PUSH>
+¡Si tocas la notificación
+de AYUDA, aparecerán
+detalles de su petición!
+<PUSH>
+Una vez hecho, no sería
+mala idea hablar con esa
+misma persona para que te
+<PUSH>
+dé información más
+detallada y saber qué
+puedes hacer por ella.
+<PUSH>
+Llegados a ese punto,
+esa persona puede darte
+una "Petición".
+<PUSH>
+Acéptala y complétala,
+paso por paso, ¿entendido?
+<PUSH>
+Ningún problema o petición
+debería darte...
+<PUSH>
+o sea, ¡darle a Mega Man
+ningún problema!
+<PUSH>
+Pero, si por alguna razón,
+aunque ahora mismo no
+se me ocurre ninguna,
+<PUSH>
+no puedes completar una
+petición que ya has
+aceptado, puedes volver
+<PUSH>
+tcon la persona que te
+ofreció la petición
+<PUSH>
+y cancelarla formalmente.
+<PUSH>
+¡Pero no te precupes!
+Puedes aceptar la petición
+las veces que quieras
+<PUSH>
+hasta que consigas
+completarla.
+<PUSH>
+Ah, una cosa más.
+<PUSH>
+Cuando aceptas una
+petición, no te aparecerán
+<PUSH>
+notificaciones de otras
+personas hasta que
+<PUSH>
+no completes la petición
+o la canceles.
+<PUSH>
+Así que tienes que tomar
+una decisión cuanto antes,
+no puedes perder el tiempo.
+<PUSH>
+¡Vale, ponte las pilas!
+Como líder que soy, estaré
+atenta a tu progreso,
+<PUSH>
+Ge... O sea, Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Si estás leyendo esta
+notificación, es probable
+<PUSH>
+que ya me haya ido
+de este mundo.
+<PUSH>
+Hice que esta notificación
+se activara en caso
+<PUSH>
+de que me pasara algo.
+<PUSH>
+¿Cómo habrá sido mi fin?
+No me lo imagino.
+<PUSH>
+Solo espero haberte
+transmitido la voluntad
+<PUSH>
+de seguir luchando
+hasta el final.
+<PUSH>
+Quiero que ayudes a mis
+amigos y compañeros
+<PUSH>
+de la policía Satella
+y a Queen Tia.
+<PUSH>
+He luchado tantísimo
+porque quería proteger
+a mis seres querido...
+<PUSH>
+Tú también, Geo. Lucha
+para proteger los lazos
+que has creado,
+<PUSH>
+y por todo lo que
+te importa.
+<PUSH>
+Supera al enemigo, a
+ti mismo y a todo lo
+que se meta en tu camino.
+<PUSH>
+Eres nuestra última
+esperanza. Te lego
+la antorcha.
+<PUSH>
+Y entregarte también
+el as en la manga
+<PUSH>
+de la policía Satella.
+<PUSH>
+Cuento contigo,
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid ""
+"{e108}{0}2\n"
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*stare*\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "1"
+msgid ""
+"{e108}{0}2{b}{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*leer*\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "2"
+msgid ""
+"{e108}{0}2{c}{ec00}{0}\n"
+"[DIALOG_START]{74}This is the National WAZA\n"
+"Headquarters, located on\n"
+"Electopia's highest point!\n"
+"[NEW_DIALOG]\n"
+"This facility also houses the\n"
+"Satella Police Headquarters.\n"
+"[NEW_DIALOG]\n"
+"Always working behind the\n"
+"scenes, these organizations\n"
+"are Electopia's backbone!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "3"
+msgid ""
+"{e108}{0}2{d}{ec00}{0}\n"
+"[DIALOG_START]{77}The elevation here is\n"
+"approximately 9000 feet\n"
+"above sea level.\n"
+"[NEW_DIALOG]\n"
+"At this altitude, the air\n"
+"is extremely thin.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "4"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "5"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "6"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "7"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "8"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "9"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "10"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*stare*\n"
+"[NEW_DIALOG]\n"
+"Keeping out suspicious\n"
+"people is what we are\n"
+"here for.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "11"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*leer*\n"
+"[NEW_DIALOG]\n"
+"The air around here is thin...\n"
+"Don't run around too much\n"
+"or you could pass out.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "12"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{74}The Astro Wave is up ahead.\n"
+"[NEW_DIALOG]\n"
+"You must be someone very\n"
+"important to have access\n"
+"to use it.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "13"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{77}The security here is the\n"
+"best in the nation! So relax,\n"
+"we are all perfectly safe!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "14"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "15"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "16"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "17"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "18"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "19"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "20"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Aaagh...\n"
+"I wouldn't have guessed their\n"
+"forces would be so strong!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "21"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Don't worry about us...\n"
+"You kids hurry and get\n"
+"inside!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "22"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Format complete...\n"
+"Format complete...\n"
+"Format complete...\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "23"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Oh my...\n"
+"Who knew their battle\n"
+"capability was so great?\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "24"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "25"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "26"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "27"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "28"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "29"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "30"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "31"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "32"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "33"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "34"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "35"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "36"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "37"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "38"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "39"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "40"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "41"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "42"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "43"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "44"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "45"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "46"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "47"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "48"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "49"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "50"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "51"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "52"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "53"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "54"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "55"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "56"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "57"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "58"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "59"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "60"
+msgid ""
+"{e10d}{0}BD{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*stare*\n"
+"[NEW_DIALOG]\n"
+"Thank you. Please\n"
+"save WAZA!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "61"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Solo...\n"
+"That guy is strong!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "62"
+msgid ""
+"{e10d}{0}BD{ec00}{0}\n"
+"[DIALOG_START]{a8}{ec13}*leer*\n"
+"[NEW_DIALOG]\n"
+"We owe you a debt\n"
+"of gratitude!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "63"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}Mobilize as many Battle\n"
+"Wizards as possible!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "64"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{74}It looks like WAZA and the\n"
+"Satella Police have sustained\n"
+"considerable damage.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "65"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{77}The security here is the\n"
+"best in the nation! But, this\n"
+"is no time to relax!\n"
+"[NEW_DIALOG]\n"
+"We can't let our guard down!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "66"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "67"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "68"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "69"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "70"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "71"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "72"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "73"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "74"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "75"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "76"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "77"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "78"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "79"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "80"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "81"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "82"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "83"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "84"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "85"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "86"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "87"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "88"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "89"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "90"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "91"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "92"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "93"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "94"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "95"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "96"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "97"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "98"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "99"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{74}Are you making good use\n"
+"of the Astro Wave?\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "101"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{77}Heave-ho!\n"
+"Heave-ho!\n"
+"[NEW_DIALOG]\n"
+"I'm guarding the facility.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "102"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "103"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "104"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "105"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "106"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "107"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "108"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "109"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "110"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "111"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "112"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "113"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "114"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "115"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "116"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "117"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "118"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "119"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "120"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "121"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "122"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "123"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "124"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "125"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "126"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "127"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "128"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "129"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "130"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "131"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "132"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "133"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "134"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "135"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "136"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "137"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "138"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "139"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "140"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "141"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "142"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "143"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "144"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "145"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "146"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "147"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "148"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "149"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "150"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "151"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "152"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "153"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "154"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "155"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "156"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "157"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "158"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "159"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "160"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "161"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "162"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "163"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "164"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "165"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "166"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "167"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "168"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "169"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "170"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "171"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "172"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "173"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "174"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "175"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "176"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "177"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "178"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "179"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{a8}WAZA will never die!\n"
+"The fight has only begun!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "181"
+msgid ""
+"{e10d}{0}io¿{ec00}{0}\n"
+"[DIALOG_START]{74}Whew...\n"
+"I thought we were\n"
+"almost done for.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "182"
+msgid ""
+"{e10d}{0}ioÀ{ec00}{0}\n"
+"[DIALOG_START]{77}That Jamming was really\n"
+"scary! So scary, I think\n"
+"I lost weight!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "183"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "184"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "185"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "186"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "187"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "188"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "189"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "190"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "191"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{74}Mega Man...\n"
+"We are praying for\n"
+"your safe return!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{77}Please stop the meteor,\n"
+"I'm begging you!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+
+msgctxt "193"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "194"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "195"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "196"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "197"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "198"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "199"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "200"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "201"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "202"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "203"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "204"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "205"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "206"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "207"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "208"
+msgid "{ec00}{0}"
+msgstr ""
+
+msgctxt "209"
+msgid "{ec00}{0}"
+msgstr ""

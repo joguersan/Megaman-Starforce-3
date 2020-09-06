@@ -1,0 +1,470 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}I ALWAYS FEEL LIKE...
+SOMEBODY'S WAAAATCHING
+MEEEEEE...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}PLEASE COME AGAIN...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}v{15}{00}{0C}{E1}{01}{00}{A3}{00}<Zack>
+{0A}{E1}{A3}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Buddy!
+Lemme ask you
+somethin'...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(What's with the gangster
+ talk!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You know anything 'bout a
+gang called Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}...Never heard of 'em.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Never heard of 'em, huh!?
+Why don't you cut out the
+charade!
+<PUSH>
+I know you know what I'm
+talking about! Spit it out!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(I think Mega has been
+{13}{EC} watching too many crime
+{13}{EC} dramas on TV...)
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+...Show me what you've got.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you gettin' smart wit
+me, tough guy!?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}I'm just asking you to show
+me a card... That's what I
+do! I trade cards.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Look here, you!
+You better watch your tone!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega, wait!
+<PUSH>
+I'll show him.
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}I see at least one of you
+has some sense...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ge...Detective Stelar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Which card do you want?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Let's see...
+Why don't you give me a
+"<Cannone>" card?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What!?
+You want a "<Cannone>" card?
+Are you out of your mind!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+<Cannone> card...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Give up this card?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{11}{EC}{00}{00}<Hope(Mom)>
+{11}{EC}{03}{00}<Sonia>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Thanks a lot... *snicker*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<NEW-DIALOG>
+{97}{00}...OK, I'll take it.
+<PUSH>
+
+<END-DIALOG>
+{89}{E1}{01}{00}{01}{00}<Prez>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}*snicker*
+Hey! I like you...
+Take this!
+<PUSH>
+{0A}{E1}v{82}{E1}
+{01}{00}{02}{E2}M{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{7A}{E5}"!
+<PUSH>
+{01}{E2}M
+<NEW-DIALOG>
+<Megaman>
+What's this?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}I've heard that with enough
+of those, you can get to
+the Dealer hideout.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+Thanks!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Grr!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Mega's cop show
+{13}{EC} antics could be
+{13}{EC} rubbing off on me...)
+<PUSH>
+{13}{EC}({14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}That might not be
+{13}{EC} such a bad thing.)
+<PUSH>
+{80}{E1}{01}{00}{FF}{FF}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...Sheesh,
+come again when you
+<PUSH>
+actually have something!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...I see you brought a
+"<Cannone>" card...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Give up this card?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{11}{EC}{00}{00}<Hope(Mom)>
+{11}{EC}{03}{00}<Sonia>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Oh well...
+<PUSH>
+Come back if you change
+your mind... *snicker*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

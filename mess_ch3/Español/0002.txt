@@ -1,0 +1,156 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Tres días después...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Estamos todos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+¡Ya hemos llegado!
+<PUSH>
+¡No me creo que estemos
+en <Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Es tan bonito que no
+me creo que sigamos en
+Electopía!
+<PUSH>
+¡Cielos azules,
+el vasto mar!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Qué calor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Chicos, tranquilos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Ahh, venga...
+¡Es que estamos contentos!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Bueno, supongo que el
+objetivo de un viaje
+escolar es deshacerse
+<PUSH>
+del estrés de las clases.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Parece que ella
+es la que está más
+emocionada de los tres...)
+
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Qué pena que Geo no
+haya podido venir...
+<PUSH>
+¡¡A ver, tampoco es que
+tuviera especial interés
+en que viniera ni nada!!
+<PUSH>
+¡Como delegada, pienso
+siempre en todos mis
+compañeros por igual!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Dijo que vendría más
+tarde, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(No puedo decirlo en alto,
+pero...)
+<PUSH>
+(Usará sus poderes de
+Mega Man para venir
+hasta aquí, ¿no?)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+(Ah, pues puede ser.)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}Oooh....
+(¡¿Va a venir Mega Man?!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

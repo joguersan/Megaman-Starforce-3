@@ -1,0 +1,1295 @@
+[SENTENCE NUMBER 1]
+Cartas blancas
+[END]
+
+[SENTENCE NUMBER 2]
+NAZA
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Voy a hablarte de esa
+carta blanca que
+<PUSH>
+te has descargado.
+<PUSH>
+Las cartas blancas son
+paquetes de 4 cartas
+<PUSH>
+de combate disponibles
+en las estaciones
+de onda.
+<PUSH>
+Por supuesto, estas
+cartas blancas pueden
+usarse en combate.
+<PUSH>
+La misma estación de
+ondas puede tener
+varios paquetes de
+<PUSH>
+cartas blancas y
+algunos paquetes
+son únicos de
+<PUSH>
+las estaciones de onda
+de una región concreta.
+<PUSH>
+Así que, si ves una
+estación, descarga
+un paquete.
+<PUSH>
+Si hay alguna carta
+blanca que no quieras
+usar en combate,
+<PUSH>
+ve a la pantalla de
+edición de carpetas,
+<PUSH>
+selecciónala con el
+cursor y pulsa el
+botón A o el botón Y
+<PUSH>
+para sacarla de la
+carpeta.
+<PUSH>
+Las cartas blancas
+tienen una "B" al
+lado de su nombre.
+<PUSH>
+Aquí concluye la
+explicación de las
+cartas blancas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Edición de carpetas
+[END]
+
+[SENTENCE NUMBER 5]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+A ver, antes de que
+me olvide, deja que
+<PUSH>
+te dé un repaso de
+las carpetas y cómo
+funcionan.
+<PUSH>
+Las carpetas son
+contenedores donde metes
+cartas de batalla.
+<PUSH>
+Al empezar un combate,
+en la pantalla inferior
+<PUSH>
+aparecen cartas elegidas
+de forma aleatoria.
+<PUSH>
+Así que tu victoria
+depende de las cartas
+<PUSH>
+que pongas en la carpeta.
+<PUSH>
+Puedes llenar la carpeta
+de cartas que sepas que
+sabes usar,
+<PUSH>
+o intentar usar un
+abanico más amplio
+de cartas.
+<PUSH>
+Eso ya queda a tu
+elección.
+<PUSH>
+También existe la
+llamada caja de cartas
+<PUSH>
+que se usa cuando
+consigues nuevas
+cartas de batalla.
+<PUSH>
+Puedes decidir el
+contenido de una
+carpeta moviendo
+<PUSH>
+las cartas entre
+esta y la caja
+de cartas.
+<PUSH>
+Pero existen unas
+reglas para meter
+cartas en una carpeta.
+<PUSH>
+La primera es que una
+carpeta debe tener
+siempre 30 cartas.
+<PUSH>
+Una carpeta no puede
+tener más de 5 cartas
+estándar iguales.
+<PUSH>
+Una carpeta puede
+tener un máximo de
+cinco cartas mega.
+<PUSH>
+Y solo puede tener una
+carta giga, que son las
+más raras de todas.
+<PUSH>
+Ten en cuenta que solo
+podrás tener una carta
+mega o giga igual
+<PUSH>
+en una carpeta.
+Por cierto, no solo
+<PUSH>
+están las cartas
+estándar, mega y giga.
+<PUSH>
+Hay todo tipo de cartas.
+<PUSH>
+¡Madre mía! ¡Me estoy
+emocionando de tanto hablar
+de cartas de batalla!
+<PUSH>
+Ya nos hemos ocupado
+del tema de las carpetas,
+¡ahora a divertirse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+W.E. Data
+[END]
+
+[SENTENCE NUMBER 8]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Los Datos de Equipo
+Wizard, más conocidos como
+Datos E.W., son datos
+<PUSH>
+que los Wizards de combate
+pueden equiparse para
+conseguir más poder,
+<PUSH>
+mayor velocidad de
+disparo y reducción
+de los tiempos de carga.
+<PUSH>
+Para equipar Datos E.W
+ve a la pantalla de
+Mega, ¡inténtalo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Combates
+[END]
+
+[SENTENCE NUMBER 11]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Bud y Zack te han
+enviado información
+sobre los combates!
+<PUSH>
+¡Yo también te he enviado unas
+cuantas pistas y normas,
+échales un ojo, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Personalización
+[END]
+
+[SENTENCE NUMBER 14]
+Zack
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+El otro día en clase
+hablamos de los combates
+<PUSH>
+y qué debemos hacer si
+nos encontramos con
+un virus, ¿verdad?
+<PUSH>
+Dele quería que hiciera
+un resumen sobre la
+pantalla de cartas
+<PUSH>
+para consultarlo en
+caso de emergencia,
+y eso he hecho.
+<PUSH>
+Esta copia es para ti, Geo.
+<PUSH>
+Cuando te encuentras con
+un enemigo, lo primero
+que verás será la pantalla
+<PUSH>
+de cartas. De las 30
+cartas de tu carpeta, se
+<PUSH>
+eligen 6 de forma
+aleatoria y aparecen ahí.
+<PUSH>
+Pero eso no quiere decir
+que puedas escoger
+las que quieras.
+<PUSH>
+Para todo hay reglas.
+<PUSH>
+¡Regla Nº. 1!
+Puedes coger las cartas
+de la misma columna.
+<PUSH>
+Da igual que no estén
+exactamente en línea
+recta, lo que importa
+<PUSH>
+es que estén en la
+misma columna.
+<PUSH>
+¡Regla Nº. 2!
+Puedes coger tres cartas
+de la misma fila.
+<PUSH>
+Da igual que no estén
+exactamente en línea
+recta, lo que importa
+<PUSH>
+es que estén en la
+misma columna.
+<PUSH>
+¡Regla Nº. 3!
+<PUSH>
+Puedes coger cartas iguales,
+sin importar dónde estén.
+<PUSH>
+Las cartas blancas son
+una excepción. Puedes
+<PUSH>
+cogerlas con cualquier
+carta de la pantalla.
+Qué útil, ¿eh?
+<PUSH>
+Por último, con el botón R
+o el botón Y puedes ver la
+descripción de las cartas.
+<PUSH>
+¡Vale! Creo que eso es
+todo sobre la pantalla
+de cartas.
+<PUSH>
+¡Parece que lleve
+un siglo hablando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Ctrls combate
+[END]
+
+[SENTENCE NUMBER 17]
+Bud
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Eh, Geo! ¡Este es
+el resumen de los
+combates!
+<PUSH>
+Pensé que te vendría
+bien, toma, te lo
+envío.
+<PUSH>
+Múevete a los
+lados con la
++ Cruceta,
+<PUSH>
+y pulsa el botón A
+para usar una carta.
+<PUSH>
+Mantén pulsado el botón B
+para liberar una
+<PUSH>
+ráfaga de disparos
+con el MegaBuster.
+<PUSH>
+Si no pulsas el botón B
+en un rato, el MegaBuster
+<PUSH>
+se cargará. Cuadno lo haga,
+<PUSH>
+¡lanza un disparo cargado
+pulsando el botón B!
+<PUSH>
+Hablando de cargar,
+cuando la carga de
+cartas esté al máximo,
+<PUSH>
+pulsa el botón L o el
+botón R para acceder a
+la pantalla de cartas.
+<PUSH>
+Pues creo que eso
+sería todo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Escudo
+[END]
+
+[SENTENCE NUMBER 20]
+Zack
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Creía que te vendría
+bien una explicación
+para usar el escudo.
+<PUSH>
+Pulsa el botón Y para
+sacar un escudo.
+<PUSH>
+Con el escudo puedes
+bloquear ataques enemigos.
+<PUSH>
+Con los enemigos débiles
+no tendrás muchos
+problemas,
+<PUSH>
+pero más adelante, habrá
+ataques enemigos que
+<PUSH>
+no podrás esquivar
+moviéndote a los lados.
+<PUSH>
+Por eso tendrás que
+usar el escudo para
+defenderte.
+<PUSH>
+Pero no podrás bloquear
+todos los ataques,
+<PUSH>
+¿sabes? No puedes
+bloquear un ataque
+imparable,
+<PUSH>
+y algunos ataques
+pueden atravesar
+tu escudo.
+<PUSH>
+Ten mucho cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+¡MegaAtaque!
+[END]
+
+[SENTENCE NUMBER 23]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Es que nadie te ha
+hablado del MegaAtaque?!
+<PUSH>
+Tiene sentido, el
+experto en la
+materia soy yo.
+<PUSH>
+¡En fin, vamos allá!
+<PUSH>
+El MegaAtaque es
+muy importante.
+<PUSH>
+Cuando tengas cartas
+que puedas usar,
+<PUSH>
+pulsa abajo en la
++ Cruceta y pasaré
+<PUSH>
+a fijar a los enemigos.
+<PUSH>
+En ese modo, aparecerá
+un punto de mira en los
+enemigos que estén
+<PUSH>
+frente a nosotros o en
+diagonal. Si usas una
+carta cuando aparece la
+<PUSH>
+mira, ¡nos lanzaremos
+sobre el enemigo
+y atacaremos!
+<PUSH>
+Pero ten en cuenta que
+las cartas que no son
+de ataque,
+<PUSH>
+como las de recuperación
+o las que oscurecen
+<PUSH>
+la pantalla, no funcionan
+en el modo de fijación.
+<PUSH>
+Ah, y si no quieres que
+la cámara cambie cuando
+<PUSH>
+uses un MegaAtaque,
+<PUSH>
+puedes cambiar los
+ajustes de la cámara
+<PUSH>
+pulsando START en
+medio de un combate.
+<PUSH>
+Recuerda, chico.
+No tienes que usar el
+<PUSH>
+MegaAtaque en todos los
+combates, ¡pero si lo
+<PUSH>
+haces, podrás combatir
+a un nuevo nivel!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+Contraataque
+[END]
+
+[SENTENCE NUMBER 26]
+Bud
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Vale,ahora toca el
+contraataque y las
+cartas de bonificación.
+<PUSH>
+En un Contraataque,
+golpeas a un enemigo con
+una carta en el mismo
+<PUSH>
+momento en que está a
+punto de atacarte.
+<PUSH>
+Eso les pillará por
+sorpresa, y estarán
+un rato paralizados.
+<PUSH>
+Además, recibirás una
+carta de bonificación.
+<PUSH>
+Normalmente, solo puedes
+usar cartas que tengas
+en la pantalla de cartas.
+<PUSH>
+Pero si haces un
+contraataque, recibirás
+una carta de bonificación.
+<PUSH>
+Son cartas elegidas de
+forma aleatoria de
+tu carpeta.
+<PUSH>
+¡Pero son la bomba, así
+no tienes que esperar a
+que se llene la carga
+<PUSH>
+de cartas para acabar
+cuanto antes con el
+enemigo!
+<PUSH>
+Solo puedes hacer un
+contraataque con cartas que
+no oscurecen la pantalla.
+<PUSH>
+Un contraataque con una
+carta de bonificación no
+te dará otra carta.
+<PUSH>
+Para que no se te ocurra
+intentar encadenar cartas
+de bonificación.
+<PUSH>
+Los contraataques son
+difíciles, pero cuando los
+dominas son la caña.
+<PUSH>
+¡Practica hasta que
+le cojas el tranquillo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+¡Ten cuidado!
+[END]
+
+[SENTENCE NUMBER 29]
+Sr. Shepar
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Este es un mensaje para
+los alumnos de la escuela
+Echo Ridge.
+<PUSH>
+Desde hace poco, se han
+visto virus en el mundo
+real, fuera de los
+<PUSH>
+Cibernúcleos, donde se sabe
+que causan estragos.
+Si alguien ve un virus,
+<PUSH>
+sobre todo los estudiantes
+que no combaten a menudo,
+guardad las distancias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+¡Echa un cable!
+[END]
+
+[SENTENCE NUMBER 32]
+Bud
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡He encontrado a un
+chico en el cole que
+necesita tu ayuda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+Club de ciencias
+[END]
+
+[SENTENCE NUMBER 35]
+Zack
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Por favor, ven al aula
+del club de ciencias.
+Tenemos un problema.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+Visita
+[END]
+
+[SENTENCE NUMBER 38]
+Sr. Shepar
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Te están esperando
+en la entrada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+¡Bienvenido!
+[END]
+
+[SENTENCE NUMBER 41]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡Bienvenido a <Spica.Mall>!
+<PUSH>
+¡No te pierdas el torneo
+de combate de ondas en el
+{BD}{E4}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+¡PRÓXIMAMENTE!
+[END]
+
+[SENTENCE NUMBER 44]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}¡La apertura de la
+confitería está
+cada vez más cerca!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+¿Tienes hambre?
+[END]
+
+[SENTENCE NUMBER 47]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}¿Por qué no comes en nuestra
+zona de restauración?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Cierre
+[END]
+
+[SENTENCE NUMBER 50]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Por razones de seguridad,
+el {BD}{E4} cerrará
+temporalmente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Habilidades
+[END]
+
+[SENTENCE NUMBER 53]
+Magnes
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí, sí! ¡¿Cómo estás?!
+Gracias por esforzarte
+tanto,
+<PUSH>
+¡Me lo estoy pasando
+pipa en el espacio!
+<PUSH>
+¡Toma una habilidad por
+todas las molestias!
+<PUSH>
+¡Las habilidades amplían
+las funciones de tu
+Wizard!
+<PUSH>
+Claro, para poder usar una
+habilidad, antes tienes
+que equipártela.
+<PUSH>
+¡Espero que nos volvamos
+a ver muy pronto!
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Reapertura
+[END]
+
+[SENTENCE NUMBER 56]
+Ken Suther
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#¡Yujuuu! ¡{B6}{E4}
+está abierto de nuevo,
+tío!
+<PUSH>
+¡Hasta tenemos un nuevo
+y flamante comerciante!
+<PUSH>
+¡Así que, chiquetes y
+chiquetas, pasaos por
+aquí y echad un vistazo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+¡Toma esto!
+[END]
+
+[SENTENCE NUMBER 59]
+Bud
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Estaba pensando cómo
+podría echarte una
+mano,
+<PUSH>
+ya sabes, con el tema
+del concierto y tal...
+<PUSH>
+¡Y he pensado que, como
+somos hermanos, puedes
+usar a mi Wizard, Taurus!
+<PUSH>
+Así que, aquí tienes.
+¡Te envío un adaptador
+de Wizard!
+<PUSH>
+{92}{E1}(a
+<NEW-DIALOG>
+<Game>
+¡Has agregado el
+"adaptador Taurus"
+a tu <Hunter>-VG!
+<PUSH>
+{02}{E2}(
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+¡Problemas!
+[END]
+
+[SENTENCE NUMBER 62]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, tenemos problemas
+para preparar tu
+equipo.
+<PUSH>
+¿Podrías ir a la
+sala de utilería
+dentro del estudio?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+¡Ven, rápido!
+[END]
+
+[SENTENCE NUMBER 65]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, hay un problema
+con el proyector del
+escenario. Cuando estés
+<PUSH>
+aquí, te daré todos
+los detalles. ¡Date
+prisa, por favor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+Amenaza de bomba
+[END]
+
+[SENTENCE NUMBER 68]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, hemos recibido una 
+llamada diciendo que
+hay un programa
+<PUSH>
+bomba en alguna parte
+de las instalaciones.
+<PUSH>
+He enviado a todos los
+Wizards posibles para
+investigar el asunto.
+<PUSH>
+El Wizard de seguridad
+de la entrada les
+ha dado instrucciones.
+<PUSH>
+¿Podrías ir a hablar
+con él y ver cómo
+va la cosa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+¡¿En peligro?!
+[END]
+
+[SENTENCE NUMBER 71]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡El vestuario de Sonia
+está hleado!
+<PUSH>
+Estamos usando un
+Wizard de fuego para
+<PUSH>
+intentar paliar
+la situación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+Panel de hackeo
+[END]
+
+[SENTENCE NUMBER 74]
+Sr. Shepar
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Tengo información vital
+por si alguna vez os
+topáis con un virus y
+<PUSH>
+veis que no podéis
+huir de ninguna forma.
+<PUSH>
+¿Habéis oído hablar
+de los paneles de
+hackeo?
+<PUSH>
+Los paneles de hackeo
+emiten un tipo de Ruido
+especial que hace que
+<PUSH>
+solo los virus puedan
+puedan estar encima
+de ellos.
+<PUSH>
+Eso quiere decir que
+debéis eliminar a los
+virus sin subiros a los
+<PUSH>
+paneles de hackeo.
+Pero hay una forma
+fácil de borrarlos.
+<PUSH>
+Usad "{D0}{E7}",
+"{BA}{E7}" y ese tipo
+de cartas para convertirlos.
+<PUSH>
+Y sobre todo, no os asustéis.
+Os adjunto una carta
+"{BA}{E7}".
+<PUSH>
+{0C}{E1}{00}{00}{FD}{00}b
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+¡Ven a la de ya!
+[END]
+
+[SENTENCE NUMBER 77]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ven de inmediato a
+<Alohaha>, te estoy
+esperando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+Playa abierta
+[END]
+
+[SENTENCE NUMBER 80]
+Seguridad
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Ha concluido la sesión
+reservada en la playa.
+¡Ya podéis entrar todos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+Última hora
+[END]
+
+[SENTENCE NUMBER 83]
+Alohaha
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}¡El sistema medioambiental de
+la isla está fuera de control!
+¡Tened mucho cuidado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+Apoyo
+[END]
+
+[SENTENCE NUMBER 86]
+C. Ciencias
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Eh, Geo!
+<PUSH>
+¡Tengo información
+muy jugosa para ti!
+<PUSH>
+Dijiste que tenías un
+Wizard de combate, ¿no?
+Pues, al parecer,
+<PUSH>
+hay un objeto especial
+llamado "Carta de apoyo".
+<PUSH>
+Se encarga de convertir
+una carta de combate
+en otra.
+<PUSH>
+El tipo de carta en la
+que se convierta depende
+del Wizard de combate.
+<PUSH>
+Te envío un programa
+tutorial.
+<PUSH>
+¡Échale un ojo cuando
+tengas un momento!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+Todo listo
+[END]
+
+[SENTENCE NUMBER 89]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Ya etoy listo. Por favor,
+ven a la comisaría
+de la policía Satella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+Luna
+[END]
+
+[SENTENCE NUMBER 92]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+La Dra. Goodall tiene una
+cosa que decirte sobre
+Luna Platz.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+Un acuerdo
+[END]
+
+[SENTENCE NUMBER 95]
+Harp Note
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Parece que Ace y
+Queen Virgo necesitan
+ayuda con un
+<PUSH>
+problema. ¡Puede que
+Ace necesite tu ayuda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+{0A}{E1}{FD}{00}{80}{E1}z{01}{00}{10}{E2}{CB}{00}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"{BA}{E7}"
+en su Hunter-VG!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

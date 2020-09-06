@@ -1,0 +1,628 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Aahhh...
+¿Qué ha pasado?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Fiu!
+Parece que ha vuelto
+a la normalidad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Mierda!
+Parece que no bastará
+con un Wizard normal.
+<PUSH>
+Ahora voy yo...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Geeeooo!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}¿?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Viene alguien.
+<PUSH>
+Parece que se me ha
+acabado la diversión.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+¿Me han llamado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yo también lo he oído.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Serán imaginaciones mías.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No.
+Yo también lo he oído.
+<PUSH>
+Es imposible que nos
+lo hayamos imaginado
+los dos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí... Qué raro...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Quién?! ¡¿Cómo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ji, ji, ji...
+No te muevas, Geo.
+<PUSH>
+¡Como te muevas estás
+muerto!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Que qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Venga, adivina quién soy!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mmm. ¡Eres {59}{E2}!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Geo>
+Eres tú, Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Mal, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Podrías haber fallado
+un par de veces, ¿no?
+Para darle emoción.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pues no lo había
+pensado...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Estos chicos...
+<PUSH>
+¡En fin! ¡Hacía mucho
+que no nos veíamos, así
+que me he pasado a saludar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Has venido a verme?
+¡Vaya, gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿Cuánto hace? ¿Un mes?
+<PUSH>
+Ya pensaba que te ibas
+a olvidar de mí y todo.
+¡Y no me da la gana!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Pero cómo iba a olvidarte!
+<PUSH>
+¡Eres mi primera Hermana,
+Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Je, je, exacto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡¿Qué tal, Mega?!
+<PUSH>
+¡Se te ve muy cómodo
+siendo el Wizard de Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lo que tú digas...
+<PUSH>
+No me digas que has
+venido con quien tú
+ya sabes...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Oh, ¿te refieres a mí,
+querido?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+No te hagas el duro.
+Sé que te alegras de
+verme. Jeje.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Agh!
+Estás aquí, <Lyra-color>.
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Pues claro.
+Soy la Wizard de Sonia.
+<PUSH>
+Pero ella no me controla
+ni nada.
+<PUSH>
+Soy una alienígena
+fuerte e independiente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Hala!
+<PUSH>
+¡¿Esa es Sonia Strum?!
+¡E-Es Sonia Strumm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡¿Sonia?!
+¡¿Sonia Strumm?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+La superestrella...
+Sonia Strumm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¡¿Está en <Echo.Ridge>?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Oh, oh! Me han pillado.
+¿Y ahora qué hacemos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Mira que te dije que
+vinieras de incógnito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Pero así cómo iban
+a reconocerme Ge
+ y los demás?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Deberías hacerme caso
+de vez en cuando.
+<PUSH>
+¡Suerte para salir
+de esta!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lo siento, chico.
+<PUSH>
+Pero te las tendrás
+que apañar solo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡L-Lyra, no me dejes
+cuando más te necesito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Cuando estamos juntos,
+me olvido de que Sonia
+es superfamosa...)
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Ahhh!
+SO{14}{E1}NI{14}{E1}A{14}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Q-Qué mal!
+¡Aquí se va a armar
+una buena!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Corre, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Qué? ¿Cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Tengo una idea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Bien, no nos han seguido.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Geo, lo siento mucho por
+presentarme sin pensar,
+Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No tienes por qué
+disculparte.
+<PUSH>
+No puedes evitar ser
+famosa.
+<PUSH>
+Y soy tu amigo. Cuando
+tú estás en problemas,
+tengo que ayudarte, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Eres el mejor, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Salgamos de aquí
+antes de que nos vean.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Pero, ¿cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+De una forma que solo
+nosotros podemos.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Ah, Cambio de onda EM!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Exacto.
+Vamos, en marcha.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Vamos a la Carretera
+de Ondas.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Vale!
+¡¿Estás lista, Lyra?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Estoy lista, Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Cambio de onda EM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Hacía mucho que no
+hacía un Cambio de onda.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale, a la Carretera
+de Ondas!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

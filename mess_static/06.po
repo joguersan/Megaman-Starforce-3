@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Echo Ridge"
+msgstr "Echo Ridge"
+
+msgctxt "1"
+msgid "Geo's LvRm"
+msgstr "Salón de Geo"
+
+msgctxt "2"
+msgid "Geo's Room"
+msgstr "Cuarto de Geo"
+
+msgctxt "3"
+msgid "Luna's Room"
+msgstr "Cuarto de Luna"
+
+msgctxt "4"
+msgid "Bud's Room"
+msgstr "Cuarto de Bud"
+
+msgctxt "5"
+msgid "Zack's Room"
+msgstr "Cuarto de Zack"
+
+msgctxt "6"
+msgid "BIG WAVE"
+msgstr "BIG WAVE"
+
+msgctxt "7"
+msgid "Sci. Club Room"
+msgstr "Aula ciencias"
+
+msgctxt "8"
+msgid "1st Floor Hall"
+msgstr "Pasillo 1er piso"
+
+msgctxt "9"
+msgid "2nd Floor Hall"
+msgstr "Pasillo 2º piso"
+
+msgctxt "10"
+msgid "Class 5-A"
+msgstr "Clase 5-A"
+
+msgctxt "11"
+msgid "Roof"
+msgstr "Azotea"
+
+msgctxt "12"
+msgid "Spica Mall"
+msgstr "C.C. Spica"
+
+msgctxt "13"
+msgid "Mall Event Area"
+msgstr "Zona de eventos"
+
+msgctxt "14"
+msgid "Candy Shop"
+msgstr "Confitería"
+
+msgctxt "15"
+msgid "Roof"
+msgstr "Azotea"
+
+msgctxt "16"
+msgid "WBG Studios"
+msgstr "Estudio WBG"
+
+msgctxt "17"
+msgid "WBG Main Bldg"
+msgstr "Edificio WBG"
+
+msgctxt "18"
+msgid "Event Stage"
+msgstr "Escenario"
+
+msgctxt "19"
+msgid "Event Stage"
+msgstr "Escenario"
+
+msgctxt "20"
+msgid "Alohaha"
+msgstr "Alohaha"
+
+msgctxt "21"
+msgid "Beach"
+msgstr "Playa"
+
+msgctxt "22"
+msgid "Beach"
+msgstr "Playa"
+
+msgctxt "23"
+msgid "Alohaha Castle"
+msgstr "Castillo Alohaha"
+
+msgctxt "24"
+msgid "Natl WAZA HQ"
+msgstr "Cuartel WAZA"
+
+msgctxt "25"
+msgid "SatellaPolice HQ"
+msgstr "Cuartel Satella"
+
+msgctxt "26"
+msgid "Command Center"
+msgstr "Centro de mando"
+
+msgctxt "27"
+msgid "Natl WAZA HQ"
+msgstr "Cuartel WAZA"
+
+msgctxt "28"
+msgid "SatellaPolice HQ"
+msgstr "Cuartel Satella"
+
+msgctxt "29"
+msgid "SatellaPolice HQ"
+msgstr "Cuartel Satella"
+
+msgctxt "30"
+msgid "Command Center"
+msgstr "Centro de mando"
+
+msgctxt "31"
+msgid "Secret Shelter"
+msgstr "Refugio secreto"
+
+msgctxt "32"
+msgid "Crimson Factory"
+msgstr "Fábrica Carmesí"
+
+msgctxt "33"
+msgid "Dealer Base"
+msgstr "Base Dealer"
+
+msgctxt "34"
+msgid "Orbital Base"
+msgstr "Base orbital"
+
+msgctxt "35"
+msgid "Outer Space"
+msgstr "Espacio exterior"
+
+msgctxt "36"
+msgid "Meteor Explosion"
+msgstr "Explosión met."
+
+msgctxt "37"
+msgid "Noise Wave1"
+msgstr "Disonancia 1"
+
+msgctxt "38"
+msgid "Noise Wave2"
+msgstr "Disonancia 2"
+
+msgctxt "39"
+msgid "Noise Wave3"
+msgstr "Disonancia 3"
+
+msgctxt "40"
+msgid "Noise Wave4"
+msgstr "Disonancia 4"
+
+msgctxt "41"
+msgid "Noise Wave5"
+msgstr "Disonancia 5"
+
+msgctxt "42"
+msgid "Noise Wave6"
+msgstr "6"
+
+msgctxt "43"
+msgid "School Noise"
+msgstr "Dis. escuela"
+
+msgctxt "44"
+msgid "Doghouse Noise"
+msgstr "Dis. caseta"
+
+msgctxt "45"
+msgid "Principal Noise"
+msgstr "Dis. director"
+
+msgctxt "46"
+msgid "Shop Front Noise"
+msgstr "Dis. fachada"
+
+msgctxt "47"
+msgid "Lighting Noise"
+msgstr "Dis. luz"
+
+msgctxt "48"
+msgid "Video Game Noise"
+msgstr "Dis. videojuego"
+
+msgctxt "49"
+msgid "Tennis Crt Noise"
+msgstr "Dis. pista tenis"
+
+msgctxt "50"
+msgid "Water Ctrl Noise"
+msgstr "Dis. Ctrl agua"
+
+msgctxt "51"
+msgid "Tree Noise"
+msgstr "Dis. árbol"
+
+msgctxt "52"
+msgid "Ctrl Panel Noise"
+msgstr "Dis. panel ctrl."
+
+msgctxt "53"
+msgid "Bud's Bed Noise"
+msgstr "Dis. cama de Bud"
+
+msgctxt "54"
+msgid "Podium Noise"
+msgstr "Dis. podio"
+
+msgctxt "55"
+msgid "Hoop Noise"
+msgstr "Dis. arco"
+
+msgctxt "56"
+msgid "Bathroom Noise"
+msgstr "Dis. baño"
+
+msgctxt "57"
+msgid "WBG Logo Noise"
+msgstr "Dis. logo WBG"
+
+msgctxt "58"
+msgid "Ship Noise"
+msgstr "Dis. barco"
+
+msgctxt "59"
+msgid "Fish Dsply Noise"
+msgstr "Dis. monitor pez"
+
+msgctxt "60"
+msgid "World Map Noise"
+msgstr "Dis. mapamundi"
+
+msgctxt "61"
+msgid "Cactus Noise"
+msgstr "Dis. cáctus"
+
+msgctxt "62"
+msgid "Wooden Box Noise"
+msgstr "Dis. caja madera"
+
+msgctxt "63"
+msgid "Coin Noise"
+msgstr "Dis. moneda"
+
+msgctxt "64"
+msgid "Port Noise"
+msgstr "Dis. puerto"
+
+msgctxt "65"
+msgid "Jamming Noise1"
+msgstr "Dis. inihibidor 1"
+
+msgctxt "66"
+msgid "Jamming Noise2"
+msgstr "Dis. inihibidor 2"
+
+msgctxt "67"
+msgid "Jamming Noise3"
+msgstr "Dis. inihibidor 3"
+
+msgctxt "68"
+msgid "Jamming Noise4"
+msgstr "Dis. inihibidor 4"
+
+msgctxt "69"
+msgid "Jamming Noise5"
+msgstr "Dis. inihibidor 5"
+
+msgctxt "70"
+msgid "Jamming Noise6"
+msgstr "Dis. inihibidor 6"
+
+msgctxt "71"
+msgid "Rocket CC1"
+msgstr "CN cohete 1"
+
+msgctxt "72"
+msgid "Rocket CC2"
+msgstr "CN cohete 2"
+
+msgctxt "73"
+msgid "Event Stage CC1"
+msgstr "CN escenario 1"
+
+msgctxt "74"
+msgid "Event Stage CC2"
+msgstr "CN escenario 2"
+
+msgctxt "75"
+msgid "Event Stage CC3"
+msgstr "CN escenario 3"
+
+msgctxt "76"
+msgid "Enviro Sys CC1"
+msgstr "CN sis. medio1"
+
+msgctxt "77"
+msgid "Enviro Sys CC2"
+msgstr "CN sis. medio2"
+
+msgctxt "78"
+msgid "Enviro Sys CC3"
+msgstr "CN sis. medio3"
+
+msgctxt "79"
+msgid "CC Abyss1"
+msgstr "CN abisal 1"
+
+msgctxt "80"
+msgid "CC Abyss2"
+msgstr "CN abisal 2"
+
+msgctxt "81"
+msgid "CC Abyss3"
+msgstr "CN abisal 3"
+
+msgctxt "82"
+msgid "CC Abyss4"
+msgstr "CN abisal 4"
+
+msgctxt "83"
+msgid "Crimson Mchn CC1"
+msgstr "CN máq. Carmesí1"
+
+msgctxt "84"
+msgid "Crimson Mchn CC2"
+msgstr "CN máq. Carmesí2"
+
+msgctxt "85"
+msgid "Crimson Mchn CC3"
+msgstr "CN máq. Carmesí3"
+
+msgctxt "86"
+msgid "Meteor Server1"
+msgstr "Serv. met. 1"
+
+msgctxt "87"
+msgid "Meteor Server2"
+msgstr "Serv. met. 2"
+
+msgctxt "88"
+msgid "Meteor Server3"
+msgstr "Serv. met. 3"
+
+msgctxt "89"
+msgid "Meteor Server4"
+msgstr "Serv. met. 4"
+
+msgctxt "90"
+msgid "Black Hole Srvr1"
+msgstr "Ser. aguj. neg. 1"
+
+msgctxt "91"
+msgid "Black Hole Srvr2"
+msgstr "Ser. aguj. neg. 2"
+
+msgctxt "92"
+msgid "Luna's House CC"
+msgstr "CN casa Luna"
+
+msgctxt "93"
+msgid "Memorial Tree CC"
+msgstr "CN árbol conm."
+
+msgctxt "94"
+msgid "Security Sys CC"
+msgstr "CN sistema seg."
+
+msgctxt "95"
+msgid "Stunt Car CC"
+msgstr "CN coche"
+
+msgctxt "96"
+msgid "Prop Cabinet CC"
+msgstr ""
+
+msgctxt "97"
+msgid "Stone wall CC"
+msgstr "CN muro piedra"
+
+msgctxt "98"
+msgid "IslandDisplay CC"
+msgstr "CN pantalla isla"
+
+msgctxt "99"
+msgid "Info Board CC"
+msgstr "CN tablón"
+
+msgctxt "100"
+msgid "Main Computer CC"
+msgstr "CN orden. central"
+
+msgctxt "101"
+msgid "King Wall CC"
+msgstr "CN muro King"
+
+msgctxt "102"
+msgid "Crimson Tank CC"
+msgstr "CN tanque Carm."
+
+msgctxt "103"
+msgid "Meteor G Ctrl CC"
+msgstr "CN Ctrl. Met. G"
+
+msgctxt "104"
+msgid "Info Kiosk CC"
+msgstr "CN psto. inf."
+
+msgctxt "105"
+msgid "ERidge Wicket CC"
+msgstr "CN par. ERidge"
+
+msgctxt "106"
+msgid "Trophy CC"
+msgstr "CN trofeo"
+
+msgctxt "107"
+msgid "Moth Display CC"
+msgstr "CN mon. polilla"
+
+msgctxt "108"
+msgid "Human Model CC"
+msgstr "CN modelo hum."
+
+msgctxt "109"
+msgid "Sprinkler CC"
+msgstr "CN aspersor"
+
+msgctxt "110"
+msgid "Spica Wicket CC"
+msgstr "CN parada Spica"
+
+msgctxt "111"
+msgid "Trash Can CC"
+msgstr "CN papelera"
+
+msgctxt "112"
+msgid "Spimo the Cat CC"
+msgstr "CN Spimo el gato"
+
+msgctxt "113"
+msgid "WBG Wicket CC"
+msgstr "CN parada WBG"
+
+msgctxt "114"
+msgid "Water Ctrl CC"
+msgstr "CN Ctrl. agua"
+
+msgctxt "115"
+msgid "Studio Set CC"
+msgstr "CN estudio"
+
+msgctxt "116"
+msgid "Card Vendor CC"
+msgstr "CN concesion."
+
+msgctxt "117"
+msgid "Gum Machine CC"
+msgstr "CN máq. chicles"
+
+msgctxt "118"
+msgid "Alohaha Dog CC"
+msgstr "CN perro Aloha."
+
+msgctxt "119"
+msgid "Dragon Statue CC"
+msgstr "CN estatua drag."
+
+msgctxt "120"
+msgid "Fish CC"
+msgstr "CN pez"
+
+msgctxt "121"
+msgid "Antenna CC"
+msgstr "CN antena"
+
+msgctxt "122"
+msgid "Mini Antenna CC"
+msgstr "CN miniantena"
+
+msgctxt "123"
+msgid "Desk CC"
+msgstr "CN escritorio"
+
+msgctxt "124"
+msgid "AC System CC"
+msgstr "CN aire acond."
+
+msgctxt "125"
+msgid "Air Duct CC"
+msgstr "CN conducto"
+
+msgctxt "126"
+msgid "Analysis Unit CC"
+msgstr "CN uni. análisis"
+
+msgctxt "127"
+msgid "Giant Monitor CC"
+msgstr "CN monitor giga."
+
+msgctxt "128"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "129"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "130"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "131"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "132"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "133"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "134"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "135"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "136"
+msgid "Mr. Hertz Square"
+msgstr "Plaza Sr. Hercio"
+
+msgctxt "137"
+msgid "School Gate CC"
+msgstr "CN puerta esc."
+
+msgctxt "138"
+msgid "Dentist CC"
+msgstr "CN dentista"
+
+msgctxt "139"
+msgid "Food Stand CC"
+msgstr "CN puesto comida"
+
+msgctxt "140"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "141"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "142"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "143"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "144"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "145"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "146"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "147"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "148"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "149"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "150"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "151"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "152"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "153"
+msgid "Principal CC"
+msgstr "CN director"
+
+msgctxt "154"
+msgid "Shooting Game CC"
+msgstr "CN videojuego"
+
+msgctxt "155"
+msgid "Regulator CC"
+msgstr "CN regulador"
+
+msgctxt "156"
+msgid "Admin Monitor CC"
+msgstr "CN monitor admin"
+
+msgctxt "157"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "158"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "159"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "160"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "161"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "162"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "163"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "164"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "165"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "166"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "167"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "168"
+msgid "?"
+msgstr "¿?"
+
+msgctxt "169"
+msgid "Natl Astro Wave1"
+msgstr "Onda aérea nac.1"
+
+msgctxt "170"
+msgid "Natl Astro Wave2"
+msgstr "Onda aérea nac.2"
+
+msgctxt "171"
+msgid "OuterAstro Wave1"
+msgstr "Onda aérea ext.1"
+
+msgctxt "172"
+msgid "OuterAstro Wave2"
+msgstr "Onda aérea ext.2"
+
+msgctxt "173"
+msgid "PlntFMAstroWave1"
+msgstr "Onda plan. FM 1"
+
+msgctxt "174"
+msgid "PlntFMAstroWave2"
+msgstr "Onda plan. FM 2"
+
+msgctxt "175"
+msgid "PlntFMAstroWave3"
+msgstr "Onda plan. FM 3"
+
+msgctxt "176"
+msgid "Debug"
+msgstr "Debug"

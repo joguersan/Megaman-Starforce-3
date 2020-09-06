@@ -1,0 +1,424 @@
+[SENTENCE NUMBER 1]
+As Host
+[END]
+
+[SENTENCE NUMBER 2]
+As Client
+[END]
+
+[SENTENCE NUMBER 3]
+Enter No.
+[END]
+
+[SENTENCE NUMBER 4]
+Network
+[END]
+
+[SENTENCE NUMBER 5]
+DS Wireless Play
+[END]
+
+[SENTENCE NUMBER 6]
+{49}{33}{14}{33}{22}{33}{4D}{33}{18}{33}{27}{33}{03}{33}{36}{33}{51}{33}{57}{33}{0D}{33}{26}{33}{23}{33}{2B}{33}{4A}{33}{3B}{33}{9C}{33}{9D}{33}
+[END]
+
+[SENTENCE NUMBER 7]
+As Client
+[END]
+
+[SENTENCE NUMBER 8]
+As Host
+[END]
+
+[SENTENCE NUMBER 9]
+WaveBattle
+[END]
+
+[SENTENCE NUMBER 10]
+Pairing
+[END]
+
+[SENTENCE NUMBER 11]
+Opponent
+[END]
+
+[SENTENCE NUMBER 12]
+DS Wireless Play
+[END]
+
+[SENTENCE NUMBER 13]
+{49}{33}{14}{33}{22}{33}{4D}{33}{18}{33}{27}{33}{03}{33}{36}{33}{51}{33}{57}{33}{0D}{33}{26}{33}{23}{33}{2B}{33}{4A}{33}{3B}{33}{9C}{33}{9D}{33}
+[END]
+
+[SENTENCE NUMBER 14]
+Data Update
+[END]
+
+[SENTENCE NUMBER 15]
+Online Setup
+[END]
+
+[SENTENCE NUMBER 16]
+Wave Battle
+[END]
+
+[SENTENCE NUMBER 17]
+Card Trading
+[END]
+
+[SENTENCE NUMBER 18]
+Brother Invitation
+[END]
+
+[SENTENCE NUMBER 19]
+Reg. Battle Mate
+[END]
+
+[SENTENCE NUMBER 20]
+Disconnect
+[END]
+
+[SENTENCE NUMBER 21]
+Wi-Fi Wave Battle
+[END]
+
+[SENTENCE NUMBER 22]
+Friend Code Invt
+[END]
+
+[SENTENCE NUMBER 23]
+Friend Code BM Reg
+[END]
+
+[SENTENCE NUMBER 24]
+1 Match Practice
+[END]
+
+[SENTENCE NUMBER 25]
+3 Match Practice
+[END]
+
+[SENTENCE NUMBER 26]
+1 Match Battle
+[END]
+
+[SENTENCE NUMBER 27]
+3 Match Battle
+[END]
+
+[SENTENCE NUMBER 28]
+Rslt     B     W
+[END]
+
+[SENTENCE NUMBER 29]
+     {24}{E1}{04}{00}  {25}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 30]
+OnlinRslt     B     W Nul
+[END]
+
+[SENTENCE NUMBER 31]
+          {24}{E1}{04}{00}  {25}{E1}{04}{00}     {26}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 32]
+Nul {26}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 33]
+{2A}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 34]
+Card-based PwrUp: OK
+[END]
+
+[SENTENCE NUMBER 35]
+Card-based PwrUp: NO
+[END]
+
+[SENTENCE NUMBER 36]
+Opp. Strength: Any
+[END]
+
+[SENTENCE NUMBER 37]
+Opp. Strength: Same
+[END]
+
+[SENTENCE NUMBER 38]
+Wave AtkStar use: OK
+[END]
+
+[SENTENCE NUMBER 39]
+Wave AtkStar use: NO
+[END]
+
+[SENTENCE NUMBER 40]
+1 Match Battle
+[END]
+
+[SENTENCE NUMBER 41]
+3 Match Battle
+[END]
+
+[SENTENCE NUMBER 42]
+Quit Battle
+[END]
+
+[SENTENCE NUMBER 43]
+Chat
+[END]
+
+[SENTENCE NUMBER 44]
+Lns {28}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 45]
+{2D}{E1}
+[END]
+
+[SENTENCE NUMBER 46]
+You: {2C}{E1}
+[END]
+
+[SENTENCE NUMBER 47]
+Opp: {2D}{E1}
+[END]
+
+[SENTENCE NUMBER 48]
+Let's get it on!
+[END]
+
+[SENTENCE NUMBER 49]
+Hi!
+[END]
+
+[SENTENCE NUMBER 50]
+Hello!
+[END]
+
+[SENTENCE NUMBER 51]
+Nice to meet you!
+[END]
+
+[SENTENCE NUMBER 52]
+We meet again!
+[END]
+
+[SENTENCE NUMBER 53]
+Well done!
+[END]
+
+[SENTENCE NUMBER 54]
+Great battle!
+[END]
+
+[SENTENCE NUMBER 55]
+You're on fire!
+[END]
+
+[SENTENCE NUMBER 56]
+Not bad at all!
+[END]
+
+[SENTENCE NUMBER 57]
+I'll win next time!
+[END]
+
+[SENTENCE NUMBER 58]
+I gotta go soon.
+[END]
+
+[SENTENCE NUMBER 59]
+Let's meet again!
+[END]
+
+[SENTENCE NUMBER 60]
+Good night!
+[END]
+
+[SENTENCE NUMBER 61]
+Bye-bye!
+[END]
+
+[SENTENCE NUMBER 62]
+I did it!
+[END]
+
+[SENTENCE NUMBER 63]
+Whoa!
+[END]
+
+[SENTENCE NUMBER 64]
+Graaagh!
+[END]
+
+[SENTENCE NUMBER 65]
+Argh!
+[END]
+
+[SENTENCE NUMBER 66]
+It's Legendary!
+[END]
+
+[SENTENCE NUMBER 67]
+Not Legendary!
+[END]
+
+[SENTENCE NUMBER 68]
+LibraN.
+[END]
+
+[SENTENCE NUMBER 69]
+CorvusN.
+[END]
+
+[SENTENCE NUMBER 70]
+CancerN.
+[END]
+
+[SENTENCE NUMBER 71]
+GeminiN.
+[END]
+
+[SENTENCE NUMBER 72]
+OphiucaN.
+[END]
+
+[SENTENCE NUMBER 73]
+CygnusN.
+[END]
+
+[SENTENCE NUMBER 74]
+TaurusN.
+[END]
+
+[SENTENCE NUMBER 75]
+VirgoN.
+[END]
+
+[SENTENCE NUMBER 76]
+CrownN.
+[END]
+
+[SENTENCE NUMBER 77]
+WolfN.
+[END]
+
+[SENTENCE NUMBER 78]
+Give up
+[END]
+
+[SENTENCE NUMBER 79]
+OnlinRslt
+[END]
+
+[SENTENCE NUMBER 80]
+    B     W
+[END]
+
+[SENTENCE NUMBER 81]
+Null B     
+[END]
+
+[SENTENCE NUMBER 82]
+{2F}{E1}
+[END]
+
+[SENTENCE NUMBER 83]
+{24}{E1}{04}{00}  {25}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 84]
+        {26}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 85]
+AcidAce{64}{21}
+[END]
+
+[SENTENCE NUMBER 86]
+DreadJokr{61}{21}
+[END]
+
+[SENTENCE NUMBER 87]
+NO DATA
+[END]
+
+[SENTENCE NUMBER 88]
+Selecting
+[END]
+
+[SENTENCE NUMBER 89]
+Trade?
+[END]
+
+[SENTENCE NUMBER 90]
+Yes
+[END]
+
+[SENTENCE NUMBER 91]
+No
+[END]
+
+[SENTENCE NUMBER 92]
+Trade
+[END]
+
+[SENTENCE NUMBER 93]
+AcidArrest
+[END]
+
+[SENTENCE NUMBER 94]
+CrmsnMteor
+[END]
+
+[SENTENCE NUMBER 95]
+BlueCrown1
+[END]
+
+[SENTENCE NUMBER 96]
+SlvrCrown1
+[END]
+
+[SENTENCE NUMBER 97]
+GoldCrown1
+[END]
+
+[SENTENCE NUMBER 98]
+CrwnDlete1
+[END]
+
+[SENTENCE NUMBER 99]
+BlueCrown2
+[END]
+
+[SENTENCE NUMBER 100]
+SlvrCrown2
+[END]
+
+[SENTENCE NUMBER 101]
+GoldCrown2
+[END]
+
+[SENTENCE NUMBER 102]
+CrwnDlete2
+[END]
+
+[SENTENCE NUMBER 103]
+BlueCrown3
+[END]
+
+[SENTENCE NUMBER 104]
+SlvrCrown3
+[END]
+
+[SENTENCE NUMBER 105]
+GoldCrown3
+[END]
+
+[SENTENCE NUMBER 106]
+CrwnDlete3
+[END]
+

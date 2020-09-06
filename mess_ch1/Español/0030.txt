@@ -1,0 +1,81 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Uuhh, uuhh
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Qué está pasando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Se ha activado el
+sistema de seguridad!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Pero por qué?
+No ha pasado nada raro,
+¿no?...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Eh, ¿qué hacemos?!
+¡Estamos atrapados!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Ya lo sé, Mega!
+<PUSH>
+El sistema de seguridad
+debe de estar por aquí...
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+En el mapa del <Spica.Mall>,
+el sistema de seguridad
+está tras esa puerta.
+<PUSH>
+Pero la estructura del
+edificio es algo
+enrevesada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Gracias, Pedia!
+<PUSH>
+¡Investigaré el CN del
+sistema de seguridad
+como Mega Man!
+<PUSH>
+
+[END]
+

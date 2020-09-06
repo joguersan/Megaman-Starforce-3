@@ -1,0 +1,214 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+He's not here...
+<PUSH>
+I figured he would have
+come this way.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Um, excuse me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}What can I do for ya?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Have you seen a boy the
+same age as me come by
+here?
+<PUSH>
+I'm looking for a classmate
+of mine...
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}I've seen several boys
+lately, so you'll have to
+be a little more specific.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+He has black hair...
+<PUSH>
+And he's a little shorter
+than me...
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}I see.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Geez!
+<PUSH>
+Investigating stupid people
+is just as boring as I
+thought it would be!
+<PUSH>
+I'll just take him out, right
+now!
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+...Jack.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+What is it, Corvus?
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+I wanna know Mega Man's
+true power, man.
+<PUSH>
+But you'd be crazy to
+ignore Mr. King's orders.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I suppose you're right...
+OK, but first, I'll just do
+a little trial test!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Oof!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+?
+<PUSH>
+What happened?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Something's wrong with my
+body...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, could it be...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}Graaaaaaw!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+O-Oh no!
+He's out of control!
+<PUSH>
+Why is this always
+happening around me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Stay frosty, kid!
+It's EM Wave Change time!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It looks like we have no
+other choice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's rock, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+Let's stop this guy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

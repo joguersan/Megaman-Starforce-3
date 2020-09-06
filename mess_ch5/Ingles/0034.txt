@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Say goodbye!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

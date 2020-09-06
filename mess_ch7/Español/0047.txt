@@ -1,0 +1,148 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}!{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Vas a rendirte?
+<PUSH>
+Pensaba que ibas a luchar
+tú en mi lugar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}c{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}e{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Levanta, Mega Man.
+<PUSH>
+En la Tierra te esperan
+muchos amigos...
+<PUSH>
+Cree en ti mismo...
+Y en lo que puedes hacer...
+<PUSH>
+O sea.{13}{E1}.{13}{E1}.{13}{E1}
+No pensarás que estoy
+acabado, ¿no?
+<PUSH>
+¿Entonces qué haces ahí
+tirado en el suelo?
+<PUSH>
+Puedes hacerlo...
+<PUSH>
+Y no olvides...
+¡Que eres el mayor héroe
+del mundo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ja, ja. Gracias, Ace.
+<PUSH>
+Además, no podría mirarte
+a la cara si me rindiera
+ahora...
+<PUSH>
+Quiero hacerlo...
+<PUSH>
+Voy a hacerlo, Ace...
+<PUSH>
+¡Aún me queda mucha
+vida dentro!
+<PUSH>
+¡Pienso luchar hasta
+el final!
+<PUSH>
+Rendirme...
+¡¡no es una opción!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+.{15}{E1}.{15}{E1}.{15}{E1} ¡¡Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Vamos allá, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Geo, entra al Meteoro G!
+<PUSH>
+¡¡Luego extrae la energía
+que hay en el Ruido!!
+<PUSH>
+¡¡Eso te dará un poder
+ilimitado para cumplir tu
+deseo de proteger a los demás!!
+<PUSH>
+¡¡Completa tu Propósito, Geo!!
+<PUSH>
+¡¡Yo creo en ti!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Gracias...
+También lucharé por ti...
+<PUSH>
+¡¡Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡S{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+

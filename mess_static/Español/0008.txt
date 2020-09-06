@@ -1,0 +1,52 @@
+[SENTENCE NUMBER 1]
+Other
+[END]
+
+[SENTENCE NUMBER 2]
+Echo Ridge
+[END]
+
+[SENTENCE NUMBER 3]
+Echo Ridge Elem.
+[END]
+
+[SENTENCE NUMBER 4]
+Spica Mall
+[END]
+
+[SENTENCE NUMBER 5]
+WBG Studios
+[END]
+
+[SENTENCE NUMBER 6]
+Alohaha
+[END]
+
+[SENTENCE NUMBER 7]
+WAZA
+[END]
+
+[SENTENCE NUMBER 8]
+Dealer Base
+[END]
+
+[SENTENCE NUMBER 9]
+Orbital Base
+[END]
+
+[SENTENCE NUMBER 10]
+Natl Astro Wave
+[END]
+
+[SENTENCE NUMBER 11]
+Outer Astro Wave
+[END]
+
+[SENTENCE NUMBER 12]
+PlntFMAstroWave
+[END]
+
+[SENTENCE NUMBER 13]
+Noise Wave
+[END]
+

@@ -1,0 +1,173 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alright, next up I'll cover
+how to lock-on and the
+Mega Attack.
+<PUSH>
+Select two sword-type
+cards, will ya?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Pick a card already!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I said sword-type cards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pick one more, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+This is no time to run!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alright, let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You're ready, right?
+Good, it's explanation time.
+<PUSH>
+The Mega Attack is a
+combination attack
+between you and I.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, I remember.
+<PUSH>
+First I press down on the
++Control Pad, then I'll switch
+into lock-on mode.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Right. Pressing down on the
++Control Pad switches you
+into lock-on mode.
+<PUSH>
+This will make arrows appear
+and point in three directions.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+If you see the arrows, then
+you are in lock-on mode.
+So...
+<PUSH>
+While in lock-on mode, a
+round sight will appear on
+<PUSH>
+any enemies directly or
+diagonally in front of you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's called a lock-on sight.
+Try using a sword once a
+lock-on sight appears.
+<PUSH>
+We'll rush right up to the
+enemy and attack it thanks
+to my awesome speed!
+<PUSH>
+First, press down on the
++Control Pad, then when a
+<PUSH>
+round sight appears, press
+the A Button!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

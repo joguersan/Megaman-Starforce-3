@@ -1,0 +1,456 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+......
+<PUSH>
+Oh, my. It looks like
+you turned off the power
+in the middle of a
+<PUSH>
+Wi-Fi head-to-head match. 
+{2C}{E1}, that was
+very unsporting of you.
+<PUSH>
+Turning off the power
+like that will cause
+the other party to get
+<PUSH>
+a communication error.
+Don't you know that?
+<PUSH>
+Wave Battlers must
+fight fairly all the way till
+the end, no matter what.
+<PUSH>
+What's that you say?
+<PUSH>
+You didn't do it on
+purpose? It was an
+accident?
+<PUSH>
+Well, I suppose
+things like that can
+happen now and again.
+<PUSH>
+I apologize for accusing
+you of playing unfairly.
+<PUSH>
+But did you know that
+even when you turn the
+power off in the middle
+<PUSH>
+of a Wi-Fi head-to-head
+match, even accidentally,
+<PUSH>
+it is counted in the
+Wi-Fi battle results
+record as a Null Battle?
+<PUSH>
+If you get too many null
+battles, people will
+think of you as a person
+<PUSH>
+who always turns the
+power off when you are
+losing.
+<PUSH>
+And we wouldn't want that
+now, would we?
+<PUSH>
+So from now on, please be
+very careful.
+<PUSH>
+Oh, dear. There I go again
+running off at the mouth.
+<PUSH>
+You know how Arthur gets
+when I just ramble on
+and on.
+<PUSH>
+......
+<PUSH>
+So move on, get back
+out there and have
+some Wave Battle fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+It's a shame that we have
+to meet back here like
+this, {2C}{E1}.
+<PUSH>
+I don't like to have to come
+here and lecture you,
+you know.
+<PUSH>
+So, where should I begin?
+Oh, I know. Have you ever
+been in love?
+<PUSH>
+Well I may not look it now,
+but when I was your age,
+I was a very popular girl.
+<PUSH>
+I couldn't take 10 steps on
+<Alohaha> Beach without
+some boy cat-calling me.
+<PUSH>
+*chuckle* But that's a
+whole 'nother story. What
+I want to tell you is
+<PUSH>
+there's a difference
+between infatuation and love.
+<PUSH>
+To be infatuated with
+someone is easy.
+<PUSH>
+Your heart goes
+pit-a-pat when you see
+that person, but it isn't
+<PUSH>
+necessary to get to know
+how they feel.
+<PUSH>
+It's a one-way emotion.
+<PUSH>
+But love, on the other hand,
+is different.
+<PUSH>
+When you love someone, you
+care about how that person
+feels; what makes them
+<PUSH>
+happy as well as what
+makes them sad.
+<PUSH>
+It takes effort to love,
+and it's not something you
+do alone.
+<PUSH>
+I know now that those
+boys on the beach
+were infatuated with me,
+<PUSH>
+but probably weren't in
+love with me.
+<PUSH>
+They were just children.
+And so it is with
+Wave Battling.
+<PUSH>
+Turning off the power when
+you are going to lose...
+That's a very
+<PUSH>
+mean and quite frankly,
+selfish thing to do.
+<PUSH>
+Great Wave Battlers think
+about the feelings of
+their opponents.
+<PUSH>
+Even when we lose, we must
+be thankful for the mere
+opportunity to have battled.
+<PUSH>
+Do you understand?
+<PUSH>
+If we battle fair and square,
+we create an atmosphere
+where everyone has fun.
+<PUSH>
+I think you've got the
+message, so I'll cut my
+lecture short this time.
+<PUSH>
+Thank you for
+paying attention.
+<PUSH>
+OK, get back out there
+and do your best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+......
+<PUSH>
+......
+......
+<PUSH>
+Why.... you little! Get
+your act together right
+this instant! ...... 
+<PUSH>
+*chuckle* I bet I gave
+you a scare, didn't I?
+<PUSH>
+I was once asked if I would
+be an actress.
+<PUSH>
+But never mind that now.
+<PUSH>
+Once again, you turned
+off the power in the
+<PUSH>
+middle of a Wi-Fi
+head-to-head match.
+<PUSH>
+And this time I can't just
+stand by and look the
+other way.
+<PUSH>
+This time there will be
+consequences. {2C}{E1},
+I'll give you a choice.
+<PUSH>
+I can take away your right
+to get Illegal Cards.
+<PUSH>
+That means that all
+Illegal Cards that you
+get will have to be
+<PUSH>
+surrendered to WAZA and
+the Satella Police
+Department. Or,
+<PUSH>
+I can confiscate all the
+Battle Cards currently in
+your possession.
+<PUSH>
+Which is it
+going to be?
+{10}{EC}{00}{00}Give up right to Illegal Cards
+{10}{EC}{01}{00}Give up all Battle Cards
+{10}{EC}{02}{00}Apologize profusely
+{0F}{EC}{02}{00}{00}{00}{00}{00}{00}{00}{1B}{EC}{00}{00}{03}{00}{1B}{EC}{03}{00}{04}{00}{04}{EC}
+<NEW-DIALOG>
+<Dr.Goodall>
+{2C}{E1},
+that isn't an answer
+to my question.
+{0F}{EC}{01}{00}{00}{00}{00}{00}{00}{00}{1B}{EC}{00}{00}{03}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+{07}{E1}{01}{00}{00}{00}{04}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+You have given up your
+right to Illegal Cards!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{05}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+{07}{E1}{01}{00}{01}{00}{04}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+All of your Battle Cards
+have been confiscated!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{05}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+This should help you stop
+making the same mistake
+over and over again.
+<PUSH>
+Well, I guess I'm done
+here.
+<PUSH>
+Good-b...
+What's that you say?
+<PUSH>
+If you're really sorry, will I
+undo your punishment?
+<PUSH>
+That's going to be a little
+tough, youngin'.
+<PUSH>
+The world has rules so
+that order is preserved,
+<PUSH>
+and punishments for those
+who break them.
+<PUSH>
+You're sorry from the
+bottom of your heart?
+<PUSH>
+Well I don't know...
+<PUSH>
+......
+<PUSH>
+......
+<PUSH>
+......
+<PUSH>
+OK, but I want to
+be sure that you are
+genuinely sorry.
+<PUSH>
+So, I'm going to give
+you some time to think
+about what you have done
+<PUSH>
+and do some
+soul-searching.
+<PUSH>
+Understand?
+<PUSH>
+OK, start!
+<PUSH>
+
+<END-DIALOG>
+
+<START-DIALOG>
+{10}{E2}{1C}{02}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Soul-searching...
+{00}{E1}{10}{0E}{10}{E2}{1C}{02}
+<END-DIALOG>
+{04}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+OK. You did very well,
+{2C}{E1}. I'll let you off
+this time without any penalty.
+<PUSH>
+
+<END-DIALOG>
+{08}{E1}{0E}{00}{00}{00}{06}{00}{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{10}{E2}{CB}{00}
+<NEW-DIALOG>
+<Game>
+Your right to get
+Illegal Cards has been
+restored!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{10}{E2}{CB}{00}
+<NEW-DIALOG>
+<Game>
+All of your Battle Cards
+have been restored!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I'm only going to do you
+this favor once.
+<PUSH>
+So move on, get back
+out there and have some
+Wave Battle fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+......
+<PUSH>
+There's nothing else I can
+say to you. Take a two-
+<PUSH>
+minute time out and think
+about what you've done.
+<PUSH>
+
+<END-DIALOG>
+
+<START-DIALOG>
+{10}{E2}{1C}{02}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Soul-searching...
+{00}{E1}{20}{1C}{10}{E2}{1C}{02}
+<END-DIALOG>
+{04}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+OK, that's enough.
+<PUSH>
+So move on, get back
+out there and have some
+Wave Battle fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

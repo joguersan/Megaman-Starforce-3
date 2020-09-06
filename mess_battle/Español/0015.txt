@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Tauro
+<PUSH>
+Equipa ArmadSpr
+<PUSH>
+Cartas Fuego no aten.:
+ataque +50
+<PUSH>
+Ataque cargado:
+"Cañón calorífico",
+al golpear incendia
+<PUSH>
+3 paneles traseros
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Tauro
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C6}{10}
+[END]
+

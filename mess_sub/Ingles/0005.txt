@@ -1,0 +1,115 @@
+[SENTENCE NUMBER 1]
+Fangs attached
+to Mega's armor.
+[END]
+
+[SENTENCE NUMBER 2]
+A powerful,
+well-balanced earring.
+[END]
+
+[SENTENCE NUMBER 3]
+A claw that paralyzes
+foes for a while
+with a Charged Shot.
+[END]
+
+[SENTENCE NUMBER 4]
+Charge up faster
+with this ring.
+[END]
+
+[SENTENCE NUMBER 5]
+Fangs that may
+bubble foes with a
+Charged Shot.
+[END]
+
+[SENTENCE NUMBER 6]
+An earring with blazing
+fast charge speed.
+[END]
+
+[SENTENCE NUMBER 7]
+Wings that paralyze
+foes for a while
+with a Charged Shot.
+[END]
+
+[SENTENCE NUMBER 8]
+Claws that slice
+at super speed.
+[END]
+
+[SENTENCE NUMBER 9]
+Get only Zennys
+from battles.
+[END]
+
+[SENTENCE NUMBER 10]
+A glove with superb
+striking power.
+[END]
+
+[SENTENCE NUMBER 11]
+A charged Shot that
+blinds foes.
+[END]
+
+[SENTENCE NUMBER 12]
+A top-grade weapon with
+extreme striking power.
+[END]
+
+[SENTENCE NUMBER 13]
+A Charged Shot that
+may give foes HP bugs.
+[END]
+
+[SENTENCE NUMBER 14]
+A Charged Shot that
+confuses foes.
+[END]
+
+[SENTENCE NUMBER 15]
+A bracelet that cracks
+the panels it hits.
+[END]
+
+[SENTENCE NUMBER 16]
+Get only Battle Cards
+from battles.
+[END]
+
+[SENTENCE NUMBER 17]
+A top-grade weapon with
+the power of the stars.
+[END]
+
+[SENTENCE NUMBER 18]
+An item infused with the
+chivalrous fighting spirit
+of a knight.
+[END]
+
+[SENTENCE NUMBER 19]
+A Charged Shot that
+may freeze foes.
+[END]
+
+[SENTENCE NUMBER 20]
+Claws that can cause
+a whirlwind.
+[END]
+
+[SENTENCE NUMBER 21]
+A powerful but dangerous
+ring when used with a
+Charged Shot.
+[END]
+
+[SENTENCE NUMBER 22]
+Legendary hero's
+rapid-fire weapon.
+[END]
+

@@ -1,0 +1,124 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}.{02}{00}{0C}{E1}{01}{00}O{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+tTHE ENVIRONMENTAL
+SYSTEM IS WORKING FINE!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWHAT CAN I DO FOR YOU?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Excuse me... Could I have a
+look at that shiny thing on
+your head?
+<PUSH>
+
+<NEW-DIALOG>
+tWH-WHAT'S THE BIG DEAL!?
+<PUSH>
+DO YOU WANT ME TO CALL
+THE COPS!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...Did you call?
+<PUSH>
+
+<NEW-DIALOG>
+tYES, I DID!
+THIS RUDE GUY TRIED TO...
+<PUSH>
+...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}COPS...
+<PUSH>
+COPS!?
+<PUSH>
+WHAT IS THE SATELLA
+POLICE DOING HERE!?
+<PUSH>
+I WONDER IF THAT DATA I
+FOUND HAS ANYTHING TO
+DO WITH THIS?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So, you're the one with
+the data!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hand over that Prez piece,
+now!
+<PUSH>
+
+<NEW-DIALOG>
+tOK, OK.
+HERE IT IS...
+<PUSH>
+...{15}{E1}AHH, OOPS!
+<PUSH>
+{0A}{E1}{25}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI-I'M SORRY...
+I WON'T DO IT AGAIN...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWood Elemental viruses in
+this Cyber Core gradually
+<PUSH>
+recover their HP on grass
+panels!
+<PUSH>
+Be careful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

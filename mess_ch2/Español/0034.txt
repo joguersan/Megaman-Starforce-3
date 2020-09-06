@@ -1,0 +1,191 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿La Carretera de Ondas
+está congelada?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Debe de haber un problema
+con la temperatura de las
+ondas EM. Maldita Ice.
+<PUSH>
+Escucha, chico.
+<PUSH>
+Al estar sobre el suelo
+helado, nuesra
+temperatura disminuirá.
+<PUSH>
+Cuando nuestro cuerpo
+alcance el mínimo...
+<PUSH>
+No congelaremos y
+estaremos aquí atrapados
+para siempre.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Y con Cartas de Batalla?
+¿Podemos derretir el
+hielo con cartas de fuego?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No, no servirá.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pues nada...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nuestra temperatura
+aumentará al estar
+sobre suelo normal.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Entonces... Tenemos
+que ir a suelo normal
+antes de congelarnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lo has pillado, chico.
+Voy a mostrar un termómetro,
+no lo pierdas de vista.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Gracias, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ten cuidado, seguimos
+estando en peligro.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ya lo sé, pero no tenemos
+elección. Prometo que
+no acabaremos congelados.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Eh, Mega Man.
+Me toca otra vez, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Por si acaso, he abierto
+una línea de comunicación.
+<PUSH>
+¡Tocad mi notificación
+si se vacía el termómetro!
+<PUSH>
+Os dejaré bien calentitos
+con mi Llama Taurus.
+<PUSH>
+Pero no soporto el frío.
+<PUSH>
+Solo podré aparecer
+durante diez segundos.
+<PUSH>
+Y no puedo usar bien mi
+Llama Taurus con tanto frío.
+<PUSH>
+Tendréis que pulsar el
+botón A sin parar esos
+diez segundos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Y si lo hago mal?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Romperé el hielo y os
+sacaré de ahí, pero...
+<PUSH>
+No recuperaréis toda
+la temperatura corporal.
+<PUSH>
+Por eso tenéis que darlo
+todo esos diez segundos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+Si me congelo, cuento
+contigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Ja. Seguro que no hará
+ni falta. No te precupes.
+<PUSH>
+Pero si alguna barrera de
+hielo os cierra el paso,
+<PUSH>
+llamadme y me ocuparé
+de ella.
+<PUSH>
+¡Venga, al lío!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Taurus!
+<PUSH>
+¡Vamos allá, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

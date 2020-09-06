@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Libra Noise
+<PUSH>
+Non-dimming, Non-elemental
+cards restore HP
+<PUSH>
+Fire and Aqua Elemental
+card attacks +10
+<PUSH>
+Charged attack:
+"Side Spread", when hits,
+damage spreads to all sides
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Libra Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C0}{10}
+[END]
+

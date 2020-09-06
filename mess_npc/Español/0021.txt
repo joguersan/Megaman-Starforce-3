@@ -1,0 +1,2426 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tStart demo0309!
+Temp Message.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}%{0D}{00}{0C}{E1}{01}{00}${0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Look at all this tasty,
+tasty-looking food
+around here!
+<PUSH>
+I guess I'll start at
+this stand, and go
+to them all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}2{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geooooo! Geoooooo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wh-What's wrong, Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+There's something wrong
+with the machine at this
+stall!
+<PUSH>
+It's saying that it can't
+make any food!
+<PUSH>
+
+<NEW-DIALOG>
++I'm sorry.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, this isn't the only
+stand out here. Why don't
+you try another one?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No way! I've been looking
+forward to eating at this
+stand for ages!
+<PUSH>
+
+<NEW-DIALOG>
++Look, I'm really sorry.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm... This is an
+awkward situation...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What if there's a problem
+with the Cyber Core?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well then, let's go in
+and have a look.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I owe you one, Geo!
+I would Wave Change and
+try to go in myself,
+<PUSH>
+but I don't know how to
+trans in yet.
+<PUSH>
+{0A}{E1}2
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+It looks like this stand
+is having some Cyber Core
+trouble.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wait here, I'll access the
+Cyber Core from the Wave
+Road and check it out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Thanks, Geo. Because of
+you, it looks like the
+problem is solved!
+<PUSH>
+Now it's time to eat!
+<PUSH>
+{0A}{E1}&
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+<Alohaha> is noted for its
+many unique specialty
+foods.
+<PUSH>
+That tantalizes my
+intellectual curiosity.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Are you having fun? You
+know, Class 5-A's Purpose
+<PUSH>
+is to make this a
+"Trip to Remember".
+<PUSH>
+So be sure to enjoy
+<Alohaha> to the fullest.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Leave me alone... I'm not
+interested in shopping
+and such.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I hate that guy...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Tonight there'll be a
+barbeque on the beach!
+<PUSH>
+There'll be a lot of delicious
+foods for sale, so try not
+to eat too much.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Hmm, everything looks so
+delicious! I can't decide.
+<PUSH>
+Once you taste some of
+<Alohaha>'s specialty
+food, you'll be hooked.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+The ocean is beautiful,
+and the air is clean!
+<Alohaha> is the best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Welcome! How'd you like
+to try a special <Alohaha>
+doughnut?
+<PUSH>
+They're sweet and
+satisfying!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+The water is so clear,
+you can see down to the
+seafloor! It's so beautiful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+I've never seen an ocean
+so beautiful in my life!
+<PUSH>
+You can see all the way
+to the seabed! <Alohaha>
+is so cool!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.<Castello.Alohaha> is truly a
+magnificent building.
+<PUSH>
+It's quite different from
+other castles in the
+world.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I came here alone because
+I just broke up with my
+boyfriend.
+<PUSH>
+I wonder if I'll meet
+someone new...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Geo, are you having a
+good time? <Alohaha> is
+great, isn't it!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Geo! We've got to make
+wonderful memories here!
+<PUSH>
+Because that's our
+Purpose, right!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Thanks to its environmental
+system and the Wizard that
+runs it, Strong,
+<PUSH>
+<Alohaha> maintains its
+summertime climate
+year-round!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Enjoying delicious ice
+cream on an island of
+unending summer...
+<PUSH>
+Now this is the life!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Welcome! How'd you like
+to try a special <Alohaha>
+doughnut?
+<PUSH>
+They're sweet and
+satisfying!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+This is a really nice place.
+<PUSH>
+I wouldn't mind
+moving to <Alohaha>
+to live out my retirement.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+It looks like they've
+opened up the beach.
+<PUSH>
+I think I'll go for a swim
+later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Lately, there have been
+thefts targeting
+tourists.
+<PUSH>
+Nowadays, you just can't
+let your guard down.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*There are some very
+famous people who are
+from <Alohaha>.
+<PUSH>
+I wonder if I can meet a
+famous handsome guy here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{09}{E1}{00}{00}{43}{07}{53}{07}2{09}{E1}{00}{00}{55}{07}{59}{07}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Did you know that long
+ago, <Alohaha> used to be
+its own country!?
+<PUSH>
+There was a king who
+lived right up there in
+<Castello.Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+{09}{E1}{00}{00}{43}{07}{53}{07}3{09}{E1}{00}{00}{55}{07}{59}{07}=
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+What a beautiful day!
+It looks like the
+<PUSH>
+environmental system is
+doing its job!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{09}{E1}{00}{00}{43}{07}{53}{07}4{09}{E1}{00}{00}{55}{07}{59}{07}>
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Would you like to try a
+special <Alohaha> doughnut?
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+{09}{E1}{00}{00}{43}{07}{53}{07}5{09}{E1}{00}{00}{55}{07}{59}{07}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Strong is a reliable
+Wizard! It's almost as if
+he's married to <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+{09}{E1}{00}{00}{43}{07}{53}{07}6{09}{E1}{00}{00}{55}{07}{59}{07}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+There's talk that Sonia
+Strumm might be here on the
+island. I wonder if it's true?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+{09}{E1}{00}{00}{43}{07}{53}{07}7{09}{E1}{00}{00}{55}{07}{59}{07}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Is Strong giving you a
+tour of the environmental
+system?
+<PUSH>
+You should learn as much
+as you can from him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+{09}{E1}{00}{00}{43}{07}{53}{07}8{09}{E1}{00}{00}{55}{07}{59}{07}B
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I wasn't able to meet any
+good guys out here on
+Alohaha, but I'm just
+<PUSH>
+grateful for being here
+and having the
+opportunity to vent!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+It's an earthquake! We
+have to get out of here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+The environmental system
+is out of control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Ahhh!! We're doomed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+What happened to Strong!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+An earthquake!
+It's a big one!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.An earthquake!?
+Isn't the environmental
+system supposed to
+<PUSH>
+protect against that!?
+What could've happened!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Oh no! An earthquake! Run!
+It's too dangerous here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I think the earthquake is
+over... that was scary.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Is Strong OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,My my, it feels like the
+earthquake stopped...
+I almost had a heart attack.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+What happened? Why do you
+look so scared?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+There were these red
+blobs that rained down on
+the beach. I wonder if
+<PUSH>
+they were those Crimson
+things they were talking
+about on the news.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.I heard something about
+Strong being totally
+unresponsive...
+<PUSH>
+That can't be right, can it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*There was a lot of
+commotion in the
+castle...
+<PUSH>
+Did something happen?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{6D}{07}{89}{07}Z
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+That earthquake the other
+day was wild. I had
+nightmares about it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+{09}{E1}{00}{00}{6D}{07}{89}{07}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I heard that a famous
+scientist came and fixed
+Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+{09}{E1}{00}{00}{6D}{07}{89}{07}\
+<START-DIALOG>
+
+<NEW-DIALOG>
+,I thought that the number
+of tourists would go down
+because of the incident a
+<PUSH>
+while back, but that
+doesn't seem to be the
+case.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{09}{E1}{00}{00}{6D}{07}{89}{07}]
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Oh, look! A fish! I should
+have brought my fishing
+pole!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+{09}{E1}{00}{00}{6D}{07}{89}{07}^
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Never in my wildest
+dreams would I have
+thought that <Castello.Alohaha>
+<PUSH>
+would be the scene of a
+big incident.
+<PUSH>
+It was a surprise to
+hear that Strong had
+disappeared,
+<PUSH>
+but now it looks like
+he's on the mend.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+{09}{E1}{00}{00}{6D}{07}{89}{07} 
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Even if you can get
+inside, you can't really
+get a good look around
+<PUSH>
+because the Satella
+Police are conducting an
+investigation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+You look kinda stressed
+out.
+<PUSH>
+This is <Alohaha>, home of
+the everlasting summer.
+You should chill out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I wonder if Strong is OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Welcome! Welcome! Would
+you like to try a
+Shekwasha?
+<PUSH>
+It's a slightly sour local
+citrus fruit.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Oh, I found a clownfish
+under a sea anemone!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Won't those Satella Police
+hurry up and finish their
+investigation already?
+<PUSH>
+They're starting to give
+Alohaha a bad image.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+**sigh*
+<PUSH>
+This trip was supposed to
+be my reward for getting
+a promotion,
+<PUSH>
+but I didn't get any rest
+or relaxation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+...I was asked to look after
+this stand.
+<PUSH>
+D-Delicious Alohaha
+doughnuts for sale!
+<PUSH>
+...Buy one! Try one!
+They're yummy!
+Take my word for it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Welcome! Welcome!
+Delicious Alohaha
+doughnuts for sale!
+<PUSH>
+Shekwasha for sale!
+<PUSH>
+...Me? Is this my stand?
+No, I'm just a tourist!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Wow, the people here in
+<Alohaha> are pretty laid
+<PUSH>
+back to just entrust
+their stand to tourists.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Look at the lion dogs!
+They're so cute and
+dignified!
+<PUSH>
+They're protecting the
+island of <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Three glasses of mango
+juice! That's the secret to
+<PUSH>
+how I keep my great
+complexion!
+<PUSH>
+
+<NEW-DIALOG>
++...You said it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Sales are up again today
+all because that young
+<PUSH>
+girl is helping me at my
+stand.
+<PUSH>
+...See, it pays to ask.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+{0D}{E1}{00}{00}CD{7F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+It's great that they
+found that girl who went
+missing!
+<PUSH>
+...But, they say she
+doesn't remember
+<PUSH>
+anything about the period
+she was missing.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Aah,
+it's so calm and peaceful
+<PUSH>
+here... Hoooo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+{0D}{E1}{00}{00}CD{81}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+...!
+<PUSH>
+It sends chills down my
+spine to think that
+that girl's disappearance
+<PUSH>
+had something to do with
+that ship!
+<PUSH>
+And then we find out
+that behind all of it is
+some dark organization!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ahh... Today is another
+nice day... Hooooo...
+<PUSH>
+(Psst! This is just my
+ cover. I'm really keeping
+ my eye on that ship!)
+<PUSH>
+(You just wait, Black
+ Lion Dog Clan, I'm going to
+ catch you when you slip up!)
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+(...Umm, I'm guessing
+ "Black Lion Dog Clan" is
+<PUSH>
+ the name of a dark and
+ evil organization, right?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+{0D}{E1}{00}{00}CD{83}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.They say that Strong is at
+WAZA getting some final
+repairs done.
+<PUSH>
+I sure hope that he comes
+back as his old self...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Strong is back! He looks
+as good as new!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*They said on the news
+that WAZA was attacked...
+That's unbelievable!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I really need to find
+myself a new boyfriend!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+For breakfast, I guess
+I'll have some pig's feet
+from this stand!
+<PUSH>
+Pig's feet over rice...
+Just the thought of it
+makes my mouth water!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+There've been all sorts
+of scary incidents
+happening lately,
+<PUSH>
+but I don't care about
+any of that.
+<PUSH>
+As long as I can still eat
+good food!
+<PUSH>
+So, I wonder what I'm
+going to eat today!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Wizards all over the
+country are going out of
+control!
+<PUSH>
+I wonder if Strong will be
+OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Aah, what nice weather! I
+guess I'll go for a swim
+before breakfast!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+...Hey you, how many
+Zennys do you have?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Tw-Twenty Zennys...
+And you?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+5 Zennys...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I don't care how many
+Wizards go out of
+control.
+<PUSH>
+<Alohaha> has Strong,
+and he's all we need!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+...
+<PUSH>
+All together, that's only
+25 Zennys...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I guess that's enough to
+get two Mega Snacks...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Are you nuts!?
+Strong is a Wizard, right!?
+<PUSH>
+It's not unthinkable that
+he could go out of
+control again!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*This world has gotten
+unsafe lately... *sigh*
+<PUSH>
+At times like these,
+a girl wishes she had a
+man by her side.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I wonder if there are still
+couples on the beach...
+<PUSH>
+Underneath their giant
+umbrellas, sipping juice,
+<PUSH>
+and gazing into each
+other's eyes on the
+pure white sand!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+{0D}{E1}{00}{00}ST{A1}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Lately, this has been one of
+my favorite spots.
+<PUSH>
+There are still many
+gorgeous places in <Alohaha>
+that I have yet to discover!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Strong went out of control
+once, but most of the
+<PUSH>
+people of this island still
+have confidence in him!
+<PUSH>
+Of course, I am one of
+those people!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+{0D}{E1}{00}{00}ST{A3}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Those kids have been
+standing there for the
+longest time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Welcome! Welcome! Would
+you like to try some
+peanut tofu?
+<PUSH>
+It's wobbly and spongy,
+kind of like my skin.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}cf{BE}{00}{0D}{E1}{00}{00}go»
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I came here hoping to find
+a new love, but now's not
+the time for that.
+<PUSH>
+What's going to happen to
+the world?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+{0D}{E1}{00}{00}cf{BF}{00}{0D}{E1}{00}{00}go…
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Is this beautiful island of
+<Alohaha> going to fall into
+the hands of Dealer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+{0D}{E1}{00}{00}cf¿{0D}{E1}{00}{00}go{CA}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+,The tourists are starting
+to disappear. I guess it isn't
+the time to be vacationing.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+{0D}{E1}{00}{00}cf¡{0D}{E1}{00}{00}go{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I wonder if I fled far
+away on a ship, if I
+would be saved?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+{0D}{E1}{00}{00}cf{C2}{00}{0D}{E1}{00}{00}goÃ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+If Dealer is going to get
+me anyway, I'll just stay
+<PUSH>
+here and eat up all of
+this delicious food!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*What is happening at
+<Castello.Alohaha>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.People from WAZA and the
+Satella Police went into
+<Castello.Alohaha>...
+<PUSH>
+I wonder if this could
+be the start of a
+counter-offensive?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,There are some elite-looking
+people at the <Castello.Alohaha>.
+What's going on?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+There are a lot of
+people at <Castello.Alohaha>!
+I wonder why?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+The WAZA people who were
+hit by Dealer are coming
+to <Castello.Alohaha>!
+<PUSH>
+What is about to happen!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I hope WAZA and
+<Studi.WBG> get rebuilt and
+<PUSH>
+all, but right now the whole
+world is in a pinch.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.It looks like Meteor G is
+heading towards Earth
+once again.
+<PUSH>
+Not even Strong can do
+anything to protect us
+against that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Merchants in <Alohaha>
+aren't afraid of no
+meteor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+If that meteor hits Earth,
+I guess trying to escape
+on a ship wouldn't help.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Mega Man! Our hero!
+Please save us from
+that meteor!
+<PUSH>
+Only you can do
+it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+

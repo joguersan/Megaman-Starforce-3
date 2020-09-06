@@ -1,0 +1,216 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+.{15}{E1}.{15}{E1}.{15}{E1}He's on his way...
+To stop our red shooting
+star{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+He's so close{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+That blue shooting star...{15}{E1}
+Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+He doesn't have a chance...
+<PUSH>
+Bring it on, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+We made it to the rocket's
+Cyber Core{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We're in one piece too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+W-What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The Noise here is extremely
+strong!! It's because we're
+so close to Meteor G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Will we be OK!?
+<PUSH>
+What if the rocket were to
+collapse before we accessed
+Meteor G?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+There's no need to worry!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Magnes!!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!!
+Good to see you, Mega Man!!
+<PUSH>
+There's no time to talk now,
+though. I need to boost the
+<PUSH>
+Noise resistance and
+suppress these vibrations!!
+<PUSH>
+Y{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}p!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+When I launched the rocket,
+I never would have believed
+<PUSH>
+that it would be used to
+help save the world!
+<PUSH>
+And on top of that, the
+reason it can help is that I
+once went out of control,
+<PUSH>
+which gave it the resistance
+to Noise that is necessary!
+<PUSH>
+How crazy is that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Magnes...
+How close is the rocket to
+Meteor G at the moment?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+In other words...
+Are we going to make it
+there!?
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Even though the rocket is
+highly resistant to Noise{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+.{14}{E1}.{14}{E1}.{14}{E1}It's almost reached its limit.
+<PUSH>
+I'm going to take this thing
+as close to Meteor G as I
+possibly can, but...
+<PUSH>
+It looks like you will have to
+go through the Noise Wave
+to access Meteor G...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So now we have to go via
+a Noise Wave to get there?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That'll be good enough!
+Thanks, Magnes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+They must have got in with
+all the Noise!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Leave it to me!
+<PUSH>
+Come on, Mega!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's butt whoopin' time!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

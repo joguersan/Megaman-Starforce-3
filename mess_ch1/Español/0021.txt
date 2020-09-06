@@ -1,0 +1,197 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Mmm, qué raro...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Te pasa algo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Alguna novedad, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, Dele. Bueno,
+acabo de encontrarme
+con esta niña.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Ey, Dele.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Me lo parece a mí
+o estás siguiendo a Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Q-Qué?
+¡Pero qué dices!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No puede ser casualidad
+que aparezcas siempre que
+Geo encuentra a alguien.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Es que no puedo confiar
+en Geo y tengo que comprobar
+cómo le va!
+<PUSH>
+¡No puedo dejar que
+sus errores afecten a
+todo el Equipo!
+<PUSH>
+Creo que te has
+equivocado, Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ya veo... Perdona.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+En fin...
+¡Esa niña está
+en problemas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eh...
+¿Te pasa algo?
+<PUSH>
+Podemos ayudarte.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Oh, bueno...
+<PUSH>
+Me he peleado con mi
+amiga y no responde
+a mis correos.
+<PUSH>
+Seguro que sigue
+enfadada conmigo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Y no has probado
+a llamarla?
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+No. Me da mucha vergüenza
+llamarla y que nos
+veamos cara a cara.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Sabes dónde está
+ella ahora?
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Seguramente esté en
+el parque de <Echo.Ridge>.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo, puede su amiga
+no le responda por
+otro motivo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué hacemos, chico?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vamos al parque!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

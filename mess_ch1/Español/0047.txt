@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No bajes la guardia!
+¡Vamos a intentarlo otra vez!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡V-Vale!
+<PUSH>
+
+[END]
+

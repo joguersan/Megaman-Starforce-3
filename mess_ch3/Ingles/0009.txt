@@ -1,0 +1,245 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Ho ho ho, very interesting.
+<PUSH>
+I never would have believed
+that Mega Man was really
+a young boy...
+<PUSH>
+Your battling skills are
+very impressive!
+<PUSH>
+I apologize for speaking to
+you in such a manner earlier.
+I ask for your forgiveness.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Don't worry about it..
+I totally understand...
+<PUSH>
+However, would you please
+keep it a secret that I'm
+Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Of course...
+If that is what you desire.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Thank you so much for
+everything, Mr. Big Wizard!
+<PUSH>
+I was able to take my
+pictures thanks to you!
+<PUSH>
+Do you mind telling me your
+name?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+My name is Strong.
+<PUSH>
+I am in charge of the
+environmental system in
+<Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+You're the guardian deity of
+<Alohaha>!?
+THAT Strong!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+I never would have imagined
+we would meet you here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+I am usually in
+<Castello.Alohaha>...
+<PUSH>
+I happened to bump into this
+young lady while I was on
+<PUSH>
+patrol, so I stopped to help
+her with her problem.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+Tomorrow, we are all going
+to learn about the
+environmental system!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+I see. So you children are
+from Echo Ridge Elementary?
+I heard you were coming.
+<PUSH>
+However, for now I must be
+on my way. It was an honor
+to meet you all.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+If you ever run into any
+problems, please come and
+see me.
+<PUSH>
+I'll be by the control system
+in <Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}{05}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Hey, everyone!
+You'll be here until
+tomorrow, right!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+That's right.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+I'll be here until then, too!
+And since we don't get to
+<PUSH>
+hang out that often, let's
+have some fun!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+Yeah!!
+Sounds great!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Jack-swim>
+What a jolly bunch...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+Sis?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Strong...
+He's more powerful than
+I had expected...
+<PUSH>
+This should be pretty fun...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

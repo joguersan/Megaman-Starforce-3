@@ -1,0 +1,390 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}DON'T RUN... IN THE HALLS...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}DING... DONG...
+DING... DONG...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}d{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}GggUggArruU!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!!
+<PUSH>
+Here he comes, Geo!!
+<PUSH>
+{0A}{E1}d
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{01}{00}u<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Huh!?
+<PUSH>
+Wh-What's happening to
+me!?
+<PUSH>
+Gugh!? What is this powerful
+Noise!?
+<PUSH>
+Aagh... My head feels like...
+it's going to... explode...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*gulp*
+This Wizard could go out of
+control again at any moment!
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}Ou-Out of control!?
+<PUSH>
+N-Now that you mention it...
+<PUSH>
+I can't remember anything
+since I picked up that
+strange data...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Strange data?
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}Th-This is it...
+<PUSH>
+It seems like a piece of
+some kind of access key.
+<PUSH>
+...Oh, yes!
+I remember!
+<PUSH>
+A man who was very tall
+dropped this data!
+<PUSH>
+I picked it up so I could
+return it to him, and then...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+That very tall man wouldn't
+happen to have been
+dressed in black and
+<PUSH>
+wearing blue sunglasses,
+would he!?
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}...Yes, I think he was!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Joker!
+No doubt about it!
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}Do you know that man?
+<PUSH>
+If so, could you return
+this to him for me?
+<PUSH>
+{0A}{E1}u{82}{E1}{09}{00}{01}{00}{02}{E2}M{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{79}{E5}"!
+<PUSH>
+{01}{E2}M
+<NEW-DIALOG>
+<Megaman>
+Yesss!
+I found a clue!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He-he-he. We're closing
+in on them little by little.
+<PUSH>
+Your days are numbered,
+Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega... {16}{E1}you're starting
+to sound like a villain...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Well then,
+I have to be getting
+out of here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

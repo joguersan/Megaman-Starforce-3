@@ -1,0 +1,272 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a blackboard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{01}{00}<Chery.Blosom>
+o{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the teacher's desk.
+<PUSH>
+It's sparkling clean, just
+like always!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Things the class shares
+are stored here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+After lunch is known as
+basketball or soccer time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There are a lot of living
+creatures on the monitor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I wonder how my earthworm,
+James, is doing?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's an illustrated
+encyclopedia of animals.
+<PUSH>
+"Spider Monkeys"
+<PUSH>
+"They have long, spindly
+limbs just like spiders."
+<PUSH>
+"But they don't eat bugs.
+Instead, they eat fruits and
+nuts every morning."
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bunch of servers.
+<PUSH>
+They manage a huge amount
+of data over the network,
+day in and day out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a student desk.
+<PUSH>
+It comes with an incredibly
+comfortable chair. Lumbar
+support is key!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{01}{00}{F5}{00}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It's my seat!
+<PUSH>
+Oh, I forgot something!
+<PUSH>
+{84}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Sub-Card:
+"{D1}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sweet!
+<PUSH>
+{0A}{E1}{F5}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The plant looks lively today.
+<PUSH>
+It will need to be put in a
+larger pot pretty soon.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{8D}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the teacher's desk.
+It's sparkling clean, just
+like always!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What's wrong, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(For a second there
+{13}{EC} I felt a really strong
+{13}{EC} Noise presence...)
+<PUSH>
+Hmm... I guess it's nothing.
+Just my imagination I guess.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It's my seat!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

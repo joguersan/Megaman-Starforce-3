@@ -1,0 +1,59 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+wI really know how to
+catch a wave!
+<PUSH>
+Bring it on!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHeloha!
+This is the beach
+stone wall's Cyber Core!
+<PUSH>
+When I get requests, I can
+decorate them with hibiscus
+flowers and mangos!
+<PUSH>
+Real Waves, of course!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tTest!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tTest!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

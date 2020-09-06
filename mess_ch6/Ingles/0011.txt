@@ -1,0 +1,762 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Everyone is here.
+<PUSH>
+Whenever you are ready,
+Chief.
+<PUSH>
+
+<NEW-DIALOG>
+4Then we'll begin immediately.
+<PUSH>
+Let's hear from the
+research team first.
+<PUSH>
+Aaron Boreal has some
+findings to report.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We've come upon some new
+discoveries regarding
+Crimson.
+<PUSH>
+Even though Crimson is a
+body of crystallized Noise,
+<PUSH>
+no Noise is released from
+Crimson whatsoever.
+<PUSH>
+Which means that Crimson
+has a Noise absorbing nature.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It absorbs Noise...
+<PUSH>
+
+<NEW-DIALOG>
+0That means that it could
+be useful to us, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Exactly...
+<PUSH>
+It could quite well prove to
+be a beneficial item for us.
+<PUSH>
+However, if Dealer were to
+make use of it, they could
+<PUSH>
+easily turn it into a
+terrifying weapon.
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+When Crimson reaches
+capacity for the amount of
+Noise that it can hold...
+<PUSH>
+It emits a huge quantity of
+dense Noise.
+<PUSH>
+The amount of Noise that is
+emitted is actually dozens
+<PUSH>
+of times the amount that
+was absorbed.
+<PUSH>
+The reason that Meteor G
+is being pulled toward Earth
+may be the fact that the
+<PUSH>
+Noise level has been on the
+rise due to Crimson emitting
+so much Noise.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...
+Crimson kind of seems like
+a bomb, doesn't it?
+<PUSH>
+I guess...
+More like a Noise bomb, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+There are other ways to
+use Crimson than as
+a bomb, Omega-Xis.
+<PUSH>
+I believe that Crimson was
+used as energy to make
+<PUSH>
+Noise clusters, like the ones
+you saw at your school.
+<PUSH>
+If applied correctly, we could
+freely control the output of
+Noise with Crimson.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Control...
+Noise?
+<PUSH>
+
+<NEW-DIALOG>
+3To think that Crimson would
+have such uses...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Heehee!
+<PUSH>
+Go on, Aaron.
+You can tell us.
+<PUSH>
+You look like you've found
+something else out, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+What!?{15}{E1} Oh...
+That's true, Doctor...
+<PUSH>
+Upon researching exactly
+how the Noise that's on the
+planet is attracting Meteor
+<PUSH>
+G, I found that there is
+"strange Noise" being emitted
+from Meteor G itself.
+<PUSH>
+
+<NEW-DIALOG>
+4What kind of Noise could
+that be exactly?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I'm sorry, but I haven't
+discovered that yet...
+<PUSH>
+However...
+<PUSH>
+When I first noticed the
+strange Noise, it was as if I
+heard Meteor G's "voice".
+<PUSH>
+Whether it is trying to say
+something... Or call someone...
+Or answer someone...
+<PUSH>
+I just don't know.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Heehee!
+That could prove to be a
+very interesting lead!
+<PUSH>
+We must look into that voice.
+<PUSH>
+Would you be so kind as to
+let this old lady help you
+out, Aaron?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Of course!
+<PUSH>
+Well, that concludes my
+report.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Thank you, Boreal.
+<PUSH>
+Next up, we will discuss the
+incidents of out of control
+Wizards around the country.
+<PUSH>
+
+<NEW-DIALOG>
+0Yes, sir!
+<PUSH>
+It is believed that the cause
+of the incidents was the high
+Noise levels in those areas.
+<PUSH>
+We still have not discovered
+any Noise Cards, program
+viruses, or anything else
+<PUSH>
+that would place Dealer as
+the culprit.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Still...
+It has to be their doing.
+<PUSH>
+Even without evidence it's
+clear.
+<PUSH>
+There's no one else that
+would or could pull off such
+a large-scale event.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Ace...
+<PUSH>
+
+<NEW-DIALOG>
+1B-But...
+<PUSH>
+How could they cause so
+many Wizards at once to-
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+With Crimson.
+<PUSH>
+They must have found out
+that Noise can be controlled
+with Crimson.
+<PUSH>
+They just figured it out way
+before we did.
+<PUSH>
+
+<NEW-DIALOG>
+4And now they've already
+learned how to use it as a
+weapon.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The situation could get
+even worse...
+<PUSH>
+King doesn't just want to
+control ordinary Noise...
+<PUSH>
+He wants to control a
+gigantic cluster of Noise...
+<PUSH>
+
+<NEW-DIALOG>
+0A gigantic cluster of it!?
+W-What do you mean!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Isn't it fairly obvious?
+<PUSH>
+I mean that ominous ball in
+the sky that's causing people
+to lose sleep at night.
+<PUSH>
+...The red star that is falling
+from the heavens upon us.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+I-I get it!!
+<PUSH>
+The gigantic Noise cluster
+that Dealer wants to control
+is...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo-2>
+Meteor G!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4{13}{EC}!?
+<PUSH>
+
+<NEW-DIALOG>
+0W-What!?
+<PUSH>
+
+<NEW-DIALOG>
+2Is that...
+Could that really be true...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Actually, Dealer has already
+taken some control of
+Meteor G.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Their whole reasoning behind
+making Wizards go out of
+<PUSH>
+control is to collect the
+Crimson that is emitted.
+<PUSH>
+
+<NEW-DIALOG>
+0W-Wait a second...!
+<PUSH>
+When we stop an out of
+control Wizard, Crimson is
+released...
+<PUSH>
+And then Dealer collects the
+Crimson.
+<PUSH>
+So then why are we risking
+our lives across the country
+to fight the Wizards!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It looks like...
+<PUSH>
+...It's to help Dealer out.
+<PUSH>
+
+<NEW-DIALOG>
+1Th-That can't be...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yet, if we don't stop the
+out of control Wizards, then
+<PUSH>
+many people will be hurt or
+worse.
+<PUSH>
+We are doing the right thing.
+<PUSH>
+*sigh*
+...King's plan is working
+just as he expected it to.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+...Ho ho ho ho!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0W-Who is that!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}We have an emergency!
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}Something has infiltrated the
+WAZA computer network!
+<PUSH>
+
+<NEW-DIALOG>
+4What...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ho ho ho...
+<PUSH>
+It is nice to meet you...{15}{E1} Well...
+<PUSH>
+I mean everyone except Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}...King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+King!?
+<PUSH>
+{13}{EC}(That's the leader of Dealer!)
+<PUSH>
+{12}{E2}{15}{00}{01}{00}
+<NEW-DIALOG>
+<Mr.King-2>
+Hello, Ace...{15}{E1}
+And everyone at WAZA!
+<PUSH>
+I figured I would drop you a
+line, as it appears that you
+<PUSH>
+are very close to figuring
+out what Dealer is up to!
+<PUSH>
+...How is everyone doing,
+by the way?
+<PUSH>
+
+<NEW-DIALOG>
+2It's an air display!
+<PUSH>
+He hacked the computer
+network so that he could
+transmit to us!
+<PUSH>
+
+<NEW-DIALOG>
+0Y-You...
+Are you having fun!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+This is no game to me at
+all, good sir!
+<PUSH>
+In fact, I have never been
+more serious in my life!
+<PUSH>
+If I was playing around...
+<PUSH>
+I would not have been able
+to gain control of Meteor G!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+So you're...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Listen well, ladies and
+gentlemen!
+<PUSH>
+Dealer has taken complete
+control of Meteor G!
+<PUSH>
+And we are going to use its
+tremendous power to rule
+the planet!
+<PUSH>
+However...
+<PUSH>
+In order to do so, I require
+all of your assistance.
+<PUSH>
+
+<NEW-DIALOG>
+4Are you insane!?
+Why would we help you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+You will help me.
+<PUSH>
+You do not have any other
+choice, really!
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}You do understand why you
+must, right?
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+4You... mean..!?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}...!!
+<PUSH>
+There's a distress call from
+the <Stage.Evento> at
+<Studi.WBG>!
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+{98}{00}Out of control Wizards
+have been spotted there!
+<PUSH>
+Th-This...
+This is the biggest group
+of them we've seen yet!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+So, everyone!
+<PUSH>
+Go out and stop all of
+those Wizards!
+<PUSH>
+And...
+<PUSH>
+Make more Crimson for us!
+<PUSH>
+Ho ho ho ho ho!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4I-I...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+It's time to get to work,
+Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+B-But...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Are you serious?
+<PUSH>
+You're really going to walk
+willingly into their trap!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+There's no point in us
+debating what we should do...
+<PUSH>
+It's already been decided for
+us, hasn't it?
+<PUSH>
+You do understand don't you,
+Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+We'll worry about what to do
+next, later.
+<PUSH>
+We'll figure something out.
+<PUSH>
+After all, they don't have
+their most powerful card
+anymore.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Their most powerful card?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The Ace Card...{15}{E1}
+I will never let them get
+their hands on it again...
+<PUSH>
+Letting them gather
+all the cards is not
+an option.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Come on.
+<PUSH>
+We've got to stop those out
+of control Wizards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

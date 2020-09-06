@@ -1,0 +1,36 @@
+[SENTENCE NUMBER 1]
+Carta estelar
+[END]
+
+[SENTENCE NUMBER 2]
+PROHIBIDO
+[END]
+
+[SENTENCE NUMBER 3]
+Caja de cartas
+[END]
+
+[SENTENCE NUMBER 4]
+Cartas C.
+[END]
+
+[SENTENCE NUMBER 5]
+Editar
+[END]
+
+[SENTENCE NUMBER 6]
+Equipar
+[END]
+
+[SENTENCE NUMBER 7]
+C. nombre
+[END]
+
+[SENTENCE NUMBER 8]
+Ver
+[END]
+
+[SENTENCE NUMBER 9]
+Comerciante
+[END]
+

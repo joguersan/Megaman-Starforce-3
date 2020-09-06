@@ -1,0 +1,291 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0A}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I lost it...
+*sigh*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{03}{16}{0B}{00}{0C}{E1}{00}{00}{30}{16}{03}{00}{0C}{E1}{01}{00}{4D}{16}
+{0C}{E1}{01}{00}{4C}{16}{07}{00}{0C}{E1}{01}{00}{02}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+*sigh*
+Where could it have gone?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Yeah...
+I found out I did really bad
+on my test.
+<PUSH>
+I didn't want my mom to see
+it, so I made it into a paper
+airplane and threw it away.
+<PUSH>
+But she found out that I
+had a test, and now I have
+to show it to her or else.
+<PUSH>
+But I have no idea where
+it is.
+<PUSH>
+Please help me!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Sure, I'll go look for it.
+<PUSH>
+Which way did you throw it?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Since I threw it from here,
+it should be somewhere in
+<Echo.Ridge>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We should head for
+<Echo.Ridge> then, kid.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{4C}{16}{0A}{E1}{02}{16}{20}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Jack.Flask>
+I understand.
+I'll just look for it by myself.
+<PUSH>
+{0B}{E1}{30}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Did you find my test?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Jack.Flask>
+I understand.
+I'll just look for it by myself.
+<PUSH>
+{0B}{E1}{30}{16}{0B}{E1}{02}{16}{0B}{E1}{03}{16}{0B}{E1}{4C}{16}{0B}{E1}{4D}{16}{82}{E1}<Jack>
+{FF}{FF}{21}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Jack.Flask>
+Tell me when you find it!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Here you go.
+<PUSH>
+But you probably shouldn't
+do something like that again.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Don't worry, I won't!
+Thank you so much!
+Here, this is for you.
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm really scared to do what
+I have to do next.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{03}{16}{82}{E1}<Jack>
+{FF}{FF}{21}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+You should come with me to
+see my mom.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No way!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+This looks like the test
+paper of that kid from
+the roof.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So what was his score?
+Show me, show me!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+N-No way. That's on a
+need-to-know basis and
+we don't need to know.
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Look
+  {09}{EC}Don't look
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0D}{00}{11}{EC}{03}{00}{0E}{00}{0A}{E1}{4D}{16}{82}{E1}<Jack>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{8D}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<NEW-DIALOG>
+<Game>
+Geo opened the paper
+airplane.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+See, I knew you were
+curious about his score.
+<PUSH>
+Whoa{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} 0 points!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It was multiple choice, too...
+<PUSH>
+That's some bad luck there.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's such a bad score I
+might throw up.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<NEW-DIALOG>
+<Geo>
+Let's bring it back to him.
+<PUSH>
+
+[END]
+

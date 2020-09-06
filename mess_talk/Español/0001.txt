@@ -1,0 +1,907 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}{00}{00}
+{08}{E1}{00}{00}{01}{00}<Geo>
+{08}{E1}{00}{00}{02}{00}<(Queen)Tia>
+{08}{E1}{00}{00}{03}{00}({08}{E1}{00}{00}{04}{00}2{08}{E1}{00}{00}{05}{00}<{08}{E1}{00}{00}{06}{00}F{08}{E1}{00}{00}{07}{00}P{08}{E1}{00}{00}{08}{00}Z
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{81}{06}{8B}{06}{0B}{00}{09}{E1}{00}{00}{8B}{06}{8D}{06}{0C}{00}{09}{E1}{00}{00}{8D}{06}{99}{06}{0D}{00}{09}{E1}{00}{00}{99}{06}{9B}{06}{0F}{00}{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Qué, ¿ya has terminado?!
+¡Vamos a la azotea, ya!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La Dele nos está llamando.
+Vamos cuanto antes a la
+tienda de chuches.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{08}{E1}{06}{00}{05}{77}{0E}{00}{08}{E1}{06}{00}{0B}{90}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Cambia de onda con el
+botón R y súbete a la
+estación de ondas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Virus! Hacía un montón
+que no luchábamos...
+¡Vamos a darles para el pelo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{08}{E1}{06}{00}{0B}{90}{10}{00}{08}{E1}{06}{00}{01}{70}{12}{00}{08}{E1}{06}{00}{05}{77}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Ese tal Woody, o como
+se llame, estará bien?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Cambia de onda con el 
+botón R y expulsiónate
+cuando quieras!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ve al CN del aspersor!
+¡Vamos a eliminar
+a esos virus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Expulsiónate con
+el botón R!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{9F}{06}{A1}{06}{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La Dele nos está esperando
+en la tienda de chuches
+de la primera planta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No ibas a formar una
+Bandahermano con
+Bud y Zack?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{A5}{06}{A7}{06}<Joker>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No tienes que buscar a
+gente que necesite ayuda
+en la escuela?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{0C}{E1}{01}{00}{07}{00}#{0C}{E1}{01}{00}{06}{00}"{0C}{E1}{01}{00}{05}{00}!{0C}{E1}{01}{00}{04}{00}<Heartless>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tienes que encontrar al
+profesor a cargo del
+árbol de Ondas Reales.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{08}{E1}{06}{00}{03}{77}$
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tenemos que arreglar la
+vitrina de polillas del
+aula del club de ciencias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La vitrina está arreglada,
+¿no? ¡Vamos a hablar con
+el profesor terrorífico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We have to get the things
+the scary teacher needs
+in his HELP pop-up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien! ¡Vamos al árbol
+de Ondas Reales de
+la azotea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Por culpa de este Wizard,
+la pantalla de las polillas
+se ha vuelto loca!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{09}{E1}{00}{00}{A7}{06}{A9}{06}){09}{E1}{00}{00}{A9}{06}{AB}{06}*{09}{E1}{00}{00}{AD}{06}{AF}{06},{09}{E1}{00}{00}{AF}{06}{B1}{06}-{09}{E1}{00}{00}{B1}{06}{B3}{06}.{09}{E1}{00}{00}{B3}{06}{B5}{06}/
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alguien necesita ayuda
+en la tienda de chuches
+del primer piso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{0C}{E1}{01}{00}{08}{00}+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tienen que hacer las
+paces. Su amiga está en
+el parque <Echo.Ridge>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Puede que el problema
+esté en el Camino Onda.
+Vamos a echar un ojo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Seguro que el mensaje
+llega sin problema. Vamos
+a la tienda de chuches.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Parece que el club de
+ciencias está en apuros.
+Ve al aula del club.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Quién te estará
+esperando en la
+entrada?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Descansa si quieres
+estar fresco mañana.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{B9}{06}{BB}{06}3
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hemos quedado en la
+parada del surcaondas, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+{08}{E1}{07}{00}{0C}{00}4
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El torneo se disputará
+en el {BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¿Entonces no pasa
+nada si no vas al
+<Spica.Mall>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{BB}{06}{BF}{06}={09}{E1}{00}{00}{BF}{06}{C1}{06}?
+[END]
+
+[SENTENCE NUMBER 62]
+{0C}{E1}{01}{00}{09}{00}>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Se ha activado el
+sistema de seguridad sin
+<PUSH>
+haber ninguna emergencia!
+¡Echemos un vistazo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{0C}{E1}{01}{00}{0F}{00}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No deberíamos informar
+a la Dele? ¡Me aterra
+cuando se enfada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Si van pidiendo guerra,
+yo se la doy!
+<PUSH>
+¡Cambia de onda y
+vamos al escenario!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahora podemos ir al
+{BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que detener a
+los Wizards enloquecidos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{C5}{06}{C7}{06}Q{09}{E1}{00}{00}{C7}{06}{C9}{06}R{09}{E1}{00}{00}{C9}{06}{CB}{06}S
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ya tenemos la carta,
+vamos a ver a la Dele.
+Está en el {BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a darle la carta a
+Woody. Dijo que estaría en
+el aula del club de ciencias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Mañana lanzarán el cohete.
+Será mejor que descanses
+bien esta noche.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{09}{E1}{00}{00}{CF}{06}{D5}{06}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Hoy es el día del
+lanzamiento!! ¡Venga,
+vamos a la azotea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+{08}{E1}{06}{00}{00}{60}\{08}{E1}{06}{00}{01}{60}]
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Debemos parar a Magnes!
+¡Impulsiónate al
+Cibernúcleo del cohete!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Vamos a acabar con ese
+Magnes enloquecido!!
+¡Venga, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Vamos a acabar con ese
+Magnes enloquecido!!
+¡Venga, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

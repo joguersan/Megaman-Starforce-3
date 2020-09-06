@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Hey, Sis{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Did you know that if you
+make a wish on a shooting
+star three times before it
+<PUSH>
+burns out, then the wish
+will come true?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}If so, then our wish will
+definitely come true.
+<PUSH>
+That red shooting star
+won't be burning out.
+<PUSH>
+At least not until this
+planet's final day.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Our{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} wish{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

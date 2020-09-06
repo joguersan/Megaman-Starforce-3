@@ -1,0 +1,46 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Gemini Noise
+<PUSH>
+Tag Cards are cards you
+set on the Custom Screen
+<PUSH>
+to make them more likely
+to appear in battle
+<PUSH>
+Non-dimming Elec Elemental
+card attacks +30
+<PUSH>
+Adds paralyze effect to
+sword attacks
+<PUSH>
+Charged attack:
+"Rocket Knuckle",
+paralyzes enemies
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Gemini Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C3}{10}
+[END]
+

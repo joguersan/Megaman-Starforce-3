@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Lobo
+Equipa Carga rápida
+<PUSH>
+Cartas Espada no aten.:
+ataque +30
+<PUSH>
+Cartas Madera: ataque + 10.
+Autofijación
+<PUSH>
+Ataque cargado:
+"Garra impacto", un ataque
+de tres paneles de ancho
+<PUSH>
+en dos filas.
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Lobo
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C9}{10}
+[END]
+

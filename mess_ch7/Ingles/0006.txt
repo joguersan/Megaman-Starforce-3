@@ -1,0 +1,57 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+The shooting star power
+that my Wizard, Joker,
+possessed is now mine!!
+<PUSH>
+Watch!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Access... Meteor G!!
+<PUSH>
+Cower before the power
+that I possess!!
+<PUSH>
+For the doubters...
+I believe that a display may
+be in order!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Meteor G!!
+Target WAZA!!
+<PUSH>
+Dread Lazer... Fire!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

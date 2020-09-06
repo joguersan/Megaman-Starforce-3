@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Buuuuum!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Zack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Jo, jo, jo, jo!!
+<PUSH>
+¡¿Qué os ha parecido?!
+<PUSH>
+¡¡En unos segundos la NAZA,
+el orgullo de la humanidad
+se ha convertido en cenizas!!
+<PUSH>
+¡¡Y puedo usar el «inhibidor»
+del Meteorito G en cualquier
+lugar del mundo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

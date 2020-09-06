@@ -1,0 +1,939 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's no response...
+<PUSH>
+It's just a normal bench.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a luxurious apartment
+building. There's an electronic
+lock and an intercom.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the school gate.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a mailbox.
+<PUSH>
+It looks like it hasn't been
+used in almost forever.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{10}{16}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the apartment building's
+pool. It's probably a selling
+point for people to move in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a doghouse.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It has an alarm built in!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So even the doghouse might
+keep people up at night...
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's Echo Ridge River.
+<PUSH>
+There're lots of fish happily
+swimming around.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a big air conditioning unit.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+Why are you looking at that?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well...
+There's something
+written on it. Take a look.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+  Beta86425
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's that mean?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"NOW ON SALE!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a water fountain.
+<PUSH>
+They're really great when
+you're playing at the park.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0D}{E1}{00}{00}{10}{00}<Joker>
+<(Queen)Tia>
+{0D}{E1}{00}{00}<Heartless>
+/<Joker>
+{0D}{E1}{00}{00}0?"{0D}{E1}{00}{00}<Chery.Blosom>
+O<Heartless>
+{0D}{E1}{00}{00}P !{0D}{E1}{00}{00}`o#
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+*woof, woof*
+<PUSH>
+<Echo.Ridge> is a vibrant and
+small town lush with nature!
+<PUSH>
+Smiles of happy children
+flood the town every day!
+*woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a flower bed.
+<PUSH>
+The flowers bloom with a
+loving radiance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a flower bed.
+<PUSH>
+It doesn't look like the
+owner is much of a gardener.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Astro Wave ahead.
+Dangerous. No entrance.
+  -WAZA
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0D}{E1}{00}{00}aa{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{87}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{81}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go ask Bud and
+the others.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}{11}{16}{15}{00}{0E}{E1}{01}{00}<Hope(Mom)>
+{19}{E1}{01}{00}<Hope(Mom)>
+{23}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey!
+Someone is in the pool!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What a weird hiding place...
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+*Gurgle*...
+You... *gurgle*...
+Found me...
+<PUSH>
+Take... *gurgle* ...this.
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E1}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{11}{16}{21}{EC}{D8}{10}
+[END]
+
+[SENTENCE NUMBER 22]
+{0E}{E1}{01}{00}<Prez>
+{19}{E1}{01}{00}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+I lost... *gurgle*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The apartment building's
+pool?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the apartment building's
+pool. It's probably a selling
+point for people to move in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+<PUSH>
+*woof, woof*
+<PUSH>
+If you follow the crosswalk
+across the street, you'll find
+the Echo Ridge Park! *woof*
+<PUSH>
+It's a relaxing spot loved by
+the residents of <Echo.Ridge>!
+*woof*
+<PUSH>
+By the way, I've heard that
+if a couple sits together on
+the bench there, then they
+<PUSH>
+will live happily ever after!
+*woof*
+<PUSH>
+Isn't that great!? *woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+<PUSH>
+*woof, woof*
+<PUSH>
+Echo Ridge was built around
+Echo Ridge River! *woof*
+<PUSH>
+The water is pure and the
+fish are full of energy!
+<PUSH>
+By the way, the giant
+catfish that lives in the
+river is full of energy, too!
+<PUSH>
+*woof* ...?
+You don't know about the
+giant catfish?
+<PUSH>
+It's spotted every once in
+a while, but no one is quite
+<PUSH>
+sure if it's the same one or
+if there is a family of them!
+<PUSH>
+*woof* They say that it's
+five feet long, and is a
+shining emerald green!
+<PUSH>
+The first person to ever
+see it, named it "Whiskers"!
+Isn't that cute? *woof*
+<PUSH>
+Do you know who that
+was? *woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+<PUSH>
+*woof, woof*
+<PUSH>
+Have you ever been to
+"BIG WAVE" near
+Echo Ridge Park? *woof*
+<PUSH>
+
+<NEW-DIALOG>
+#"We have everything from
+bargain deals to extremely
+rare and expensive sets!"
+<PUSH>
+"If you're into Battle
+Cards, then cruise on
+over to Big Wave!"
+<PUSH>
+
+<NEW-DIALOG>
+{9C}{00}"Everyone come and see me!
+I'll be hanging ten 'til then!
+Shootz!"
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}The store is run by
+"Ken Suther" and his
+Wizard "Hang Ten"! *woof*
+<PUSH>
+They have just about every
+card you could want, plus a
+great mail service! *woof*
+<PUSH>
+Now that I think about it,
+Mr. Suther was vacationing
+<PUSH>
+in Netopia with Hang Ten
+until recently. *woof, woof*
+<PUSH>
+And in the middle of their
+trip...
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}x{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+...What!?
+R-Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Th-That's crazy!
+He... He...!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{A3}{E1}{00}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}That's all I know. *woof*
+<PUSH>
+I wonder what happened to
+Johnny after that?
+Nobody knows. *woof*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What an amazing story!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Maybe he...
+<PUSH>
+Coached baseball
+in NetFrica...?
+<PUSH>
+You're so amazing, Joohhnyy!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Huh?
+Why are we having this
+conversation about Johnny?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+Oh, Jooohhhnyyy!!
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+<PUSH>
+*woof, woof*
+<PUSH>
+I'll tell you a bit about
+Echo Ridge Elementary
+this time. *woof*
+<PUSH>
+The school has a very long
+and prominent history.
+<PUSH>
+Every brother or sister,
+mom or dad, grandmother
+<PUSH>
+or grandfather living in
+<Echo.Ridge> went there!
+<PUSH>
+The original principal was
+very proud of his exquisite
+beard. *woof*
+<PUSH>
+However...
+He went to trim his beard
+and...
+<PUSH>
+Accidentally{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Cut the whole thing off!
+<PUSH>
+Actually, the statue in the
+entrance of the school is
+<PUSH>
+a statue of him when he
+was younger...
+<PUSH>
+It's of him before he cut
+his beard off. *woof*
+<PUSH>
+There's a rumor going around
+between the students that
+<PUSH>
+the beard of the statue
+grows longer every year!
+<PUSH>
+The regret and remorse of
+the principal dwells within
+the statue. *woof*
+<PUSH>
+It's one of the seven
+wonders of Echo Ridge
+Elementary. *woof*
+<PUSH>
+Oh, and by the way...
+<PUSH>
+If you find all of the seven
+wonders...
+<PUSH>
+...
+<PUSH>
+...I-I can't say. *woof*
+It's too terrible... *woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I have a sad report. *woof*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}Luna Platz, a 5th grade
+student at Echo Ridge
+Elementary...
+<PUSH>
+{13}{EC}Has gone missing while
+on a school trip in <Alohaha>.
+So sad... *woof*
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}Currently, the Satella Police
+are doing everything in their
+power to find her.
+<PUSH>
+But information is scarce,
+so the search will move
+slowly at first. *woof*
+<PUSH>
+I hope she's OK... *woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the info kiosk for
+<Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to <Echo.Ridge>!
+<PUSH>
+*woof, woof*
+<PUSH>
+So, you now know many
+wonderful things about
+<Echo.Ridge>. *woof*
+<PUSH>
+You can come and see me
+here at the info kiosk any
+time you please. *woof*
+<PUSH>
+Bye bye. *woof*
+<PUSH>
+...
+<PUSH>
+Oh, and by the way...
+The last of the seven
+<PUSH>
+wonders of Echo Ridge
+apparently doesn't exist!
+<PUSH>
+...Wh-What!? *woof*
+<PUSH>
+Don't look at me like that!
+<PUSH>
+*woof, woof*
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+

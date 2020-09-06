@@ -1,0 +1,95 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Y ya estaría!
+<PUSH>
+¡Los grupos de Ruido
+también se han ido!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡El aspersor debería ya
+poder funcionar!
+<PUSH>
+¡Vamos a decirselo al Sr.Wolfe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué pasa, chico?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mmm...
+<PUSH>
+¿No sientes nada extraño,
+Mega...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¿...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Por qué han aparecido de
+repente grupos de Ruido
+tan peligrosos?
+<PUSH>
+No hay tanto Ruido en los
+alrededores de la escuela...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No hay mucho, pero aún
+sigue habiendo algo,
+¿verdad?
+<PUSH>
+¡Probablemente fue sólo un
+suceso al azar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+E{15}{E1}-Eso espero...
+<PUSH>
+Pero aún así...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]

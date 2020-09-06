@@ -1,0 +1,231 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}ò{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una silla de playa.
+Imagina sentarte en esta silla,
+un sorbito a un zumo... Ahhh...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ahh!
+¡Es una...!
+<PUSH>
+{80}{E1}<Dark.Phantom>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+la Carta de Combate:
+«{CA}{E7}»!
+<PUSH>
+{0A}{E1}ò
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una sombrilla.
+Imprescindible si no
+quieres broncearte.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{09}{E1}{00}{00}{2D}{07}{31}{07}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una Onda Real.
+Pueden cambiar su apariencia
+para distintos eventos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}{E5}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una obra de arte.
+Para la cultura de Alohaha
+es muy antigua e importante.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Ahí hay algo!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+un objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}{E5}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una Onda Real.
+Pueden cambiar su apariencia
+para distintos eventos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ha saltado un error...
+¡Vamos a comprobar
+el Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una silla de playa.
+Imagina sentarte en esta silla,
+un sorbito a un zumo... Ahhh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una obra de arte.
+Para la cultura de Alohaha
+es muy antigua e importante.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué cosa tan chula!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Para chulo, yo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

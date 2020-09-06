@@ -1,0 +1,520 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Elite Wizards are completely
+different...
+<PUSH>
+He gave off a lot more
+Crimson than the others...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I also finished collecting all
+the data on Mega Man that's
+needed, from the last battle.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+What did you find...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man still has a great
+potential for power beyond
+his current levels.
+<PUSH>
+And it turns out that Geo
+Stelar's Wizard, Omega-Xis,
+holds the key...
+<PUSH>
+It's just as we expected...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+What about the data on
+Omega-Xis?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I got all of that too.
+<PUSH>
+Mr. King shouldn't have any
+more problems, now.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Geo-2>
+Jack!!
+Ms. Tia!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+So you're collecting Crimson...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's thanks to you that we
+got so much...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tell me what the heck is
+going on!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We're your enemies...
+<PUSH>
+We're members of Dealer...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So it is true...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Under the orders of the
+head of Dealer, Mr. King, we
+<PUSH>
+joined Echo Ridge Elementary
+to investigate Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+We made Wizards go out of
+control... In order to acquire
+data on you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+And at the same time, we
+collected all of the Crimson
+<PUSH>
+that was released in
+battles.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Why Crimson...?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Because Mr. King wants it...
+<PUSH>
+And it's very important
+to us, as well...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+We almost have too much
+data now...
+<PUSH>
+And we have more than
+enough Crimson thanks to
+you.
+<PUSH>
+That makes our mission
+complete.
+<PUSH>
+...Which means we have no
+more use for you.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We can't just let you go
+back home after all of this.
+<PUSH>
+Looks like we'll just have to
+take down Mega Man, the
+hero of justice...
+<PUSH>
+Our Wizards really want
+to do this as well...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Your Wizards...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+Kyahahahaha!!
+Long time, no see, Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+It's been a while since we
+last met on Planet FM!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Virgo...!
+Corvus...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Do you know them, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+They're also aliens...
+FM-ians...
+<PUSH>
+They're the most evil and
+powerful criminals in the
+planet's whole history...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Criminals... from Planet FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I've heard that they are
+responsible for destroying
+countless worlds...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Heeey...
+What's wrong, Omega-Xis!?
+<PUSH>
+Aren't you happy to see us?
+<PUSH>
+You were well-known for
+your strength back home,
+<PUSH>
+but perhaps becoming a
+Wizard has made you lose
+your edge!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr...!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Kyahahahaha!!
+Are you scared!?
+<PUSH>
+I can't believe it, but
+Omega-Xis is scared of us!
+<PUSH>
+Take a look, Corvus!
+He's shaking in his boots!
+<PUSH>
+Kyahahahaha!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Do you remember back home
+when you would try to fight
+<PUSH>
+with us and we would just
+pound you into the ground!?
+<PUSH>
+You must have gotten at
+least a tiny bit stronger
+since then, right!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Enough of this!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+No more talking.
+<PUSH>
+It's time to finish things with
+a fight, Geo Stelar...
+No... Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Jack...
+I really don't want to have
+to fight you...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+You're still talking like that,
+even though you're about
+to be destroyed!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Will you still feel the same
+after you see our EM Wave
+Change forms...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Corvus!!
+It's EM Wave Change time!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Finally!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+EM Wave Change!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Are you ready, Virgo...?
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+I'm always ready!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+EM Wave Change!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+EM Wave Change...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+H-How...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So, they can Wave Change...?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+In this form I am known as
+Queen Virgo...
+<PUSH>
+Second guessing my abilities
+will cost you your life...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Come on! EM Wave Change!
+<PUSH>
+Do you think you can take
+on Jack Corvus!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Looks like I have no choice...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright! Time to take them
+down a few pegs!
+<PUSH>
+Let's EM Wave Change, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Sis, why don't you give me
+the honor?
+<PUSH>
+Corvus really wants to
+fight with Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Fine...
+Have fun...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Geo Stelar...
+This was our fate from the
+very beginning.
+<PUSH>
+There's no way to avoid this
+fight.
+<PUSH>
+If you don't want to be
+destroyed, come at me with
+everything you've got!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I don't know what you're
+after, but...
+<PUSH>
+But if it really was you two
+who caused all the incidents
+<PUSH>
+lately, then there's no way
+I can let you win!!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

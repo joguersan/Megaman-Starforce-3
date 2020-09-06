@@ -1,0 +1,30 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Road that was cut
+off is connected now...
+<PUSH>
+We should be able to keep
+going!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

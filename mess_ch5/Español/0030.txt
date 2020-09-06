@@ -1,0 +1,59 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Estás acabado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Bien hecho!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Qué le pasa!? ¿Por qué
+tiene que actuar así después
+de que le hemos ayudado?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mira el lado bueno, ¡al menos
+se ha molestado en pedirnos
+ayuda.
+<PUSH>
+Venga, ¡Expulsionemonos!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

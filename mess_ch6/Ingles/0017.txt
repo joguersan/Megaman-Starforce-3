@@ -1,0 +1,336 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+We finally got to the
+entrance!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hehe, I'm itchin' for a fight!
+<PUSH>
+Let's bust in there, and go
+buck wild on those jerks!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Didn't I tell you not to act
+up like that?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Acid's here... Super...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Well done on finding Dealer's
+base for us, Geo.
+<PUSH>
+I knew you could do it!
+<PUSH>
+Well actually...
+<PUSH>
+It was Dr. Goodall and the
+Chief that said you could.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace, are you feeling up to
+this?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+100%!
+<PUSH>
+There's no need to worry.
+I even have Dr. Goodall's
+approval.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Omega-Xis...
+<PUSH>
+The fate of the planet will
+be decided by this mission.
+<PUSH>
+Absolutely zero non-team
+approved actions will be
+tolerated.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh, give me a break!
+Just keep your mouth shut!
+<PUSH>
+I don't need a lecture from
+some reject Wizard who
+can't even stop yapping!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+I'm not trying to lecture you.{15}{E1}
+But... you can be impulsive.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'll show you impulsive!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Geeeo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Who...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I'm here to help, too...
+<PUSH>
+Teehee!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Harp Note is equally as
+important of an ally as
+Mega Man is.
+<PUSH>
+She too is vital to this
+mission.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yep!
+<PUSH>
+We can do this, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Let's do our best to work
+together, as well.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Meggers.
+*giggles*
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grr! Why you...!
+<PUSH>
+J-Just don't slow me down!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So, let's go over everything...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Everyone here is a member
+of the Team, "Satella Police
+Commandos"...
+<PUSH>
+And all of us have gathered
+here to end Dealer's plan
+for world domination.
+<PUSH>
+We are the most skilled and
+strongest of all the Satella
+Police officers.
+<PUSH>
+So if we fail, Earth may
+not have another chance to
+escape the wrath of Dealer.
+<PUSH>
+But from here on out, we
+will not even acknowledge
+that possibility.
+<PUSH>
+Because our new Purpose
+is to...
+<PUSH>
+Crush Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+0Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+1Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}(
+<START-DIALOG>
+{04}{E2}{07}{00}
+<NEW-DIALOG>
+<Game>
+Geo's Purpose has changed!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Geo...
+<PUSH>
+Are you ready to get to
+work, right away?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Of course!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+That horrid looking door
+behind us is locked tight.
+<PUSH>
+It's next to impossible to
+unlock it from the Real
+World.
+<PUSH>
+So...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That means it's time for
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Precisely.
+<PUSH>
+Would you please find the
+control panel located in
+<PUSH>
+the Cyber Core, and then
+unlock the door?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+And please do so as quickly
+as you can.
+<PUSH>
+We don't want to be loitering
+around here for very long.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Who do you think you are!?
+You think you can just boss
+him around like that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+U{15}{E1}-Understood, Acid!
+<PUSH>
+We'll be back ASAP!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

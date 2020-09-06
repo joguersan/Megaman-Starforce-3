@@ -1,0 +1,56 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¡¡Usad la capacidad de
+procesado de datos del
+sistema medioambiental
+<PUSH>
+para buscar a Geo!!
+<PUSH>
+Puede que el tiempo en la
+isla empeore un poco hasta
+que el sistema vuelva
+<PUSH>
+a activarse.
+<PUSH>
+¡¡Pero tenemos que aguantar
+por el bien del chico!!
+<PUSH>
+
+<NEW-DIALOG>
++¡¡Haremos lo que haga falta!!
+¡¡Strong, vamos a encontrarle!!
+<PUSH>
+
+<NEW-DIALOG>
+{9B}{00}¡¡Por mí como si un tifón
+o un huracán golpean la isla!!
+<PUSH>
+¡¡Estoy dispuesto a aguantar
+lo que sea por Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¡¡Chicos, gracias!!
+<PUSH>
+¡¡Vamos a hacer realidad
+el milagro!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Síííí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

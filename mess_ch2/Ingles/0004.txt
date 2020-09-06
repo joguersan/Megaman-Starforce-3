@@ -1,0 +1,632 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*chatter, chatter*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm pretty excited today...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Wait, why exactly are you
+excited today, huh?
+<PUSH>
+{13}{EC}...!!
+<PUSH>
+D-Don't tell me it's another
+<Hunter> upgrade!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Nope. Not this time, Mega.
+Today, a transfer student
+is joining my class.
+<PUSH>
+And I heard there's a new
+teacher starting, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Phew...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You didn't hear when I
+was talking to everyone?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nah, I was half asleep.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Attention, everyone!
+I would like to introduce
+to you a new classmate,
+<PUSH>
+as well as a new teacher
+at Echo Ridge Elementary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Jack!
+Ms. Tia!
+Please come in!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ms. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Their names don't sound
+like they're from around
+here...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+This is your new classmate,
+Jack.
+<PUSH>
+And Echo Ridge Elementary
+is Ms. Tia's first teaching
+assignment.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Nice to meet everyone...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+{13}{EC}...?
+<PUSH>
+Why don't you say hello to
+everyone, Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+(Say something, Jack...)
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...I am Jack.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Everyone do your best to
+welcome Jack, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+After school...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{11}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I heard you're really smart!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Jack isn't a normal name
+around here.
+Where are you from?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+You're Ms. Tia's brother,
+aren't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Isn't she only 17 years
+old?
+<PUSH>
+It's amazing that she
+became a teacher at such
+a young age!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Genius must run in the
+family!
+I'm jealous!
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Are you listening, Jack...?
+As you know, Mega Man's
+true identity is Geo Stelar.
+<PUSH>
+You need to uncover the
+secret behind his power...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+...Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Huh?
+What about him?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Prez>
+If I'm going to be a great
+student body president,
+<PUSH>
+then I even need to think
+about the feelings of new
+transfer students!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Good point, Prez!
+What a great idea!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I can introduce him to a
+really great cheesesteak
+place near my house!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(That doesn't sound like a
+ bad idea...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Hey, Geo...
+<PUSH>
+Jack just mentioned you a
+second ago.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really? Me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+...Do you know him, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I've never met him before...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hmm, whatever...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Welcome to Echo Ridge
+Elementary, Jack!
+<PUSH>
+By the way, do you have
+any nicknames you like
+people to call you?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+.{13}{E1}.{13}{E1}.{13}{E1}Leave me alone.
+<PUSH>
+I need to talk to Geo
+Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+My name is Luna Platz!
+<PUSH>
+Right now I'm Class 5-A's
+president, but I'm the lead
+<PUSH>
+candidate for the next
+student body president!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+.{13}{E1}.{13}{E1}.{13}{E1}And I care... why?
+<PUSH>
+I need to talk to Geo
+Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Oh, by the way, Jack...
+Do you have any interest
+in joining a Team?
+<PUSH>
+My Team, "Luna 4 Prez",
+does its best everyday to
+make this school better.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+.{13}{E1}.{13}{E1}.{13}{E1}I couldn't care less, really.
+<PUSH>
+I need to talk to Geo
+Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Just the other day, we
+produced the launch of a
+rocket!
+<PUSH>
+{A0}{E1}{03}{00}<
+<NEW-DIALOG>
+<Jack>
+S{13}{E1}h{13}{E1}u{13}{E1}t{13}{E1} u{13}{E1}p{13}{E1}!{13}{E1}!{13}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Can't you just shut up!?
+<PUSH>
+I don't care if you're the
+class president!
+<PUSH>
+Or about your Team!
+Blah, blah, blah!
+<PUSH>
+I've been trying to talk,
+so just shut up for once!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+H-How dare you!?
+I was just trying to make
+you feel welcome...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I don't need your pity!
+<PUSH>
+And I didn't ask for you
+to do anything for me!
+<PUSH>
+Stay out of my business!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+H-How rude!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Uh oh...)
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I'm not going to waste my
+time on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Are you stupid!?
+<PUSH>
+What a big mouth!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+B-Big mouth!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Prez>
+...Geo.
+Did I do something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I-I don't think so...
+<PUSH>
+For now, why don't I go
+look for him?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What the heck for!?
+Why bother with a crazy
+guy like that?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I concur 100%!
+<PUSH>
+I can't believe he acted
+like that when Prez was
+only trying to be nice!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+But Zack, Bud...
+<PUSH>
+Wasn't I just like that
+when you first met me?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I used to be scared to
+get close to people after
+my dad disappeared...
+<PUSH>
+I just hid inside my house...
+Inside my own shell...
+<PUSH>
+I did my best to avoid
+Prez every time she came
+to invite me to school...
+<PUSH>
+But somehow I became
+part of your world...
+<PUSH>
+And now I'm a different
+person.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm going to look for Jack.
+Help me out, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Meh, I might as well.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,23 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+Chico, qué duro...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a devolver
+esto a su dueño.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

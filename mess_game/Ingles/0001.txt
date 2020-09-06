@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrgggh!
+Teamwork can solve any
+problem!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+It looks like you couldn't get
+your body temperature back
+to 100% normal.
+<PUSH>
+Be mindful of the fact that
+your body temperature gauge
+will drop.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+Are you tough enough to
+try again?
+<PUSH>
+{05}{EC}{01}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{03}{00}{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{07}{E1}{00}{00}{00}{00}
+[END]
+

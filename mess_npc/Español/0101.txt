@@ -1,0 +1,21 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEstás en el Cibernúcleo
+del trofeo. ¿A que mola?
+¡Es una muestra de humildad!
+<PUSH>
+¡No son una prueba de ser
+el más fuerte o el más
+inteligente!
+<PUSH>
+¡Estos trofeos son prueba
+del esfuerzo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

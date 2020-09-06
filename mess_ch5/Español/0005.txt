@@ -1,0 +1,155 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, Acid, ¿¡qué estáis
+haciendo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Aún sois miembros de
+Dealer...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+¡Bingo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Bueno, en realidad no.
+Hasta ahora no había
+ninguna razón para probarte.
+<PUSH>
+Llevaba tiempo
+posponiéndolo...
+<PUSH>
+Pero pensé que era el
+momento adecuado para
+tener una batalla de verdad,
+<PUSH>
+de modo que pudiera
+comprender plenamente tu
+verdadero potencial.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Así que decidiste
+atacarnos por la espalda?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Hahaha!
+¡Jajaja! ¡Todo depende del
+ambiente!
+<PUSH>
+Habíais entrado en pánico,
+¿verdad?
+<PUSH>
+Estabais como «¡De ninguna manera!»
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No...{16}{E1} En absoluto.
+¡Ni lo más minimo!
+<PUSH>
+¿¡Piensas que nos pillaste
+desprevenidos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+U-Umm, bueno entonces...
+<PUSH>
+¿Para que es la prueba?
+No pudo haber sido sólo
+para probar mi poder...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Bueno, verás...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Geeeo!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Sonia...{15}{E1} y Bud!?
+<PUSH>
+¿¡Por qué estáis aquí!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Dejadme que os vuelva a
+presentar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Este es Mega Man.
+<PUSH>
+Va a luchar con vosotros,
+¡como un nuevo
+<PUSH>
+miembro de los Comandos
+de la Policía Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

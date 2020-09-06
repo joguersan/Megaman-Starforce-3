@@ -1,0 +1,167 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Where are we?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+In some Noise Wave that
+I've never seen before.
+<PUSH>
+What's...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7F}{00}Ungh... Umph...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What's wrong?
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}Wh-Where am I?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well you're...
+Actually, we have no idea.
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}I see...
+<PUSH>
+I have a message that
+needs to get to Earth.
+<PUSH>
+It's an SOS from my home
+planet...
+<PUSH>
+Everyone and everything
+will soon be destroyed by
+him. He's so powerful...
+<PUSH>
+And that server of his.{14}{E1}.{14}{E1}.{16}{E1}
+Ungh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Snap out of it!
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}I-I can't go any further...
+<PUSH>
+Our only hope is our
+Brother on Earth.
+<PUSH>
+Our king told us that there
+is someone on Earth with
+the power to save us...
+<PUSH>
+Ungh...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey!
+Who's this "someone"!?
+<PUSH>
+And what planet are you
+from!?
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}I{14}{E1}-I'm... fr...om...{15}{E1}
+<PUSH>
+Umph...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Darn it...
+He croaked on us...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It's sad, but...
+At least he was able to
+accomplish his mission.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh!
+Are you saying that...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Let's keep going.
+His planet must be
+linked to this Noise Wave.
+<PUSH>
+And his people are waiting
+for their Brother from
+Earth to save the day!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sounds like fun!
+I don't know what the heck
+is going on...
+<PUSH>
+But I'm always ready to go
+buck wild on some bad guys!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]
+

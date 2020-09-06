@@ -1,0 +1,161 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Bzzzzzzz! Perforar
+<PUSH>
+¡Este es el Cibernúcleo
+del dentista!
+<PUSH>
+¡Asegurate de limpiarte los
+dientes después de cada
+comida!
+<PUSH>
+Porque si tienes caries,
+toca, bzzzzzz, perforar.
+<PUSH>
+¡Y eso podría doler
+un poquito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡CygnsWing"R"!
+<PUSH>
+¿¡Dónde está Sirius!?
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}Mi amo, Sirius, es el
+glorioso administrador
+<PUSH>
+de el servidor más grande
+de todo el universo,
+el servidor agujero negro.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Servidor!?
+<PUSH>
+¿¡Es decir ese agujero negro
+es un servidor!?
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}Así es.
+<PUSH>
+Sirius lo usa para absorber
+las ondas EM que le gustan,
+<PUSH>
+y usa esa información para
+su propio interés.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chaval, ¿este tío no te está
+recordando a algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, Meteorito G...
+¡Meteorito G también es un
+servidor!
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}¡Jo, jo, jo!
+¡Irrisorio!
+<PUSH>
+¡Comparado con el agujero
+negro, Meteorito G no es
+<PUSH>
+nada más que una carpetita!
+<PUSH>
+Desgraciadamente nunca seréis
+guardados en el servidor.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ahí le has dado,
+en mi agenda hoy no
+sale ser absorbido por eso!
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}¡Y por eso voy
+a eliminarte,
+<PUSH>
+aquí, {14}{E1} y ahora!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{AD}{00}
+[END]
+

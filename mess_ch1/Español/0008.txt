@@ -1,0 +1,90 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bien, listos
+para el combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Qué raro...
+<PUSH>
+¿No notas algo distinto?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ahora que lo dices...
+<PUSH>
+Quizás es a causa de la
+transformación de tu
+terminal en un <Hunter>-VG.
+a <Hunter>-VG?
+<PUSH>
+¡Dejemos los detalles para
+más tarde, chico!
+<PUSH>
+¡Es hora de eliminar
+esos virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Pues claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Casi todos los Cibernúcleos
+están conectados a la
+Carretera de Ondas.
+<PUSH>
+¿Te acuerdas?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí. Podemos entrar viajando
+hasta ellos por la
+Carretera de Ondas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Exacto. Y puedes llegar al
+CN del aspersor desde allí.
+<PUSH>
+Al aparecer el mensaje:
+"ACCESO", tócalo para
+acceder al Cibernúcleo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Muy bien,
+que empiece la fiesta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

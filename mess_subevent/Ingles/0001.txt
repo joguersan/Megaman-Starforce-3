@@ -1,0 +1,459 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I'm looking for people that
+want to trade Sonia Cards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{01}{16}{0B}{00}{0C}{E1}{00}{00}{2F}{16}{03}{00}{0C}{E1}{01}{00}{4A}{16}
+{0C}{E1}{01}{00}{49}{16}{07}{00}{0C}{E1}{01}{00}{48}{16}{07}{00}{0C}{E1}{01}{00}{47}{16}{07}{00}{0C}{E1}{01}{00}{00}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Everyone is so into trading
+Battle Cards...
+<PUSH>
+But I think Sonia Cards are
+way cooler.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Yes, in fact, there is!
+I'm a HUGE, HUGE Sonia fan.
+<PUSH>
+Have you ever heard of
+Sonia Cards?
+<PUSH>
+I've been collecting them
+since Sonia first hit it big.
+<PUSH>
+But I've never been able to
+get my hands on the
+"Little Devil Sonia" card.
+<PUSH>
+I wish there was someone
+who would trade one to me
+for my "Sonia Wink" card.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+If you'd like, I could go find
+someone who wants to trade
+Sonia Cards with you.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Really!?
+That would be so great!
+<PUSH>
+I'll let you take the
+"Sonia Wink" card with you.
+<PUSH>
+{0A}{E1}{47}{16}{82}{E1}<Zack>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{89}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I think there are other
+Sonia Card fans at school.
+<PUSH>
+{0A}{E1}{00}{16}{20}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Maybe I should give up...
+<PUSH>
+{0B}{E1}{2F}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Did you already find a
+"Little Devil Sonia" card?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I see...
+Let me know if you change
+your mind.
+<PUSH>
+{0B}{E1}{2F}{16}{0B}{E1}{00}{16}{0B}{E1}{01}{16}{0B}{E1}{47}{16}{0B}{E1}{49}{16}{0B}{E1}{48}{16}{0B}{E1}{4A}{16}{82}{E1}<Zack>
+{FF}{FF}{82}{E1}<Sonia>
+{FF}{FF}{82}{E1}<Solo>
+{FF}{FF}{82}{E1}<Mr.King-2>
+{FF}{FF}{21}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Tell me when you find it!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Awesome!
+<PUSH>
+I've been looking for a
+"Little Devil Sonia"
+card for forever!
+<PUSH>
+Sweet, I finally completed my
+set! Thank you!
+<PUSH>
+Would you mind being my
+Brother?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'd love to!
+<PUSH>
+{6E}{E1}{00}{00}<Chery.Blosom>
+
+<NEW-DIALOG>
+<Game>
+Geo and {E0}{E2}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{01}{16}{82}{E1}<Mr.King-2>
+{FF}{FF}{21}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Sweet...
+My set is finally complete!
+Thank you, thank you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{01}{00}{48}{16}{0E}{00}{06}{E1}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Hey...
+Is that Sonia Card a
+"Sonia Wink" card!?
+<PUSH>
+I've been looking for that
+card for a long time!
+<PUSH>
+Would you trade it to me for
+my "Tennis Outfit Sonia"
+card!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm... What should I do?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Maybe if you trade around
+with a bunch of people, you'll
+<PUSH>
+eventually get the one you
+want.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Good point. I'll do it.
+<PUSH>
+{0A}{E1}{48}{16}{82}{E1}<Zack>
+{FF}{FF}{82}{E1}<Sonia>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{8A}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+This is so awesome!
+<PUSH>
+Did you say that you don't
+know any other Sonia Card
+traders?
+<PUSH>
+Why don't you check
+<Echo.Ridge>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{49}{16}{12}{00}{0C}{E1}{01}{00}{48}{16}{11}{00}{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+I really enjoy collecting
+Sonia Cards.
+<PUSH>
+It looks like you don't have
+the card I need.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Wait a minute...
+<PUSH>
+Is that the
+"Tennis Outfit Sonia" card?
+<PUSH>
+She's so cute in it!
+Sonia is just the greatest,
+isn't she!?
+<PUSH>
+Will you trade it to me for
+this "Sonia the Acrobat"
+card!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sure!
+<PUSH>
+{0A}{E1}{49}{16}{82}{E1}<Sonia>
+{FF}{FF}{82}{E1}<Solo>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{8B}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+This is really awesome of
+you! Thanks!
+<PUSH>
+You want to know where
+other Sonia Card fans are?
+<PUSH>
+Sorry, but I don't know of
+any close by.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{01}{00}{4A}{16}<Hope(Mom)>
+{0C}{E1}{01}{00}{49}{16}{15}{00}{06}{E1}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Collecting Sonia Cards is my
+biggest hobby!
+<PUSH>
+It's too bad you don't have
+the card I want.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Hey, you!
+<PUSH>
+Is that card in your hand a
+"Sonia the Acrobat"!?
+<PUSH>
+That's pretty rare and hard
+to find.
+<PUSH>
+If you don't mind...
+<PUSH>
+Can I trade you this
+"Little Devil Sonia" for it?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!
+That's the card I need.
+<PUSH>
+I'll definitely trade with you!
+<PUSH>
+{0A}{E1}{4A}{16}{82}{E1}<Solo>
+{FF}{FF}{82}{E1}<Mr.King-2>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{8C}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Let's go take this card to
+to its new owner.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)That was such a sweet
+trade.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,515 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0A}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Go on an adventure to
+solve the mystery of the
+missing ginger beef!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{42}{16}{03}{00}{0C}{E1}{01}{00}{27}{16}{0B}{00}{0C}{E1}{01}{00}{A2}{16}
+{0C}{E1}{01}{00}{26}{16}{07}{00}{0C}{E1}{01}{00}{9E}{16}{07}{00}{0C}{E1}{01}{00}{9F}{16}{07}{00}{0C}{E1}{01}{00}{A0}{16}{07}{00}{0C}{E1}{01}{00}{A1}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+My ginger beef disappeared...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...?
+<PUSH>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Well, I went to have my daily
+ginger beef snack...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ginger beef for a snack!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+When I went to take a
+bite, I noticed that I never
+put any spices on top!
+<PUSH>
+So I went to the fridge to
+get the spices, and when I
+came back...
+<PUSH>
+"Noooooo!"
+<PUSH>
+My ginger beef was gone!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I see...
+<PUSH>
+Maybe you actually ate it
+before you got the ginger?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I don't care how much of an
+eater I am, that's just not
+possible! It really disappeared!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help Bud?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+This event should not be
+taken lightly, Budicus!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Who are you calling "Budicus"!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This is definitely strange,
+though...
+<PUSH>
+Tell him you'll help, kid.
+This could be kind of fun.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+True.
+<PUSH>
+OK, I'll investigate this
+tragedy for you, Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Nice! Thanks, Geo!
+<PUSH>
+Oh, by the way...
+<PUSH>
+Take this.
+It might help in your
+investigation.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{A0}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I've never seen someone
+carry ginger beef with them...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+It's a microwaveable meal,
+but it's still pretty good!
+<PUSH>
+Go to the middle of my
+room and set it there as
+bait.
+<PUSH>
+{0A}{E1}{26}{16}{0A}{E1}{9E}{16}{82}{E1}0{01}{00}{20}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Bud>
+I'm counting on you, buddy.
+
+<PUSH>
+{0B}{E1}{42}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Did you find out what
+happened, Geo?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Bud>
+I'm counting on you, buddy.
+<PUSH>
+{0B}{E1}{42}{16}{0B}{E1}{26}{16}{0B}{E1}{27}{16}{0B}{E1}{9E}{16}{0B}{E1}{9F}{16}{0B}{E1}{A0}{16}{0B}{E1}{A1}{16}{82}{E1}0{FF}{FF}{82}{E1}1{FF}{FF}{21}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Bud>
+I hope you find it!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I found out what happened.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Taurus took it!?
+<PUSH>
+Why that sneaky little...
+<PUSH>
+I'd be more than happy to
+make him some if he wanted!
+<PUSH>
+The more people eating
+ginger beef, the merrier!
+It even tastes better then!
+<PUSH>
+I'll surprise him with some
+sometime. He'll like that.
+<PUSH>
+Thanks a lot, Geo.
+This is for helping me!
+<PUSH>
+{A1}{E1}{87}{E1}n{01}{00}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{9E}{E6}{D0}{E6}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{27}{16}{82}{E1}0{FF}{FF}{82}{E1}1{FF}{FF}{21}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'll set the ginger beef down
+here as bait.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo set the ginger beef
+down.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9F}{16}{0B}{E1}{BA}{16}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+That ginger beef looks good!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Whoa! It disappeared!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Weird.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I wonder what is going on?
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{BC}{16}
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{BB}{16}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+Ginger beef?
+<PUSH>
+I have no clue what you are
+talking about.
+<PUSH>
+Mmmrrrgh!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No eye-witnesses, huh?
+<PUSH>
+Let's look around the room
+some more.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{0C}{E1}{01}{00}{A2}{16}{11}{00}
+<NEW-DIALOG>
+<Taurus>
+S-So spicy!
+My mouth is on fire!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Taurus!
+So you're the thief!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+...Forgive me.
+<PUSH>
+I watch Bud eat ginger beef
+everyday, and it just looks
+so good...
+<PUSH>
+I just had to try it.
+<PUSH>
+And now I'm completely
+hooked...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You must really love eating
+if you're willing to go that
+far to eat human food!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrgh...
+<PUSH>
+What are you going to do?
+Are you going to tell Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Actually, I think you should
+personally apologize to Bud.
+<PUSH>
+I know he'll forgive you.
+<PUSH>
+I'll let him know you want to
+apologize.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A2}{16}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<NEW-DIALOG>
+<Taurus>
+Thanks. I'll apologize once
+I work up some courage.
+<PUSH>
+I hope he forgives me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'll set the ginger beef down
+here as bait. Hmm, should I
+put some spices on it?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{00}{00}{3F}{FF}{3F}{FF}{06}{EC}Don't put any on
+{3F}{FF}{3F}{FF}{09}{EC}Put a little on
+{3F}{FF}{3F}{FF}{0C}{EC}Pile it on
+<PUSH>
+{17}{EC}{02}{00}{1B}{EC}{06}{00}<Geo>
+
+<NEW-DIALOG>
+<Geo>
+This should be good.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo set the ginger beef
+down.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9F}{16}{0B}{E1}{BA}{16}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Geo>
+This should be good.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo set the ginger beef
+down.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A1}{16}
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hooooooly coooooow!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+That's sp-sp-spicy!!
+Ginger beef shouldn't taste
+anything like this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

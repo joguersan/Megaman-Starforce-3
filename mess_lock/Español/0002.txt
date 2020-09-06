@@ -1,0 +1,190 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{0A}{E1}{0D}{00}
+<NEW-DIALOG>
+{90}{00}Lo sentimos, el surcaondas
+está en mantenimiento.
+Vuelva pronto.
+<PUSH>
+{0B}{E1}{0D}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es la casa de la Dele.
+No tengo nada que
+hacer aquí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es la casa de Bud.
+No tengo nada que
+hacer aquí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es la casa de Zack.
+No tengo nada que
+hacer aquí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Parece que la {B6}{E4}
+está cerrada.
+<PUSH>
+Seguro que el Sr. Suther
+está surfeando por ahí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No deberías ir al colegio?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Si me expulsiono ahora...
+¡No quiero ni pensarlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Lo sentimos, el surcaondas
+está en mantenimiento.
+Vuelva pronto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, sí! ¡Tengo que
+preguntar a mamá
+por el Sr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ups!
+¡Me están esperando
+la Dele y los demás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Se han suspendido de
+forma temporal todas las
+líneas del surcaondas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a hablar con Bud
+y los demás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Imposible autenticar
+la clave de la WAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,31 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's a Noise cluster!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It might be these things
+that are making the viruses!
+<PUSH>
+Come on, Mega!
+Let's destroy it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+My pleasure!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+

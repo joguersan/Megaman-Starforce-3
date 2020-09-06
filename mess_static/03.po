@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgctxt "0"
+msgid "Geo Stelar"
+msgstr "Geo Stelar"
+
+msgctxt "1"
+msgid "KelvinStelar"
+msgstr "Kelvin Stelar"
+
+msgctxt "2"
+msgid "Hope Stelar"
+msgstr "Hope Stelar"
+
+msgctxt "3"
+msgid "Luna Platz"
+msgstr "Luna Platz"
+
+msgctxt "4"
+msgid "Bud Bison"
+msgstr "Bud Bison"
+
+msgctxt "5"
+msgid "Zack Temple"
+msgstr "Zack Temple"
+
+msgctxt "6"
+msgid "Sonia Strumm"
+msgstr "Sonia Strumm"
+
+msgctxt "7"
+msgid "Solo"
+msgstr "Solo"
+
+msgctxt "8"
+msgid "Mr. King"
+msgstr "Sr. King"
+
+msgctxt "9"
+msgid "Jack"
+msgstr "Jack"
+
+msgctxt "10"
+msgid "(Queen) Tia"
+msgstr "(Queen) Tia"
+
+msgctxt "11"
+msgid "Joker"
+msgstr "Joker"
+
+msgctxt "12"
+msgid "Heartless"
+msgstr "Heartless"
+
+msgctxt "13"
+msgid "A.C. Eos"
+msgstr "A.C. Eos"
+
+msgctxt "14"
+msgid "Ken Suther"
+msgstr "Ken Suther"
+
+msgctxt "15"
+msgid "L.M. Shin"
+msgstr "L.M. Shin"
+
+msgctxt "16"
+msgid "WAZA Chief"
+msgstr "Jefe WAZA"
+
+msgctxt "17"
+msgid "Woody Boffin"
+msgstr "Woody Boffin"
+
+msgctxt "18"
+msgid "Mitch Shepar"
+msgstr "Mitch Shepar"
+
+msgctxt "19"
+msgid "Lee Stern"
+msgstr "Lee Stern"
+
+msgctxt "20"
+msgid "Belle"
+msgstr "Belle"
+
+msgctxt "21"
+msgid "Aaron Boreal"
+msgstr "Aaron Boreal"
+
+msgctxt "22"
+msgid "Bob Copper"
+msgstr "Bob Copper"
+
+msgctxt "23"
+msgid "Dr. Goodall"
+msgstr "Dra. Goodall"
+
+msgctxt "24"
+msgid "Damian Wolfe"
+msgstr "Damian Wolfe"
+
+msgctxt "25"
+msgid "Tom Dubius"
+msgstr "Tom Dubius"
+
+msgctxt "26"
+msgid "Axe Tagrind"
+msgstr "Axe Tagrind"
+
+msgctxt "27"
+msgid "Rolly Pollyn"
+msgstr "Rolly Pollyn"
+
+msgctxt "28"
+msgid "Pleya Masta"
+msgstr "Pleya Masta"
+
+msgctxt "29"
+msgid "Flora Petals"
+msgstr "Flora Petals"
+
+msgctxt "30"
+msgid "Brandon Gay"
+msgstr "Brandon Gay"
+
+msgctxt "31"
+msgid "Janet Hsu"
+msgstr "Janet Hsu"
+
+msgctxt "32"
+msgid "Iver Gatte"
+msgstr "Iver Gatte"
+
+msgctxt "33"
+msgid "Miguel Corti"
+msgstr "Miguel Corti"
+
+msgctxt "34"
+msgid "Kaori Funa"
+msgstr "Kaori Funa"
+
+msgctxt "35"
+msgid "Jax Dubelz"
+msgstr "Jax Dubelz"
+
+msgctxt "36"
+msgid "Hamer Nayl"
+msgstr "Hamer Nayl"
+
+msgctxt "37"
+msgid "Hide Seek"
+msgstr "Hide Seek"
+
+msgctxt "38"
+msgid "Amora McCard"
+msgstr "Amora McCard"
+
+msgctxt "39"
+msgid "Jack Flask"
+msgstr "Jack Flask"
+
+msgctxt "40"
+msgid "Angel Wise"
+msgstr "Angel Wise"
+
+msgctxt "41"
+msgid "Pete Fabiano"
+msgstr "Pete Fabiano"
+
+msgctxt "42"
+msgid "Meala DeVour"
+msgstr "Meala DeVour"
+
+msgctxt "43"
+msgid "Jon Airhart"
+msgstr "Jon Airhart"
+
+msgctxt "44"
+msgid "Dadd DeChamp"
+msgstr "Dadd DeChamp"
+
+msgctxt "45"
+msgid "Lil O'lady"
+msgstr "Lil O'lady"
+
+msgctxt "46"
+msgid "Andy Alfonso"
+msgstr "Andy Alfonso"
+
+msgctxt "47"
+msgid "Kipit Real"
+msgstr "Kipit Real"
+
+msgctxt "48"
+msgid "Carma Iffy"
+msgstr "Carma Iffy"
+
+msgctxt "49"
+msgid "Rick Stonwal"
+msgstr "Rick Stonwal"
+
+msgctxt "50"
+msgid "Tru Harmony"
+msgstr "Tru Harmony"
+
+msgctxt "51"
+msgid "Cash Money"
+msgstr "Cash Money"
+
+msgctxt "52"
+msgid "Candy Bar"
+msgstr "Candy Bar"
+
+msgctxt "53"
+msgid "Autumn Leaf"
+msgstr "Autumn Leaf"
+
+msgctxt "54"
+msgid "Chery Blosom"
+msgstr "Chery Blosom"
+
+msgctxt "55"
+msgid "Han Gard"
+msgstr "Han Gard"
+
+msgctxt "56"
+msgid "Damon Crow"
+msgstr "Damon Crow"
+
+msgctxt "57"
+msgid "Trish Trig"
+msgstr "Trish Trig"
+
+msgctxt "58"
+msgid "Fany Chase"
+msgstr "Fany Chase"
+
+msgctxt "59"
+msgid "Harry Sasoon"
+msgstr "Harry Sasoon"
+
+msgctxt "60"
+msgid "Eatsa Lotte"
+msgstr "Eatsa Lotte"
+
+msgctxt "61"
+msgid "Prima Occhio"
+msgstr "Prima Occhio"
+
+msgctxt "62"
+msgid "Mary McLovin"
+msgstr "Mary McLovin"
+
+msgctxt "63"
+msgid "Chatty Ditz"
+msgstr "Chatty Ditz"
+
+msgctxt "64"
+msgid "Don McCard"
+msgstr "Don McCard"
+
+msgctxt "65"
+msgid "Stey Phamish"
+msgstr "Stey Phamish"
+
+msgctxt "66"
+msgid "Marian White"
+msgstr "Marian White"
+
+msgctxt "67"
+msgid "Ai Conphes"
+msgstr "Ai Conphes"
+
+msgctxt "68"
+msgid "Roman Ser"
+msgstr "Roman Ser"
+
+msgctxt "69"
+msgid "Gelb Derby"
+msgstr "Gelb Derby"
+
+msgctxt "70"
+msgid "Lady Like"
+msgstr "Lady Like"
+
+msgctxt "71"
+msgid "Max Dubelz"
+msgstr "Max Dubelz"
+
+msgctxt "72"
+msgid "Angel Smart"
+msgstr "Angel Smart"
+
+msgctxt "73"
+msgid "Jack Flask"
+msgstr "Jack Flask"
+
+msgctxt "74"
+msgid "Lotta Charm"
+msgstr "Lotta Charm"
+
+msgctxt "75"
+msgid "Stela Beauty"
+msgstr "Stela Beauty"
+
+msgctxt "76"
+msgid "Raida Briz"
+msgstr "Raida Briz"
+
+msgctxt "77"
+msgid "Boss Hawg"
+msgstr "Boss Hawg"
+
+msgctxt "78"
+msgid "Lil O'lady"
+msgstr "Lil O'lady"
+
+msgctxt "79"
+msgid "Luvza Deal"
+msgstr "Luvza Deal"
+
+msgctxt "80"
+msgid "Jon Airhart"
+msgstr "Jon Airhart"
+
+msgctxt "81"
+msgid "Fula Hart"
+msgstr "Fula Hart"
+
+msgctxt "82"
+msgid "Ima Inluv"
+msgstr "Ima Inluv"
+
+msgctxt "83"
+msgid "Bono Chops"
+msgstr "Bono Chops"
+
+msgctxt "84"
+msgid "Miguel Corti"
+msgstr "Miguel Corti"
+
+msgctxt "85"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "86"
+msgid "Timus Munny"
+msgstr "Timus Munny"
+
+msgctxt "87"
+msgid "Overob Sesed"
+msgstr "Overob Sesed"
+
+msgctxt "88"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "89"
+msgid "SP Officer F"
+msgstr "Oficial esp. F"
+
+msgctxt "90"
+msgid "Dewatta Cey"
+msgstr "Dewatta Cey"
+
+msgctxt "91"
+msgid "Tap Tappity"
+msgstr "Tap Tappity"
+
+msgctxt "92"
+msgid "Brandon Gay"
+msgstr "Brandon Gay"
+
+msgctxt "93"
+msgid "Janet Hsu"
+msgstr "Janet Hsu"
+
+msgctxt "94"
+msgid "Pete Fabiano"
+msgstr "Pete Fabiano"
+
+msgctxt "95"
+msgid "Kaori Funa"
+msgstr "Kaori Funa"
+
+msgctxt "96"
+msgid "Max Dubelz"
+msgstr "Max Dubelz"
+
+msgctxt "97"
+msgid "Hua Mai"
+msgstr "Hua Mai"
+
+msgctxt "98"
+msgid "Kaori Funa"
+msgstr "Kaori Funa"
+
+msgctxt "99"
+msgid "Janet Hsu"
+msgstr "Janet Hsu"
+
+msgctxt "100"
+msgid "Gian Luigi"
+msgstr "Gian Luigi"
+
+msgctxt "101"
+msgid "Kard Kolek"
+msgstr "Kard Kolek"
+
+msgctxt "102"
+msgid "Kaz Nova"
+msgstr "Kaz Nova"
+
+msgctxt "103"
+msgid "Bo Ribbon"
+msgstr "Bo Ribbon"
+
+msgctxt "104"
+msgid "Winter Snow"
+msgstr "Winter Snow"
+
+msgctxt "105"
+msgid "Badatt Cein"
+msgstr "Badatt Cein"
+
+msgctxt "106"
+msgid "Billy Bonka"
+msgstr "Billy Bonka"
+
+msgctxt "107"
+msgid "Britta Baker"
+msgstr "Britta Baker"
+
+msgctxt "108"
+msgid "Lil O'lady"
+msgstr "Lil O'lady"
+
+msgctxt "109"
+msgid "Pete Fabiano"
+msgstr "Pete Fabiano"
+
+msgctxt "110"
+msgid "Kee Grip"
+msgstr "Kee Grip"
+
+msgctxt "111"
+msgid "Pan Holweet"
+msgstr "Pan Holweet"
+
+msgctxt "112"
+msgid "Lotsa Pasta"
+msgstr "Lotsa Pasta"
+
+msgctxt "113"
+msgid "Paris Trendy"
+msgstr "Paris Trendy"
+
+msgctxt "114"
+msgid "Britta Baker"
+msgstr "Britta Baker"
+
+msgctxt "115"
+msgid "Ravi Oli"
+msgstr "Ravi Oli"
+
+msgctxt "116"
+msgid "Summer Camp"
+msgstr "Summer Camp"
+
+msgctxt "117"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "118"
+msgid "SP Officer F"
+msgstr "Oficial esp. F"
+
+msgctxt "119"
+msgid "Engineer"
+msgstr "Ingeniero"
+
+msgctxt "120"
+msgid "Legse Larga"
+msgstr "Legse Larga"
+
+msgctxt "121"
+msgid "Lowe Sweet"
+msgstr "Lowe Sweet"
+
+msgctxt "122"
+msgid "Onda Sette"
+msgstr "Onda Sette"
+
+msgctxt "123"
+msgid "Ben Tou"
+msgstr "Ben Tou"
+
+msgctxt "124"
+msgid "Siesta McNap"
+msgstr "Siesta McNap"
+
+msgctxt "125"
+msgid "Jotthis Daun"
+msgstr "Jotthis Daun"
+
+msgctxt "126"
+msgid "Directa Mann"
+msgstr "Directa Mann"
+
+msgctxt "127"
+msgid "Bery Homsik"
+msgstr "Bery Homsik"
+
+msgctxt "128"
+msgid "Chacky Jan"
+msgstr "Chacky Jan"
+
+msgctxt "129"
+msgid "Lily Luz"
+msgstr "Lily Luz"
+
+msgctxt "130"
+msgid "Julia Monroe"
+msgstr "Julia Monroe"
+
+msgctxt "131"
+msgid "WAZA Staff M"
+msgstr "Miembro WAZA M"
+
+msgctxt "132"
+msgid "WAZA Staff F"
+msgstr "Miembro WAZA F"
+
+msgctxt "133"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "134"
+msgid "SP Officer F"
+msgstr "Oficial esp. F"
+
+msgctxt "135"
+msgid "Sanc Quatr"
+msgstr "Sanc Quatr"
+
+msgctxt "136"
+msgid "Busy Body"
+msgstr "Busy Body"
+
+msgctxt "137"
+msgid "Marina South"
+msgstr "Marina South"
+
+msgctxt "138"
+msgid "Isle Briny"
+msgstr "Isle Briny"
+
+msgctxt "139"
+msgid "Lil O'lady"
+msgstr "Lil O'lady"
+
+msgctxt "140"
+msgid "Tidal Rider"
+msgstr "Montaolas"
+
+msgctxt "141"
+msgid "F. Torchwood"
+msgstr "F. Torchwood"
+
+msgctxt "142"
+msgid "Vaga Bonds"
+msgstr "Vaga Bonds"
+
+msgctxt "143"
+msgid "Sheso Lovely"
+msgstr "Sheso Lovely"
+
+msgctxt "144"
+msgid "Brandon Gay"
+msgstr "Brandon Gay"
+
+msgctxt "145"
+msgid "Hua Mai"
+msgstr "Hua Mai"
+
+msgctxt "146"
+msgid "Brandon Gay"
+msgstr "Brandon Gay"
+
+msgctxt "147"
+msgid "Manny Hunky"
+msgstr "Manny Hunky"
+
+msgctxt "148"
+msgid "Slinky Lass"
+msgstr "Slinky Lass"
+
+msgctxt "149"
+msgid "Ray Finn"
+msgstr "Ray Finn"
+
+msgctxt "150"
+msgid "Butta Flai"
+msgstr "Butta Flai"
+
+msgctxt "151"
+msgid "Balsam Pear"
+msgstr "Balsam Pear"
+
+msgctxt "152"
+msgid "Beach Gal"
+msgstr "Beach Gal"
+
+msgctxt "153"
+msgid "Buff Biggs"
+msgstr "Buff Biggs"
+
+msgctxt "154"
+msgid "Rip Muscle"
+msgstr "Rip Muscle"
+
+msgctxt "155"
+msgid "T. Daimonji"
+msgstr "T. Daimonji"
+
+msgctxt "156"
+msgid "Gale Front"
+msgstr "Gale Front"
+
+msgctxt "157"
+msgid "Bill Webster"
+msgstr "Bill Webster"
+
+msgctxt "158"
+msgid "Toshi Burns"
+msgstr "Toshi Burns"
+
+msgctxt "159"
+msgid "Suss Dabest"
+msgstr "Suss Dabest"
+
+msgctxt "160"
+msgid "Auta Yerleag"
+msgstr "Auta Yerleag"
+
+msgctxt "161"
+msgid "Ala Moana"
+msgstr "Ala Moana"
+
+msgctxt "162"
+msgid "Pete Fabiano"
+msgstr "Pete Fabiano"
+
+msgctxt "163"
+msgid "Bulk N'Skull"
+msgstr "Bulk N'Skull"
+
+msgctxt "164"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "165"
+msgid "Keapa Winnin"
+msgstr "Keapa Winnin"
+
+msgctxt "166"
+msgid "WAZA Lt. M"
+msgstr "Ten. WAZA M"
+
+msgctxt "167"
+msgid "T. Kusanagi"
+msgstr "T. Kusanagi"
+
+msgctxt "168"
+msgid "SP Officer M"
+msgstr "Oficial esp. M"
+
+msgctxt "169"
+msgid "Strong Bicep"
+msgstr "Strong Bicep"
+
+msgctxt "170"
+msgid "SPOfficer FA"
+msgstr "Oficial esp. FA"
+
+msgctxt "171"
+msgid "Knell Ringer"
+msgstr "Knell Ringer"
+
+msgctxt "172"
+msgid "Vidy Otaku"
+msgstr "Vidy Otaku"
+
+msgctxt "173"
+msgid "Rob Sidkic"
+msgstr "Rob Sidkic"
+
+msgctxt "174"
+msgid "Gent Gallant"
+msgstr "Gent Gallant"
+
+msgctxt "175"
+msgid "Ann Prudence"
+msgstr "Ann Prudence"
+
+msgctxt "176"
+msgid "WAZA Col. M"
+msgstr "Cor. WAZA M"
+
+msgctxt "177"
+msgid "WAZA Col. F"
+msgstr "Col. WAZA F"
+
+msgctxt "178"
+msgid "Spunky Noob"
+msgstr "Spunky Noob"
+
+msgctxt "179"
+msgid "Earl Grey"
+msgstr "Earl Grey"
+
+msgctxt "180"
+msgid "Sugar Suet"
+msgstr "Sugar Suet"
+
+msgctxt "181"
+msgid "SPOfficer MA"
+msgstr "Oficial esp. MA"
+
+msgctxt "182"
+msgid "Sho Ryuken"
+msgstr "Sho Ryuken"
+
+msgctxt "183"
+msgid "SPOfficer MC"
+msgstr "Oficial esp. MC"
+
+msgctxt "184"
+msgid "SPOfficer FA"
+msgstr "Oficial esp. FA"
+
+msgctxt "185"
+msgid "Waye Milky"
+msgstr "Waye Milky"
+
+msgctxt "186"
+msgid "SPOfficer FC"
+msgstr "Oficial esp. FC"
+
+msgctxt "187"
+msgid "Yung Verdure"
+msgstr "Yung Verdure"
+
+msgctxt "188"
+msgid "Sol Shiner"
+msgstr "Sol Shiner"
+
+msgctxt "189"
+msgid " "
+msgstr " "
+
+msgctxt "190"
+msgid " "
+msgstr " "
+
+msgctxt "191"
+msgid " "
+msgstr " "

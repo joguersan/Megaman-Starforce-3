@@ -1,0 +1,316 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Man...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Darn it,{14}{E1} darn it,{14}{E1} darn it!
+<PUSH>
+Why, Sis...?
+Why...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Why, Sis!?
+Please tell me!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Cool it, Jack...
+<PUSH>
+It was decided that I am
+capable of completing this
+mission by myself.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+That's my point!
+We always work together!
+<PUSH>
+Isn't it strange that we
+aren't this time!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Strange...?
+<PUSH>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Hmm, I guess so...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+See!?
+<PUSH>
+So let's go together then...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Something definitely is weird...
+<PUSH>
+And it's you, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You haven't noticed...?
+<PUSH>
+You're acting really strange
+right now...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You're so irritable...
+<PUSH>
+No, more like scared...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I{15}{E1}-I'm scared!?
+Don't say stupid stuff, Sis!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Watch your mouth!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+See, Jack...?
+You're too unstable at the
+moment...
+<PUSH>
+You're not in the right state
+of mind to fight...
+<PUSH>
+We have a wish that we
+have to make a reality...
+<PUSH>
+Right?
+<PUSH>
+I can't afford to lose you...
+<PUSH>
+So I'm going by myself this
+time...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's time. I'm heading out...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+...!
+<PUSH>
+Wait up, Sis!
+<PUSH>
+It's too much to ask you to
+try and crush WAZA all on
+your own!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I have the new weapon
+that Mr. King just finished
+developing...
+<PUSH>
+There won't be a problem.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+B-But...!
+<PUSH>
+But he's a Satella Police
+officer!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!!
+<PUSH>
+So? What are you saying?
+<PUSH>
+Do you think that I...{15}{E1} wouldn't
+be able to get the job
+done? Is that it?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+For now...
+Just stay here and don't
+get into any trouble.
+<PUSH>
+We'll talk later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+S-Sis!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Man...
+What's going on...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Take it easy, Jack!
+Virgo is with her, so no
+worries.
+<PUSH>
+And that new weapon is
+amazing, considering a human
+built it.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Shut up!
+What part of me isn't calm?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Every part.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Man!
+I just don't get it, Sis...!
+<PUSH>
+What about me is weird?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+*sigh*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+So it's like that then, huh!?
+<PUSH>
+When I see her{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+That stupid... I'll...
+<PUSH>
+I'll...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

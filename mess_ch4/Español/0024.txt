@@ -1,0 +1,184 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}¡Por fin! He completado
+la modificación del programa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bien hecho, Acidina.
+<PUSH>
+¿Le puedes decir a Ace
+que ya está listo?
+<PUSH>
+Y diles a los demás que
+puede que sientan un leve
+picor. ¡Pero es 100% seguro!
+<PUSH>
+Está diseñado para
+eliminar todo el Ruido.
+<PUSH>
+No ha sido fácil ajustarlo
+para que solo afecte a
+ciertos seres EM.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{15}{E1}Dra. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}Sí, sí.
+Ponte en marcha.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Entendido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bueno, vamos allá.
+<PUSH>
+Activando... inhibidor de Ruido...
+No, mejor...
+<PUSH>
+Activando...{15}{E1} ¡inhibidor de copias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Seguro que estáis bien?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡N{15}{E1}-N{15}{E1}-Nosotros nos ocupamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Estamos bien!
+¡Deprisa, Ace te necesita!
+<PUSH>
+¡Hay como un millón
+de copias ahí fuera!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+¡Luego os veo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Puede que esa gente
+vuelva a aparecer, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+A-A-A saber...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Estaremos listos si
+aparecen, ¿no?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+S-S-Sí...
+<PUSH>
+C-C-Cuando me decido, no
+hay nada que no pueda hacer.
+<PUSH>
+¡Y hacemos esto por la Dele!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Qué escena tan conmovedora!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Un día tengo que escribir
+un guión con vosotros
+como protagonistas!
+<PUSH>
+¡Je, je, je!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

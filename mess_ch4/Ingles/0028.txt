@@ -1,0 +1,123 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+There's no way...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+I can't believe this...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+I...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+I just...
+<PUSH>
+More{16}{E1} power...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Dark Phantom!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+So it's over...{15}{E1} Right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It should be.
+<PUSH>
+But that guy...{15}{E1}
+<PUSH>
+He's so stubborn that I
+wouldn't be surprised if he
+showed up again some time.
+<PUSH>
+And I'm sure he'd have some
+stupid script with him, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Dark Phantom...{15}{E1})
+<PUSH>
+{13}{EC}(No one can be truly happy
+{13}{EC} by seeking only power...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+[END]
+

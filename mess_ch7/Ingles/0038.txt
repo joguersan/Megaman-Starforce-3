@@ -1,0 +1,26 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+Nooooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Sweet! Come on!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,86 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+And... done!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mooom!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Wash your hands, Ge{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}!?
+Mega!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hooope, I'm hooome!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's someone else too.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Sorry I took so long.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}I'm home, honey.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}I'm finally home.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

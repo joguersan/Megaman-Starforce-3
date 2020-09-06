@@ -1,0 +1,1136 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}{10}{00}
+{08}{E1}{00}{00}{11}{00}<Geo>
+{08}{E1}{00}{00}{12}{00}<(Queen)Tia>
+{08}{E1}{00}{00}{13}{00}({08}{E1}{00}{00}<Geo>
+2{08}{E1}{00}{00}{15}{00}<{08}{E1}{00}{00}<Hope(Mom)>
+F{08}{E1}{00}{00}<Prez>
+P{08}{E1}{00}{00}<Bud>
+Z{08}{E1}{00}{00}<Zack>
+n{08}{E1}{00}{00}<Sonia>
+x{08}{E1}{00}{00}<Solo>
+{82}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{DF}{06}{E1}{06}{0B}{00}{09}{E1}{00}{00}{E1}{06}{E3}{06}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No vas al colegio?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{01}{00}<Bud>
+{0E}{00}{0C}{E1}{01}{00}<Prez>
+{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tenemos que ir al edificio
+de apartamentos y meter el
+número de la Dele.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahora podremos arir la
+Onda Real de la puerta
+del colegio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{08}{E1}{06}{00}
+{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tienes que ir  a clase!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Menuda fiesta tienen
+aquí montada.
+¿Qué está pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vas a buscar a ese
+tal Jack, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{08}{E1}{06}{00}{0B}{00}<Joker>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡La azotea es un lugar
+seguro! ¡Vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahora estamos a salvo.
+Vamos a esperar aquí
+un rato.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vete a dormir pronto
+para estar a tope
+de energía mañana.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{EF}{06}{F1}{06}3{09}{E1}{00}{00}{F3}{06}{F5}{06}4
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hemos quedado en la
+parada del surcaolas, ¿no?
+¡Pues mueve el culo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{0C}{E1}{01}{00}<Sonia>
+6{0C}{E1}{01}{00}<Zack>
+5
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Nunca he estado en un
+estudio de televisión!
+¡A ver qué pinta tiene!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No tenemos que entrar al
+estudio por el Camino Onda
+y buscar a Sonia?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ahora que tienes un pase
+puedes entrar al estudio
+como Pedro por su casa.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{F5}{06}{F7}{06}={09}{E1}{00}{00}{F7}{06}{F9}{06}>{09}{E1}{00}{00}{F9}{06}{FB}{06}B
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a echar un
+vistazo al estudio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{0C}{E1}{01}{00}<Jack>
+A{0C}{E1}{01}{00}<Mr.King-2>
+<Chery.Blosom>
+{0C}{E1}{01}{00}<Solo>
+?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No tienes que ir
+a la calle arqueada
+por árboles a grabar?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tienes que hablar con
+el Wizard de maquillaje.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Al parecer, el Wizard
+perdido está en el
+Cibernúcleo del regulador.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Problema resuelto.
+Ve a hablar con la
+Dele y los demás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Hora de grabar! ¡Ve a la
+calle arqueada por árboles!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Taurus Fire se va
+a enterar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Será mejor que subas
+al escenario.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{09}{E1}{00}{00}{03}{07}{05}{07}[{09}{E1}{00}{00}{05}{07}{07}{07}^{09}{E1}{00}{00}{07}{07}{09}{07}`{09}{E1}{00}{00}{09}{07}{0B}{07}d{09}{E1}{00}{00}{0B}{07}{0D}{07}f
+[END]
+
+[SENTENCE NUMBER 92]
+{0C}{E1}{01}{00}<Joker>
+]{0C}{E1}{01}{00}<(Queen)Tia>
+\
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Patrulla el estudio!
+¡Con nosotros aquí,
+no pasará nada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Está pasando algo
+en la sala de
+equipamiento.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+{08}{E1}{06}{00}{01}{71}g
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Ese Wizard estará bien?
+¡Impulsiónate al
+{10}{E5}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+{0C}{E1}{01}{00}<Heartless>
+ 
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Sigamos patrullando
+el estudio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Lee parece preocupado.
+Vamos a hablar con él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+{0C}{E1}{01}{00}"b{0C}{E1}{01}{00}!a
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Nuestra misión es patrullar
+el estudio para que
+no pase nada raro.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Hora de buscar la bomba!
+Primero, vamos a hablar
+con el Wizard de seguridad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+{08}{E1}{06}{00}{00}{71}c
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico!
+¡Impulsiónate en el coche!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí hay un Wizard que
+está buscando la bomba!
+¡Vamos a ayudarle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+{0C}{E1}{01}{00}#e
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No se acaban los
+problemas... ¡Tenemos
+que seguir patrullando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Argh! ¡Parece un
+nuevo disturbio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El concierto de Sonia
+está a punto de empezar.
+¡La pista nos espera!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tenemos que buscar a
+ese WIzard, chico.
+Está en el Cibernúcleo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+{08}{E1}{07}{00}{02}{01}o
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El escenario es increíble...
+¡Los sitios especiales
+están ahí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, ¿pero qué haces?
+¡Date prisa y ve al
+escenario a ver a Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+{09}{E1}{00}{00}{11}{07}{13}{07}y{09}{E1}{00}{00}{13}{07}{17}{07}z
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Impulsiónate al CN
+del <Stage.Evento>!
+¡Vamos, vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+{08}{E1}{06}{00}{00}{61}{7B}{00}{08}{E1}{06}{00}{01}{61}{7B}{00}{08}{E1}{06}{00}{02}{61}{7B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Impulsiónate de una vez
+al CN del <Stage.Evento>!
+¡Deja de hacer el tonto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ice debe de estar más
+adelante. No te calientes,
+chico... Fuera bromas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico, vamos al escenario!
+¡Que va a empezar la
+última canción de Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

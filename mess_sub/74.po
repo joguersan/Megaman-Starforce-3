@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "[NULL]"
+msgstr "[NULL]"
+
+msgctxt "1"
+msgid "MMSF3"
+msgstr "MMSF3"
+
+msgctxt "2"
+msgid "Black Ace"
+msgstr "Black Ace"
+
+msgctxt "3"
+msgid "Red Joker"
+msgstr "Red Joker"
+
+msgctxt "4"
+msgid "Game Design"
+msgstr "Diseño del juego"
+
+msgctxt "5"
+msgid "Masahiro Yasuma"
+msgstr "Masahiro Yasuma"
+
+msgctxt "6"
+msgid "Yusuke Tokita"
+msgstr "Yusuke Tokita"
+
+msgctxt "7"
+msgid "Yutaka Utsugi"
+msgstr "Yutaka Utsugi"
+
+msgctxt "8"
+msgid "Kohei Ozaki"
+msgstr "Kohei Ozaki"
+
+msgctxt "9"
+msgid "Scenario"
+msgstr "Escenario"
+
+msgctxt "10"
+msgid "Shin Kurosawa"
+msgstr "Shin Kurosawa"
+
+msgctxt "11"
+msgid "H. Yamashita"
+msgstr "H. Yamashita"
+
+msgctxt "12"
+msgid "Kosuke Nasu"
+msgstr "Kosuke Nasu"
+
+msgctxt "13"
+msgid "Shinsuke Kodama"
+msgstr "Shinsuke Kodama"
+
+msgctxt "14"
+msgid "Character Design"
+msgstr "Diseño de PJ"
+
+msgctxt "15"
+msgid "Keji Ueda"
+msgstr "Keji Ueda"
+
+msgctxt "16"
+msgid "Tokiko Nakashima"
+msgstr "Tokiko Nakashima"
+
+msgctxt "17"
+msgid "Yuji Ishihara"
+msgstr "Yuji Ishihara"
+
+msgctxt "18"
+msgid "Moon Dstryr Dsgn"
+msgstr "Diseño Dest. Lun."
+
+msgctxt "19"
+msgid "Rikuto Mizuhara"
+msgstr "Rikuto Mizuhara"
+
+msgctxt "20"
+msgid "3D Modeling"
+msgstr "Modelado 3D"
+
+msgctxt "21"
+msgid "Kumiko Fujiwara"
+msgstr "Kumiko Fujiwara"
+
+msgctxt "22"
+msgid "Kesuke Motozono"
+msgstr "Kesuke Motozono"
+
+msgctxt "23"
+msgid "Takahiro Oranaka"
+msgstr "Takahiro Oranaka"
+
+msgctxt "24"
+msgid "Norihide Fujii"
+msgstr "Norihide Fujii"
+
+msgctxt "25"
+msgid "Masanori Kondo"
+msgstr "Masanori Kondo"
+
+msgctxt "26"
+msgid "2D Objects"
+msgstr "Objetos 2D"
+
+msgctxt "27"
+msgid "Ikuo Nakayama"
+msgstr "Ikuo Nakayama"
+
+msgctxt "28"
+msgid "Maiko Oishi"
+msgstr "Maiko Oishi"
+
+msgctxt "29"
+msgid "Motion"
+msgstr "Animación"
+
+msgctxt "30"
+msgid "Satomi Hayashi"
+msgstr "Satomi Hayashi"
+
+msgctxt "31"
+msgid "Miwa Sakaguchi"
+msgstr "Miwa Sakaguchi"
+
+msgctxt "32"
+msgid "Scroll"
+msgstr "Scroll"
+
+msgctxt "33"
+msgid "Asae Nishitsuji"
+msgstr "Asae Nishitsuji"
+
+msgctxt "34"
+msgid "Chieko Ryugo"
+msgstr "Chieko Ryugo"
+
+msgctxt "35"
+msgid "Akemi Kohama"
+msgstr "Akemi Kohama"
+
+msgctxt "36"
+msgid "Natsue Ueda"
+msgstr "Natsue Ueda"
+
+msgctxt "37"
+msgid "Sub Screen"
+msgstr "Subpantalla"
+
+msgctxt "38"
+msgid "Eji Kuratani"
+msgstr "Eji Kuratani"
+
+msgctxt "39"
+msgid "Art Director"
+msgstr "Director de arte"
+
+msgctxt "40"
+msgid "Yuji Ishihara"
+msgstr "Yuji Ishihara"
+
+msgctxt "41"
+msgid "Battle Progmr"
+msgstr "Prog. com."
+
+msgctxt "42"
+msgid "Y. Fujikawa"
+msgstr "Y. Fujikawa"
+
+msgctxt "43"
+msgid "Toshihide Anai"
+msgstr "Toshihide Anai"
+
+msgctxt "44"
+msgid "Takefumi Tahara"
+msgstr "Takefumi Tahara"
+
+msgctxt "45"
+msgid "M. Kataoka"
+msgstr "M. Kataoka"
+
+msgctxt "46"
+msgid "Scenario Progmr"
+msgstr "Prog. escenario"
+
+msgctxt "47"
+msgid "Kensaku Fujita"
+msgstr "Kensaku Fujita"
+
+msgctxt "48"
+msgid "Masato Inamochi"
+msgstr "Masato Inamochi"
+
+msgctxt "49"
+msgid "Satoshi Ueda"
+msgstr "Satoshi Ueda"
+
+msgctxt "50"
+msgid "Soichi Ito"
+msgstr "Soichi Ito"
+
+msgctxt "51"
+msgid "Seji Hamajima"
+msgstr "Seji Hamajima"
+
+msgctxt "52"
+msgid "T. Yokozawa"
+msgstr "T. Yokozawa"
+
+msgctxt "53"
+msgid "Sari Hatada"
+msgstr "Sari Hatada"
+
+msgctxt "54"
+msgid "Sub-Scrn Progmr"
+msgstr "Prog. subpan."
+
+msgctxt "55"
+msgid "Shingo Ito"
+msgstr "Shingo Ito"
+
+msgctxt "56"
+msgid "Mitsunori Sakano"
+msgstr "Mitsunori Sakano"
+
+msgctxt "57"
+msgid "Naomi Nishiyama"
+msgstr "Naomi Nishiyama"
+
+msgctxt "58"
+msgid "Product Manager"
+msgstr "Director prod."
+
+msgctxt "59"
+msgid "H. Shingaki"
+msgstr "H. Shingaki"
+
+msgctxt "60"
+msgid "Music"
+msgstr "Música"
+
+msgctxt "61"
+msgid "Yoshino Aoki"
+msgstr "Yoshino Aoki"
+
+msgctxt "62"
+msgid "Akari Kaida"
+msgstr "Akari Kaida"
+
+msgctxt "63"
+msgid "Sound Effects"
+msgstr "Efectos sonido"
+
+msgctxt "64"
+msgid "Wataru Hama"
+msgstr "Wataru Hama"
+
+msgctxt "65"
+msgid "Masatomo Tajima"
+msgstr "Masatomo Tajima"
+
+msgctxt "66"
+msgid "Illustration"
+msgstr "Ilustraciones"
+
+msgctxt "67"
+msgid "Shinsuke Komaki"
+msgstr "Shinsuke Komaki"
+
+msgctxt "68"
+msgid "Manami Yoshino"
+msgstr "Manami Yoshino"
+
+msgctxt "69"
+msgid "Kesuke Mizuno"
+msgstr "Kesuke Mizuno"
+
+msgctxt "70"
+msgid "Yuri Kataiwa"
+msgstr "Yuri Kataiwa"
+
+msgctxt "71"
+msgid "Localization"
+msgstr "Localización"
+
+msgctxt "72"
+msgid "James C. Wilson"
+msgstr "James C. Wilson"
+
+msgctxt "73"
+msgid "Brandon G. Baker"
+msgstr "Brandon G. Baker"
+
+msgctxt "74"
+msgid "Andrew Alfonso"
+msgstr "Andrew Alfonso"
+
+msgctxt "75"
+msgid "Brandon Gay"
+msgstr "Brandon Gay"
+
+msgctxt "76"
+msgid "Testing"
+msgstr "Testing"
+
+msgctxt "77"
+msgid "Yasuo Takayama"
+msgstr "Yasuo Takayama"
+
+msgctxt "78"
+msgid "Tomokazu Kudo"
+msgstr "Tomokazu Kudo"
+
+msgctxt "79"
+msgid "Testers"
+msgstr "Testers"
+
+msgctxt "80"
+msgid "Masahiro Ikegawa"
+msgstr "Masahiro Ikegawa"
+
+msgctxt "81"
+msgid "Seitaro Sakamoto"
+msgstr "Seitaro Sakamoto"
+
+msgctxt "82"
+msgid "Masahiro Fujita"
+msgstr "Masahiro Fujita"
+
+msgctxt "83"
+msgid "Mayumi Nishida"
+msgstr "Mayumi Nishida"
+
+msgctxt "84"
+msgid "Title Logo Design"
+msgstr "Diseño de título"
+
+msgctxt "85"
+msgid "Satoshi Ukai"
+msgstr "Satoshi Ukai"
+
+msgctxt "86"
+msgid "Manl Production"
+msgstr "Manl Production"
+
+msgctxt "87"
+msgid "Akemi Iwasaki"
+msgstr "Akemi Iwasaki"
+
+msgctxt "88"
+msgid "Nanase Kikuchi"
+msgstr "Nanase Kikuchi"
+
+msgctxt "89"
+msgid "Special Guest"
+msgstr "Inv. especial"
+
+msgctxt "90"
+msgid "Hiroki Kurihara"
+msgstr "Hiroki Kurihara"
+
+msgctxt "91"
+msgid "Special Thanks:"
+msgstr "Agradecimientos:"
+
+msgctxt "92"
+msgid "Masakazu Eguchi"
+msgstr "Masakazu Eguchi"
+
+msgctxt "93"
+msgid "T. Shimogawa"
+msgstr "T. Shimogawa"
+
+msgctxt "94"
+msgid "Koji Imaeda"
+msgstr "Koji Imaeda"
+
+msgctxt "95"
+msgid "Kohei Ota"
+msgstr "Kohei Ota"
+
+msgctxt "96"
+msgid "Ryuji Higurashi"
+msgstr "Ryuji Higurashi"
+
+msgctxt "97"
+msgid "Peter Fabiano"
+msgstr "Peter Fabiano"
+
+msgctxt "98"
+msgid "Kaori Funakoshi"
+msgstr "Kaori Funakoshi"
+
+msgctxt "99"
+msgid "Tsukasa Fujita"
+msgstr "Tsukasa Fujita"
+
+msgctxt "100"
+msgid "Takayoshi Terada"
+msgstr "Takayoshi Terada"
+
+msgctxt "101"
+msgid "Takeshi Yamamoto"
+msgstr "Takeshi Yamamoto"
+
+msgctxt "102"
+msgid "Hironori Ojima"
+msgstr "Hironori Ojima"
+
+msgctxt "103"
+msgid "A. Kobayashi"
+msgstr "A. Kobayashi"
+
+msgctxt "104"
+msgid "N. Kobayashi"
+msgstr "N. Kobayashi"
+
+msgctxt "105"
+msgid "Shimpei Takasugi"
+msgstr "Shimpei Takasugi"
+
+msgctxt "106"
+msgid "Junichi Oizumi"
+msgstr "Junichi Oizumi"
+
+msgctxt "107"
+msgid "Norio Tanaka"
+msgstr "Norio Tanaka"
+
+msgctxt "108"
+msgid "Masahide Akitake"
+msgstr "Masahide Akitake"
+
+msgctxt "109"
+msgid "Kazumi Yoneda"
+msgstr "Kazumi Yoneda"
+
+msgctxt "110"
+msgid "Tetsuya Ono"
+msgstr "Tetsuya Ono"
+
+msgctxt "111"
+msgid "Daisuke Hasegawa"
+msgstr "Daisuke Hasegawa"
+
+msgctxt "112"
+msgid "Takashi Kitahara"
+msgstr "Takashi Kitahara"
+
+msgctxt "113"
+msgid "Naoto Minamide"
+msgstr "Naoto Minamide"
+
+msgctxt "114"
+msgid "Makiko Nakajima"
+msgstr "Makiko Nakajima"
+
+msgctxt "115"
+msgid "Kunio Funahara"
+msgstr "Kunio Funahara"
+
+msgctxt "116"
+msgid "Kosuke Nakano"
+msgstr "Kosuke Nakano"
+
+msgctxt "117"
+msgid "Yuko Yasuda"
+msgstr "Yuko Yasuda"
+
+msgctxt "118"
+msgid "Yoko Furutaka"
+msgstr "Yoko Furutaka"
+
+msgctxt "119"
+msgid "Tsuyoshi Kanda"
+msgstr "Tsuyoshi Kanda"
+
+msgctxt "120"
+msgid "Daisuke Takahashi"
+msgstr "Daisuke Takahashi"
+
+msgctxt "121"
+msgid "Busch Michael"
+msgstr "Busch Michael"
+
+msgctxt "122"
+msgid " "
+msgstr " "
+
+msgctxt "123"
+msgid "Studio Mausu Co.,Ltd."
+msgstr "Studio Mausu Co.,Ltd."
+
+msgctxt "124"
+msgid "Ryosuke Naya"
+msgstr "Ryosuke Naya"
+
+msgctxt "125"
+msgid " "
+msgstr " "
+
+msgctxt "126"
+msgid "CAPCOM All Staff"
+msgstr "Equipo de CAPCOM"
+
+msgctxt "127"
+msgid " "
+msgstr " "
+
+msgctxt "128"
+msgid " "
+msgstr " "
+
+msgctxt "129"
+msgid "Producer"
+msgstr "Productor"
+
+msgctxt "130"
+msgid "T. Horinouchi"
+msgstr "T. Horinouchi"
+
+msgctxt "131"
+msgid "Exec Producer"
+msgstr "Prod. ejecutivo"
+
+msgctxt "132"
+msgid "Keiji Inafune"
+msgstr "Keiji Inafune"
+
+msgctxt "133"
+msgid "Director"
+msgstr "Director"
+
+msgctxt "134"
+msgid "Masahiro Yasuma"
+msgstr "Masahiro Yasuma"
+
+msgctxt "135"
+msgid " "
+msgstr " "
+
+msgctxt "136"
+msgid "Time"
+msgstr "Tiempo"
+
+msgctxt "137"
+msgid "Libry"
+msgstr "Colección"
+
+msgctxt "138"
+msgid "{e128}{3}:{e129}{2}"
+msgstr "{e128}{3}:{e129}{2}"
+
+msgctxt "139"
+msgid "{e124}{3}  {e125}{2}  {e126}{1}"
+msgstr "{e124}{3}  {e125}{2}  {e126}{1}"

@@ -1,0 +1,55 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, sí...
+Antes que nada, tengo
+que ir fuera con Mega.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico!
+<PUSH>
+¡¿Para que quieres entrar
+en clase si acabas
+de salir?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+P-pues es verdad...
+¡Tengo cosas
+que hacer!
+<PUSH>
+{13}{EC}(Lo siento, Sr. Shepar...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡La puerta no se abre!
+Es inútil.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,29 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Wow!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+El camino onda que estaba
+cortado vuelve a estar
+entero...
+<PUSH>
+¡Ahora podemos continuar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

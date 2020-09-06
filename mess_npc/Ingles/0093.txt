@@ -1,0 +1,217 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}/{02}{00}{0C}{E1}{01}{00}P{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+...What!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Satella Police!
+Hand over the data
+you're concealing.
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Hmph! You think just because
+you tell me to hand
+something over, that I will?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+{0A}{E1}{27}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+...Tsk!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+Hmm!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+...Sheesh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+Huh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+*glaring*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+*staring*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Wh-Who are
+you guys!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Did you notice?
+<PUSH>
+This Cyber Core is shaped
+like <Alohaha>.
+<PUSH>
+Cool, huh?
+<PUSH>
+Just compare it to the
+image on the display.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAll of a sudden there are
+all of these scary looking
+Wizards around.
+<PUSH>
+At times like these,
+I-I sure wish Strong
+was around. *beep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tHeloha!
+Have a nice time
+in <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+

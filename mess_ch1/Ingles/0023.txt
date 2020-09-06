@@ -1,0 +1,86 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+You're fine now.
+<PUSH>
+
+<NEW-DIALOG>
+tTHANK YOU SO MUCH!
+<PUSH>
+THIS IS ACTUALLY MY
+FIRST DAY OF WORK!
+<PUSH>
+I WOULD HAVE GOT INTO
+A LOT OF TROUBLE WITH
+<PUSH>
+MY BOSS IF THAT VIRUS
+CAUSED ANY PROBLEMS!
+<PUSH>
+I REALLY WANT TO THANK
+YOU SOMEHOW, BUT I
+<PUSH>
+HAVE TO DELIVER THIS
+E-MAIL IMMEDIATELY...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+An e-mail...? Is that an
+e-mail from a girl at
+Echo Ridge Elementary?
+<PUSH>
+
+<NEW-DIALOG>
+tTHAT'S CORRECT!
+<PUSH>
+SINCE IT'S MY FIRST DAY,
+I WAS GIVEN A LOW
+PRIORITY E-MAIL.
+<PUSH>
+BECAUSE THIS MAIL ISN'T
+BUSINESS RELATED IT WAS
+MARKED AS LOW PRIORITY.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, it has to be!
+That girl's e-mail was stuck
+on the Wave Road!
+<PUSH>
+
+<NEW-DIALOG>
+tI REALLY MUST BE
+GOING, BUT THANK YOU
+AGAIN SO MUCH!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Alright, the e-mail should
+arrive safely now!
+<PUSH>
+Let's get back to the girl
+at school!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

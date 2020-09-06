@@ -1,0 +1,214 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿La Dele llega tarde?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y eso que me he puesto
+tres despertadores para
+no llegar tarde...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Es muy inusual que la
+Dele llegue tarde...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Ji, ji, ji!
+¡Chicos, siento llegar
+tarde!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Se te ve contenta.
+¿Te ha pasado algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ayer os dije que
+quería enseñaros
+una cosa.
+<PUSH>
+¡Por fin ha llegado
+y os lo puedo enseñar!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ah, entiendo.
+Por eso has llegado tarde.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Y qué es?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Fijaos bien!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Vogue>
+¡Es un placer conoceros!
+<PUSH>
+¡Soy Vogue, el Wizard
+de Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Por fin tienes tu
+propio Wizard, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Parece perfecto para ti!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No me importaba esperar
+si así conseguía a un
+Wizard perfecto para mí.
+<PUSH>
+¡Y así ha sido!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Mejores amigos
+para siempre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Qué suerte...
+Ahora yo soy el único
+sin Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Bueno, ya habéis conocido
+a Vogue. ¡Ahora, al
+<Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Estamos de suerte.
+Aquí viene el tren.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Eh?
+Oye, Dele... ¿Eso que
+llevas es maquillaje?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Ack!)
+<PUSH>
+No sé de qué hablas,
+Omega-Xis.
+¡No llevo maquillaje!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿No te habrás
+emperifollado para la
+grabación del programa?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Te he dicho que no me
+he maquillado y punto
+en boca!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Se ha maquillado...)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(Está claro.)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(Estoy de acuerdo...)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(Yo la he visto maquillarse...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

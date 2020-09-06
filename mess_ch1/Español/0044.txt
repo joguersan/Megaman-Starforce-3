@@ -1,0 +1,383 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Hala! ¡Ha despegado!
+<PUSH>
+¡Éxito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Agh!
+¡Hemos fallado!
+<PUSH>
+Todo iba según
+lo planeado...
+¡¿Qué ha podido salir mal?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Puede que una rata no
+cayera en nuestra trampa...
+<PUSH>
+Tenía muchas ganas de ver
+la escuela reducida
+a cenizas...
+<PUSH>
+Es una lástima...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Tia...
+<PUSH>
+Al menos la prueba de
+usar los Naipes Ruido
+<PUSH>
+para hacer perder el
+control a los Wizard
+ha sido un éxito.
+<PUSH>
+Y tenemos lo que
+queríamos.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Es cierto...
+Hemos hecho un buen
+trabajo...
+<PUSH>
+La próxima vez haremos
+una prueba mayor.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Sí!
+¡Vamos a poner Electopia
+patas arriba!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{4B}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip, bip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+El teléfono...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Ya me imaginaba que nos
+llamaría tarde o temprano.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Ja...
+<PUSH>
+Seguro que es un
+peñazo de misión.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Sr. King, soy Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+He averiguado que uno de
+nuestros objetivos, Mega Man,
+<PUSH>
+asiste a la escuela
+de Echo Ridge.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man está ahí...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Mega Man ha evitado que
+el cohete estallara?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+Correcto.
+<PUSH>
+Vosotros dos,
+escuchadme bien.
+<PUSH>
+Os infiltraréis en la
+escuela e investigaréis
+a Mega Man.
+<PUSH>
+Descubriréis el secreto
+de su poder, así como
+sus debilidades.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Menudo aburrimiento.
+¿Por qué no nos lo
+cargamos y ya?
+<PUSH>
+Es nuestro enemigo, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+No entra en mis planes
+eliminarlo aún.
+<PUSH>
+Mega Man será un
+excelente sujeto de pruebas.
+<PUSH>
+Como científico, me interesa
+aprender más sobre él.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Ja! ¡Y yo que pensaba
+que por fin podría
+divertirme un poco!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Cálmate, Jack...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Recibido, Sr. King.
+Vivimos para servirle.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+Ahora recibiréis una
+serie de datos.
+Leedlos con detenimiento.
+<PUSH>
+Lo repetiré una última vez.
+No toleraré fallos de
+ningún tipo.
+<PUSH>
+Vuestro deber es ser
+mis brazos y piernas.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Recibido...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{10}{E2}{4C}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Cómo me revienta esto
+de tener que investigar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Eh, Tia!
+<PUSH>
+¡¿Por qué no nos cargamos
+a Mega Man sin que el
+Sr. King se entere?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Tenemos que cumplir
+sus órdenes, Jack.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Ay, mi madre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Y ahora qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Cálmate, Jack...
+<PUSH>
+Son los datos del
+Mr. King...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Escuela Echo Ridge...
+Clase 5-A...
+Geo Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Geo... Stelar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Él es{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,303 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Oh!!
+<PUSH>
+¡G{15}{E1}-Geeeo!
+<PUSH>
+¡Aquí!
+¡¡Estamos aquí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Fiuu...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Eso es todo!? ¡Venga ya!
+<PUSH>
+¡Esa chica ha hecho una
+montaña de un grano de arena!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Cuidado, MegaMan!
+<PUSH>
+Los virus no paran de salir
+de allí uno tras otro...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡N-No puede ser!
+<PUSH>
+¿¡Como pueden salir tantos
+uno detrás de otro!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico!
+¡Creo que hay algo raro allí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡...!!
+<PUSH>
+¿Ese lugar es de donde los
+virus...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Es muy posible!
+¡Preguntemos a Ace sobre esto
+más tarde!
+<PUSH>
+¡Pero ahora es el el momento
+de patear algunos traseros!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+¿En qué piensas, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Sin ninguna duda.
+<PUSH>
+Es un portal que conduce a
+una "Onda Ruidosa".
+<PUSH>
+¡Y parece ser grande!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Una Onda Ruidosa...
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Acid>
+Una Onda Ruido es un mundo
+formado enteramente de Ruido.
+<PUSH>
+Podríamos decir que es un
+peligroso Núcleo Cibernético
+donde El Ruido esta disperso.
+<PUSH>
+Como el viento de una
+tormenta.
+<PUSH>
+W
+Si bien no son reconocidos
+oficialmente, han estado
+apareciendo en todo el mundo.
+<PUSH>
+Cuantas más aparecen, mayor
+es el aumento de Ruido en el
+mundo.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Puede que os hayáis topado
+con alguno de ellos.
+<PUSH>
+Puede que no lo sepais pero
+la funcíon de detección de
+Ruido ha sido instalada
+<PUSH>
+en vuestros <Hunter>-VG
+cuando fueron actualizados.
+<PUSH>
+Fue desarrollado en base al
+hecho de que las Ondas de
+Ruido se están volviendo
+<PUSH>
+cada vez más comunes.
+<PUSH>
+Hay un montón de cosas que
+aun son desconocidas sobre
+ellas.
+<PUSH>
+¿Crees que valdría la pena
+entrar y echar un vistazo?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡...!
+<PUSH>
+Es demasiado peligroso, Ace.
+<PUSH>
+No tenemos ni idea de lo que
+hay dentro ni o podría
+ocurrir en una de tal tamaño.
+<PUSH>
+Antes de nada, deberíamos
+dejar que la Naza lo
+investig-
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Mega>
+¡¡Aburriiiidooo!!
+<PUSH>
+¿¡Crees qué nos asusta esta
+pequeña cantidad de Ruido!?
+<PUSH>
+Entraremos y echaremos un
+vistazo, ¡nosotros podemos
+hacer lo que sea!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+No puedo permitirlo,
+Omega-Xis.
+<PUSH>
+Tengo que seguir el
+protocolo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No recuerdo haberte
+preguntado!
+¡¡Vamos, chico!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Qu-Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sería de gran ayuda, Geo.
+<PUSH>
+Como Omega-Xis ha dicho,
+nadie más que Mega Man
+<PUSH>
+podría moverse libremente por
+allí.
+<PUSH>
+Si enviara a cualquier otro,
+habría muy pocas esperanzas
+de que volviera.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Pero se que puede hacerlo,
+Geo.
+<PUSH>
+Despues de todo, ¡Eres el
+mayor heroe del mundo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias!
+<PUSH>
+¡Voy a echar una mirada!
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}It's OK, right, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+Espero que vuelvas con
+algunos datos interesantes.
+<PUSH>
+Ten cuidado.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Por supuesto!
+¡Nos vemos en un rato!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,646 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Before we talk about
+Luna Platz...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I want to explain, in short,
+exactly what has been going
+on lately.
+<PUSH>
+Geo Stelar...
+...And Omega-Xis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Enough beating around the
+bush! Just get to the point
+already.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Do you know anything about
+who you fought in <Alohaha>?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+There was Ms. Tia...
+And Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And there was that real evil
+looking guy, Joker, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+They're all members of the
+organization called Dealer.
+<PUSH>
+{12}{E2}{15}{00}{01}{00}
+<NEW-DIALOG>
+<Ace>
+That's correct.
+Dealer is lead by Mr. King.
+<PUSH>
+It's a group of cyber
+criminals.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Mr. King?
+<PUSH>
+The famous philanthropist
+Mr. King?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yes, the very same.
+<PUSH>
+His charity work is just a
+front for his real activities...
+<PUSH>
+His true aim is to wreak
+havoc on the world through
+cyber crimes.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Another detestable lowlife
+for us to play with...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mr. King...!
+<PUSH>
+{13}{EC}(So he's the boss of the
+ {13}{EC}organization that Ms. Tia,
+ {13}{EC}Jack, and Joker work for!)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+That whole group is a
+complete pain in the butt.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Everyday life has become
+more convenient thanks to
+the impact of EM technology.
+<PUSH>
+However, on the other hand...
+<PUSH>
+Cyber crimes that make use
+of that technology have
+been rising drastically.
+<PUSH>
+As life has become more
+convenient, almost as if
+laughing in the face of
+<PUSH>
+society, cyber crimes have
+grown more complicated and
+larger in scale.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Exactly.
+<PUSH>
+And every time the evidence
+leads directly to them...
+<PUSH>
+Recently, they have been
+using data cards filled with
+<PUSH>
+Noise to make Wizards go
+out of control{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Noise Cards... Right?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+They really sound like a
+bunch of scumbags!
+<PUSH>
+Let's tear 'em to pieces, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+W-What a second, Mega!
+Now isn't the time for that...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You'll get your chance.
+<PUSH>
+Queen Tia, who you know as
+Ms. Tia, and Jack, are key
+members of Dealer.
+<PUSH>
+You did very well battling
+Jack.
+<PUSH>
+I think you guys are on the
+correct path.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bah!
+Next time, we'll win for sure!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+However, Joker isn't...
+<PUSH>
+He isn't someone you could
+handle at the moment.
+<PUSH>
+But Acid and I...
+<PUSH>
+We could probably pull
+something off...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What are you saying!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Having him in Dealer has
+proven to be quite a
+nuisance for us.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, Ace! Acid!
+Let's have it out, right now!
+<PUSH>
+I'll prove that you guys and
+Joker are nothing compared
+to me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Cut it out, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...Oh!
+<PUSH>
+Arthur...!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Is that really true, Arthur?
+<PUSH>
+Has he...?
+Has he really joined Dealer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+Unfortunately...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Unbelievable...
+I just can't believe that it's
+come to this...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+I'm very sorry.
+<PUSH>
+Yet, at the moment...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes, Arthur...
+<PUSH>
+I know{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} I know.
+<PUSH>
+Thank you, Arthur.
+<PUSH>
+{11}{E2}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Ahem!
+<PUSH>
+I should introduce everyone.
+<PUSH>
+This is Dr. Goodall.
+<PUSH>
+She is the head of the
+Satella Police Science
+Department...
+<PUSH>
+She's quite an impressive
+individual.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+It's very nice to finally meet
+you.
+<PUSH>
+And you too, Meggy.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+M{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Meggy!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Ah, you don't like that
+nickname?
+<PUSH>
+Well, then...
+How about "Meggers"!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+O-OK, Lady!
+Quit fooling around!
+<PUSH>
+I'll go buck wild all over this
+place if you keep this up!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...Give it a rest, Omega-Xis.
+<PUSH>
+Dr. Goodall is the most
+strong-willed individual you will
+ever meet.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh, Acidina...
+You never stop with the
+compliments, do you?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Ha! He's got a
+ stupid nickname, too!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+It's nice to meet you.
+My name is Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes, Arthur has told me
+everything about you.
+<PUSH>
+...Your dear friend is in quite
+a bind, isn't she?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah...
+Mr. Boreal told me that if
+<PUSH>
+anyone can help, it
+would be you...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+So you're friends with Aaron
+as well, eh?
+<PUSH>
+He's such a good boy.
+<PUSH>
+And he's going to be a
+splendid scientist someday!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}...Ahem!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}...OK, OK.
+<PUSH>
+I'll just jump right to my
+conclusions, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+P-Please...!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I'm just not sure.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Huh...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I may be able to save her,
+and I may not be able to.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...!!
+<PUSH>
+W-What do you mean...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doctor...
+This may not be...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+It's fine, Arthur.
+<PUSH>
+They have to know the
+truth from the beginning.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Geo, this is quite a difficult
+case.
+<PUSH>
+A person's life is in the
+balance. So I can make no
+promises.
+<PUSH>
+Science is not perfect and
+almighty.
+<PUSH>
+Do you understand?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Prez could{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} really be gone forever!?)
+<PUSH>
+{13}{EC}(I won't...
+{13}{EC} I won't lose hope...!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+Your eyes speak for you.
+They say that you will never
+<PUSH>
+give up. Just like Kelvin!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y-{15}{E1}You know my dad!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That shouldn't be such a
+surprise, should it?
+<PUSH>
+Just one look at me should
+tell you that I've been
+around for while now.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}Ahem!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Well, we can talk about your
+father another time... OK?
+<PUSH>
+For now, I know that I don't
+have to worry anymore.
+<PUSH>
+You'll make a great scientist
+someday!
+I guarantee it!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you... {15}{E1}I think...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(This lady is{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} Well, she's strange...!)
+<PUSH>
+{11}{E2}{01}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Back to your friend...
+<PUSH>
+I will, of course, do all I can
+to save her.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+First, I need to know
+exactly what happened.
+<PUSH>
+That's step number one.
+<PUSH>
+So I'm going to repair your
+friend's <Hunter>, as well as
+her Wizard.
+<PUSH>
+It's going to take a little
+while... Do you mind waiting?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Not at all!
+Thank you so much!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Did you guys hear!?
+Dr. Goodall is going to look
+into what happened!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah...!
+<PUSH>
+It's great news!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+{13}{EC}(But...)
+<PUSH>
+{13}{EC}(Didn't she say
+{13}{EC} she wasn't sure...!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

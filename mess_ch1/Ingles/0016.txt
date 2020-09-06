@@ -1,0 +1,736 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{03}{00}{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Prez>
+You're la{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}te!{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Late!!{14}{E1} Late!!{14}{E1} Late!!{14}{E1}
+<PUSH>
+What could you possibly
+have been doing!?
+<PUSH>
+How long do you think it's
+been since I called you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Um... well...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo!
+As you can see, Prez is
+really angry with you!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I don't want her to take
+it out on me, so I'm
+keeping my mouth shut!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Come on, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I don't want to get caught
+up in anything either, so
+<PUSH>
+the best I can do is
+support you from here!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You too, Zack!?
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Prez>
+You just keep quiet, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+There wouldn't be a
+problem if you had come
+on time, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah... I'm sorry...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+...D-Don't look so down
+or you'll make me look
+like some evil dictator...
+<PUSH>
+...I-I mean if there's a
+reason you were late, I
+may accept it...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Just tell her, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, I was on the roof
+and the Sprinkler went
+out of control and...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ah...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...It turned out it was
+caused by viruses, so I
+deleted them.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That sounds pretty rough{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Wait, so that means that
+you turned into my beloved
+Mega Man!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Um...
+Well, yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+If that's the case, then
+you should have come here
+as Mega Man!
+<PUSH>
+Why did you come here as
+just plain old Geo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I-I don't really...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+As always, Prez is totally
+falling head over heels for
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I'll say it again, Geo.
+<PUSH>
+I'm a fan of Mega Man,
+but I'm not a fan of
+either you or Omega-Xis.
+<PUSH>
+How is it possible that
+Mega Man is so amazing
+<PUSH>
+and cool, yet you are just
+a plain old kid?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ouch, that's pretty mean.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+And I can't believe how
+violent and ill-mannered that
+<PUSH>
+Wizard you need to become
+Mega Man is...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Who are you calling
+ill-mannered?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Ahhhh!
+<PUSH>
+Omega-Xis!
+Don't scare me like that!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'll say this just once for
+your sake, but I'm originally
+an alien, not a Wizard.
+<PUSH>
+An AM-ian that grew up
+on Planet FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+O-OK, I understand!
+<PUSH>
+Just hurry up and go on
+home back to Geo's <Hunter>!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+W-What are you looking at?
+<PUSH>
+J-Just...
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Mega>
+Rooaaarrr!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Ahhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Mega>
+Rooaaarrr!! Grrrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ahhhh! Stop!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+And as always, Prez can't
+get along with Omega-Xis...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Get along? She's terrible with
+him!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+G-G-G-G-Geo!
+He's your Wizard, right!?
+Do something about him!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Rooaaarrr!!
+Grrrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo!
+It looks like Prez is going
+to start crying!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Shouldn't you put him back?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Alright, that's enough, Mega.
+<PUSH>
+Wizard Off!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+*huff, huff*
+<PUSH>
+I can't *huff* believe Geo
+and *puff* his stupid
+*huff* Wizard...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Um, Prez...
+Wasn't there something you
+called me about?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...Oh yeah!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Listen very carefully!
+<PUSH>
+All four of us are going to{13}{E1}.{13}{E1}.{13}{E1}.
+form a Team and fulfill a
+new Purpose!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}{08}{00}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We are!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Does that mean we get
+to try porpoise?
+<PUSH>
+I've never eaten porpoise
+before!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Purpose, Bud!
+Not porpoise!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+It's just not in fashion to
+be <Brother-color>s and not have
+a Purpose.
+<PUSH>
+So I've decided we are
+going to fulfill our own
+Purpose!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So, what kind of Purpose
+are we going to fulfill?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Heeheehee...
+Think reeaally hard.
+<PUSH>
+What really big event is
+going to take place here
+at school soon? 
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}Umm?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I know there was definitely
+something.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Oh! There's gonna be pizza
+on next week's lunch menu!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That's true...
+<PUSH>
+So, are you considering
+fulfilling a Purpose related
+to pizza, Prez?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ohh... Form a Team around
+pizza...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Wrong, you imbeciles!
+<PUSH>
+Soon there's going to be
+an election for student
+body president!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A student body president
+election, huh?
+<PUSH>
+Wait, Prez... You mean...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Exactly!!!
+<PUSH>
+I, Luna Platz, am going to
+run for student body
+president!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+So you're aiming to move
+even higher up in the
+<PUSH>
+world, from class president
+to student body president?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's correct.
+I believe that I am 
+perfect for the position.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+<PUSH>
+It'll be so fun to have
+Prez be student body
+president!
+<PUSH>
+I support you 100%!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, I guess there really
+isn't anyone else that
+<PUSH>
+could do the job as well
+as Prez could.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Then it's settled!
+<PUSH>
+However, first we have to
+re-form our "Brother
+<PUSH>
+Bands" before we can set
+our Purpose.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, yeah.
+<PUSH>
+Our Brothers were deleted
+during the last class...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's right!
+<PUSH>
+Geo and I will re-form our
+Brother Band first!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+So, Geo, shall I explain
+Brother Bands to you?
+
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{0F}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Brother Bands are a way
+to connect oneself to
+<PUSH>
+close and trusted friends
+through EM waves.
+<PUSH>
+Even if separated by
+great distances, anyone
+<PUSH>
+can stay aware of their
+Brother's current state.
+<PUSH>
+Even if not friends, one
+can become a Brother with
+anyone they care about.
+<PUSH>
+For example, family
+members can become
+Brothers.
+<PUSH>
+My mother and father are
+my Brothers. So when they
+are both busy at work,
+<PUSH>
+we keep each other
+updated via the
+Brother Band system.
+<PUSH>
+No matter how much
+technology advances,
+<PUSH>
+and no matter how
+convenient it becomes,
+<PUSH>
+one's connection to others
+will always be the most
+important thing.
+<PUSH>
+From those connections
+the mysterious power called
+Link Power is born.
+<PUSH>
+Link Power displays the
+strength of a link via a
+number.
+<PUSH>
+The more one is trusted
+by their Brother, the more
+<PUSH>
+Link Power one gains
+from that Brother.
+<PUSH>
+Helping out one another
+and forming a deeper link
+will also raise Link Power.
+<PUSH>
+Once Link Power reaches
+a certain level, Abilities can
+be equipped.
+<PUSH>
+I'm not an expert, but it
+seems that Link Power is
+<PUSH>
+connected to one's
+strength as well.
+<PUSH>
+You can check how much
+Link Power someone is
+giving you by talking to
+<PUSH>
+them and touching the
+Brother Band pop-up.
+<PUSH>
+By the way, one can also
+form Brother Bands with
+<PUSH>
+real life friends. They are
+called Real Brothers.
+<PUSH>
+{06}{E1}{12}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Do you need an 
+explanation on how to
+form Real Brother Bands?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{0F}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+OK, I'll explain how to fill
+in one's profile. This is
+<PUSH>
+extremely important to the
+Brother Band system.
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{10}{00}
+[END]
+

@@ -1,0 +1,21 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is the Trophy
+Cyber Core. Cool, isn't it?
+It is humbling!
+<PUSH>
+These are not proof of
+being the strongest, or the
+smartest!
+<PUSH>
+These trophies are proof
+of working the hardest!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

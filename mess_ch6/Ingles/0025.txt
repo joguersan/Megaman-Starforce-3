@@ -1,0 +1,223 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+This must be the control
+panel for the power core!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+And that's...{16}{E1}
+The symbol of Mu!
+<PUSH>
+Just like Solo said...
+<PUSH>
+Dealer is using the power of
+Mu for its own ends!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, kid. There's only one
+thing to do then.
+<PUSH>
+And that's to tear this thing
+to pieces, so it never works
+again!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ungh...
+<PUSH>
+We...
+We should have stayed alert!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Umph...
+<PUSH>
+My power is being drained
+out of me...
+<PUSH>
+Or is it dissipating?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Our EM Wave Change is...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Not good!!)
+<PUSH>
+{13}{EC}(If you're still in a Cyber
+{13}{EC} Core when you change
+{13}{EC} back into a human...)
+<PUSH>
+{13}{EC}(I don't even want to know!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Kid!
+Trans out... Now!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I-I can't{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+I don't have the strength...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+...{16}{E1}
+I've found your toy, Dealer...
+<PUSH>
+What a pitiful device!
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Hmph!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I{16}{E1}-I can move...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Quit messin' around!!
+<PUSH>
+{11}{E2}{00}{00}
+<NEW-DIALOG>
+<Mega>
+I have no clue what just
+happened, but let's hit this
+thing fast and hard!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+Deal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa!
+<PUSH>
+That was close.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+At least this thing won't be
+functioning any time soon!
+<PUSH>
+We've got no other reason
+to be here, kid...
+Time to trans out!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+[END]
+

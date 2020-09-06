@@ -1,0 +1,57 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+I am sure that you all must
+think that I am insane.
+<PUSH>
+How could you possibly
+believe such a story from
+someone you do not know?
+<PUSH>
+Well, you better believe it!
+<PUSH>
+You pathetic humans will
+soon fall to your knees
+before Dealer!
+<PUSH>
+Fear my power to control
+Meteor G! Fear the loss of
+all EM technology on Earth!
+<PUSH>
+Vow your loyalty to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+You...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Please, everyone pay close
+attention!
+<PUSH>
+This is your chance to see
+just how much Noise Meteor
+G contains!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

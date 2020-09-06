@@ -1,0 +1,78 @@
+[SENTENCE NUMBER 1]
+{10}{EC}{00}{00}Ver clasificación Hermano
+{10}{EC}{01}{00}Salir
+{0F}{EC}{01}{00}{00}{00}{02}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{10}{EC}{00}{00}Ver clasificación Hermano
+{10}{EC}{01}{00}Borrar mi registro
+{10}{EC}{02}{00}Salir
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{10}{EC}{00}{00}Ver clasificación Hermano
+{10}{EC}{01}{00}Borrar mi registro
+{10}{EC}{02}{00}Borrar registro de amigo
+{10}{EC}{03}{00}Salir
+{0F}{EC}{04}{00}{00}{00}{04}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{10}{EC}{00}{00}Ver clasificación Hermano
+{10}{EC}{01}{00}Borrar registro de amigo
+{10}{EC}{02}{00}Salir
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Quieres borrar tu registro?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}{11}{EC}{01}{00}{08}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Quieres borrar el
+registro de tu amigo?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}{11}{EC}{01}{00}{08}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo>
+{14}{EC}Has borrado tu registro.{12}{EC}{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo>
+{14}{EC}Has borrado el
+registro de tu amigo.{12}{EC}{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<END-DIALOG>
+
+[END]
+

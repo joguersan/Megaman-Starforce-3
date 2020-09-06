@@ -1,0 +1,348 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+One of those cards, again...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+What just happened...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You woke up from a long
+nap.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+...I have the feeling that I
+was out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You caused quite the stir.
+<PUSH>
+And you put Bud through
+almost more than he could
+handle.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Easy, Mega...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+*cough, cough*
+Hey! Give me some credit...
+<PUSH>
+If I wasn't so tough,
+Taurus would be toast.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+I'm sorry, Bud.
+<PUSH>
+You've had to deal with a
+lot of stuff because of me.
+<PUSH>
+From now on, I promise to
+use my power to help you.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...Huh? I don't understand.
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+I'm going to be your
+Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+I want to pay you back
+for everything you've done
+for me.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow, thanks...
+<PUSH>
+Now I can finally have my
+own Wizard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{10}{E2}{CB}{00}{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bud got:
+Battle Wizard "Taurus"!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'm sorry for the trouble,
+Mega Man. Everything
+should be fine now.
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}No, no, no!
+You were great!
+<PUSH>
+The whole thing was great!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}By the way...
+I'm the Wizard that is
+directing this TV show.
+<PUSH>
+You're THE Mega Man,
+aren't you?
+<PUSH>
+I never thought that I
+would meet you here!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm, OK...
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}I have an idea!
+<PUSH>
+If it's OK with you, we'd
+be honored to have you
+appear in the TV show!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Really!?
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}I can see it, now!
+<PUSH>
+Mega Man appears near
+our heroine, who is lamenting
+with a song!
+<PUSH>
+He cheers her up and then
+leaves without a trace...!
+<PUSH>
+That would totally push our
+ratings through the roof!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+W-Wait a minute!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Belle was supposed to be
+next!
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}Well, that's true...
+But Mega Man would
+make more of an impact.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Just forget it, Ice.
+<PUSH>
+There's no way I can beat
+out Mega Man for a part.
+<PUSH>
+And don't you think that a
+scene with Mega Man and
+Sonia would be great?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Erg...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+What reason should I sing
+for, Mega Man?
+<PUSH>
+Please tell me...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You should believe in
+your closest friends and
+sing for them...
+<PUSH>
+As long as your heart
+remains pure and true,
+<PUSH>
+your voice will fill your
+friends with joy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Are you OK, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...I'm just tired.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You had such a hard
+schedule today, with all
+the fighting and acting!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Job well done.
+I feel for you...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'm really hungry from my
+busy day, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Well, I've got to get going.
+I have to change and get
+ready for the concert!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Break a leg, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Thanks. But I really wanted
+to spend more time with
+everyone...
+<PUSH>
+I should have some time
+in between changing and
+the concert. Do you mind
+<PUSH>
+coming to meet me at the
+stage area?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, the place where the
+Real Wave stage is set up.
+Sure!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Great!
+Well, see you later!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

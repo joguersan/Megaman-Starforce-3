@@ -1,0 +1,186 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+(I was just here
+{13}{EC} with Prez, recently...)
+{13}{EC}Prez...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}<{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Hey, Geo!
+<PUSH>
+This isn't the time to be
+depressed!
+<PUSH>
+Hurry up and turn into
+Mega Man and save me!
+<PUSH>
+OK!?
+<PUSH>
+
+<END-DIALOG>
+{A3}{E1}{00}{00}<{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(...Haha! That's
+{13}{EC} just like Prez...!)
+<PUSH>
+Alright!
+It's time to find Mr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{15}{E1}...Wait a second!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Is something wrong, Mega!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It feels like we're being
+watched...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Really!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You idiot!
+Don't look for them!
+<PUSH>
+They'll see you and...!
+<PUSH>
+Huh!?
+I think they went away!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+I-I'm sorry, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Come on!
+You need to be more
+cautious at times like this!
+<PUSH>
+You can't always be a goofy
+kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I-I know!
+<PUSH>
+But...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+...It's just that I never
+expected you to yell at me
+to be more cautious...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Hey!
+What does that mean!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+N-Nothing!
+Nothing at all!
+<PUSH>
+We should get going and
+find Mr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't think you can fool me!
+<PUSH>
+Hey!
+Wait up, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo Stelar{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No... Mega Man!
+<PUSH>
+Your power will be mine...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

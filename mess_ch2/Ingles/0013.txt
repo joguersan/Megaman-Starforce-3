@@ -1,0 +1,540 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Wow!!
+It really has that "studio"
+feel to it!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's really cool, huh?
+<PUSH>
+I've never been to a
+place like this. It's almost
+overwhelming.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+So many different TV
+shows are made here!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Don't get so excited, guys!
+<PUSH>
+We are actors who are
+going to appear in a TV
+show!
+<PUSH>
+You should be more regal!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+She has a point!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Didn't you say, "extras"...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Watch it, Jack!
+<PUSH>
+Either way, we're appearing
+in a TV show!
+<PUSH>
+We're not just worthless
+interns or something.
+So be proud!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Interns aren't allowed to
+be proud of their work?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Hey, guys!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Good morning!
+Sorry I forgot about the
+Studio Pass!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}!!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}!!!!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+W-Wooowzers!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+What's with you, Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+You look so cute in that
+outfit, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I've seen you countless
+times on TV, but you look
+<PUSH>
+even more amazing in real
+life!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, you look amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Hee hee!
+Really? Don't embarrass me...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(...Argh! She really is
+ super beautiful today!)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(Don't worry, Luna! No
+ one can out shine you!)
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Sonia Strumm...
+ Like Sis said, I need
+ to keep an eye on her.)
+<PUSH>
+{13}{EC}(She can EM
+ Wave Change, too...)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+{13}{EC}...?
+<PUSH>
+Um, who are you?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+He's Jack, a new transfer
+student at our school.
+<PUSH>
+Do you mind if he joins
+us, today?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Of course not!
+Nice to meet you, Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Yeah.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Game>
+Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Hey, Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Are these your friends?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+That's right!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Nice to meet you!
+I'm Belle!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nice to meet you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Belle is working with me
+on the TV show!
+<PUSH>
+Today, she's going to play
+my friend, as a special
+guest star.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Hehe...
+<PUSH>
+I'm just trying to improve
+and learn as much as I
+can from Sonia, every day!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+You could teach her a
+thing or two, as well, Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Ice...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Are you Belle's Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Not only that, I'm also her
+manager!
+<PUSH>
+You should know that Belle
+is going to rule the acting
+<PUSH>
+and celebrity worlds from
+the top!
+<PUSH>
+Just think, this is your
+chance to get to know
+her before she takes off!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Quit it, Ice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+She's going to blow right
+by you, Sonia Strumm!
+<PUSH>
+Just watch!
+No one can beat her!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+I already know that!
+<PUSH>
+In fact, I know better
+than anyone, since I work
+with her!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Errrg!
+<PUSH>
+What could you possibly
+know about Belle's ability!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Umm...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+She's really showing her
+competitive spirit...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Just like Prez...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Did you say something?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Nope, nothing.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+And Belle...
+You have to stop being
+friends with Sonia!
+<PUSH>
+She's the king of the hill
+that you're trying to
+get to the top of!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+It's not like she's my
+enemy or anything...
+I look up to her...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+No more talking!
+It's time to go to the
+waiting room, anyway.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+*sigh*
+Why is such a hot blooded
+Wizard named "Ice"?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+I'll see you later at the
+recording, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+OK, see ya!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Heh heh heh...)
+<PUSH>
+{13}{EC}(...So there is at least one
+ fun Wizard around.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Well, I have to get to my
+rehearsal, so I'll have to
+catch up with you all later!
+<PUSH>
+You should get a call when
+it's your turn to appear.
+Just relax until then!
+<PUSH>
+They're doing the scene
+at the tree road, outside
+of the studio!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Got it.
+Break a leg, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+So, what should we do?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Since we came all this
+way, let's look around!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Vogue, do a search for all
+of the recommended sights
+to see here!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

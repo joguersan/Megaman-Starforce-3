@@ -1,0 +1,781 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}<Heartless>
+
+{08}{E1}{00}{00}!<Geo>
+{08}{E1}{00}{00}"<(Queen)Tia>
+{08}{E1}{00}{00}#({08}{E1}{00}{00}$2{08}{E1}{00}{00}%<{08}{E1}{00}{00}&F{08}{E1}{00}{00}'P{08}{E1}{00}{00}(Z
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{25}{07}{27}{07}{0B}{00}{09}{E1}{00}{00}{27}{07}{29}{07}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Nos vamos a la "Onda
+Aérea"! Para entrar
+<PUSH>
+ve punto más alto de
+<Echo.Ridge>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{08}{E1}{06}{00}{00}{92}{0D}{00}{08}{E1}{06}{00}{02}{78}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Gracias a la Onda
+Aérea, llegaremos
+a <Alohaha> enseguida!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Por fin hemos llegado a
+<Alohaha>! Baja usando
+la Estación de Ondas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué hacemos aquí?
+La Dele se va a enfadar si no
+dejamos de perder el tiempo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}&<Bud>
+{0C}{E1}{01}{00}%<Prez>
+{0C}{E1}{01}{00}2<Hope(Mom)>
+{0C}{E1}{01}{00}${15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a ver a "Strong",
+el Wizard del
+<Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Creo que Strong no está
+aquí... ¿Y si volvemos
+con la Dele?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a explorar el
+Cibernúcleo del
+puesto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pues ya está todo
+arreglado. Vamos a
+decírselo a Bud.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{08}{E1}{06}{00}{01}{02}<Zack>
+{08}{E1}{06}{00}{01}{92}<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Parece que ya podemos
+ir a la playa. ¡Venga,
+aprovecha, hombre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Métete en el agua
+con el bañador!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿A quién le importa el
+Camino Onda?!
+¡Vamos a la playa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+En fin, ¿quién alquilaría
+toda la playa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{08}{E1}{06}{00}{00}{72})
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamsos a entrar a la Onda
+Real del muro de piedra.
+¡Impulsiónate al CN!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, parece que ahí
+adelante está pasando
+algo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No pierdas la oportunidad
+de disfrutar del océano!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{33}{07}{37}{07}={09}{E1}{00}{00}{3B}{07}{3D}{07}<Chery.Blosom>
+
+[END]
+
+[SENTENCE NUMBER 62]
+{0C}{E1}{01}{00}B?{0C}{E1}{01}{00}(>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a preguntar a
+Strong, a ver si sabe
+algo del ladrón.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Parece que el ladrón
+está en el Camino Onda.
+¡Vamos a encontrarlos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tienes que encontrar lo
+que ha robado! ¡Estará
+en el Camino Onda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a devolver
+lo robado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{08}{E1}{06}{00}{03}{02}G
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿No querías conocer el
+sistema medioambiental
+del <Castello.Alohaha>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El sistema medioambiental
+está al final. A ver
+cómo es.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{43}{07}{45}{07}Q{09}{E1}{00}{00}{45}{07}{53}{07}R
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Impulsiónate al CN del
+sistema medioambiental!
+¡Vamos, vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+{08}{E1}{06}{00}{00}{62}S{08}{E1}{06}{00}{01}{62}S{08}{E1}{06}{00}{02}{62}S{08}{E1}{06}{00}{10}{62}T{08}{E1}{06}{00}{11}{62}T{08}{E1}{06}{00}{12}{62}T{08}{E1}{06}{00}{13}{62}T{06}{E1}Q
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Strong está al final,
+enloquecido. ¡No bajes
+la guardia ni un momento!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Has caído...
+¡Sal de aquí ya!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{08}{E1}{06}{00}{01}{02}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El Carmesí se estaba
+moviendo hacia la playa.
+Vamos para allá...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Estará más adelante?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

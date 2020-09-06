@@ -1,0 +1,620 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}<Chery.Blosom>
+
+{08}{E1}{00}{00}A<Geo>
+{08}{E1}{00}{00}B({08}{E1}{00}{00}C2{08}{E1}{00}{00}D<
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{B3}{07}{B7}{07}{0B}{00}{09}{E1}{00}{00}{B7}{07}{BD}{07}{0F}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}{81}{00}{0D}{00}{0C}{E1}{01}{00}{80}{00}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's talk to the teachers
+around school and help
+Luna out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You're going to talk to the
+gardener on the roof that
+has a problem, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{08}{E1}{01}{00}{05}{77}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's some powerful Noise!
+That won't work with all of
+it in there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Get your butt to the Cyber
+Core of the Sprinkler!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}<Corvus>
+{12}{00}{0C}{E1}{01}{00}{83}{00}{11}{00}{0C}{E1}{01}{00}{82}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That was easy as pie, kid!
+Now let's go tell Damian
+and Wolf!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You've already went around
+to enough people, right?
+So go tell Prez you're done!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You've got a message from
+Ace! Hurry up and read it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The Main Computer CC...
+That's where you fought
+Dark Phantom!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{BD}{07}{BF}{07}{15}{00}{09}{E1}{00}{00}{BF}{07}{C3}{07}<Hope(Mom)>
+{09}{E1}{00}{00}{C3}{07}{C5}{07}<Bud>
+{09}{E1}{00}{00}{C5}{07}{C7}{07}<Zack>
+{09}{E1}{00}{00}{C7}{07}{C9}{07}<Solo>
+{09}{E1}{00}{00}{C9}{07}{D1}{07}<Jack>
+{09}{E1}{00}{00}{D1}{07}{D5}{07}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's something going on
+in <Echo.Ridge>!
+Move, move, move!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{08}{E1}{06}{00}{00}{00}<Prez>
+{08}{E1}{06}{00}{00}{90}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It looks like the only way
+to <Echo.Ridge> is via the
+Astro Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Where's the fire!?
+Keep an eye out, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Use the Astro Wave to get
+to <Alohaha>! Then go to
+<Studi.WBG> from there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{08}{E1}{07}{00}{00}{00}<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+OK, let's go find Prez and
+the gang!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Shouldn't we be getting back
+to <Echo.Ridge>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{08}{E1}{07}{00}{00}{50}<Mr.King-2>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's some fierce Noise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't be afraid, kid! Man up
+and get in that Noise Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+{0C}{E1}{01}{00}<Taurus.Fire>
+<(Queen)Tia>
+{08}{E1}{06}{00}{05}{51}<Heartless>
+{08}{E1}{06}{00}{06}{51}"
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's usually a Noise Wave
+wherever viruses are around!
+Keep your eyes peeled, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Did you really read the
+message from Harp Note?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's one thing taken care
+of for now. Let's get back
+to Satella Police HQ!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{0C}{E1}{01}{00}{CB}{07}!
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There has to be some place
+where the viruses are coming
+from!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alright, it's time to get out
+of this Noise Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{0C}{E1}{01}{00}{CD}{07}!
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There has to be some place
+where the viruses are coming
+from!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{09}{E1}{00}{00}{D5}{07}{D7}{07}){09}{E1}{00}{00}{D7}{07}{D9}{07}*
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Well then, I think it's time
+to go home!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't you think it's time to
+go get some rest? You had
+quite the busy day.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{D9}{07}{DF}{07}3
+[END]
+
+[SENTENCE NUMBER 52]
+{0C}{E1}{01}{00}<Cepheus>
+5{08}{E1}{06}{00}{08}{00}4
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Prez and the rest already
+went to school ahead of you!
+You better get there quick!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+I think you better talk to
+Prez before anything else!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+She said Bud and them are
+in the classroom!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{DF}{07}{E1}{07}={09}{E1}{00}{00}{E1}{07}{FD}{07}>{09}{E1}{00}{00}{FD}{07}{01}{08}?
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You've got to follow that
+Solo jerk! Get to the
+first floor Wave Road!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Who would have thought!?
+We're actually going to
+fight alongside of Rogue!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+All that's left is for us to
+go to the Roof and whoop
+Jack and Corvus's butts!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,540 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+¡Esto es un estudio
+de tomo y lomo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mola, ¿verdad?
+<PUSH>
+Nunca he estado en un
+estudio. Se me va a salir
+el corazón del pecho.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Aquí hacen un montón
+de programas!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Chicos, relajaos!
+<PUSH>
+¡Que vamos a salir en
+un programa de la tele!
+<PUSH>
+¡Tenéis que comportaros!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡La Dele tiene razón!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+No has dicho que
+seréis extras, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Cuidadín, Jack!
+<PUSH>
+¡En fin, que vamos
+a salir en la tele!
+<PUSH>
+Ni tramoyistas ni
+nada. ¡Actores!
+¡Sentíos orgullosos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y los tramoyistas no
+pueden estar orgullosos
+de su trabajo?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Hola, chicos!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Buenos días!
+¡Lo siento, me había
+olvidado del
+Pase de estudio!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}¡¡¡¡!!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}¡¡¡¡¡¡!!!!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}¿?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Madre mía!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¿Qué te pasa, Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Sonia, estás estupenda
+con ese traje!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡No sé cuántas veces te he
+visto en la tele, pero
+<PUSH>
+en persona ganas
+incluso más!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, impresionante!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Ji, ji! ¿De verdad?
+Jo, qué vergüenza...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(¡Argh!
+¡Está preciosa!)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(¡Tranquila, Luna!
+¡Nadie puede eclipsarte!)
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Sonia Strumm...
+Tia me dijo que tenía
+que vigilarla.)
+<PUSH>
+{13}{EC}(Ella también puede
+realizar el Cambio de Onda.)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+{13}{EC}¿?...
+<PUSH>
+Esto... ¿Y tú quién eres?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es Jack. Acaba de llegar
+a nuestra escuela.
+<PUSH>
+¿Te importa que vaya
+con nosotros hoy?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Claro que no!
+¡Encantada de conocerte,
+Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Vale...
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Game>
+¡Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Hola, Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+¿Estos son tus amigos?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Es un placer!
+¡Yo soy Belle!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Encantado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Belle trabaja conmigo
+en el programa!
+<PUSH>
+Hoy está de estrella
+invitada. Hará de amiga
+de mi personaje.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Je, je...
+<PUSH>
+¡Intento ser cada día
+mejor y aprender todo
+lo que pueda de Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Tú también podrías enseñarle
+un par de cosas, Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Ice...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Eres el Wizard de Belle?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Y no solo eso. ¡También
+soy su representante!
+<PUSH>
+¡Que sepáis que Belle va
+a estar en la cima del
+<PUSH>
+mundo de la interpretación
+y el famoseo!
+<PUSH>
+¡Es vuestra oportunidad
+de arrimaros a ella antes
+de que despegue!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Déjalo ya, Ice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Vas a morder el polvo,
+Sonia Strumm!
+<PUSH>
+¡Espera y verás!
+¡Nadie podrá con ella!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Ya lo sé!
+<PUSH>
+¡Lo sé mejor que nadie,
+genio! ¡Trabajo con ella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Errrg!
+<PUSH>
+¿Y tú qué sabrás de las
+capacidades de Belle?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Eh...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Menudo espíritu
+competitivo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es igual que la Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué has dicho?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nada de nada...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Y Belle...
+¡Te he dicho que no te
+hagas amiga de Sonia!
+<PUSH>
+¡Ella es la reina de la
+colina a la que tienes
+que derrocar!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Ni quer fuera mi
+enemiga...
+Yo la admiro...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡Basta de cháchara!
+Tenemos que irnos
+a la sala de espera.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Ay... Qué ironía
+que un Wizard tan
+intenso se llame "Ice".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+¡Nos vemos en la
+grabación, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Sí, adiós!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Je, je, je...)
+<PUSH>
+{13}{EC}(Por fin aparece
+un Wizard interesante...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Tengo que volver al ensayo,
+luego os veo!
+<PUSH>
+¡Cuando os toque salir
+os llamarán!
+<PUSH>
+Vuestra escena se grabará
+en la arboleda saliendo
+del estudio.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale.
+¡Mucha mierda, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Y qué hacemos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ya que estamos aquí,
+vamos a echar un vistazo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Vogue, búscame sitios
+recomendados para ver
+cerca!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

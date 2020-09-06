@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The passage is being
+blocked by an evil energy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's not moving...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

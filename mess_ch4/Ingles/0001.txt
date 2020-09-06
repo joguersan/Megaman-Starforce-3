@@ -1,0 +1,239 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Enough data has been
+collected...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{15}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Begin the analysis process.
+<PUSH>
+It's finally time, Heartless!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+...Hey, wait a second.
+<PUSH>
+You still haven't told us
+what you're going to do
+with Mega Man's data.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+...You should watch how you
+talk to Mr. King, Jack.
+<PUSH>
+After all, he is the leader of
+this organization...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Don't mind him, Heartless.
+He never listens, anyway.
+<PUSH>
+...Isn't that right, son?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ha ha ha!
+You will soon find out what
+I will do with the data...
+<PUSH>
+Can you handle the wait!?
+Ha ha ha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+...Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Are you listening?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Yes...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Is there something{15}{E1} you need?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+Jack has seemed a little
+strange ever since the
+incident at <Castello.Alohaha>.
+<PUSH>
+...He's been much more mild
+tempered than usual.
+<PUSH>
+Is there a problem?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Not that I know of...
+<PUSH>
+We're both fine.
+<PUSH>
+...But I see no reason to
+hear from you every time
+we do feel down...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+...I see.
+<PUSH>
+There's no problem then.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+"There's no problem then."!
+<PUSH>
+Who does he think he is!?
+<PUSH>
+Hey, Tia.
+<PUSH>
+Joker has been acting kind
+of strange lately, hasn't he?
+<PUSH>
+How dare he act like that
+when he's the newest
+member in the organization!
+<PUSH>
+If he upsets Corvus one
+more time, I don't know what
+will happen!
+<PUSH>
+Kyahahahaha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

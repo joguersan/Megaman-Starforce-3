@@ -1,0 +1,333 @@
+[SENTENCE NUMBER 1]
+{09}{E1}{00}{00}{CD}{06}{DB}{06}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the Science Club's
+Rocket!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's some serious-looking
+equipment.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the Science Club's
+mascot, "Hugh Maan".
+<PUSH>
+*gasp*
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+H-Hey, kid!
+D-Did his eyes just move!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's some serious-looking
+equipment.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The Science Club Room
+is kind of a cool place...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bulletin board with
+experiments scheduled
+on it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Warning: Flammable!"
+"Warning: Do Not Mix!"
+"Warning: Do Not Shake!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Experiment in Process!"
+"Do Not Touch!"
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+{13}{EC}Oh man, soooo tempting...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{09}{E1}{00}{00}{04}{00}{05}{00}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a case filled with
+strange looking things.
+<PUSH>
+Moth specimens are
+being displayed on the
+monitor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a blackboard.
+<PUSH>
+A blue print for the
+rocket is on it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a teacher's desk.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{E4}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cables and other electronic
+equipment have been
+carelessly thrown in the box.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey!
+Look what's in there!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Ability:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{E4}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bunch of pretty
+technical-looking parts.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The rocket's blueprint is
+spread out on the floor.
+<PUSH>
+Propulsion.
+Payload weight.
+Burn time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The rocket's blueprint is
+spread out on the floor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The rocket is gone...
+Was it stolen!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It looks like it was already
+taken to the roof!
+<PUSH>
+{09}{E1}{00}{00}{CF}{06}{DB}{06}{11}{00}
+<NEW-DIALOG>
+<Mega>
+Let's get there ASAP, kid!
+It's going to be so cool to
+watch!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a case filled with
+strange looking things.
+<PUSH>
+Moth specimens are
+being displayed on the
+monitor.
+<PUSH>
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<NEW-DIALOG>
+<Geo>
+Is this the moth
+specimen that that
+teacher mentioned?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That kind of stuff creeps
+me out!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cables and other electronic
+equipment have been
+carelessly thrown in the box.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<END-DIALOG>
+
+[END]
+

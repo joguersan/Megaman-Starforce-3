@@ -1,0 +1,30 @@
+[SENTENCE NUMBER 1]
+{8B}{E1}6{01}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of one Omega
+Piece is required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of one Omega
+Piece confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{C7}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+

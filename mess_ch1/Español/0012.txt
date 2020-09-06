@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ya casi hemos acabado
+con ellos!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No bajes la
+guardia, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

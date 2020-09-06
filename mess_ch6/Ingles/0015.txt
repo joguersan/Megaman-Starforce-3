@@ -1,0 +1,348 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+*snoring*
+<PUSH>
+{13}{EC}...
+<PUSH>
+*mumbling*
+<PUSH>
+There's just no way that I
+can eat all that...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!{15}{E1} Wake up!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Wha!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Wh-Wh-Wh-What is it!?
+<PUSH>
+Has there been another
+incident!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You have a call!
+<PUSH>
+It's from Dr. Goodall!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh! OK.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+For cryin' out loud...
+Do I look like an alarm clock
+Wizard or something?
+<PUSH>
+Sweet lordie!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Good morning, Dr. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Good morning, Geo.
+<PUSH>
+Hee hee.{15}{E1}
+You look like you got some
+good sleeping in!
+<PUSH>
+Oh, to be young again...
+<PUSH>
+I find that the older you
+get, the earlier you wake up.
+<PUSH>
+You just can't sleep as much
+as when you were young.
+<PUSH>
+You know!
+<PUSH>
+I used to sleep so much
+when I was a young girl!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...{15}{E1} Umm...{15}{E1} Dr. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}...Oh, yes indeed.
+<PUSH>
+That's enough chit-chat, for
+the time being.
+<PUSH>
+I'm sorry I had to wake you
+up, but I have an assignment
+for you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No problem!
+What's the assignment?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I want you to investigate
+the following three areas.
+<PUSH>
+<Echo.Ridge> Elementary...
+<PUSH>
+<Spica.Mall>...
+<PUSH>
+and <Studi.WBG>...
+<PUSH>
+You should be able to find
+Noise Waves there.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Noise Waves!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes.
+<PUSH>
+It seems that Dealer uses
+Noise Waves to travel to
+and from different places.
+<PUSH>
+If you went and talked to
+the denizens of the Noise
+Waves...
+<PUSH>
+You might be able to track
+that child...
+<PUSH>
+Joker...
+<PUSH>
+Tracking him should lead you
+to Dealer's base.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So...
+You're telling us to go mine
+for data!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That's right, Meggers!
+<PUSH>
+You are such a smart little
+guy, aren't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bah! You'd have to be
+pretty dumb to not
+understand what you meant!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(That reminds me. We
+{13}{EC} watched that wave crime
+{13}{EC} investigation show, recently.)
+<PUSH>
+{13}{EC}(I think it's called "WRI: 
+{13}{EC} Wave Road Investigation"...)
+<PUSH>
+{13}{EC}(Mega seemed to
+{13}{EC} be really into it.)
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hee hee. Silly Meggers.
+<PUSH>
+Well now, let's go over what
+happened yesterday.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+The first incident was at
+Geo's school.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Wizards went out of control
+and terrorized the front
+entrance area.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That was really strange,
+wasn't it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Following that, three out of
+control Wizards attacked
+<Spica.Mall>.
+<PUSH>
+The entrances to Noise
+Waves are in the Real World,
+<PUSH>
+so make sure to check out
+all suspicious places in the
+three areas for them.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+The final area to have an
+incident was <Studi.WBG>.
+<PUSH>
+That's where Joker showed
+up!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+The Noise in that area is
+a little different, or should I
+say special...
+<PUSH>
+You should not go there
+until after you've checked
+<PUSH>
+out Echo Ridge Elementary
+and <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK, we got it!
+You can count on us to
+catch those bad guys!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hee hee!
+I'm counting on you, Meggers.
+<PUSH>
+Well then, Geo.
+<PUSH>
+Since Noise Waves are very
+dangerous areas, this is
+something only you can do...
+<PUSH>
+Do your best, and make
+sure to stay safe, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes, ma'am!
+Over and out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{11}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright, let's go investigate!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Data mining!
+It's called data mining!
+<PUSH>
+Hehehe.
+I'm going to be the best
+Wizard detective ever!
+<PUSH>
+You're going to let me help
+out at the scene, right?
+<PUSH>
+If you need any help, just
+talk to me!
+<PUSH>
+Got it, Detective Stelar!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Detective Stelar?
+<PUSH>
+Hmm, that doesn't sound half
+bad...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's time, Detective Stelar!
+The scene of the crime is
+calling us!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

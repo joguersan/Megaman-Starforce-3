@@ -1,0 +1,154 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}!{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Are you going to give up?
+<PUSH>
+I thought that you were
+going to keep fighting in
+my place?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}c{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}e{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Stand up, Mega Man.
+<PUSH>
+You have a lot of friends
+who are waiting for you
+back on Earth...
+<PUSH>
+Believe in yourself...
+And in what you can do...
+<PUSH>
+.{13}{E1}.{13}{E1}.{13}{E1}I mean...
+You don't think that I'm
+really done for, do you?
+<PUSH>
+So why are you lying on
+the ground?
+<PUSH>
+You can do this...
+<PUSH>
+And don't forget...
+You're the world's greatest
+hero!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...Haha. Thanks Ace.
+<PUSH>
+Besides, I'd be too ashamed
+to see you again if I were
+to give up like this...
+<PUSH>
+I want to do this...
+<PUSH>
+I'm going to do this, Ace...
+<PUSH>
+I've still got too much life
+left inside of me!
+<PUSH>
+I'm going to fight to the
+bitter end!
+<PUSH>
+Giving up...
+Is not an option!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+.{15}{E1}.{15}{E1}.{15}{E1}Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo, access Meteor G!
+<PUSH>
+Then draw on the energy
+that is inside of the Noise!!
+<PUSH>
+With that, your desire to
+protect others will fuel you
+with unlimited strength!!
+<PUSH>
+Fulfill your Purpose, Geo!!
+<PUSH>
+I believe in you!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks...
+I'll fight for you, too...
+<PUSH>
+Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Y{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h{13}{E1}h{13}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+

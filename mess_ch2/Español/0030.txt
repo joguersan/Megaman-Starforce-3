@@ -1,0 +1,771 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Mega Man...
+Es más capaz de lo
+que pensaba...
+<PUSH>
+Ha arruinado nuestros
+planes en dos ocasiones...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man... No.
+<PUSH>
+Geo Stelar y sus amigos.
+No lo hacen nad mal, ¿eh?
+<PUSH>
+Su amistad les da
+Poder Empático.
+<PUSH>
+Jamás he visto a nadie
+como ellos.
+<PUSH>
+Je, je, je...
+Qué interesantes...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Jack...
+¿Has conseguido datos
+de Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Sí, pan comido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Parece que el secreto de
+su poder es
+<PUSH>
+el Wizard de Geo Stelar,
+Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+¿Omega-Xis?
+<PUSH>
+Jo, jo, jo. ¡Hacía siglos
+que no oía ese nombre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¿Lo conoces, Corvus?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Sí, es un viejo amigo.
+<PUSH>
+Ya me olía yo algo cuando
+oí hablar de Mega Man.
+<PUSH>
+¡Jamás pensé que fuera a
+encontrarme con él
+precisamente aquí!
+<PUSH>
+¡Esto se pone interesante!
+¿Verdad, Virgo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+¡Kiajaja!
+<PUSH>
+¡Ha merecido la pena venir
+a este planeta y convertirme
+en el Wizard de Tia!
+<PUSH>
+¡Con tanto sufrimiento, no
+hay ni un momento para
+aburrirse!
+<PUSH>
+¡Kiajajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Yo también hice bien
+al convertirme en el
+Wizard de Jack!
+<PUSH>
+¡Eh, Jack y Queen Tia!
+¡¿Qué vamos a liar ahora?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Tú que dice, Tia?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Pronto se celebrará un
+evento en la escuela
+de Echo Ridge...
+<PUSH>
+Lo usaremos en
+nuestro beneficio...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Parece divertido!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡Kiajajaja!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<(Queen)Tia>
+{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Verá, así es.
+Se produjo un
+contratiempo...
+<PUSH>
+Pero ya está arreglado...
+No hay heridos ni
+nada de qué preocuparse.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+(No digas nada, Belle.)
+<PUSH>
+(Vamos a dejárselo
+a Lee.)
+<PUSH>
+
+<NEW-DIALOG>
+0Eso es irrelevante.
+<PUSH>
+En este estudio se ha
+producido tanto Ruido
+<PUSH>
+como para haber
+creado un Carmesí.
+<PUSH>
+Somos la Policía Satella,
+debemos investigarlo.
+<PUSH>
+
+<NEW-DIALOG>
+1Dejaremos pasar lo de que
+se haya resuelto el problema...
+<PUSH>
+Pero no podemos irnos sin
+que nos des un informe
+detallado de lo ocurrido.
+<PUSH>
+Y debemos interrogar a
+todos los testigos.
+<PUSH>
+
+<NEW-DIALOG>
+0Debemos encontrar y
+detener a quien haya
+producido ese Ruido.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Belle>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+(No pasa nada, Belle...
+Se lo diré todo.)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+(¡No! Te estaban controlando.
+¡Tú no has hecho nada malo!)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Esperen un momento!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Soy Sonia Strumm!
+<PUSH>
+
+<NEW-DIALOG>
+1Ya lo sabemos.
+<PUSH>
+
+<NEW-DIALOG>
+0Vemos tu programa
+todas las semanas.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Muchas gracias!
+<PUSH>
+Pero eso...
+<PUSH>
+El problema se
+produjo durante mi
+concierto.
+<PUSH>
+Esto...
+¡Así!
+<PUSH>
+Queríamos que nevara
+durante la actuación.
+<PUSH>
+¡¿Verdad que sí, Lee?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Eh{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} ¡¡Exacto!!
+<PUSH>
+¡Entonces el equipo
+empezó a volverse
+un poco loco!
+<PUSH>
+¡Y el escenario se
+congeló un poquito!
+<PUSH>
+Y el equipo liberó
+un poco de Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Está haciendo todo
+esto por mí...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Y...
+¡Misterio resuelto!
+<PUSH>
+¡Ya lo ven, en realidad
+no ha pasado nada!
+<PUSH>
+¡Pero gracias por comprobarlo!
+¡Y perdón por los problemas!
+¡Que tengan un buen viaje!
+<PUSH>
+
+<NEW-DIALOG>
+0No, no, no.
+No nos vais a engañar
+tan fácilmente.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+1Sonia Strumm...
+Somos profesionales.
+<PUSH>
+Sabemos cuando
+alguien miente...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Y también cuando
+nos ocultan cosas.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Y yo les repito que
+aquí no ha pasado nada!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yo estaba entre el
+público y no vi
+nada raro.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Sí!
+¡Yo tampoco!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Sonia lo hacía tan bien
+que parecía que hacía
+hasta calor y todo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ejem...
+Resuelto entonces, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Además de no haber ningún
+daño material ni humano,
+<PUSH>
+no tienen ninguna
+prueba concluyente.
+<PUSH>
+Gracias por venir, pero
+aquí no hay nada que ver.
+No nos interroguen más.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Bien hecho, Prez...)
+<PUSH>
+{13}{EC}(Ha estado muy tranquila,
+pero ha mostrado
+mucha autoridad.)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(Hala...)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(Qué miedo...)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}(Qué miedo, pero...)
+<PUSH>
+{13}{EC}(¡Muchísimas gracias, Luna!)
+<PUSH>
+
+<NEW-DIALOG>
+0Ja... Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+No pasa nada, ¿vale?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}"{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ace!
+<PUSH>
+
+<NEW-DIALOG>
+0Eos...
+<PUSH>
+Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Me dejáis el resto a mí?
+<PUSH>
+Soy un oficial de la
+Policía Satella,
+dejadlo en mis manos.
+<PUSH>
+
+<NEW-DIALOG>
+1Entendido.
+Cómo negarme.
+<PUSH>
+
+<NEW-DIALOG>
+0Nos vemos en el cuartel.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ñam, ñam, ñam...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¿?
+<PUSH>
+¿A qué vienen esas caras?
+¿Queréis una megachuche?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esto, Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eres un oficial
+de la Policía Satella?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ya te digo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿E-E-En serio?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+En serio.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Alucinante!
+<PUSH>
+¡Sabía que no eras un tipo
+normal, pero jamás se me
+habría ocurrido esto!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡A cuadros estoy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Lo conocéis, chicos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+¡Tiene un Wizard muy
+poderoso! Se llama Acid.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Agh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Pues...
+¡Muchas gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+He traído un disco...
+<PUSH>
+Eh... ¿me harías el honor
+de firmármelo?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿Eh? Ah, claro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ras, ras, ras...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿Qué tal así?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Puedes escribir
+"Para A.C."?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+C-Claro...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Oh, fantástico!
+¡Gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Gracias a ti por
+apoyar mi música...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+(Harp Note.)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+(Pronto necesitaré
+tu poder.)
+<PUSH>
+(Dile a Mega Man que
+le mando recuerdos.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+¿Te pasa algo, Sonia?
+Estás pálida.
+<PUSH>
+¿Te ha dicho algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+N-No es nada.
+<PUSH>
+{13}{EC}(A.C. Eos...)
+<PUSH>
+{13}{EC}(¿Quién eres?)
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Propósito completado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

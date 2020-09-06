@@ -1,0 +1,435 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Papá.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Ey, chaval.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}.{15}{E1}.{15}{E1}.{15}{E1}Cómo has crecido.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Papá!!...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Gracias por cuidarle, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No me las des.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Quiero decirte muchas cosas.
+Pero eso puede esperar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}El Meteorito G es cada vez
+más y más fuerte...
+<PUSH>
+Ya no puedo retenerlo más.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Papá, deja que te ayude!!
+<PUSH>
+¡¡Si sigues forzándote así
+acabarás eliminado!!
+<PUSH>
+¡Ya me ocupo yo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Te has convertido
+en todo un hombre...
+<PUSH>
+Parece que es hora
+de pasar la batuta...
+<PUSH>
+Mega Man puede hacer
+cualquier cosa, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Jo, jo, jo...
+<PUSH>
+Yo no estaría tan seguro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Si este planeta no
+puede ser mío...
+<PUSH>
+No me queda más remedio
+que destruirlo.
+<PUSH>
+Me haré uno con esta
+estrella fugaz y
+<PUSH>
+el castigo divino caerá
+sobre vosotros, patéticos
+humanos.
+<PUSH>
+¡Adiós, Tierra!{15}{E1}
+¡Adiós, humanidad!{15}{E1}
+<PUSH>
+¡¡Se acabó!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Meteorito G!!
+¡¡Vuelve a mí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}¡¡!!
+¡¡Esto no es bueno!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡No lo hagas, King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Es demasiado tarde!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Contemplad con asombro
+cómo el Meteorito G y yo
+nos convertimos en uno!!
+<PUSH>
+¡Jo, jo, jo, jo, jo!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<(Queen)Tia>
+{01}{00}{A0}{E1}{04}{00}<
+<START-DIALOG>
+{10}{E2}{66}{04}{16}{EC}
+<NEW-DIALOG>
+<Game>
+¡¡Mua{13}{E1}ja{13}{E1}ja{13}{E1}ja{13}{E1}ja{13}{E1}ja{13}{E1}ja{13}{E1}ja{13}{E1}ja!!
+<PUSH>
+Bueno...
+¡¿Qué os parece?!
+<PUSH>
+Yo llevaré a la Tierra
+a su destrucción...
+¡¡Soy Dragón Carmesí!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}¡¿Pero qué...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Kelvin Stelar!!
+<PUSH>
+Has sido una espina en mi
+costado durante demasiado
+tiempo...
+<PUSH>
+¡¡Es una lástima que
+no pueda aprovechar un
+poder tan inmenso!!
+<PUSH>
+¡¡Por eso voy a
+quedarme con él!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Ungh!!
+¡A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h{13}{E1}h{13}{E1}h!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Papá!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Kelvin!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}¡¡Geo!!
+¡¡No te preocupes por mí!!
+<PUSH>
+¡¡Tienes que detener a King
+y destruir el Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pero...
+No puedo...
+<PUSH>
+Te he echado tanto de menos...
+Y ahora que por fin
+te encuentro...
+<PUSH>
+¡¡No dejaré que te
+vayas otra vez!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}¡¿Por qué has venido
+hasta aquí?!
+<PUSH>
+Para proteger a aquellos
+que quieres... ¡¿No?!
+<PUSH>
+En la Tierra compartes
+fuertes vínculos con
+muchas personas...
+<PUSH>
+Y Hope...
+¡¡Piensa también en tu madre!!
+<PUSH>
+¡¡No puedes decepcionarlos!!
+¡¡Ellos creen en ti!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}¡¡Debes luchar, Mega Man!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Papá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Maldita sea!!
+¡¡Kelvin!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Jo, jo, jo, jo!
+¡¡Este poder es abrumador!!
+<PUSH>
+¡Vamos, Mega Man!
+¡¿Qué vas a hacer?!
+<PUSH>
+¡¿Piensas desafiarme aún
+después de haber conseguido
+semejante poder?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Kelvin Stelar ahora forma
+parte de mí!!
+<PUSH>
+¡¿Qué clase de hijo sería
+capaz de hacer daño
+a su padre?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡C-Chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Papá me ha dicho que luche{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+¡¡Si no te detengo ahora, todos
+los sacrificios que hemos
+<PUSH>
+hecho hasta ahora habrán
+sido en vano!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Solo>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Dragón Carmesí!!
+<PUSH>
+Por la gente a la que quiero...
+<PUSH>
+¡Te derrotaré! ¡No habrá
+un mañanaa para ti!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Eres lamentable!
+<PUSH>
+¡¡Ven a por mí!!
+<PUSH>
+¡¡Contempla el auténtico
+poder del Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Vamos allá, chico!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡La última batalla!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Megaman>
+¡¡Adelante!!{30}{EC}
+<END-DIALOG>
+
+[END]
+

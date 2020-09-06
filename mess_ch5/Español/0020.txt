@@ -1,0 +1,91 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geo!
+<PUSH>
+¡Despierta, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Zzz...
+<PUSH>
+No puedo comer más.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Es hora de despertarse!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Uuuaaahhh{15}{E1} ¿¡Qué!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Oh no!
+¡Voy a llegar tarde al cole!
+<PUSH>
+¡Y hoy son las elecciones del
+consejo estudiantil!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Dele vino antes a recogerte.
+<PUSH>
+Pero no te despertabas,
+Así que se ha ido sin ti.
+<PUSH>
+¡Dios, chaval!
+¡No estará precisamente
+contenta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Madre mia...
+<PUSH>
+¡¡Tenemos que ir a la
+escuela ya!!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{04}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El grupo y objetivo de Geo
+han cambiado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

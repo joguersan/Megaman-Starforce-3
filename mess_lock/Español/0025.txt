@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico, ahora no podemos
+volver!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

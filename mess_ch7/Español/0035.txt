@@ -1,0 +1,71 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Esta carta...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Muejejeje...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Diamond Ice!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No es el mismo con el
+que ya has luchado!
+<PUSH>
+El Carmesí que expulsó
+al enloquecer ahora forma
+<PUSH>
+parte del Meteorito G.
+<PUSH>
+¡Lo más probable es que
+haya reconstruido
+sus datos!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Será cosa de Jack y
+la Srta. Tia?
+<PUSH>
+¡Da igual, nada ni nadie
+va a pararme ahora!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Somos imparables!
+¡¡No nos va a costar nada
+deshacernos de este!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos allá, Mega!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

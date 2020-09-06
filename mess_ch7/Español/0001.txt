@@ -1,0 +1,445 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Unos días después...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Aún no me lo creo...
+<PUSH>
+Ace está...
+Está muerto, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Es terrible, pero...
+<PUSH>
+No hemos podido captar su
+señal ni la de Acid.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Es la primera vez que
+alguien que conozco
+se muere...
+<PUSH>
+Estoy muy triste...
+Claro, pero...
+<PUSH>
+Sobre todo...
+<PUSH>
+Es como si tuviera un
+agujero en el corazón...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Seguro que aparece de un
+momento a otro como
+si nada...
+<PUSH>
+Y echa una sonrisa de las
+suyas. Y nos dice: «¡Cuento
+<PUSH>
+con vosotros!», mientras
+se come sus chucherías...
+<PUSH>
+Snif...{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Uff...{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Snif...{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Uh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Uh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Buaaa{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+But Geo, I know you can
+handle it.
+<PUSH>
+You're the world's greatest
+hero, after all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Ace{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡¡Buaa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Chaval, no es momento
+para llorar...
+<PUSH>
+No sirve de nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+.{15}{E1}.{15}{E1}.{15}{E1} ¡Ya vale, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Ace ha muerto!
+<PUSH>
+¡¿Y dices que no es momento
+para llorar la muerte
+de un amigo?!
+<PUSH>
+¡¿Por qué?!
+<PUSH>
+Y cómo...
+¡¿Cómo puedes estar
+tan tranquilo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No lo estoy.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Para mí también fue terrible
+verle morir...
+Yo también sufro...
+<PUSH>
+Pero ponerme a llorar como
+un bebé no va a hacer
+que vuelva...
+<PUSH>
+Eso lo sé bien, e intento
+sobrellevarlo como un hombre.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Por qué no os calláis
+los dos?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+No es momento para que
+os pongáis a discutir.
+<PUSH>
+Y es la última que necesito
+en este momento, la verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Luna tiene razón.
+<PUSH>
+Geo, entendemos tu tristeza,
+y también entendemos lo que
+dices, Mega...
+<PUSH>
+Puede que los dos tengáis
+razón, en cierto modo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+¿Qué pasó con Jack y
+la Srta. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Pues...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Where do you plan on going...?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We've had a certain "wish"
+for a long time now...
+<PUSH>
+And it hasn't come true,
+yet.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+¡¡Srta. Tia, él ha muerto
+por vosotros!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+We can't change anything
+that's happened...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Me pregunto cuál será
+su deseo...
+<PUSH>
+Y no tengo ni idea de
+adónde fueron...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tras la explosión, King
+también desapareció.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Además, se llevaron todo
+el Carmesí.
+<PUSH>
+No creo que tarde mucho
+en mover ficha.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chaval...
+<PUSH>
+¿Ya sabes por qué Ace
+sacrificó su vida y
+luchó como lo hizo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Para proteger aquello
+que le importaba...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Exacto.
+<PUSH>
+No era solo por Queen Tia.
+<PUSH>
+Luchó y murió por sus
+compañeros de la Policía
+Satella y por vosotros.
+<PUSH>
+Si no continuamos con su
+causa y luchamos por lo
+mismo que él...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...
+<PUSH>
+{13}{E2}{03}{00}
+<NEW-DIALOG>
+<Mega>
+No podemos quedarnos
+de brazos cruzados.
+<PUSH>
+Tenemos que luchar por Ace.
+<PUSH>
+Ahora mismo no hay mucho
+que podamos hacer.
+<PUSH>
+Pero no conseguiremos nada
+llorando su pérdida.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Luchar por Ace...
+<PUSH>
+Sí, tienes razón.
+<PUSH>
+Lo siento, Mega...
+<PUSH>
+Así solo he hecho que
+la muerte de Ace pierda
+sentido.
+<PUSH>
+Vamos a hacer lo
+que podamos.
+<PUSH>
+¡Somos miembros de las
+Fuerzas Especiales de Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Estoy contigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡No os olvidéis de mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yo también estoy
+contigo, Geo.
+<PUSH>
+No puedo luchar contigo,
+pero puedo ayudarte
+de muchas otras formas.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Yo también! ¡¡Pedia y yo
+estamos aquí para ayudar
+a nuestros amigos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Chicos, sois los mejores!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chaval... ¡¡Vamos a casa,
+allí decidiremos nuestra
+próxima jugada!!
+<PUSH>
+¡Tenemos que luchar para
+proteger a nuestros
+seres queridos!
+<PUSH>
+
+[END]
+

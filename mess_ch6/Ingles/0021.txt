@@ -1,0 +1,145 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+OK, kid!
+<PUSH>
+Let's go buck wild on this
+crazy machine!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Definitely!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Oh no, it's a trap!
+<PUSH>
+Ahh!!
+I can't move!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I can't believe this!
+<PUSH>
+What the heck are we going
+to do!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I don't know exactly...
+<PUSH>
+But we've got to get out of
+here, no matter what!
+<PUSH>
+U{16}{E1}-Uuuuumph!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Leave it to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+I'll be fine here by myself!
+<PUSH>
+You keep going, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+<PUSH>
+Thanks for the save, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Ungh!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+The Noise here is so
+intense!
+<PUSH>
+But those two seemed just
+fine...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+I'm just glad we could help
+them without causing them
+anymore trouble...
+<PUSH>
+Geo would worry way too
+much, if he saw us like this.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Well...
+Let's get moving!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+You're the best, Sonia...
+<PUSH>
+You surprise me more and
+more, every day!
+<PUSH>
+{13}{EC}(If you ever make her cry...)
+<PUSH>
+{13}{EC}(You'll be sorry, Mega Man!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

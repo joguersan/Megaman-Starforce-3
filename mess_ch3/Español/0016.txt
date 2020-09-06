@@ -1,0 +1,453 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Me encantan las hogueras!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Crean muy buen ambiente,
+¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+S-Sonia...
+Ven a ver la hoguera
+con nosotros...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Crunch, crunch...
+Ñam, ñam...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Eres una estrella,
+¿seguro que puedes
+permitirte comer tanto?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ñam, ñam...
+<PUSH>
+¡No te preocupes por
+mi peso!
+<PUSH>
+Coma lo que coma, no
+engordo ni un gramo.
+<PUSH>
+¡Así que hoy voy a
+comer hasta reventar!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Pues sí que está enfadada...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Porque Geo recuperó el
+pañuelo de la Dele...
+<PUSH>
+¿Pero a quién se le ocurre?
+Ha hecho enfadar a una
+superestrella...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Necesito más comida!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Dele?
+¿Por qué me coges
+de la mano?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo, tontito...
+<PUSH>
+Estabas mirando al océano
+como deprimido...
+<PUSH>
+Es precioso y muy tranquilo,
+pero da miedo pensar en
+caerse...
+<PUSH>
+¿Eso es lo que te preocupa?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Soy como un libro abierto
+para ti, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Los Hermanos están más unidos
+que cualquiera.
+<PUSH>
+Pero si no supiera qué te
+pasa, mi deber como
+<PUSH>
+delegada es cogerte de la
+mano para que no te caigas.
+<PUSH>
+Ya me lo puedes
+agradecer bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+C-Claro que sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Aún no me lo creo.
+<PUSH>
+Que un chico normal y
+corriente como tú
+sea Mega Man...
+<PUSH>
+Seguro que sería una
+decepción si se enterara
+la gente.
+<PUSH>
+Bueno...
+Yo al principio me
+la llevé..
+<PUSH>
+{12}{E2}!{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Mega Man...
+<PUSH>
+Mega... ¡¿M-Geo?!
+¡¡N-No puede ser!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Th-This is a joke, right?
+<PUSH>
+I can't believe that you...
+That you're Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Como Mega Man eres muy
+valiente y guay.
+<PUSH>
+Un chico tan normal
+como tú...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Jajaja...
+<PUSH>
+Perdóname. Es una lástima
+que tu querido héroe
+sea un chico normalito...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No digas eso...
+<PUSH>
+Comparado con cuando
+te conocí...
+<PUSH>
+Has{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¿Cómo te lo digo?{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}{14}{E1}
+Has crecido.
+<PUSH>
+Tienes más confianza y
+orgullo. ¡Como Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, hago lo que puedo.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Lo sé...
+<PUSH>
+Quiero demostrarte
+mi agradecimiento.
+<PUSH>
+Gracias, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿He hecho algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Mi pañuelo...
+Es muy especial para mí,
+me lo regaló mi madre.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ya veo...
+<PUSH>
+¿Desde ese día tus padres
+y tú os lleváis bien?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Claro.
+<PUSH>
+Teníamos tantas diferencias
+que al final todo acabó
+estallando...
+<PUSH>
+Pero ahora somos una
+familia feliz.
+<PUSH>
+Ahora que lo pienso...
+Eso también es gracias
+a Mega Man.
+<PUSH>
+Me salvaste cuando esos
+alienígenas usaron mis
+emociones para controlarme.
+<PUSH>
+Si lo piensas, siempre
+me acaban salvando...
+<PUSH>
+Ojalá pudiera luchar a
+tu lado, como Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cuando mi padre desapareció...
+<PUSH>
+Fuiste tú la que me hiciste
+salir de casa y volver
+a la escuela.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y también me diste el valor
+para seguir luchando
+<PUSH>
+cuando perdí la confianza
+para luchar...
+<PUSH>
+Si no te hubiera conocido...
+<PUSH>
+creo que habría dejado de
+ser Mega Man hace mucho
+tiempo.
+<PUSH>
+Sí que luchas a mi lado,
+Dele.
+<PUSH>
+Mucho más de lo que crees...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+G-Geo, no sabía que
+pudieras decir cosas
+tan bonitas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Solo digo lo que siento...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Entendido!
+<PUSH>
+¡¿Entonces quieres que
+siga luchando a tu lado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, no te vayas nunca.
+<PUSH>
+Parece...
+Parece que se prepara
+una nueva lucha...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿De verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace me dijo que se avecinaba
+un gran desastre...
+<PUSH>
+Y que un día necesitaría
+mi poder y el de Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Y vas a luchar solo
+porque te ha dicho eso?
+<PUSH>
+Podría ser mentira.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Últimamente los Wizards no
+paran de enloquecer...
+<PUSH>
+Y parece que es porque
+alguien está usando los
+Naipes Ruido.
+<PUSH>
+Después de lo del cohete
+y el concierto...
+<PUSH>
+Conseguimos pararlos a
+tiempo, pero causaron
+muchos problemas.
+<PUSH>
+No sé qué es lo que
+traman, pero no puedo
+hacer oídos sordos.
+<PUSH>
+Lucharé si con ello
+consigo detenerlos.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Entiendo...
+<PUSH>
+Entonces lucharé
+contigo a mi manera.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo, somos Hermanos.
+<PUSH>
+Siempre estaremos unidos,
+por muy terribles que
+sean tus batallas.
+<PUSH>
+No lo olvides nunca...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias, Dele.
+<PUSH>
+¡Luchemos juntos!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Cuenta conmigo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

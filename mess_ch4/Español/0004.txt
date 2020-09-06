@@ -1,0 +1,705 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Sr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡¿Geo?!
+<PUSH>
+¡Y tus amigos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tenemos que hablar...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Sí... Ya he oído que
+Luna ha desaparecido...
+<PUSH>
+Os habéis metido en un
+buen lío esta vez,
+¿no, chicos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sí...
+<PUSH>
+Por eso hemos venido a
+hablar con usted, Sr. Boreal...
+<PUSH>
+Pensamos que la WAZA, o usted
+mismo, podrían ayudarnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Entiendo...
+<PUSH>
+{13}{EC}...
+<PUSH>
+Lo primero...
+<PUSH>
+Creo que tendríais que
+echarle un ojo a esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Strong?!
+<PUSH>
+¿P-Pero cómo...?!
+¡Si yo vi cómo...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+Aún no te he dicho que hago
+aquí, ¿verdad?
+<PUSH>
+La WAZA me ha pedido que
+repare el sistema
+medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿La WAZA?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Durante las tareas de reparación
+me topé con Strong...
+O con lo que quedaba de él.
+<PUSH>
+Estaba descuartizado y sus
+restos estaban esparcidos
+por todas partes.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+{13}{EC}(¡Por culpa de Joker!)
+<PUSH>
+{13}{EC}(Entonces... ¡La Dele...!)
+<PUSH>
+{12}{E2}!{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+Busqué los restos de
+sus datos sin parar.
+<PUSH>
+Y por suerte lo encontré{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+En resumen, he conseguido
+reconstruir a Strong.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Es la palabra más larga
+que he escuchado en mi vida...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+"Reconstruir" significa
+"volver a juntar".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Entonces...
+<PUSH>
+¡¿Has resucitado a Strong?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué alucine, Sr. Boreal!
+<PUSH>
+¡Es genial, ¿verdad, Strong?!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Strong{14}{E1}?{14}{E1}.{14}{E1}.{14}{E1}.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+Estoy seguro de haberle
+devuelto a su estado original.
+<PUSH>
+Pero ya no es el mismo
+de antes...
+<PUSH>
+No había datos suficientes.
+<PUSH>
+Cuando lo aniquilaron,
+seguramente destruyeran
+algunos datos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Escuchadme bien.
+<PUSH>
+Por lo que sé, a Luna y
+a Strong les destruyó
+el mismo arma.
+<PUSH>
+Siendo así, Luna podría
+estar en el mismo estado en
+el que encontré a Strong.
+<PUSH>
+{13}{EC}...
+<PUSH>
+Eso es todo lo que sé
+por ahora{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Pero Sr. Boreal!
+<PUSH>
+¡Usted ha revivido a Strong!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡S-Sí!
+<PUSH>
+¡Vuelva a juntar los
+trocitos de la Dele, porfa!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Chicos, lo siento...
+<PUSH>
+Si he podido resucitar a Strong
+es porque es un programa
+creado por humanos.
+<PUSH>
+Porque he creado mis propios
+programas para suplir
+código perdido...
+<PUSH>
+Luna es un ser humano
+de carne y hueso.
+<PUSH>
+No puedo hacer nada...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+N-No...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+N-No puede ser...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(¡Le habré oído mal!
+{13}{EC} ¡Tiene que haber alguna forma!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+Yo no puedo hacer nada,
+pero conozco a alguien
+que puede ayudaros.
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+La Dra. Goodall dirige el
+Departamento Científico
+de la Policía Satella.
+<PUSH>
+Se trata de uno de los
+científicos más brillantes
+del mundo.
+<PUSH>
+Si alguien puede ayudaros,
+será ella...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡La Dra. Goodall, de la
+Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡No hay tiempo que perder!
+¡Vamos a ver a la Dra. Goodall!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡G-Gracias, Sr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Eh, Geo.
+Ya he oído lo que ha pasado.
+<PUSH>
+Id cuanto antes al cuartel
+de la Policía Satella.
+<PUSH>
+Los altos mandos harán
+todo lo que puedan para
+encontrar a Luna.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{02}{E2}{09}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"<WAZAPasscode>"!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Es la contraseña de la
+puerta de seguridad.
+<PUSH>
+Cuando te pongas frente
+a ella, aparecerá una
+notificación para introducirla.
+<PUSH>
+Púlsala e introduce la
+contraseña en el panel
+táctil.
+<PUSH>
+Esperad aquí y vendrán
+a recogeros unos agentes.
+Nos vemos.
+<PUSH>
+{01}{E2}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Vaya, el cuartel de la
+Policía Satella...
+<PUSH>
+Supongo que estará en las
+instalaciones nacionales
+de la WAZA...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿Unos agentes de la Policía
+Satella van a venir a por
+nosotros?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí.
+<PUSH>
+Ace ha dicho que les esperemos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Sí, Sr. Boreal?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Tienes un minuto?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Quería preguntarte una cosa...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿El qué?
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+Es sobre el Ruido.
+<PUSH>
+Cuando te conviertes en
+Mega Man con el Cambio
+de onda EM seguro
+<PUSH>
+que notas los efectos
+del Ruido a tu alrededor.
+<PUSH>
+El Ruido no para de
+crecer, día tras día.
+<PUSH>
+¿No has notado nada raro?
+¿Algún problema o algo?
+<PUSH>
+Si llegara a pasarte
+algo malo, no me lo
+perdonaría.
+<PUSH>
+No podría volver a
+mirar a tus padres a
+la cara.
+<PUSH>
+Si en algún momento sientes
+que algo no va bien,
+no sigas...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡No se preocupe, Sr. Boreal!
+<PUSH>
+¡Tengo el Ruido a raya!
+<PUSH>
+¡Ace, el hombre con el que
+acabo de hablar, me dio
+un programa antiRuido!
+<PUSH>
+¡El programa más potente
+de la Policía Satella!
+<PUSH>
+¡Con él se me muestra el
+Nivel de Ruido que hay
+a mi alrededor!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+En resumen...
+<PUSH>
+¡Que con él podemos
+controlar el Ruido!
+<PUSH>
+¡Y también podemos
+conseguir datos ilegales!
+¡¿Mola o no mola?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Je, je{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Bueno, parece que no
+tengo de qué preocuparme.
+<PUSH>
+Confía en la Dra. Goodall y en
+la Policía Satella, Geo.
+<PUSH>
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}But, Geo...
+<PUSH>
+No es por asustarte, pero
+aún no sabemos muchas cosas
+sobre el Ruido...
+<PUSH>
+Hay una teoría que afirma
+que se acumula en
+los cuerpos EM.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+¡¿Que se acumula?!
+¡¿Así que cada vez van
+teniendo más Ruido dentro!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Sí.
+<PUSH>
+Puede que ese programa
+te sea de ayuda, pero...
+<PUSH>
+Puede que aparezcan
+complicaciones por tanta
+exposición al Ruido.
+<PUSH>
+Ten cuidado, por favor.
+<PUSH>
+No te pases, ¿vale?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡V-Vale!
+<PUSH>
+¡Tendré cuidado, lo prometo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Genial!
+<PUSH>
+{13}{EC}...
+<PUSH>
+Tengo una última cosa
+que decirte.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Claro, dime!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+¡Nunca pierdas la
+esperanza!
+<PUSH>
+¡Nunca te rindas!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí...
+<PUSH>
+¡Claro, Sr. Boreal!
+<PUSH>
+Le prometo que nunca
+jamás me rendiré.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Me parece genial!
+<PUSH>
+¡Esfuerzáte al máximo!
+¡Yo también haré todo
+lo que esté en mi mano!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Ya están aquí los
+de la WAZA!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale, gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Y gracias a usted,
+Sr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+No ha sido nada, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+Soy un inútil, ¿verdad, Strong?
+<PUSH>
+No he podido ayudarles.
+<PUSH>
+Ni he podido ayudarte a ti...
+<PUSH>
+Darn it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

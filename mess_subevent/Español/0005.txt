@@ -1,0 +1,259 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0A}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Estoy buscando un
+auténtico juegazo!
+¿Podrías ayudarme?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{09}{16}{0B}{00}{0C}{E1}{00}{00}{33}{16}{03}{00}{0C}{E1}{00}{00}{08}{16}{04}{00}{0C}{E1}{00}{00}{59}{16}{07}{00}{0C}{E1}{00}{00}{5A}{16}{07}{00}{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Adoro los videojuegos.
+<PUSH>
+Pero...
+<PUSH>
+Últimamente, las compañías
+se centran demasiado en los
+gráficos y el sonido.
+<PUSH>
+Y debido a eso, se olvidan
+de lo que hace realmente
+divertido a un videojuego...
+<PUSH>
+¡Es tan triste!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+)Verás, estoy buscando dos
+juegos: «{93}{E5}» y
+«{94}{E5}»...
+<PUSH>
+Pero son tan populares que
+no soy capaz de encontrarlos
+en ninguna tienda.
+<PUSH>
+Y cuanto más agotados los
+encuentro, más quiero
+jugarlos.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Si quieres, puedo buscártelos.
+<PUSH>
+
+<NEW-DIALOG>
+)¡¿De verdad lo harías?!
+¡Eres lo más!
+<PUSH>
+Ambos se agotaron enseguida
+todo y hacer cola por ellos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hora de encontrar una tienda
+en la que vendan videojuegos.
+<PUSH>
+{0A}{E1}{58}{16}{0A}{E1}{08}{16}{20}{EC}{D4}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+)Es imposible encontrarlos,
+¿no?...
+<PUSH>
+{0B}{E1}{33}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¿Eh?
+<PUSH>
+¿Ya has encontrado
+«{93}{E5}» y
+«{94}{E5}»?
+<PUSH>
+Quiero jugarlos seguidos, por
+lo que sería genial si me
+trajeras ambos.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+Oh...
+Bueno, avísame si cambias
+de opinión.
+<PUSH>
+{0B}{E1}{33}{16}{0B}{E1}{08}{16}{0B}{E1}{09}{16}{0B}{E1}{58}{16}{21}{EC}{D4}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+)¡Si me ayudas, te devolveré
+el favor! ¡Te lo prometo!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+He encontrado los juegos.
+<PUSH>
+
+<NEW-DIALOG>
+)¡Yuju!
+Ten, aquí tienes.
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{E0}{E5}»!
+<PUSH>
+¡Han aumentado tus PV
+máximos!
+<PUSH>
+{81}{E1}{C8}{32}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«13000 Zennys»!
+<PUSH>
+
+<NEW-DIALOG>
+)¡No voy a parar de jugarlos
+hasta que amanezca!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{09}{16}{82}{E1}#{FF}{FF}{82}{E1}${FF}{FF}{21}{EC}{D4}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡No voy a parar de jugarlos
+hasta que amanezca!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]

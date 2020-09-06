@@ -1,0 +1,47 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡¿Pero estás apuntando
+acaso?! ¡Tómatelo
+en serio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Es nuestra última
+oportunidad. ¡No falles!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+N-no puedo más{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Aaaaaahhhhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

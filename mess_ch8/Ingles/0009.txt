@@ -1,0 +1,99 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+You...{15}{E1} win.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue... {15}{E1}I...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Mega Man...
+<PUSH>
+Words...{15}{E1}
+Could never bring the two of
+us together.
+<PUSH>
+You are the one who is
+capable of protecting his
+bonds... {16}{E1}That's it.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Later...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I had to fight in order to
+protect my bonds...
+<PUSH>
+But...{16}{E1}
+Did I really make the right
+decision?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Don't get all glum!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+But to your credit, when
+you worry about stuff you
+<PUSH>
+do it REALLY well! And
+that's not a bad thing!
+<PUSH>
+Let's get moving once you're
+feeling OK!
+<PUSH>
+We promised that we would!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}Yeah, you're right, Mega.
+<PUSH>
+...I'm ready!
+<PUSH>
+It's time to knock Sirius
+off his high horse!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

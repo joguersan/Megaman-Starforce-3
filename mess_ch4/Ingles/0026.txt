@@ -1,0 +1,737 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh.{15}{E1} So you came?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Is everyone alright!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo...!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+I'm s{15}{E1}-sorry, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Guys...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Get back!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Who said you could move?
+<PUSH>
+I can't let you do whatever
+you please{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{22}{EC}{00}{00}{05}{00}{22}{EC}{01}{00}{06}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ungh...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ahhh...!
+G-Geo...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo!
+<PUSH>
+Stop this nonsense!
+How dare you hit a child!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Oops.
+<PUSH>
+It looks like I{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} got a little
+carried away.
+<PUSH>
+Heh, heh, heh!{15}{E1}
+Well, Geo...
+Shall we begin negotiations?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Negotiations...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What are you laughing at!?
+Go back to the opera house
+where you belong!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+I thought I told you already?
+I'm going to take everything
+that you have!
+<PUSH>
+First, I want your source
+of power.
+<PUSH>
+Why don't you hand over the
+"<AcePrgm>"!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You want the <AcePrgm>!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+That's right!!
+<PUSH>
+Who wouldn't want the ability
+to control Noise at their
+own will!?
+<PUSH>
+Since I lost the power of
+Mu...
+<PUSH>
+I need something to replace
+it with!
+<PUSH>
+And now I've found a great
+power worthy of replacing it!
+<PUSH>
+However...!
+<PUSH>
+Acquiring such an item isn't
+always so easy.
+<PUSH>
+WAZA...{15}{E1}
+And Dealer!
+<PUSH>
+They got their hands on the
+pieces before I could!
+<PUSH>
+So the easiest solution is
+to steal it from them!
+<PUSH>
+And now is my chance!!
+<PUSH>
+So give me your source of
+power!
+<PUSH>
+Give me the <AcePrgm>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ungh...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ahhh...!
+G-Geo...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo!
+<PUSH>
+Stop this nonsense!
+How dare you hit a child!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Oops.
+<PUSH>
+It looks like I{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} got a little
+carried away.
+<PUSH>
+Heh, heh, heh!{15}{E1}
+Well, Geo...
+Shall we begin negotiations?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Negotiations...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What are you laughing at!?
+Go back to the opera house
+where you belong!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+I thought I told you already?
+I'm going to take everything
+that you have...!
+<PUSH>
+First, I want your source
+of power...!
+<PUSH>
+Why don't you hand over the
+"{C2}{E6}"!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You want the {C2}{E6}!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+That's right!!
+<PUSH>
+Who wouldn't want the ability
+to control Noise at their
+own will!?
+<PUSH>
+Since I lost the power of
+Mu...
+<PUSH>
+I need something to replace
+it with!
+<PUSH>
+And now I've found a great
+power worthy of replacing it!
+<PUSH>
+However...!
+<PUSH>
+Acquiring such an item isn't
+always so easy.
+<PUSH>
+WAZA...{15}{E1}
+And Dealer!
+<PUSH>
+They got their hands on the
+pieces before I could!
+<PUSH>
+So the easiest solution is
+to steal it from them!
+<PUSH>
+And now is my chance!!
+<PUSH>
+So give me your source of
+power!
+<PUSH>
+Give me the {C2}{E6}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+For cryin' out loud!!
+You're starting to annoy me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Oh really?{16}{E1}
+Do you plan on doing
+something about it?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I have no idea what you
+mean by "great power" and
+"pieces of it", but...
+<PUSH>
+Do you think I even care!?
+<PUSH>
+And did you forget already!?
+<PUSH>
+I said you were going down
+next time!!
+<PUSH>
+And now is next time!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}What do you think, Geo?
+<PUSH>
+Are you fine with that?
+Who knows what might
+happen to the hostages...
+<PUSH>
+Heh, heh, heh!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+We...{15}{E1} We can't, Mega...!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+Grrrrrr! Are you really OK
+with just sitting back and
+taking a beating!?
+<PUSH>
+We can take him down now!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...!
+Quit it!
+<PUSH>
+Everyone is...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're always worried about
+everyone else!
+<PUSH>
+What's going to happen to
+you if you continue like this!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I-I know...
+<PUSH>
+But it doesn't matter...!
+{15}{E1}...It's not right!!
+<PUSH>
+It's not right to let them all
+get hurt because of me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh...
+<PUSH>
+Muwahahaha!!{15}{E1}
+You're such a good boy!
+<PUSH>
+Now hand it over!!
+<PUSH>
+Waste any more of my time...
+And soon you'll be saying
+au revoir to your friends!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+D-Don't!
+<PUSH>
+Just...{15}{E1} One second...
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh. Splendid!
+<PUSH>
+Absolutely splendid!
+The plot is moving along as
+smoothly as I wrote it!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Now...{15}{E1} Give it to me!
+<PUSH>
+Give me the source of your
+power!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+No!{16}{E1} You can't...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+You can't give it to him...
+You just can't!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+S-Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo...
+I'm fine, so don't worry
+about me...
+<PUSH>
+Let's get this guy together!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+W-What...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Ha... Haha...!{15}{E1}
+Atta girl, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud!!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Boooooosh!
+I'm rip roarin'! Ready to go!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Y{16}{E1}-You fools!
+<PUSH>
+Haven't I beaten the will
+out of you yet!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+It'll take more than that!
+The only thing you did was
+make us tougher!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Yeah, I've never felt more
+angry!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Huh!?
+<PUSH>
+I{14}{E1}-I think...{15}{E1}
+T{15}{E1}-That you actually
+got cuter.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+That does sound better!
+Hehe!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Guys...
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Fools...!
+Do you not understand the
+situation at the moment!?
+<PUSH>
+These two are still my
+hostages!
+<PUSH>
+Don't you care what happens
+to them, Mega Man!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+You're the one that doesn't
+understand, Dark Phantom!
+<PUSH>
+We might not get to ever
+see Prez again if we let you
+have the <AcePrgm>!
+<PUSH>
+We{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+We can't let that happen!!
+<PUSH>
+Right, Zack!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+P{14}{E1}-P{14}{E1}-Precisely!
+<PUSH>
+I'd rather be deleted than
+never see Prez again!
+<PUSH>
+He can't take away our only
+chance! Please don't let him
+take it away!
+<PUSH>
+{12}{E2}<Joker>
+{01}{00}
+<NEW-DIALOG>
+<Geo-2>
+Z-Zack...
+Guys...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo...?
+<PUSH>
+You are not the only one
+who is risking their life to
+save your friends.
+<PUSH>
+I am too.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dr. Goodall...!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Did you forget our Team's
+Purpose?
+<PUSH>
+To "Get Luna Back"...
+<PUSH>
+We are all willing to do
+whatever it takes to fulfill
+that Purpose.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heck yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+But are you willing to do
+whatever it takes, kid?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How are you going to
+acknowledge your friends'
+strength and determination?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+You fools!
+Didn't I say that...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}EM Wave Change!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+W-What...!?
+<PUSH>
+F-F-Fool!
+Don't you care about them?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Hah!?
+<PUSH>
+W-What are you...?
+This is not{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+Not in my script{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+This is not{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+NOT IN MY SCRIPT!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Shakespeare ran away into
+the Cyber Core!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We can't bring Prez back if
+something happens to the
+main computer!
+<PUSH>
+Come on, Mega!
+We have to stop Dark
+Phantom!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

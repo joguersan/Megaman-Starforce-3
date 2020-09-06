@@ -1,0 +1,201 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Pii, pii...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡...!
+<PUSH>
+¡Es la Policía Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Este es un mensaje para todos
+nuestros miembros activos.
+<PUSH>
+Los Wizards fuera de control
+han causado un gran daño a
+Electopia.
+<PUSH>
+¡Todos los Wizards fuera de
+control deben ser detenidos
+para evitar mayores daños!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Realmente está afectando a
+todo el país!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien!
+¡Cuantos más chicos malos,
+más traseros que patear!
+<PUSH>
+
+<NEW-DIALOG>
+1Hemos confirmado tres áreas
+de revuelta dentro de
+<Spica.Mall>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Tres áreas!?
+¡Vamos a ello!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Que raro...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué pasa, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Parece que has renunciado a
+quejarte siempre de que no te
+<PUSH>
+gustan las batallas y de que
+no quieres destacar!
+<PUSH>
+¿¡Finalmente te has dado
+cuenta de lo divertido que
+es luchar!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No, no es eso.
+<PUSH>
+Todavía no me gusta pelear,
+y no quiero destacar.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Entonces?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ni siquiera yo lo entiendo...
+<PUSH>
+Pero cuando veo a Ace haciendo
+lo que hace, me hace sentir
+<PUSH>
+que necesito hacerlo también.
+<PUSH>
+El puede luchar por la paz y
+la seguridad de todos.
+<PUSH>
+Y lucha para proteger a la
+gente que ama.
+<PUSH>
+¡Yo también quiero proteger
+a los que amo!
+<PUSH>
+¡Y estoy dispuesto a luchar,
+si es necesario!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+Los humanos son criaturas
+complicadas, ¿eh?
+<PUSH>
+Hay gente en este mundo que
+quieren protegerlo, pero hay
+<PUSH>
+otros que sólo quieren verlo
+arder.
+<PUSH>
+¡Me cabreo solo de pensar en
+la gente que quiere arruinar
+todo!
+<PUSH>
+¡Vamos a patearles el culo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jajaja!
+¡Nunca cambiarás, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¿¿¿...???
+<PUSH>
+S-Supongo.
+<PUSH>
+¡Para alguien que increíble
+es difícil dejar de serlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Jajaja, ¡supongo que tienes
+razón!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Está bien...
+¡Es hora de detener a esos
+Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Me apunto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

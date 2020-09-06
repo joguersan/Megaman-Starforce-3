@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright, it's time to go!
+Let's hurry and get to
+the school roof!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The rocket launch should
+be pretty sweet!
+<PUSH>
+
+[END]
+

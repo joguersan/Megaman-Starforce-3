@@ -1,0 +1,214 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Eh?
+La carretera está cortada.
+No puedo ir más allá...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Esa cosa de delante debe
+de ser la
+<PUSH>
+fuerza magnética de la
+que hablaba la Dele.
+<PUSH>
+Si pudierámos atravesarla
+podríamos continuar.
+<PUSH>
+Seguro que ese tal Coil
+puede ayudarnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, ¿pero cómo contactamos
+con él?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Perdón por haceros esperar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+¡Soy Coil, el otro
+Wizard de Woody!
+<PUSH>
+¡Déjame las cuestiones
+magnéticas a mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Yo soy Mega Man!
+¡Encantado!
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tengo que avanzar,
+pero no sé cómo...
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+¿Por qué subes a ese panel
+especial de ahí?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, ha saltado una
+notificación en el Hunter.
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+¿Por qué no pulsas
+la notificación? Word!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Anda!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Interesante.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+¡Ahora Mega Man está
+rodeado de fuerza magnética!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Ahora estás cargado con
+fuerza negativa azul.
+<PUSH>
+Así, la fuerza positiva
+roja te atraerá hacia ella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+¡En el magnetismo, los
+colores iguales se repelen
+y los opuestos contrarios se atraen!
+<PUSH>
+¡Si llegas a algún lugar
+donde no puedas pasar,
+<PUSH>
+súbete al panel especial y
+pulsa la notificación!
+<PUSH>
+¡Así cambiará la polarización
+del magnetismo! Word!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido, gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+¡Salva a mi hermano, por favor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,177 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack...
+No puedes irte y hacer
+lo que te venga en gana...
+<PUSH>
+Nuestra misión es averiguar
+el secreto tras el poder
+de Mega Man...
+<PUSH>
+No puedes llamar la atención
+peleándote con tus
+<PUSH>
+compañeros y enloqueciendo
+a Wizards...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Pero, Tia...
+Es que no puedo.
+<PUSH>
+No aguanto estas chorradas
+de investigación y
+estar con esos chicos.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Yo tampoco hago siempre
+lo que quiero...
+<PUSH>
+Tengo que pasarme el día
+con esos bufones que se
+hacen llamar profesores.
+<PUSH>
+Yo también estoy harta
+de todo esto.
+<PUSH>
+Pero tenemos que cumplir
+las órdenes del Sr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡¡Pero es muy aburrido!!
+Argh!
+<PUSH>
+¡¡Quiero cargármelo
+ahora mismo!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Tú estás igual, ¿no?
+<PUSH>
+¡¿El héroe justiciero?!
+¡Que poto!
+<PUSH>
+Podríamos ir los dos
+a por él y...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Tranquilízate...
+Aún no ha llegado
+el momento...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Por el momento
+no debemos luchar...
+<PUSH>
+Nuestro trabajo es
+cumplir las órdenes
+de Sr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Enloquecer a los Wizards
+y reunir datos de Mega Man.
+<PUSH>
+Y recoger el Carmesí que
+se crea durante el proceso.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Eso es...
+<PUSH>
+Una misión sencilla, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Mañana, Geo Stelar y sus
+amigos irán al
+<Studi.WBG>...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿<Studi.WBG>?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No pierdas de vista a 
+Geo Stelar y continúa
+con tu investigación...
+<PUSH>
+Y si vuelves a hacer
+algo como lo de hoy...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Sí, lo sé.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

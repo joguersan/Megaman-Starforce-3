@@ -1,0 +1,228 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+No...!
+<PUSH>
+No! No! No!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Once again, Belle had the
+spotlight stolen right from
+underneath her!
+<PUSH>
+This always happens when
+she works with Sonia!
+<PUSH>
+Even though Belle has
+limitless talent!
+<PUSH>
+On top of that, who does
+Mega Man think he is?
+<PUSH>
+I can't believe he showed
+up and ruined everything
+<PUSH>
+right when it was Belle's
+turn to shine!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+I hate them both!
+<PUSH>
+Sonia... Mega Man...
+<PUSH>
+I wish they both would
+just disappear...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Heh heh heh...
+<PUSH>
+...I can make that wish
+come true for you.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+W-Who is that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+I feel like I've seen you
+somewhere before...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Hmm, I doubt it.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+So, you were saying that
+you could help me out...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I overheard you just now...
+<PUSH>
+If you really want both
+Sonia Strumm and Mega
+Man out of the picture...
+<PUSH>
+I can help make that happen.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+H-How?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+With this Noise Card!
+<PUSH>
+I'll give you the title of
+"Diamond"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+W-What is this thing!?
+<PUSH>
+...Uhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h{13}{E1}h{13}{E1}h{13}{E1}h{13}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Hehehe.{13}{E1}.{13}{E1}.{13}{E1} Ahahaha.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+My body is so...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+You have been reborn...
+<PUSH>
+...Into a Wizard that holds
+the title of Diamond.
+<PUSH>
+...Into "Diamond Ice!"
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+I can feel the power
+raging within me...!
+<PUSH>
+With this body and power...
+<PUSH>
+I can remove both Sonia
+and Mega Man...
+<PUSH>
+I can remove anyone that
+gets in Belle's way!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Exactly...
+<PUSH>
+Go out and make your
+wish come true!
+<PUSH>
+You now have the power
+to flip the entertainment
+world upside down!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Hehehe...
+Ahahaha...
+<PUSH>
+Sonia Strumm...
+<PUSH>
+You are on the top of
+my list...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

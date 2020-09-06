@@ -1,0 +1,259 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+It looks just like WAZA did...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sadly there's no one around
+to update us on what's
+going on in there, this time.
+<PUSH>
+I wonder how many people
+are in there?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, a call from Mr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Wow... Are you already at
+<Studi.WBG>?
+<PUSH>
+You're pretty quick on your
+feet, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mr. Boreal, there's no one
+here to give us any insight
+on the situation.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hmm, OK.
+<PUSH>
+I will tell you everything
+we have found out about
+<Studi.WBG>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What took you so long!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Almost everyone was able
+to escape from <Studi.WBG>.
+<PUSH>
+However{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+However?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+In the panic to escape, the
+celebrity, Belle appears to
+have been left behind.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Belle!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+And then a staff member,
+Lee Stern, was swallowed
+<PUSH>
+in the Jamming while trying
+to rescue her.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Lee and Belle...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+So you know them?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Are they the only two who
+didn't get out?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+That's correct.
+<PUSH>
+Geo, would you mind going
+in to try to rescue them?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Of course!
+You can count on me!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Great to hear.
+<PUSH>
+I will also send some
+Satella Police officers
+out to support you!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Understood!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Geo!
+We'll do this the same way
+that we did at WAZA!
+<PUSH>
+I'll smash down the brittle
+areas, so that we can get
+into a Noise Wave!
+<PUSH>
+Then we'll look for them
+inside there!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sounds like a plan!
+Show that wall who's boss!!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Wizard On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Grrrrrr!!
+<PUSH>
+Time to tear this wall up!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Grr! Roooaaar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+OK! A couple of Noise Wave
+entrances, ready to go!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Thanks, Mega!!
+<PUSH>
+We're coming guys!
+Just hold on!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

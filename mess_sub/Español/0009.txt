@@ -1,0 +1,425 @@
+[SENTENCE NUMBER 1]
+ 
+[END]
+
+[SENTENCE NUMBER 2]
+ 
+[END]
+
+[SENTENCE NUMBER 3]
+ 
+[END]
+
+[SENTENCE NUMBER 4]
+El código que controla
+la Onda Real de la azotea.
+[END]
+
+[SENTENCE NUMBER 5]
+Para la mayoría de la gente
+esta carta es imposible
+de conseguir...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+El código necesario
+para abrir la puerta
+de la escuela.
+[END]
+
+[SENTENCE NUMBER 7]
+Con esto puedes entrar
+a los Estudios WBG.
+[END]
+
+[SENTENCE NUMBER 8]
+El Sr. Stern te dio esta
+clave para acceder a la
+Onda Real del escenario.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 9]
+Un permiso expedido por la
+policía Satella para viajar
+por la Onda Aérea.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Introduce el código "3745"
+en el panel táctil para
+cruzar la puerta de la NAZA.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+Un permiso expedido por la
+policía Satella para viajar
+por la Onda Aérea.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 12]
+Este código enviado por una
+fuente anónima te permite
+ir donde King...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Este código tiene impresos
+los recuerdos más preciados
+de papá.
+[END]
+
+[SENTENCE NUMBER 14]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 15]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 16]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 17]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 18]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 19]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 20]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 21]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 22]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 23]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 24]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 25]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 26]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 27]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 28]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 29]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 30]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 31]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 32]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 33]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 34]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 35]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 36]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 37]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 38]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 39]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 40]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 41]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 42]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 43]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 44]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 45]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 46]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 47]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 48]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 49]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 50]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 51]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 52]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 53]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 54]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 55]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 56]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 57]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 58]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 59]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 60]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 61]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 62]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 63]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 64]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 65]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 66]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 67]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 68]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 69]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 70]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 71]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 72]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 73]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 74]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 75]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 76]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 77]
+En esta pantalla aparece
+cuántos fragmentos de
+Luna has reunido.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 78]
+Joker dejó esta pista,
+necesaria para encontrar
+el escondite de Dealer.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 79]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 80]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 81]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 82]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 83]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 84]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 85]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 86]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 87]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 88]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 89]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 90]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 91]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 92]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 93]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+{2C}{E1}
+{3F}{FF}
+{2D}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

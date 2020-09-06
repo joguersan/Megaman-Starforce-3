@@ -1,0 +1,175 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+This guy is what's messing
+up the information board!
+<PUSH>
+Let's get him, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Right!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+{0A}{E1}Q
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI hear an EM voice.
+<PUSH>
+  "Zeta78695"
+
+<PUSH>
+That's what it's saying
+to me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{08}{E1}{00}{00}1{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Ahead on the left is the
+Satella Police Department.
+<PUSH>
+And up the elevator on the
+right is the <Centro.Comando>.
+<PUSH>
+...Of course,
+I'm talking about the
+real world.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}Q{05}{00}{0C}{E1}{01}{00}{13}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Ahead on the left is the
+Satella Police Department.
+<PUSH>
+And up the elevator on the
+right is the <Centro.Comando>.
+<PUSH>
+...Of course,
+I'm talking about the
+real world.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|A nasty virus appears to
+have slipped inside.
+<PUSH>
+Perhaps it would be a good
+idea to request Satella Police
+backup.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+|Oh, thank you for getting
+rid of that virus!
+<PUSH>
+Thanks to you, I can
+get back to work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+

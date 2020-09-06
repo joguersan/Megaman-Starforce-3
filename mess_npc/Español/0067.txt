@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vGet the timing just right and
+try to ride the magnetic
+<PUSH>
+stream coming from that
+spinning magnetic stone!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe magnetism here turns
+on and off, so wait until
+<PUSH>
+it goes off, and break on
+through to the other side!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

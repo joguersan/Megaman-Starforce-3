@@ -1,0 +1,232 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}ò{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A beach chair.
+Just imagine sitting on this
+chair, sipping on juice... Ahhh...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahh!
+That's a...!
+<PUSH>
+{80}{E1}<Dark.Phantom>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Battle Card:
+"{CA}{E7}"!
+<PUSH>
+{0A}{E1}ò
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a beach umbrella.
+They are indispensible to
+people who don't like to tan.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{09}{E1}{00}{00}{2D}{07}{31}{07}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Real Wave.
+Its appearance can be
+altered for any occasion.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}{E5}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a piece of artwork.
+It's very old and precious
+to Alohahian culture.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey!
+There's something there!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{E5}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Real Wave.
+Its appearance can be
+altered for any occasion.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+An error popped up...
+We better check out
+its Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A beach chair.
+Just imagine sitting on this
+chair, sipping on juice... Ahhh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a piece of artwork.
+It's very old and precious
+to Alohahian culture.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+This thing is pretty neat!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+But I'm neater!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

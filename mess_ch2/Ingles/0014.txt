@@ -1,0 +1,254 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So this is a Real Wave
+projector... Right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I just know it's big!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Hey.
+This thing is pretty cool,
+don't you think?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, yeah.
+It's basically a really big
+projector, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Yeah...
+<PUSH>
+It's the pride and joy of
+its creators.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What kind of Real Wave
+does it emit?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Oh, your Wizard likes this
+kind of stuff, too?
+<PUSH>
+Don't be too shocked, but
+this projector emits Sonia
+Strumm's concert stage!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Her concert stage!?
+<PUSH>
+The whole stage is going
+to be made up of Real
+Waves!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Amazing, isn't it?
+<PUSH>
+I'm just about to start
+the final tuning.
+<PUSH>
+It has to be working
+perfectly by show time!
+<PUSH>
+You can watch if you
+want to!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Awesome! That was quick!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's got some skills, huh?
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+...You don't happen to be
+Geo Stelar, are you?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm... How did you know
+my name?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sonia talks about you quite
+often.
+<PUSH>
+She's a great girl...
+<PUSH>
+She's so nice, even to
+staff members like me.
+<PUSH>
+I know that she has a
+sad history, with both of
+her parents gone...
+<PUSH>
+But she's always smiling
+and encouraging everyone
+she works with.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I have a lot of problems
+going on in my life too,
+<PUSH>
+but just seeing her so
+energetic makes me try
+my best...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+My name is Lee Stern,
+by the way.
+I'm the head of staff.
+<PUSH>
+All the staff members are
+Brothers here.
+<PUSH>
+We've formed a Team
+with the Purpose to make
+a "Successful Concert".
+<PUSH>
+Our team name is
+"SoniaBackers".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I bet that Sonia is really
+happy to have such a
+<PUSH>
+group of warm-hearted
+staff working with her!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Thanks for saying that!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+We all support Sonia the
+best we can.
+<PUSH>
+Please make sure to be
+the best friend you can
+possibly be!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I will! I promise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+By the way, shouldn't you
+be heading off to the TV
+show recording now?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, yeah.
+<PUSH>
+I should go check out the
+tree road and see if it's
+time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

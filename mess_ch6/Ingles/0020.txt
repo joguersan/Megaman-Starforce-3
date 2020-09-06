@@ -1,0 +1,399 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+What's that...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+That's a pretty impressive
+piece of equipment, eh?
+<PUSH>
+Let's check it out.
+<PUSH>
+But be careful, it doesn't
+have a good vibe to it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+A "Crimson machine"?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+It takes the huge amount of
+Noise that is released from
+<PUSH>
+Crimson, then condenses it
+and stores it in a tank.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+So all of those tanks...
+They are all full of Noise?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+That's what the data says.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+What could they possibly
+be used for?
+<PUSH>
+Ah, well I guess that's a silly
+question.
+<PUSH>
+Clearly, they're being used to
+take control of Meteor G.
+<PUSH>
+I didn't want to do anything
+out of the ordinary before
+King detected us, but...
+<PUSH>
+Let's destroy them.{15}{E1}
+It's too dangerous to leave
+them here.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+That is a fine decision, Ace.
+<PUSH>
+The power core of the
+machine is up above.
+<PUSH>
+The machine will stop
+functioning if the power core
+is destroyed.
+<PUSH>
+Please attack that area.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+You all heard Acid!
+<PUSH>
+We're destroying this Crimson
+machine!
+<PUSH>
+Everyone, to your positions!
+<PUSH>
+
+<NEW-DIALOG>
+0Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+1Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Fire!
+<PUSH>
+
+<NEW-DIALOG>
+0Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+1Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0...Huh!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0No way!
+It has a defense system!?
+<PUSH>
+
+<NEW-DIALOG>
+1Oh no!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1{13}{EC}!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+0Watch out!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ugh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Wh-What was that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+G-Guys!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+They...{15}{E1}
+They saved us!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo, Sonia!
+<PUSH>
+We've got to move them to
+a safer place!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Right!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Wake up!
+<PUSH>
+
+<NEW-DIALOG>
+0The most important thing...
+Is that you are safe...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Thanks to you guys, we are.
+<PUSH>
+You saved us all!
+<PUSH>
+Me, Sonia, and Ace!
+<PUSH>
+
+<NEW-DIALOG>
+0Thank goodness...
+<PUSH>
+You all possess a power
+that we never could...
+<PUSH>
+You three are our last
+hope...
+<PUSH>
+We're... counting... on... you...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(He lost consciousness.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I'll destroy the Crimson
+machine!
+<PUSH>
+Mega Man should have no
+trouble getting to the top
+<PUSH>
+and destroying the power
+core!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...I see.
+<PUSH>
+OK, but be careful.
+<PUSH>
+We'll take the others outside
+of the base.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Can you help me out, Sonia?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, of course.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Then let's get these people
+to safety.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's going to be pretty
+complicated, but...
+<PUSH>
+We can take the Wave Road
+to the power core!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Let's pulse in and find that
+power core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

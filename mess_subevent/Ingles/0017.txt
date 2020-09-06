@@ -1,0 +1,174 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0A}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I'm looking for a "{B2}{E7}"
+Battle Card!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{20}{16}{06}{00}{06}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You're looking for a
+Battle Card, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, there's a certain one
+that I want.
+<PUSH>
+It's called "{B2}{E7}"...
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help Sonia?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{04}{00}{11}{EC}{03}{00}{05}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Geo>
+I'll look for it if you want.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That would be awesome!
+<PUSH>
+There's nobody else I could
+ask to do this but you.
+<PUSH>
+Talk to me again after
+you find it.
+<PUSH>
+{0A}{E1}{20}{16}{20}{EC}{E0}{10}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Sonia>
+I see...
+Please let me know if you
+change your mind.
+<PUSH>
+{0B}{E1}{3F}{16}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Did you get that Battle Card
+I was looking for?
+It's called "{B2}{E7}".
+<PUSH>
+{89}{E1}r{01}{00}{07}{00}{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<NEW-DIALOG>
+<Game>
+Hand over the Battle Card
+"{B2}{E7}"?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0B}{00}{11}{EC}{03}{00}{08}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{09}{00}{11}{EC}{03}{00}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Sonia>
+I see...
+Please let me know if you
+change your mind.
+<PUSH>
+{0B}{E1}{3F}{16}{0B}{E1}{20}{16}{0B}{E1}{21}{16}{21}{EC}{E0}{10}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+<Sonia>
+Let me know if you get
+ahold of it.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Thank you, Geo!
+<PUSH>
+Maybe you can show me how
+to use it next time.
+<PUSH>
+Here, this is for helping me.
+<PUSH>
+{87}{E1}{94}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{32}{E6}{D1}{E6}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo's Link Power went
+up by 40.
+<PUSH>
+{0A}{E1}{21}{16}{80}{E1}r{FF}{FF}{21}{EC}{E0}{10}
+[END]
+

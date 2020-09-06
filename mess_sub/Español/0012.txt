@@ -1,0 +1,117 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Para entrar a este menú
+debees guardar la partida.
+¿Quieres hacerlo ahora?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Para entrar a este menú
+debees guardar la partida.
+¿Quieres hacerlo ahora?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres guardar el
+estado actual?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ups... Parece que ha
+habido un error en
+la comunicación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Se te ha cambiado a
+la carpeta extra
+<PUSH>
+porque la carpeta
+equipada va contra
+las normas de las
+<PUSH>
+carpetas. Si quieres
+equiparte ese carpeta,
+tendrás que editarla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No tienes bastante
+Poder Empático para la
+<PUSH>
+habilidad que has equipado.
+Vamos a corregirlo en la
+Pantalla de habilidades.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Los Amigos en espera ya
+registrados se han eliminado
+de la lista de espera.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

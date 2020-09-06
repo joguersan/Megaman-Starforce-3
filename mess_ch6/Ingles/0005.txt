@@ -1,0 +1,188 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Gya... Gyagya...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Nya... Nyanya...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+That's Crimson...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I wonder where that Crimson
+went to?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No clue...
+<PUSH>
+Do you want to go chase it?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That's not a bad idea!
+<PUSH>
+{15}{E1}...But, it's already too late...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, a phone call...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's the Satella Police!
+<PUSH>
+
+<NEW-DIALOG>
+0Mega Man!
+We have a situation here!
+<PUSH>
+Wizards are going out of
+control all over Electopia!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What!?
+<PUSH>
+Is Dealer behind it!?
+<PUSH>
+
+<NEW-DIALOG>
+0That hasn't been confirmed.
+<PUSH>
+However, no Noise cards
+have been located.
+<PUSH>
+It appears that an unusual
+amount of Noise could be
+the cause of the problem...
+<PUSH>
+At the moment, Satella Police
+officers are on their way
+<PUSH>
+to various locations in order
+to stop the Wizards!
+<PUSH>
+We would be grateful to have
+a member of the Commandos
+lend a hand!
+<PUSH>
+Will you please assist us?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Of course!{15}{E1}
+Where would you like me to
+go?
+<PUSH>
+
+<NEW-DIALOG>
+0We have a report that
+there is a Wizard acting
+strange at <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+<Spica.Mall>!?
+I'm on my way!
+<PUSH>
+
+<NEW-DIALOG>
+0Thank you, Mega Man!
+<PUSH>
+We're counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So Wizards are going out of
+control again, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Looks like it...
+<PUSH>
+Electopia is on the verge of
+a crisis!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's pretty crazy that so
+much of Electopia is being
+attacked all at once!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We're in charge of defending
+<Spica.Mall>!
+<PUSH>
+Let's go, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

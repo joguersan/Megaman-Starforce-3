@@ -1,0 +1,1202 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Jefe de escuadrón de
+Comandos de Policía
+Satella, Ace...
+<PUSH>
+Y los miembros especiales,
+Geo Stelar, {15}{E1}Sonia Strumm{15}{E1} y
+Bud Bison...
+<PUSH>
+Reportándose al deber.
+<PUSH>
+
+<NEW-DIALOG>
+4Descansad
+<PUSH>
+¡Gracias a todos por venir...!
+<PUSH>
+En primer lugar me gustaría
+agradecerles por ayudar a
+defender no sólo la NAZA,
+<PUSH>
+sino también a la Tierra,
+del ataque de Dealer.
+<PUSH>
+Estamos en deuda con
+vosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No tienes por qué...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Aah! ¡Qué verguenza...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Estuviste impresionante,
+Bud!
+<PUSH>
+¡Vi una parte de ti que no
+sabía que existía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿¡E-En serio...!?
+<PUSH>
+*Sonrojarse*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí! ¡Yo también estaba
+sorprendido!
+<PUSH>
+No puedo creer que
+hayas estado entrenando con
+Ace casi todos los días...
+<PUSH>
+¿Pero por qué pensaste
+que tenías que mantenerlo
+en secreto?
+<PUSH>
+¡Dele y Zack creían que
+estabas tramando algo
+sospechoso!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+B-Bueno...
+<PUSH>
+¡Verás...!
+<PUSH>
+Quería entrenar duro, para
+luego sorprenderos con
+mis increíbles habilidades
+<PUSH>
+¿¡No ha sido genial!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Por supuesto!
+<PUSH>
+¡Igual que el héroe de un
+cómic o un videojuego!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Exactamente!{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Ja, ja! ¡Diles la verdad,
+Bud!
+<PUSH>
+La verdad es que querías
+presumir.
+<PUSH>
+Pero estabas tan agotado
+cada día, que...
+<PUSH>
+pensabas que no
+parecerías tan guay.
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡Ah!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bud...
+<PUSH>
+Eso no es genial...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿¡Que!?
+<PUSH>
+P-Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jajajaja!
+<PUSH>
+
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+{15}{E1}...¡Ejem!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+P-Perdónanos...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Jejejeje. No te preocupes,
+Geo.
+<PUSH>
+Es bueno para nosotros
+escucharos  tan alegres
+después de tanta tragedia.
+<PUSH>
+¿Verdad, Jefe?
+<PUSH>
+
+<NEW-DIALOG>
+4Desde luego que si
+<PUSH>
+Por cierto, Ace...
+<PUSH>
+¿Cómo va la incorporación
+del último miembro de los
+Comandos?
+<PUSH>
+You have your work cut
+out for you with that one.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡...!
+<PUSH>
+{13}{EC}(¡¿El último miembro!?)
+<PUSH>
+{13}{EC}(Así que falta alguien más{13}{EC}
+que todavía no esta dentro
+del equipo)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Bueno... nos pusimos en
+contacto con él hace poco.
+<PUSH>
+Pero aún no nos ha dado
+una respuesta.
+<PUSH>
+
+<NEW-DIALOG>
+4Entiendo...
+<PUSH>
+Bueno, continuemos...
+<PUSH>
+Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡S-Sí señor!
+<PUSH>
+
+<NEW-DIALOG>
+4Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Señor!
+<PUSH>
+
+<NEW-DIALOG>
+4Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Sip!
+<PUSH>
+Quiero decir,{15}{E1} ¡Señor!
+<PUSH>
+
+<NEW-DIALOG>
+4Sé que Ace ya os ha
+hablado de esto, pero...
+<PUSH>
+Yo también quiero solicitar
+vuestra ayuda, en nombre
+de toda la NAZA.
+<PUSH>
+No hay duda de que sin
+vuestra ayuda, NAZA
+habría sido destruida.
+<PUSH>
+Sin embargo, sufrimos
+importantes perdidas.
+<PUSH>
+Y ahora no podemos
+operar con normalidad.
+<PUSH>
+Nuestros efectivos han
+conseguido aguantar, pero
+<PUSH>
+Si se produjera otro ataque
+por parte de Dealer...
+<PUSH>
+Por lo tanto, ¡no tenemos
+otra opción que confiar en
+vosotros tres y vuestra
+<PUSH>
+capacidad para cambiar a
+ondas EM!
+<PUSH>
+Por ello os hemos pedido
+uniros a los Comandos de
+la Policía Satella,
+<PUSH>
+como miembros especiales.
+members.
+<PUSH>
+Es fundamental contar con
+vosotros para que
+podamos seguir adelante.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Podéis contar conmigo!
+<PUSH>
+¡Estoy dispuesto a hacer
+todo lo que pueda para
+ayudar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Por gente como Dele...
+<PUSH>
+¡Y por la Srta. Tia y Jack!
+<PUSH>
+Si dejamos a Dealer
+campar a sus anchas
+mucha más gente sufrirá...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Hay que pararle los pies a
+Dealer!
+<PUSH>
+Y si puedo participar.
+¡Entonces estoy listo para
+luchar!
+<PUSH>
+
+<NEW-DIALOG>
+4No puedo asegurar
+vuestra seguridad en esta
+contienda...
+<PUSH>
+Vuestras vidas...{15}{E1} pueden
+correr peligro.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Estamos preparados para
+ello!
+<PUSH>
+Y {15}{E1} no lo estoy diciendo a la
+ligera. He pensado mucho
+sobre todo esto...
+<PUSH>
+¡Quiero luchar!
+<PUSH>
+Por todos los que
+escuchan mi música...
+<PUSH>
+¡Por este mundo que me
+ha dado la oportunidad de
+cantar
+<PUSH>
+mis canciones y tener una
+vida tan maravillosa!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Yo también pelearé!
+<PUSH>
+¡Las canciones de Sonia
+me han dado esperanza!
+<PUSH>
+¡Y quiero seguir probando
+nuevas y deliciosas
+comidas!
+<PUSH>
+
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+Omega-Xis, {15}{E1}Lyra,{15}{E1} Taurus.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Sí? ¡¡Qué quieres!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+*Suspiro*
+<PUSH>
+Omega-Xis... Al menos
+podrías intentar ser más
+respetuoso...
+a little more respectful...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus>
+¡Muuuuuuuu!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Soy mejor que esta vaca
+dopada...
+<PUSH>
+
+<NEW-DIALOG>
+4Quiero confirmarlo con
+vosotros también.
+<PUSH>
+¿Seguro que queréis
+formar parte de esto?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Nos preguntas ahora!?
+<PUSH>
+No estoy haciendo esto por
+vosotros. ¡No soporto a
+esos malnacidos de Dealer!
+<PUSH>
+¡¡Les daré una paliza con o
+sin ayuda de la NAZA!!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Sí...
+<PUSH>
+No soy del tipo que hace
+algo que no quiere...
+<PUSH>
+Así que si digo que estoy
+dentro, entonces estoy
+dentro.
+<PUSH>
+Además, ¡siempre estaré
+ahí para Sonia!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus>
+¡Muuuuuuuu!
+<PUSH>
+¡Dejemos de hablar y
+acabemos con esto!
+<PUSH>
+¡Muuuuuuuu!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+4C-Comprendo...
+<PUSH>
+¡Entendido!
+<PUSH>
+Gracias a todos.
+NAZA es mejor teniendoos
+como parte de ella.
+<PUSH>
+¡Detengamos a Dealer para
+mantener la paz de este
+gran planeta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Sí!!
+<PUSH>
+
+<NEW-DIALOG>
+4...Ace.
+<PUSH>
+Cuento contigo como el
+líder de tan importante
+equipo.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí, señor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Todos...
+<PUSH>
+Desde ahora, somos
+oficialmente un equipo.
+<PUSH>
+Nuestro nombre será...
+«CPS».
+<PUSH>
+Nuestro objetivo es...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Ace>
+¡«Machacar a Dealer»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ma{15}{E1}-Machacar...
+<PUSH>
+Suena un poco... No sé...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+S-Sí... No tiene mucho
+gancho... ¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿No podemos cambiarlo
+por algo sobre la protección de la Tierra?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Es lo mismo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Me gusta! ¡Corto y al
+grano!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡De acuerdo!
+<PUSH>
+¿Ves, Acid? ¡A todo el
+mundo le gusta!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+A todos{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Umm... Los unicos del
+equipo a los que le agrada
+sois vosotros dos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Parece que a Acid
+tampoco{13}{EC} le gusta el
+nombre...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+¿No es bueno?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+*Suspiro*
+Bien,{15}{E1} ¡Entonces
+probemos con otro!
+<PUSH>
+Qué os parece... «Frustrar
+el plan de Dealer»?
+<PUSH>
+¿Mejor?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Guau! ¡Suena genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ese tiene más gancho!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿En serio? pienso que
+suena mejor «machacar».
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Estoy con el!
+<PUSH>
+¿Ves Acid como tenía
+razón?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{15}{E1}*suspiro* De todos modos,
+nuestro proposito ha sido
+decidido.
+<PUSH>
+Ace, ¿porque no formamos
+todos una Banda
+Hermano?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Umm...
+<PUSH>
+Por supuesto.
+<PUSH>
+¡Seamos todos hermanos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+F{15}{E1}-¿¡Formar una Banda
+Hermano con Ace...!?
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡S{15}{E1}-S{15}{E1}-Será un placer...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Por qué narices estas tan
+nervioso de repente?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Esto es increíble! ¡Gracias,
+Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sí, ¡gracias Ace! ¡y, a ti
+tambien, Acid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{6E}{E1}{00}{00}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Geo y Ace formaron una
+Banda Hermano!
+<PUSH>
+¡El Poder Empático de Geo
+aumenta en 100 puntos!
+<PUSH>
+
+<END-DIALOG>
+{04}{E2}{06}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El equipo y objetivo de Geo
+ha cambiado!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Está bien... Por ahora,
+permaneced atentos.
+<PUSH>
+Los miembros de Dealer
+podrían actuar en cualquier
+momento.
+<PUSH>
+Cuando suceda,
+responderemos.
+<PUSH>
+Por ahora, es lo único que
+podemos hacer.
+<PUSH>
+Se lo irritante que es el
+hecho de solo poder
+esperar, pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No hay nada mas que
+podamos hacer dada la
+situación.
+<PUSH>
+Tenemos que ser muy cuidadosos...
+<PUSH>
+Tambien tenemos que
+encargarnos de otro
+asunto.
+<PUSH>
+Dealer no es nuestro unico
+problema.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Qué!?
+<PUSH>
+¿¡Qu{15}{E1}-que quieres decir!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿No crees que es grosero
+ocultarles secretos, Ace?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Umm, no es realmente
+necesario el que ellos lo
+sepan....
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Lo descubrirán tarde o
+temprano!
+<PUSH>
+Los niños saben que hay
+un problema cuando los
+adultos están nerviosos.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+W-What is it, Ace!?
+Don't hold back!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, Ace!
+<PUSH>
+Debemos saber todo para
+realizar nuestro trabajo de
+la mejor manera posible.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Supongo que no puedo
+evitar decíroslo.
+<PUSH>
+Bueno.... El mundo podría
+ser destruido.
+<PUSH>
+Ya lo he dicho... ¿ves?
+No es gran cosa
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿E-El mundo entero?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¿¡D-D-D-Destruido!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh, Ace.
+No seas exagerado.
+<PUSH>
+Eso es en el peor de los
+casos.
+<PUSH>
+Recientemente, hemos
+encontrado nuevos datos
+sobre el meteorito G.
+<PUSH>
+De hecho, fue Aaron quien
+adquirió los datos... Estoy
+tan orgullosa de ese chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Te refieres al Sr. Boreal?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Correcto, Geo.
+<PUSH>
+Aaron está aquí en  la NAZA,
+ayudándonos a investigar
+no sólo el Ruido,
+<PUSH>
+sino también a Crimson y al
+meteorito G.
+<PUSH>
+Y más rápido de lo que Bud
+podría comer una tarta de
+manzana, hizo un gran descubrimiento.
+<PUSH>
+¡Ha descubierto que el
+meteorito G es en realidad un
+gigantesco cúmulo de ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+!!
+<PUSH>
+Un asteroide...
+<PUSH>
+That's completely made of
+Noise!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Eso es lo que nos indican
+los datos.
+<PUSH>
+Es una inmensa acumulación
+de ruido.
+<PUSH>
+Es posible que las Ondas EM
+que se propagan a través del
+espacio se reunan en un mismo
+<PUSH>
+lugar, creando así Ruido, y
+finalmente el meteorito G.
+<PUSH>
+Además, está siendo atraido
+por the Crimson that
+has collected on the Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡El meteorito G está siendo
+atraido!?
+<PUSH>
+D-De ninguna manera...{15}{E1}
+Si la Tierra fuese destruida...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿¡Que quieres decir!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Verás...
+<PUSH>
+¿¡Y si el meteorito G
+colisionara con la Tierra!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Exacto.{15}{E1} Esa es el peor
+escenario posible.
+<PUSH>
+El impacto provocaría que la
+tierra fuese partida en dos...
+<PUSH>
+Y la gran concentración de
+ruido se esparciría haciendo
+<PUSH>
+inutil cualquier tecnología
+basada en Ondas EM.
+<PUSH>
+Por lo tanto, nuestra sociedad
+que esta cimentada sobre la
+tecnología EM colapsaría....
+<PUSH>
+Hemos confiado durante tanto
+tiempo en la tecnología EM ,
+que temo que los humanos
+<PUSH>
+pierdan la esperanza en el
+futuro y se peleen entre sí
+debido a la confusión y rabia.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Ves? Te lo dije.
+<PUSH>
+¡Hubiese sido mejor que no
+lo hubieseis sabido!
+<PUSH>
+Bueno...
+<PUSH>
+Como ha dicho Doc, el planeta
+siendo destruido es el peor
+escenario posible.
+<PUSH>
+Pero la NAZA seguramente
+tendrá algún plan.
+<PUSH>
+¡Para eso está la NAZA!
+<PUSH>
+Así que tenemos que hacer
+todo lo que esté en nuestra
+mano para ayudar.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+S-Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Creo que deberíamos dejarlo
+aquí por hoy...
+<PUSH>
+
+<NEW-DIALOG>
+0A{15}{E1}-Ace..
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡...!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Perdóname...
+<PUSH>
+Me metí en algunos problemas
+mientras lo reclutaba...
+<PUSH>
+¡...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Tómatelo con calma!
+<PUSH>
+
+<NEW-DIALOG>
+0E-Estoy bien.
+<PUSH>
+Jajaja...{15}{E1}
+Me ha dado una buena
+paliza...
+<PUSH>
+Dijo que no tiene nada que
+ver con debiluchos....
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¡Pero no podemos rendirnos!
+<PUSH>
+Tenemos que tenerlo de
+nuestro lado
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Has hecho lo que has podido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm, Ace...
+<PUSH>
+¿Quien es el ultimo miembro
+que mencionaste?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Está ocurriendo algo en
+<Echo.Ridge>!
+<PUSH>
+Han aparecido algunos Virus.
+El sitio de infección es...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}What?
+<PUSH>
+N-No puede ser...{15}{E1}
+¿¡El Mundo Real!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Oh Dios!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Cómo puede un virus
+aparecer en el Mundo Real!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Han dicho <Echo.Ridge>,
+¿cierto?
+<PUSH>
+¡¡Tenemos que hacer algo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Chicos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Parece que tenemos nuestra
+primera misión.
+<PUSH>
+¡Debemos ir a <Echo.Ridge>
+lo antes posible y eliminar
+esos Virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡A la orden!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Eso está hecho!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Algo muy raro debe estar
+ocurriendo para que aparezcan
+<PUSH>
+Virus en el Mundo Real.
+<PUSH>
+¡Tened cuidado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+[END]

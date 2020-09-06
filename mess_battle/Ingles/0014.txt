@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cygnus Noise
+<PUSH>
+Equips AirShoes, FlotShoe
+<PUSH>
+Non-elemental card
+attacks +10
+<PUSH>
+Non-dimming wind attack
+card attacks +30
+<PUSH>
+Charged attack:
+"Feather Vulcan",
+ignites rear panels
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cygnus Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C5}{10}
+[END]
+

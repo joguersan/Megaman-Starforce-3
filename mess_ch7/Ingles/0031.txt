@@ -1,0 +1,224 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Thanks for coming, Geo.
+Everything is ready to go.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Behind me is the
+Dynamic Station{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+From here you can trans
+into Woody's rocket.
+<PUSH>
+
+<NEW-DIALOG>
+4How is the rocket doing,
+Woody?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Everything is A-OK!
+<PUSH>
+It is very close to Meteor
+G at the moment, but I am
+reading all systems nominal.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Wonderful. Just as expected.
+<PUSH>
+
+<NEW-DIALOG>
+4How is the Real Wave, Lee?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Excellent.
+<PUSH>
+I've set it to automatically
+protect Mega Man as he is
+<PUSH>
+transing in from Dynamic
+Station to the rocket.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Meteor G is steadily gaining
+speed as we speak.
+<PUSH>
+Kelvin might be{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Reaching his limit...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yes?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+The fate of the world is in
+your hands.
+<PUSH>
+We are all counting on you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Don't worry{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Meteor G doesn't have a
+chance against me and Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+After you stop it{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+I want you home, right away.
+Got it, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Got it, Mom...
+<PUSH>
+And I'll bring Dad back with
+me.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+This stinks...
+<PUSH>
+Even though we fought this
+far as the Commandos, now
+<PUSH>
+Geo has to take the burden
+of completing the mission
+all by himself.
+<PUSH>
+I wish that I could have the
+power to resist Noise like he
+does...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Me too...
+<PUSH>
+I've worked so hard to learn
+to fight. And now I have to
+sit out in the final round, 
+<PUSH>
+knowing that I can't help
+Geo...
+<PUSH>
+I'm sorry, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Don't be sorry, guys...
+<PUSH>
+I'm so proud to have had
+the two of you by my side
+this whole time.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You took on the FM-ians...
+And Lady Vega...
+<PUSH>
+You've used the power of
+bonds to create miracles,
+<PUSH>
+turning hopeless days into
+times of celebration...
+<PUSH>
+So I'm not worried at all!
+<PUSH>
+I know you will save the
+day and make it back safe!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+We are your Brothers{13}{E1}{13}{E1}.{13}{E1}.{13}{E1}.
+We're always by your side.
+<PUSH>
+It doesn't matter whether
+you're in space or in Meteor
+G, wherever...
+<PUSH>
+No matter what happens{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No matter how far away{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+We will all be right by your
+side.
+<PUSH>
+Don't ever forget that!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, guys...
+<PUSH>
+I know I can do this.
+<PUSH>
+With all of you guys...
+And Ace too...
+<PUSH>
+I have so many great
+friends supporting me.
+<PUSH>
+No matter what happens, 
+all your strength will see me
+through it.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+When you are ready, Geo...
+<PUSH>
+Trans into Dynamic Station
+over here.
+<PUSH>
+And Geo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Earth{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} and Kelvin{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Are counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

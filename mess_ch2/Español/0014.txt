@@ -1,0 +1,252 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Esto es un proyector
+de Ondas Reales?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Pues sí que es grande!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Eh.
+Bastante impresionante,
+¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, sí.
+Básicamente, es un
+proyector grande, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sí...
+<PUSH>
+Es la joya de la
+corona del estudio.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué clase de Ondas Reales
+emite?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Parece que a tu Wizard
+le gustan estos temas.
+<PUSH>
+Agarraos... ¡Este proyector
+emite todo el escenario del
+concierto de Sonia Strumm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Todo el escenario?!
+<PUSH>
+¡¿El escenario estará
+hecho solo de
+Ondas Reales?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Es una pasada, ¿verdad?
+<PUSH>
+Voy a hacerle unos
+últimos retoques.
+<PUSH>
+¡Tiene que estar a
+punto para el espectáculo!
+<PUSH>
+¡Podéis mirar si queréis!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Alucinante! ¡Qué rápido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No se le da nada mal.
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Tú no serás Geo Stelar, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eh... ¿Cómo sabes mi nombre?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sonia no para de hablar
+de ti.
+<PUSH>
+Es una buena chica...
+<PUSH>
+Es amable con todo el
+mundo, hasta con los
+de personal, como yo.
+<PUSH>
+Conozco su historia.
+Perdió a sus padres
+y todo eso...
+<PUSH>
+Pero siempre tiene
+una sonrisa en la cara
+y nos anima a todos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Yo también tengo mis
+problemas, no te creas,
+<PUSH>
+pero verla con tanta
+energía me hace trabajar
+con más ganas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Por cierto, me llamo
+Lee Stern.
+Soy el jefe del personal.
+<PUSH>
+Todos los miembros del
+personal somos Hermanos.
+<PUSH>
+Tenemos un Equipo y nuestro
+Propósito es hacer un
+concierto inolvidable.
+<PUSH>
+El nombre de nuestro
+Equipo es:
+"Los Soniamaníacos".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Seguro que Sonia está
+muy contenta por tener
+<PUSH>
+a un equipo tan
+cariñoso a su lado!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Muchas gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Todos nosotros apoyamos
+a Sonia lo mejor que
+podemos.
+<PUSH>
+¡Tú debes ser el mejor
+amigo posible!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí! ¡Prometido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Por cierto, ¿no es
+casi la hora de que
+empiece la grabación?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, sí.
+<PUSH>
+Voy a ir a la arboleda,
+a ver si ya empieza.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

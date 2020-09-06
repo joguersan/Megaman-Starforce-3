@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Something doesn't feel
+right...
+<PUSH>
+But let's bust in there with
+guns blazing, anyway!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

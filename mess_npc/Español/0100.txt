@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t<Echo.Ridge>, <Echo.Ridge>.
+La siguiente parada... Mmm...
+¿Cuál Es la siguiente parada?
+<PUSH>
+E-<Echo.Ridge>, <Echo.Ridge>.
+Por favor, no os olvidéis
+nada dentro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

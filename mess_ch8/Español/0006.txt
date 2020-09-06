@@ -1,0 +1,176 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+¿C-Cómo he podido perder
+por segunda vez?
+<PUSH>
+¿Es el universo diciéndome
+que Sirio debe gobernar
+y no yo?
+<PUSH>
+No puede ser...{14}{E1}
+¡Pero así ha sido!
+<PUSH>
+¡¡Muajajaja!!
+<PUSH>
+¡En ese caso...!
+¡Puedes pasar!
+<PUSH>
+Siri...{14}{E1}o te recibirá... {14}{E1} en...
+<PUSH>
+las... profundidades insoldables
+de su... {14}{E1}¡agujero negro!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Aaaaaarrrgh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Hemos... ganado.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por los pelos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No es por echarle flores,
+pero era muy fuerte.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, no creo que haya
+nadie más fuerte que él.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Puede ser...
+<PUSH>
+Pero por culpa de su orgullo,
+se convirtió en un peón
+difícil de controlar.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Quién ha dicho eso?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Sirio?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ja, ja, ja...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Muéstrate!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ja, ja, ja...
+<PUSH>
+Antes de eso... Mega Man,
+permite que te felicite.
+<PUSH>
+Cuando encontré tus datos
+en el Meteorito G me
+pregunté cómo serías.
+<PUSH>
+Parece que su análisis
+sobre tus capacidades
+era acertado.
+<PUSH>
+Sin embargo...
+Los retos que te aguardan
+te pondrán al límite.
+<PUSH>
+Si consigues llegar hasta mí...
+<PUSH>
+me dejarás impresionado.
+<PUSH>
+Y estaría más que encantado
+de añadirte a mi colección.
+<PUSH>
+Pero, por ahora, adieu.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Espera!
+¡He dicho que te muestres!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No te molestes, chaval.
+Ya se ha ido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Seguro que era Sirius...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es posible.
+<PUSH>
+Hablaba como si mirara
+a todo el mundo por
+encima del hombro...
+<PUSH>
+¡No aguanto esas cosas!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Cómo será alguien que
+habla así de Apollo Flame?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

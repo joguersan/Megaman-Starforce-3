@@ -1,0 +1,109 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, me llaman...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Qué pasa, Sonia?!
+¡¿Cómo va el concierto?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Están modificando los
+ajustes del escenario...
+<PUSH>
+Pero Lee me ha contado
+lo que has hecho.
+<PUSH>
+Siento mucho que te hayas
+puesto en peligro para
+salvarme...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No te disculpes.
+<PUSH>
+Lo he dicho antes y lo
+digo ahora. Para eso
+están los amigos.
+<PUSH>
+No te preocupes y vuelve
+al concierto. ¡Hazlos
+felices como tú sabes!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Vale! ¡Confía en mí!
+<PUSH>
+¡Voy a animarlos tanto
+que se olvidarán por
+completo del frío!
+<PUSH>
+¡Más te vale volver sin
+un rasguño, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Más adelante detecto
+Ruido potente.
+<PUSH>
+Parece el mismo que
+cuando Magnes enloqueció.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Entonces será...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí. Otro Wizard
+enloquecido...
+<PUSH>
+Seguramente sea Ice.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos, Mega!
+<PUSH>
+¡No pienso permitir que
+fastidies más el
+concierto de Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

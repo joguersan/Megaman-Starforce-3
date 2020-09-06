@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wolf Noise
+Equips Quick Gauge
+<PUSH>
+Non-dimming
+sword attacks +30
+<PUSH>
+Wood Elemental card attacks
++10 and auto lock-on
+<PUSH>
+Charged attack:
+"Shock Claw", a 3 panel wide
+attack on the front 2 rows
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wolf Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C9}{10}
+[END]
+

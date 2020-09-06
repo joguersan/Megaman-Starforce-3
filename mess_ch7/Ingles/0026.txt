@@ -1,0 +1,397 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack!!
+Ms. Tia!!
+<PUSH>
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<NEW-DIALOG>
+<Jack.Corvus>
+So you came, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+You're too late though...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+The overwriting of the
+program just completed.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Meteor G is now free from
+King's control.
+<PUSH>
+And its course for Earth
+has been set.
+<PUSH>
+It can't be stopped now.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-No!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you guys crazy!?
+You have to stop that thing!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+80% of humanity will perish
+if Meteor G hits the planet!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+We know that.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Our resolve will not be
+shaken, no matter the cost.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+This is necessary for our
+"wish" to come true...
+<PUSH>
+And there is nothing that
+can change our minds.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Is that really true, Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Of course.
+<PUSH>
+We put up with being treated
+like slaves by King, for so
+long, for this very moment!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What is this "wish" of yours?
+<PUSH>
+Why does it require Meteor
+G to crash into Earth?
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Queen.Virgo>
+To remake the world{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Remake?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+To start completely anew...
+<PUSH>
+The world has grown foul
+and corrupted by technology.
+<PUSH>
+Technology stole everything
+from us. So we will wipe it
+out completely.
+<PUSH>
+Thus allowing the world to
+be reborn, pure and good.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I see you two feel strongly
+about this.
+<PUSH>
+What actually happened to
+you?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+.{14}{E1}.{14}{E1}.{14}{E1}If you really want to know,
+then shut up and listen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...Fast-paced advancements
+in EM technology drastically
+improved people's way of life.
+<PUSH>
+The world itself also began
+to change as more and more
+<PUSH>
+EM technology was included
+into everyday life.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Jack and I...
+<PUSH>
+Were born in a small country
+that was prospering thanks
+to its own EM technologies.
+<PUSH>
+Our father was the king of
+that country.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Eventually, the countries
+that surrounded ours grew
+<PUSH>
+more and more interested in
+the EM technologies that our
+country was developing.
+<PUSH>
+Then before long{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+They invaded.
+<PUSH>
+Even though we were
+developing EM technologies,
+we were still a small country.
+<PUSH>
+We couldn't hold them off.
+And all the secrets to our
+EM technologies were taken.
+<PUSH>
+Our country was left in
+shambles. No technology,
+no infrastructure, no hope.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+We lost our parents during
+the struggle, leaving us to
+<PUSH>
+wander aimlessly as small
+and defenseless children...
+<PUSH>
+Every day was a nightmare...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+And then, we met King...
+<PUSH>
+You know the rest.
+<PUSH>
+He was attempting to gain
+control of Meteor G, which
+<PUSH>
+has the ability to corrupt
+EM technology.
+<PUSH>
+So we faked our loyalty, and
+waited earnestly for the
+chance to steal Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+And finally our chance has
+come...
+<PUSH>
+Our wish is finally coming
+true!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Technology, in general, has
+made human beings suffer
+more than it ever helped{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+It has caused and sustained
+so many wars{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+That's why we will give this
+world a new beginning...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+We are leaving to join
+Meteor G for its descent.
+<PUSH>
+We will be its heralds as it
+brings judgment down upon
+the world.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I can't let you do that!
+<PUSH>
+You two and Meteor G must
+be stopped!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+You can't stop us.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Spade Magnes!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's not the real one!!
+They've just made that from
+a bunch of data!!
+<PUSH>
+Let's take him out, kid!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Farewell{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack!!
+Ms. Tia!!
+<PUSH>
+{10}{E2}{5E}{04}
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Crud!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

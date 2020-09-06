@@ -1,0 +1,130 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0A}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Busco contrincantes para
+jugar al escondite!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{10}{E2}{1C}{02}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Argh, tío, se acabó el
+tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Yuju! ¡He ganado!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No me puedo creer que
+hayamos perdido.
+Qué humillante...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Volvamos a desafiarle.
+<PUSH>
+
+<END-DIALOG>
+{0B}{E1}{37}{16}{0B}{E1}{10}{16}{0B}{E1}{11}{16}{0B}{E1}{75}{16}{0B}{E1}{76}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{37}{16}{03}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Soy un maestro del escondite.
+<PUSH>
+¡No me ha ganado nadie
+en la vida!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(... ¿En serio?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Bajo qué reglas juegas?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Bajo unas muy simples.
+<PUSH>
+¡Ganas si me encuentras en
+menos de un minuto!
+<PUSH>
+Si lo logras, también te daré
+un premio.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Aceptar su desafío?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Candy.Bar>
+Me esconderé en algún lugar
+de <Echo.Ridge>.
+<PUSH>
+No me esconderé dentro de
+ningún edificio ni en otras
+zonas.
+<PUSH>
+¿Listo?
+<PUSH>
+{0A}{E1}{75}{16}{0A}{E1}{10}{16}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Candy.Bar>
+¿Te has acobardado?
+<PUSH>
+{0B}{E1}{37}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+{1A}{EC}<
+{10}{E2}{1C}{02}
+[END]

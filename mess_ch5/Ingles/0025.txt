@@ -1,0 +1,98 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+*huff{15}{E1}, huff*
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Y-You're probably right...
+<PUSH>
+That Jack won't listen to
+what I say...
+<PUSH>
+But...!
+<PUSH>
+But I refuse to...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...Hmph.
+I've changed my mind.
+<PUSH>
+I think he will listen to you...
+<PUSH>
+...And then you'll become
+close friends...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+But one day, he will turn on
+you, and you will regret
+everything...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid! There's no time for
+this mushy stuff!
+<PUSH>
+That Wolf guy is keeping
+Jack distracted for us!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Oh yeah!
+We've got to get to the
+roof!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

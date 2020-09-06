@@ -1,0 +1,73 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ha resurgido un
+recuerdo de Kelvin{16}{E1}.{16}{E1}.{16}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}¿Dónde estoy?
+<PUSH>
+Ya veo.
+<PUSH>
+Me las arreglé para escapar
+de la estación espacial...
+<PUSH>
+Y, por suerte, Omega-Xis
+pudo convertirme en
+un ser EM.
+<PUSH>
+Seguro que esta barrera
+también es cosa suya.
+<PUSH>
+Le debo una bien gorda.
+<PUSH>
+Con su ayuda puede que
+consiga llegar a casa.
+<PUSH>
+Ahora estoy a la
+deriva por el espacio...
+<PUSH>
+Pero{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Geo, Hope...
+<PUSH>
+Volveré a casa...
+Os lo prometo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Geo...
+Eres un chico muy fuerte.
+<PUSH>
+Tú puedes con todo.
+<PUSH>
+Cuida de tu madre
+por mí... Hope...
+<PUSH>
+¡¡No me rendiré!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,222 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Geo!!
+There's a call from Boreal!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+From Mr. Boreal!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, can you hear me?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mr. Boreal!
+Mr. Boreal!!
+<PUSH>
+Are you OK!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Somehow, yes.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thank goodness!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+How is everyone else?
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mr. Boreal...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+.{15}{E1}.{15}{E1}.{15}{E1}I don't know how to say
+this... But...
+<PUSH>
+Dr. Goodall was swallowed up
+by the Jamming...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Dr. Goodall!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We got away unhurt only
+because we followed her
+orders to leave.
+<PUSH>
+But she told us that she
+had something that she
+must do. So she stayed...
+<PUSH>
+And that's when{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+I just hope...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I'm coming to WAZA to help!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I would appreciate that.
+We're still in the middle of
+evacuating, so I could use
+<PUSH>
+a Commando like you to help
+search over here.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+If you need Commandos, then
+I'm your man!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Me too!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Actually, could I have you
+two stay back?
+<PUSH>
+We don't know where Dealer
+will attack next, so I'd like
+to have people everywhere.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ah... I understand.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Good point...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Well, that's that then.
+<PUSH>
+Geo, it's going to be sticky,
+but I'm counting on you to
+help the search over here!
+<PUSH>
+I've prepared a special Wave
+Liner that goes straight to
+WAZA.
+<PUSH>
+Please move out ASAP!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Understood!
+<PUSH>
+I'll find Dr. Goodall! I promise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Sweet!!
+I'm all fired up again!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hmm, why doesn't everyone
+else come over to my house
+for now?
+<PUSH>
+We'll do what we can from
+there!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sounds good!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+

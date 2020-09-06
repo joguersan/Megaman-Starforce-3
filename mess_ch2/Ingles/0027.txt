@@ -1,0 +1,108 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Arrrrrrgh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+How...
+How could I lose with all
+that power...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's another Noise Card...
+<PUSH>
+Who could be doing this...?
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}Ugh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What's wrong, kid!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+My body... went numb...!
+What's happening to me...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Maybe it's the Noise!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's... become... Crimson...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So the Noise that Ice
+emitted from going out of
+control crystallized, huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's flying away!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like something is
+sucking it up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

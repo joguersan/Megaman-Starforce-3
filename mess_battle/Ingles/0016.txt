@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Virgo Noise
+<PUSH>
+Non-dimming, Aqua Elemental
+card attacks +30
+<PUSH>
+Nullify effects of freezing
+or bubbling
+<PUSH>
+Charged attack:
+"Aqua Wave", washes
+over the entire row
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Virgo Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C7}{10}
+[END]
+

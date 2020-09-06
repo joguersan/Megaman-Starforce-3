@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+0How are you doing out
+there, Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I've just completed my
+assignment!
+<PUSH>
+
+<NEW-DIALOG>
+0Wonderful!
+<PUSH>
+Please come to Satella Police
+HQ immediately!
+<PUSH>
+We have something we must
+tell you in person.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Understood!
+<PUSH>
+
+<NEW-DIALOG>
+0Great.
+<PUSH>
+Ending transmission!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

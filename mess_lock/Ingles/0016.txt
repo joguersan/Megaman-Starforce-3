@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I don't think we can go in
+there...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

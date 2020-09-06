@@ -1,0 +1,797 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Sr. King, nos ha llegado
+nueva información.
+<PUSH>
+Los líderes mundiales
+están debatiendo si deben
+<PUSH>
+rendirse ante Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Menudos idiotas...
+<PUSH>
+Aún no comprenden que
+mientras controle el
+Meteorito G,
+<PUSH>
+no tienen ninguna
+posibilidad de derrotarme.
+<PUSH>
+Que debatan lo que quieran.
+<PUSH>
+No podrán derrotarme
+de ninguna forma.
+<PUSH>
+¡Y cuando al fin se den
+cuenta de ello,
+<PUSH>
+me suplicarán perdón
+de rodillas!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Será como dice, Sr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Por cierto...
+<PUSH>
+¿Has averiguado algo sobre
+la persona que interfiere
+<PUSH>
+en mi control del
+Meteorito G?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Por desgracia...
+Aún no he conseguido
+nueva información...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¿Cómo puedes ser tan lenta?!
+<PUSH>
+¡Cuando ordeno algo,
+debe hacerse de inmediato!
+<PUSH>
+¡Te doy hasta mañana!
+¡¡Hazlo, o atente a
+las consecuencias!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Perdóneme, señor...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Parece que el esfuerzo de
+controlar el Meteorito G
+te ha vuelto irritable...
+<PUSH>
+Sr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}¡!
+<PUSH>
+¿Quién es{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Queen Tia! ¡Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¿Cómo habéis llegado
+hasta aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+No deberías habernos
+tomado a la ligera...
+<PUSH>
+Cualquiera con dos
+neuronas podría escapar
+<PUSH>
+de la Policía Satella
+y entrar aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Conque sois vosotros los
+que interferís con mi
+control del Meteorito G!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1} ¿?
+<PUSH>
+No tengo ni idea
+de qué me hablas.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Tia y yo llevamos mucho
+tiempo esperando este
+momento...
+<PUSH>
+¡Con Joker fuera de escena
+y tú controlando el
+Meteorito G!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Nuestro deseo se hará
+realidad por fin...
+<PUSH>
+¡¡King!!
+<PUSH>
+¡Vamos a quedarnos con
+Dealer y el Meteorito G!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Jo, jo...
+<PUSH>
+Queréis quitarme todo
+lo que tengo, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Ya ves, capullo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Niño, estás loco...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¿Quién os crió cuando
+perdisteis vuestro hogar
+y a vuestros padres?
+<PUSH>
+Fui yo, ¿no?
+<PUSH>
+No puedo creer que mis
+propios hijos me apuñalen
+por la espalda de esta forma.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡Ahórrate el discursito
+de padre amantísimo,
+por favor!
+<PUSH>
+Sí, creaste la
+«Fundación King» para
+recoger huérfanos de
+<PUSH>
+todo el mundo y criarlos...
+<PUSH>
+Pero la fundación no era
+más que una tapadera para
+tus verdaderos planes.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Recogiste a todos esos
+niños por otra razón
+muy distinta.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Cogiste a los niños más
+prometedores y los
+hiciste tus subordinados.
+<PUSH>
+Así podrían cometer tus
+crímenes por ti.
+<PUSH>
+Tia y yo solo éramos
+dos de esos niños.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Queen.Virgo>
+Sin embargo...
+Con el tiempo, enviaste
+a esos niños a situaciones
+<PUSH>
+extremadamente peligrosas.
+<PUSH>
+¡¡Y, salvo nosotros,
+ninguno volvió jamás!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¡Jamás se les pasó por
+la cabeza que solo
+estabas usándoles!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Si vivieron lo suficiente
+como para poder servirme
+fue gracias a mí.
+<PUSH>
+¡Deberían haberme dado
+las gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¡Cierra el pico!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Vas a pagar...
+<PUSH>
+¡¡Aquí y ahora por lo
+que nos hiciste a nosotros
+y a los demás niños!!
+<PUSH>
+¡¡King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¡Acabaremos contigo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Necios...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡Nos hemos expulsionado!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Q-Qué está pasando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¡Es como un Ruido especial!!
+¡¡Está cancelando el
+Cambio de Onda EM!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡Argh!
+¡¡No puede ser!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Estas instalaciones
+están bajo mi control.
+<PUSH>
+Es decir, aquí todo toma
+la forma que yo deseo.
+<PUSH>
+Ha llegado el momento...
+<PUSH>
+de que castigue a estos
+dos chicos malos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡¡Ungh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Jo, jo, jo, jo!!
+<PUSH>
+¡¡Niños, si jugáis con fuego
+os acabáis quemando!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ahora{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¡¡no{14}{E1}.{14}{E1}.{14}{E1}.!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¡Tia{14}{E1}.{14}{E1}.{14}{E1}.!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡No sois más que unos críos
+estúpidos! ¡¡Jo, jo, jo, jo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡Nooo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Q-Qué...?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+.{14}{E1}.{14}{E1}.{14}{E1} Ha{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} desaparecido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¿Qué pasa aquí?!
+<PUSH>
+¡Heartless, explícate!
+<PUSH>
+¡¡Heartless!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+He sido yo quien ha
+detenido el ataque.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¿Por qué lo has hecho?!
+<PUSH>
+¡¡No te lo he ordenado!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Heartless!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1} Je.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}... ¡¡!!
+<PUSH>
+H-Heartless{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+N{15}{E1}-N{15}{E1}-N{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡¡Noooo!!
+<PUSH>
+¡¿Eras tú?!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Muajajaja...
+<PUSH>
+Pensabas que yo era la única
+persona en la que podías
+confiar, ¿no es así?
+<PUSH>
+Sr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿P-Pero qué...?!
+<PUSH>
+{12}{E2}{07}{00}{00}{00}
+<NEW-DIALOG>
+<Heartless>
+Joker fue el último
+subordinado leal a ti.
+<PUSH>
+La verdad es que era tu
+Wizard solo para cumplir
+su propio Propósito...
+<PUSH>
+Desde el principio has
+estado rodeado de
+traidores.
+<PUSH>
+Jack, Queen Tia y yo,
+por supuesto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+No esperaba que vosotros
+dos aparecieseis ahora,
+pero...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡No aguanto vuestra
+insolencia!!
+<PUSH>
+¡¡Ahora vais a...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+No te molestes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¿Qué?!
+<PUSH>
+¡¿C-Cómo has...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Adiós, Sr. King...
+<PUSH>
+Pagarás por tus pegados
+en las entrañas de tu
+propio Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡N-Noooooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Noooooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿De qué va todo esto,
+señorita?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Llevo esperando mucho tiempo
+la oportunidad para
+acabar con King.
+<PUSH>
+Cuando se ha presentado
+el momento he movido ficha.
+<PUSH>
+Eso es todo.
+<PUSH>
+Pero esperaba que quien
+apareciera fuese Mega Man.
+<PUSH>
+No se me pasó por la cabeza
+que vosotros llegaríais
+aquí antes que él.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Te agradecemos que nos
+hayas ayudado...
+<PUSH>
+No sabemos qué buscas,
+y tampoco nos importa.
+<PUSH>
+Solo hemos venido
+a hacer realidad
+nuestro deseo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+¿Por qué no me decís cuál
+es ese deseo por haberos
+salvado la vida?
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<(Queen)Tia>
+Mandar al Meteorito G...
+<PUSH>
+...directamente a la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+¿Estáis locos?
+<PUSH>
+Ya sabéis que ocurrirá si
+el Meteorito G choca
+contra la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Claro que sí.
+<PUSH>
+Vamos a ir al Cibernúcleo
+de estas instalaciones
+<PUSH>
+para sobreescribir
+el código.
+<PUSH>
+Eliminaremos los permisos
+de King y devolveremos el
+meteorito a su curso original.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Con el Meteorito G podremos
+destruir toda la
+tecnología del mundo...
+<PUSH>
+Ese es nuestro deseo.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Parece que no vais
+a cambiar de idea.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Parece que nos entiendes.
+¡No te metas en nuestro
+camino, Heartless!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Si lo haces, te
+arrepentirás.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Está claro que no sois unas
+criaturitas inocentes, ¿no?
+<PUSH>
+No quiero haceros llorar,
+no me meteré en vuestro
+camino.
+<PUSH>
+Pero no olvidaré esto.
+Me equivoqué al pensar que
+Mega Man llegaría antes.
+<PUSH>
+Pero cuando aparezca seguiré
+con mi plan.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+Jack, nos vamos...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Guay!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{15}{E1}
+<PUSH>
+Mega Man{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

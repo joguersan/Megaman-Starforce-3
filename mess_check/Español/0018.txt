@@ -1,0 +1,407 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una planta.
+No sé muy bién de
+qué especie será.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0E}{E1}{01}{00}<Bud>
+{19}{E1}{01}{00}<Bud>
+{08}{E1}{00}{00}R<Bud>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Bienvenido al
+<Studi.WBG>!
+<PUSH>
+Aquí grabamos los programas
+del canal 77.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una escultura del logo
+del <Studi.WBG>.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«¡El sábado a las 21:00!
+¡Sonia Strumm debuta en
+la Canción de los Sueños!»
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hala, un anuncio del nuevo
+programa de Sonia.
+Qué bien, Sonia...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Esta máquina se usa
+para editar vídeos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un espejo muy grande.
+Aprovecha para
+arreglarte un poco...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un puñado de sillas metálicas
+alineadas. Parece que
+están muy gastadas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Algunos trajes que
+usa Sonia. Son muy
+bonitos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chaval. ¿Quieres
+probar uno de estos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Paso, gracias.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un ramo de flores.
+Son regalos de los
+fans de Sonia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{0C}{E1}{01}{00}{F1}{00}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bártulos de maquillaje
+perfectamente organizados.
+¿Hace falta tanto?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah!
+¡Esto es...!
+<PUSH>
+{80}{E1}{81}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+¡Battle Card
+"{C1}{E7}"!
+<PUSH>
+{0A}{E1}{F1}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{05}{07}{15}{00}{09}{E1}{00}{00}<Joker>
+{05}{07}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En este armario
+guardan atrezo.
+Está cerrado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un arco muy llamativo.
+Se usa de atrezo en
+programas de entrevistas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una torre de iluminación.
+Debe de consumir
+mucha energía.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Sala de edición»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Escenario»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Sala de espera»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Almacén de atrezo»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{0C}{E1}{00}{00}{94}{03}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡La puerta está
+congelada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{90}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En este armario
+guardan atrezo.
+<PUSH>
+Arañas, serpientes...
+Está lleno de bichos
+espeluznantes...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hala...
+Menudo atrezo más raro...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En este armario guardan
+piezas de atrezo.
+<PUSH>
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<NEW-DIALOG>
+<Game>
+Parece que la cerradura
+electrónica no funciona
+como debería.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No funciona bien...
+¡Voy a ver el
+Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bártulos de maquillaje
+perfectamente organizados.
+¿Hace falta tanto?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la recepción del
+<Studi.WBG>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

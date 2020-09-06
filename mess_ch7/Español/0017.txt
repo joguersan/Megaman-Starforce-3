@@ -1,0 +1,137 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Lee?!
+¡¿Y Belle?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué narices está pasando?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Comprendemos el peligro de
+este mensaje, pero no
+podemos quedarnos callados.
+<PUSH>
+¡¡A todo el que esté
+viéndonos!!
+<PUSH>
+¡¡No podemos rendirnos
+ante Dealer!!
+<PUSH>
+¡¡Debemos luchar por nuestros
+sueños y esperanzas, por el
+futuro, hasta el final!!
+<PUSH>
+¡¡Si unimos esfuerzos y
+energías por la causa
+no podemos perder!!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Por favor, no os rindáis!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡¡Los Wizards también
+debemos resistir!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Un llamado de unidad, ¿eh?
+<PUSH>
+Quieren que todo el mundo
+coopere.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Pero es demasiado
+peligroso!
+<PUSH>
+Si King se entera de
+lo que están haciendo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Han dicho que comprenden
+los riesgos.
+<PUSH>
+¡Saben que ponen su vida
+en juego al enviarlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Lee, sal de ahí!!
+¡¡Huye!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}{15}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Necios rebeldes...
+<PUSH>
+Parece que habéis
+olvidado la grandeza
+de mi poder.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡King, no!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡No me queda otra que
+refrescaros la memoria!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

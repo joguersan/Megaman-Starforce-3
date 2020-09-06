@@ -1,0 +1,697 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Perdona por retrasar
+tu viaje a {53}{E2},
+Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No te preocupes por
+el viaje, Ace.
+<PUSH>
+Has hecho mucho por Sonia,
+Belle y los demás.
+Encantado de ayudar.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Me alegra oírlo, Geo.
+<PUSH>
+¿Qué sería lo que pasó
+en el <Studi.WBG>?
+<PUSH>
+Estoy en el equipo de
+investigación de la
+Policía Satella.
+<PUSH>
+Y la única forma de
+saberlo era preguntando
+a Mega Man...
+<PUSH>
+Es decir... A ti, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Cómo me molesta que sepa
+tanto sobre ti, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Te he oído, Omega-Xis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Según parece, eres
+un alienígena.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¡!!
+<PUSH>
+Q-Qué...
+¡¿Cómo sabes eso?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No es para tanto.
+<PUSH>
+No hay quien iguale
+los soplos de la
+Policía Satella.
+<PUSH>
+Pero eso no es lo importante.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué quieres saber?
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Ace>
+¿Pasó algo raro cuando
+te convertiste en
+Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Strange?
+<PUSH>
+...Sí, la verdad.
+Se me durmió el cuerpo.
+Fue horrible.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Mmm...
+<PUSH>
+Entiendo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grrr!!
+¡Si tienes algo que decir,
+hazlo de una vez!
+<PUSH>
+¡Tu Wizard y tú estáis
+siempre pensados sin
+decir ni mu!
+<PUSH>
+¡Me saca de quicio!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ay...
+Eres el Wizard más impaciente
+que he visto jamás.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Cállate!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tranquilo, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Bueno... Mejor eso que
+acumular toda esa rabia.
+<PUSH>
+Así que habéis luchado
+contra varios Wizards
+enloquecidos, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Cuando un Wizard enloquece,
+libera una cantidad de
+Ruido inmensa...
+<PUSH>
+El Ruido es muy peligroso
+para los cuerpos EM...
+<PUSH>
+Si un Wizard absorbe
+demasiado Ruido, podría
+ser eliminado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{22}{EC}{00}{00}{05}{00}{22}{EC}{01}{00}{06}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Eliminado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Madre mía de mi vida...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Cuando un dispositivo
+enloquece, sus ondas
+EM pueden corromperse.
+<PUSH>
+Eso es el Ruido.
+<PUSH>
+Desde ahora, tendréis
+que estar alerta...
+<PUSH>
+Pero por ahora...
+<PUSH>
+Os daré mi <AcePrgm>...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿"<AcePrgm>"?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Eso qué es?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Un arma especial de la
+Policía Satella y mi
+mejor trabajo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿De verdad?
+¿Puedo quedarme con algo
+tan importante?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No se lo podría confiar
+a nadie más{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Considéralo tu regalo de
+cumpleaños por adelantado,
+¿vale?
+<PUSH>
+A ver... Debería decirte
+para qué sirve...
+<PUSH>
+En pocas palabras, es un
+dispositivo que te permitirá
+controlar el Ruido.
+<PUSH>
+Te lo voy a enviar a tu
+<Hunter>-VG.
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+Vale, enviado.
+<PUSH>
+{87}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido la
+mejora:
+"<AcePrgm>"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Eliminado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Madre mía de mi vida...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Cuando un dispositivo
+enloquece, sus ondas
+EM pueden corromperse.
+<PUSH>
+Eso es el Ruido.
+<PUSH>
+Desde ahora, tendréis
+que estar alerta...
+<PUSH>
+Te voy a dar mi {C2}{E6}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿"{C2}{E6}"?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué es eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+El programa más poderoso y
+terrible de todos los
+<PUSH>
+que tiene la Policía
+Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Jopé... ¿Y no te importa
+que tenga algo tan
+poderoso?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No te preocupes, podrás
+con ello{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Considéralo tu regalo de
+cumpleaños por adelantado,
+¿vale?
+<PUSH>
+No te lo pienses tanto.
+<PUSH>
+A ver... Debería decirte
+para qué sirve...
+<PUSH>
+En pocas palabras, es un
+dispositivo que te permitirá
+controlar el Ruido.
+<PUSH>
+Te lo voy a enviar a tu
+<Hunter>-VG.
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+Vale, enviado.
+<PUSH>
+{87}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido la
+mejora:
+"<AcePrgm>"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Con esto podrás controlar
+el Ruido y evitar que
+te elimine.
+<PUSH>
+Además, durante los
+combates se mostrará
+tu Nivel de Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y eso qué demonios es?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Un número que indica cuánto
+ruido hay a tu alrededor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nivel de Ruido...
+<PUSH>
+¡Parece un programa
+alucinante!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí, bastante alucinante.
+<PUSH>
+Intenta probarlo unas
+cuantas veces para
+acostumbrarse.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Eso haré!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Madre mía, Geo
+está loco por la ciencia...)
+<PUSH>
+¿Y el Nivel de Ruido este
+sirve para algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ya lo creo.
+<PUSH>
+Lo más importante es que
+si el Nivel de Ruido supera
+<PUSH>
+el 100% cuando elimines al
+último enemigo,
+<PUSH>
+recibirás datos ilegales
+además de los normales.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Datos ilegales?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Son datos modificados
+por el Ruido.
+<PUSH>
+Hasta que no los consigas
+no sabrás qué es lo que hacen.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Y volvemos a "Don Misterioso".
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+El Nivel de Ruido también
+propicia otro tipo de cambios.
+<PUSH>
+Pero seguro que podrás con
+ello, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿?
+<PUSH>
+{13}{EC}(¿Qué le pasa?
+Ace parece bastante
+deprimido.)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Bueno, ya basta de
+conversaciones serias!
+<PUSH>
+Pero no olvides lo que
+hemos hablado, Geo.
+<PUSH>
+Si ves a un Wizard
+enloquecido, intenta
+<PUSH>
+no luchar y espera a que
+llegue la Policía Satella.
+<PUSH>
+No debes jugar con el
+Ruido, es demasiado
+peligroso.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+E-Entendido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Mega Man ha absorbido
+una cantidad importante
+de Ruido...
+<PUSH>
+Pero no ha sufrido
+cambios notables...
+<PUSH>
+Justo como pensaba...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿?
+<PUSH>
+¿Ace?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Ah, lo siento...
+<PUSH>
+¡Quiero darte otro regalo
+por retrasar tu excursión!
+<PUSH>
+{02}{E2}{08}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"{E8}{E6}"!
+<PUSH>
+{01}{E2}{08}{00}
+<NEW-DIALOG>
+<Geo>
+¿Qué hace esta notificación?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Permite el acceso
+a la Astro Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Astro Wave?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí, una Carretera de
+Ondas en el espacio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿En el espacio?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Ha sido decir la
+palabra "espacio" y ya le
+ha ganado por completo...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hay una entrada a la Astro
+Wave en el punto más alto
+<PUSH>
+de la Carretera de Ondas
+de <Echo.Ridge>.
+<PUSH>
+Eso está lleno de virus,
+así que ten mucho cuidado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿De verdad que puedo?!
+<PUSH>
+¡¿No hay problema en que
+un niño entre en un lugar
+tan alucinante?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Normalmente estaría prohibido.
+Pero he dicho que te debía
+una por retrasarte.
+<PUSH>
+Ahora puedes ir a <Alohaha>
+en un santiamén con la
+Astro Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Gracias, Ace!
+<PUSH>
+La Astro Wave...
+Una Carretera de Ondas
+en el espacio...
+<PUSH>
+¡Qué emocionante!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Jaja. Me estoy
+emocionando hasta yo
+solo con verte.
+<PUSH>
+Venga, pásalo bien
+en la excursión.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Gracias, de verdad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Venga, Mega!
+<PUSH>
+¡Vamos a hacer un Cambio
+de Onda EM y a la Astro
+Wave ya mismo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Si no hay más remedio...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

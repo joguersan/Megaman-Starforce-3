@@ -1,0 +1,373 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alright, let's go over how to
+Wave Battle! We'll start with
+the bottom screen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+This is the Custom Screen.
+<PUSH>
+Six cards are randomly
+selected from the 30 cards
+<PUSH>
+that are in your Folder, and
+then displayed here.
+<PUSH>
+Then you select cards to
+use from those six.
+<PUSH>
+Using a card won't make it
+disappear forever, so don't
+be scared to use them!
+<PUSH>
+However, you can't just
+use all of the cards on
+the Custom Screen.
+<PUSH>
+There are rules that decide
+which cards you can use in
+combination.
+<PUSH>
+Rule #1!
+Cards in the same column
+can be selected together.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It doesn't matter if they're
+not lined up exactly straight,
+<PUSH>
+as long as they're in the
+same column.
+<PUSH>
+Rule #2!
+Three cards in the same
+row can be picked together.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It doesn't matter if they're
+not lined up exactly
+<PUSH>
+straight, as long as
+they're in the same row.
+<PUSH>
+Rule #3!
+Cards that have the same
+<PUSH>
+name can be picked together,
+regardless of their position.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Can you see the card on
+the screen that is white?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+White cards are very useful.
+They can be paired with
+any card on the screen.
+<PUSH>
+None of the previous three
+rules apply to them.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+But what if I don't
+know what a card does?
+<PUSH>
+There's a description, right?
+How do I access it?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You can use the R Button
+or Y Button to see card
+descriptions.
+<PUSH>
+OK! I think that about sums
+up the Custom Screen.
+<PUSH>
+Try to select more than two
+cards, OK!?
+<PUSH>
+You can select them by
+touching them, as well.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, you can still pick more.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You still need to pick a card
+that you can attack with.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pick that card after you
+select an attack card.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I'll teach you about that one
+later, so don't use it now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go, kid. You haven't
+picked anything yet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's no need to run
+away, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Press the OK Button now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Finally, it's battling time!
+Wipe out those bad guys!
+Oh, but before that...
+<PUSH>
+In the bottom left are the
+cards you selected in the
+<PUSH>
+Custom Screen in the order
+that you selected them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+And to the right is the name
+and attack power of the
+card you can currently use.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You can use Battle Cards by
+pressing the A Button.
+<PUSH>
+Holding down the B Button
+will fire the Mega Buster
+constantly without delay!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The A Button for Battle
+Cards, and the B Button for
+the Mega Buster... Got it!
+<PUSH>
+And that's my HP up in the
+top left, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Correctomundo.
+And it's game over for us if
+it drops to 0!
+<PUSH>
+The gauge in the top right
+is called the Custom Gauge.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The Custom Gauge fills up
+as time passes.
+<PUSH>
+Once the Custom Gauge is
+full, you can return to the
+Custom Screen by pressing
+<PUSH>
+the L Button or the
+R Button.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+So even if I've used all six
+of my cards, I can get more
+from the Custom Screen...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Exactly!
+So are you all set, kid?
+It's time to practice!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, I'm ready!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

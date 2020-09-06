@@ -1,0 +1,101 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+So you've come to disturb
+my work, have you!?
+<PUSH>
+It's just like the TV show
+recording all over again!
+<PUSH>
+Belle isn't appreciated at
+all, with you and Sonia
+standing in her spotlight!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So, she is behind it all...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're Ice, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+I have been reborn as
+Diamond Ice!
+<PUSH>
+My power is now beyond
+your imagination!
+<PUSH>
+And with it, I will delete
+anything or anyone that
+gets in Belle's way!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're causing a lot of
+pain and suffering for a
+lot of people...
+<PUSH>
+I wonder how much your
+actions are hurting Belle...?
+<PUSH>
+Have you thought of that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Belle is too nice.
+The talent industry can be
+a cruel world!
+<PUSH>
+One must be prepared to
+remove all obstacles in
+order to get to the top.
+<PUSH>
+If she can't do that for
+herself, then it's my duty
+to do so with my power!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo...
+She's not going to listen.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ice... I understand your
+feelings for Belle but...
+<PUSH>
+I can't let all those
+people get hurt for the
+sake of your pride!
+<PUSH>
+Diamond Ice!
+I will stop you!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Ha! I'll freeze you solid
+and leave you to regret
+coming here, forever!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

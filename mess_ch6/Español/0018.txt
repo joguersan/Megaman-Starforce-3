@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}G-G-Glory to D-Dealer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}<Taurus.Fire>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+biip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ahora la puerta debería
+estar abierta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

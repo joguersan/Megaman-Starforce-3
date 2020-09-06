@@ -1,0 +1,170 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Pues esto ya está.
+<PUSH>
+Qué emoción. Hemos
+creado nuestro primer
+Equipo y Propósito.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pues manos a la
+obra, Equipo
+"Luna Presidenta"!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Pero cómo vamos a
+ayudar a la Dele a
+que sea la presidenta?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Mmm, es cierto.
+¿Qué tenemos que
+hacer, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Lo primero es encontrar
+a chavales que tengan
+<PUSH>
+problemas en la escuela
+y ayudarlos.
+<PUSH>
+Obviamente, yo seré
+la que me lleve el mérito.
+<PUSH>
+¡Y así mi popularidad
+subirá como la espuma!
+<PUSH>
+¡Zack!
+<PUSH>
+A tu Wizard se le dan
+bien los números, ¿no?
+<PUSH>
+Él se encargará de
+llevar las encuentas,
+¡¿entendido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Claro como el agua, Dele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Gracias por sacarme,
+Zack!
+<PUSH>
+¡Hola a todos, me llamo
+Pedia! ¡Dejadme a mí
+todo el tema de cálculos!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Con Pedia seremos un
+Equipo mucho más fuerte!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡En mi base de datos
+encontraréis una cantidad
+de datos descomunales!
+<PUSH>
+¡Además, puedo realizar
+cálculos de clasificaciones
+<PUSH>
+y porcentajes de todo
+tipo sin despeinarme!
+<PUSH>
+¡No hay nada que
+no pueda calcular!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pedia, nos serás
+de mucha ayuda!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡No seas así, Mega!
+<PUSH>
+¡Con la Dele como
+presidenta, esta escuela
+será una risa!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué bobo eres, chico...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale! ¡Vamos a buscar
+a gente con problemas!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

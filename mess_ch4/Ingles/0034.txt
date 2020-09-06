@@ -1,0 +1,98 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Peace out, you copy freaks!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+*huff, puff*
+<PUSH>
+W-We did it...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Oh, man...
+Are you worn out already!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We just took on a ton of
+bad guys!
+<PUSH>
+Of course I'm tired...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+How weak...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Now...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What the...
+That's no good!!
+<PUSH>
+Come on, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-Nooo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

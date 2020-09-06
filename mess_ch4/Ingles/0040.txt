@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Roooaaarrr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+...For cryin' out loud!
+How many copy freaks
+could there be!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+W{15}{E1}-What...!?
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...It appears that the outer
+wall has been destroyed.
+<PUSH>
+The copies are rushing in
+from there...
+<PUSH>
+Get back to the WAZA
+<Centro.Comando> ASAP!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Understood!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

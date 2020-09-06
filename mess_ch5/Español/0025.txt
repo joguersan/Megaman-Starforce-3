@@ -1,0 +1,98 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+*uff{15}{E1}, uff*
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+S-Seguramente estés en lo cierto...
+<PUSH>
+Estando así Jack no
+escuchará lo que diga...
+<PUSH>
+¡Pero...!
+<PUSH>
+¡¡Me niego a...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+He cambiado de idea.
+<PUSH>
+Creo que te escuchará...
+<PUSH>
+y entonces os volvereis
+amigos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Pero un día, se volverá
+contra ti, y entonces
+te arrepentirás de esto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico! No hay tiempo
+para tanta chachara!
+<PUSH>
+¡Ese tipo Lobo está
+distrayendo a Jack por
+nosotros!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Oh cierto!
+¡Tenemos que llegar al
+tejado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

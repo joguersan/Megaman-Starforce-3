@@ -1,0 +1,78 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I can't believe it!
+I told Bud not to be late!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+This is just like Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What if we can't get the
+Giga Energy Card because
+we get there too late?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Sorry I'm late!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I'm really, really sorry!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+For cryin' out loud!
+We missed a train waiting
+for you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+The next train is here,
+guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Let's get on, everyone!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

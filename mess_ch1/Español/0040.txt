@@ -1,0 +1,109 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Este es el CN del cohete?
+<PUSH>
+¡Magnes está más adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Me llaman...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+Digo... ¡Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué pasa, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Woody acaba de decirme
+que hay una gran fuerza
+<PUSH>
+magnética dentro del
+CN del cohete.
+<PUSH>
+Y quiere enviar a su
+Wizard para echar una mano...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿El Wizard de Woody?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Sí, el hermano pequeño
+de Magnes. Se llama Coil.
+<PUSH>
+Te ayudará a superar
+zonas donde no puedas
+<PUSH>
+moverte por culpa de las
+fuerzas magnéticas.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Dele!
+¡Y dale las gracias
+a Woody de mi parte!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Puedes hacerlo, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡En marcha, chico!
+<PUSH>
+¡Tenemos que evitar
+que el cohete explote!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

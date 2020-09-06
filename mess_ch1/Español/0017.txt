@@ -1,0 +1,363 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Pues ya hemos vuelto
+a crear nuestras
+Bandahermano!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Ahora podemos formar
+un Equipo y fijar
+nuestro Propósito!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Pero antes no
+tendríamos que ponerle
+un nombre al Equipo?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué tal "Equipo
+Tortellini"?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Nuestro Propósito es
+"Luna Presidenta", ¿no?
+<PUSH>
+Entonces el nombre
+del equipo debería
+ser algo así.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Pues vale! ¡Vosotros
+ignoradme!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡A ver, no os preocupéis!
+<PUSH>
+¡Ya se me ha ocurrido el
+nombre para el Equipo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡La Dele siempre un
+paso por delante!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Me he pasado toda la
+noche en vela dándole
+vueltas!
+<PUSH>
+¡Pero como era de esperar,
+se me ha ocurrido un
+nombre brillante!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Venga, pues dilo!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¡Preparaos para
+quedaros con la boca
+abierta!
+<PUSH>
+El nombre de nuestro
+Equipo será.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+{10}{E2}{35}{03}{16}{EC}
+<NEW-DIALOG>
+<Prez>
+¡"Luna Presidenta"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{11}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No me lo puedo creer...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Se ha pasado la noche
+en vela y solo se le
+ha ocurrido eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+La verdad es que la
+Dele nunca ha sido buena
+con lo de elegir nombres.
+<PUSH>
+Una vez dejé que eligiera
+el nombre de mi mascota.
+...Pobre Misifú.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, Misifú es nombre
+de gato, ¿no?...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Sí, bueno.
+<PUSH>
+Misifú es un perro...
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué estáis cuchicheando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡N-Nada de nada!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Un nombre genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Luna presidenta
+del consejo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Genial. Me alegro de que
+todos estemos de acuerdo.
+<PUSH>
+¡Pues a poner nuestro
+propósito y el nombre
+del equipo en los Hunters!
+<PUSH>
+{04}{E2}{01}{00}
+<NEW-DIALOG>
+<Game>
+¡Se ha establecido el
+Equipo y el Propósito
+de Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pues esto ya está.
+<PUSH>
+Qué emoción. Hemos
+creado nuestro primer
+Equipo y Propósito.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pues manos a la
+obra, Equipo
+"Luna Presidenta"!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Pero cómo vamos a
+ayudar a la Dele a
+que sea la presidenta?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Mmm, es cierto.
+¿Qué tenemos que
+hacer, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Lo primero es encontrar
+a chavales que tengan
+<PUSH>
+problemas en la escuela
+y ayudarlos.
+<PUSH>
+Obviamente, yo seré
+la que me lleve el mérito.
+<PUSH>
+¡Y así mi popularidad
+subirá como la espuma!
+<PUSH>
+¡Zack!
+<PUSH>
+A tu Wizard se le dan
+bien los números, ¿no?
+<PUSH>
+Él se encargará de
+llevar las encuentas,
+¡¿entendido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Claro como el agua, Dele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Gracias por sacarme,
+Zack!
+<PUSH>
+¡Hola a todos, me llamo
+Pedia! ¡Dejadme a mí
+todo el tema de cálculos!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Con Pedia seremos un
+Equipo mucho más fuerte!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡En mi base de datos
+encontraréis una cantidad
+de datos descomunales!
+<PUSH>
+¡Además, puedo realizar
+cálculos de clasificaciones
+<PUSH>
+y porcentajes de todo
+tipo sin despeinarme!
+<PUSH>
+¡No hay nada que
+no pueda calcular!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pedia, nos serás
+de mucha ayuda!
+<PUSH>
+¡Qué ganas tengo de
+tener mi propio Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Jolines!
+¡Menuda envidia, Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+No digas eso, Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡No seas así, Mega!
+<PUSH>
+¡Con la Dele como
+presidenta, esta escuela
+será una risa!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué bobo eres, chico...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale! ¡Vamos a buscar
+a gente con problemas!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]
+

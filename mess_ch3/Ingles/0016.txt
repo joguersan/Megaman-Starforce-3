@@ -1,0 +1,451 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I love campfires!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+They give off such a great
+atmosphere, don't they?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+S-Sonia...
+You should come see how
+beautiful the fire is...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+*chomp, chomp*
+*munch, munch*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Should a star like you be
+eating so much...?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+*chomp, chomp*
+<PUSH>
+You don't have to worry
+about my weight!
+<PUSH>
+I never gain weight, no
+matter what I eat.
+<PUSH>
+Today, I'm going to eat until
+my stomach explodes!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Sonia sure is in a bad mood...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+That's because Geo saved
+Luna's handkerchief...
+<PUSH>
+What was he thinking...?
+He made a national celebrity
+angry beyond belief...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I need more food!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Prez...?
+Why are you holding my hand?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Silly, Geo...
+<PUSH>
+You looked a little down while
+looking at the ocean...
+<PUSH>
+It's so beautiful and peaceful,
+but it's pretty scary to
+think about falling in...
+<PUSH>
+Is that what's troubling
+you?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You sure can read me well.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Brothers understand each
+other better than anyone.
+<PUSH>
+But even if I couldn't read
+you, it would be my duty as
+<PUSH>
+class president to hold your
+hand for safety's sake.
+<PUSH>
+You better appreciate me.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+O-Of course I do...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I still can't believe it.
+<PUSH>
+That a normal kid like you
+is really Mega Man...
+<PUSH>
+If people found out, I bet
+that they'd be so let down.
+<PUSH>
+I mean...
+I was like that once, too.
+<PUSH>
+{12}{E2}!{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Mega Man...
+<PUSH>
+Mega... M-Geo!?
+N-No way...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Th-This is a joke, right?
+<PUSH>
+I can't believe that you...
+That you're Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+You're so brave and cool
+when you're Mega Man.
+<PUSH>
+It's just that a totally
+normal guy like you...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahaha...
+<PUSH>
+Forgive me. It's a shame
+that your beloved hero is
+a guy like me...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Don't say that...
+<PUSH>
+If I compare you now to
+when I first met you...
+<PUSH>
+You've{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} How do you say it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}?{14}{E1}
+You've really grown up.
+<PUSH>
+You're more confident and
+proud. More like Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm doing my best.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I know...
+<PUSH>
+I really want to express my
+gratitude to you.
+<PUSH>
+Thank you, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Did I do something?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+My handkerchief...
+My mother gave it to me, so
+it's very special.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I see...
+<PUSH>
+Ever since that time, have
+you been getting along with
+your parents?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Of course.
+<PUSH>
+We had a lot of differences
+and it all eventually came to
+a climax, but...
+<PUSH>
+Now we're a happy family.
+<PUSH>
+Now that I think of it...
+That's all thanks to Mega
+Man, as well.
+<PUSH>
+You saved me when those
+bad aliens used my emotions
+to control me.
+<PUSH>
+...When I think about it, it
+seems that I'm always being
+saved...
+<PUSH>
+If only I could fight right
+beside you, like Sonia does.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+When my dad disappeared...
+<PUSH>
+It was you that got me to
+stop staying cooped up in
+my house and go to school.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+And you gave me the
+courage to keep fighting
+<PUSH>
+when I lost my confidence
+in battle...
+<PUSH>
+If I had never met you...
+<PUSH>
+I think that I would have
+given up on being Mega Man
+a long time ago.
+<PUSH>
+You're already fighting along
+side me, Prez.
+<PUSH>
+Much more than you realize...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+G-Geo, I never knew you had
+it in you to say something
+in such a sweet way.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm just saying what I feel...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I understand!
+<PUSH>
+So you mean that you'll be
+happy to have me continue
+fighting along side you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah. Please never stop.
+<PUSH>
+It looks...
+It looks like another fight
+may be starting...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+.{13}{E1}.{13}{E1}.{13}{E1}Really?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace told me that there's a
+great disaster coming...
+<PUSH>
+And also that someday he
+will have to borrow Sonia
+and my powers...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You'll fight just because he
+told you to?
+<PUSH>
+It could be a lie.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wizards have been going out
+of control a lot, lately...
+<PUSH>
+And it appears that someone
+is using Noise Cards to make
+them go out of control.
+<PUSH>
+With the rocket incident
+and the concert incident...
+<PUSH>
+Even though they weren't
+successful, they still caused
+a lot of problems.
+<PUSH>
+I don't know what these
+people are up to, but I
+can't ignore what's happening.
+<PUSH>
+If it will stop these people,
+then I'm willing to fight.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I see...
+<PUSH>
+If that's the case, then I'll
+fight along side you in my
+own way.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Prez...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo, we're Brothers.
+<PUSH>
+We'll always be connected,
+no matter how terrible of a
+fight you are in.
+<PUSH>
+Never forget that...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you, Prez.
+<PUSH>
+Let's fight together!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You can count on me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

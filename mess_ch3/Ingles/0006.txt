@@ -1,0 +1,360 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+This is amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's beautiful, isn't it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+What a great ocean breeze!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Let's hurry up and change
+so we can go swimming!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Are you going to swim too,
+Ms. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No...
+I have to keep an eye
+on everyone...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+That's a shame since you
+came all the way here...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright, let's get changed and
+enjoy the beautiful water of
+<Alohaha>.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Bud>
+If we're changing into our
+bathing suits, then...
+<PUSH>
+I have to do "that"...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+B-Bud!
+<PUSH>
+You don't mean...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You're really going to do
+that...!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What the heck is "that"?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+"That" is a skill that only
+boys can perform.
+"That" is the hidden art of...
+<PUSH>
+"Boxers Off!"
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Boxers Off?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's a skill that has been
+passed down for generations,
+<PUSH>
+and is a forbidden changing
+style that has become legend.
+<PUSH>
+First, you take off your
+pants, then put your bathing
+suit on over your boxers.
+<PUSH>
+Then, you take off your
+boxers from underneath
+your swim trunks.
+<PUSH>
+Thus you have successfully
+changed without ever getting
+naked!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What!?
+Is that possible!?
+<PUSH>
+And why is it forbidden?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Jack...
+<PUSH>
+In attempting to perform
+this skill, one takes a great
+risk...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+To take off your boxers
+that are underneath your
+swim trunks, you must pull
+<PUSH>
+down your boxers and take
+out each leg, one by one...
+<PUSH>
+And of course, when you go
+to do that...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+That's too dangerous...
+Your boxers could...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Exactly. If you do it wrong,
+your waistband will rip and
+make the worst noise...
+<PUSH>
+And in the worst case...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Don't go any further{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You're right...
+I'm sorry, it's too graphic...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Well, either way...
+It looks like I got myself
+caught up in something big...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Game>
+Why are all you boys just
+hanging out alone!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+Anyone?
+Are you guys too nervous
+to talk to girls on vacation?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Prez, you look great!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+That color is perfect!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, you look really nice!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+*giggle*
+Thanks!
+<PUSH>
+Now hurry up and change!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+So are we going to do it...?
+Boxers Off...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+This is our only shot...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'm willing to accept the risk.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+We might as well try...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+Hey!
+What are you boys doing!?
+Hurry up!!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo-2>
+Here we go...
+<PUSH>
+Boxers Off!!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*fwooosh*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+Ahhhhhh!!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+...We did it.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+...I have no regrets about it.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+...Same here.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Then let's go swimming!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

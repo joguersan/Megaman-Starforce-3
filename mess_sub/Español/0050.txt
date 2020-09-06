@@ -1,0 +1,145 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres desaginar
+todas las habilidades?
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Habilidad: {2E}{E1} usa
+{27}{E1}{03}{00}p de Poder Empático.
+¿Quieres desasignarla?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Solo puedes equiparte
+esta habilidad una vez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres desasignar la
+habilidad: {2E}{E1}
+y asignar esta otra?
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+No tienes suficiente
+Poder Empático para
+asignar esta habilidad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Te queda poco Poder
+Empático, chico.
+<PUSH>
+Me temo que tendrás
+que desasignar alguna
+habilidad
+<PUSH>
+para no pasarte.
+<PUSH>
+¿Sabes?
+Si pulsas el botón Y,
+<PUSH>
+podrás ver cuánto Poder
+Empático consume una
+habilidad en concreto.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres usar esta
+configuración?
+{10}{EC}{00}{00}Sí, asignar
+{10}{EC}{01}{00}Volver
+{10}{EC}{02}{00}Cancelar
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2C}{E1}
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}Asignar
+{10}{EC}{01}{00}No asignar
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Eh, chico! No seas tonto.
+¡Déjate esta asignada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

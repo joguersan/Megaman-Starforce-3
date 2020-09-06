@@ -1,0 +1,414 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Hey!
+It seems that the
+Sprinkler is under control!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Woo hoo!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+But, we're soaking wet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Yeah, that's true...
+Unfortunately, I think we
+should postpone the launch.
+<PUSH>
+Remember, there's always
+tomorrow!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Oh yeah! Now that I think
+about it... I saw someone!
+<PUSH>
+I saw a boy wearing blue
+enter the Sprinkler when it
+was going out of control!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}Ack!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+What!?
+That had to be Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Amazing!
+You mean THE Mega Man?
+As in, our hero!?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Could the rumors that he
+goes to this school really
+be true?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(T-This is bad! I've got to
+ stop this conversation
+ before it gets crazy!)
+<PUSH>
+E-Excuse me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What kind of experiment
+were you conducting?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Oh, we were attempting to
+launch a rocket.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A rocket!?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Yeah, we're building a
+rocket in the 2nd Floor
+Sci. Club Room.
+<PUSH>
+But it's not going so well.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+We thought we'd run some
+tests on a smaller version
+<PUSH>
+made from the same
+materials.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+As the Science Club, we
+have formed a Team with
+<PUSH>
+the "Purpose" to 
+"Launch a Rocket".
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I know we will be
+successful in fulfilling
+our "Purpose"!
+<PUSH>
+Right!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Yeah, let's do our best!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+..."Purpose"?
+<PUSH>
+What does that mean?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I guess you could say that
+a Purpose is a "goal".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+A "goal"...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The Purpose function is a
+new function that has
+evolved the Brother Bands
+<PUSH>
+that bond friends together.
+It's becoming pretty common
+as of late.
+<PUSH>
+After deciding a goal you
+want to achieve or a
+<PUSH>
+dream you want to come
+true, you can set it as a
+"<Proposito-color>" and then form
+<PUSH>
+a "<Squadra-color>" with others who
+share the same Purpose.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+{13}{EC}...?
+<PUSH>
+Who are you talking to?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm, hehe...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Oh yeah, I haven't
+introduced myself yet.
+<PUSH>
+My name is Woodrow Boffin.
+I'm in 6th grade right now.
+<PUSH>
+People usually call me
+"Woody".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Geo, eh?
+Do you have any Purposes
+at the moment, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Me?
+N-Not really...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+I see.
+<PUSH>
+Well I hope that you find
+a great Purpose and do
+<PUSH>
+your best to fulfill it with
+your friends someday!
+<PUSH>
+We are definitely going to
+fulfill our Purpose to 
+"Launch a Rocket"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I don't know anything about
+rockets, but I can at least
+cheer you on!
+<PUSH>
+Please show me the rocket
+when it's ready!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+You got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+OK guys, let's get back to
+the Sci. Club Room.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+OK, Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What's wrong, kid?
+You look a little depressed.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Talking about the rocket
+made me think about Dad.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kelvin, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+He's still missing in space
+even after all this time...
+<PUSH>
+But Mom and I believe
+that he is still alive
+somewhere...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's no doubt about it,
+he's still alive, kid...
+<PUSH>
+The Kelvin I met in space
+isn't someone who would
+keel over so easily!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, you're right!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+By the way...
+Didn't you have something
+you had to do?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Something to do...?
+<PUSH>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{11}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, man!
+<PUSH>
+I was supposed to meet
+Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+At the Snack Shop on the
+1st Floor, right?
+<PUSH>
+You're running pretty late.
+She's gonna be angry!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I-I-I gotta hurry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

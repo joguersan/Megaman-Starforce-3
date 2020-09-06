@@ -1,0 +1,331 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Vale, grabando!
+<PUSH>
+Escena 17. Toma 1.
+<PUSH>
+¡Acción!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}!{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+¿A qué viene esa cara tan
+larga el día de tu
+concierto?
+<PUSH>
+Sabes que puedes contarme
+lo que sea.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Me preguntaba si estoy
+haciendo lo correcto...
+<PUSH>
+Me encanta cantar porque
+veo las sonrisas de los
+fans...
+<PUSH>
+Sigo cantando por el
+lazo que me une a ellos...
+<PUSH>
+Pero me pregunto si
+perderé esa conexión
+<PUSH>
+si continúo con mi
+carrera de actriz...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Menuda estupidez...
+<PUSH>
+No sé qué le ven a
+esta mierda
+sentimentaloide...
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+Jack...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¿Qué pasa, Corvus?
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+¿Sabes quién es ese
+armario de ahí?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Se llama Bob, o Bill, o...
+<PUSH>
+Why?
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+Interesante...
+<PUSH>
+Muy interesante...
+<PUSH>
+Emite una tonelada
+de Ruido muy poderoso.
+<PUSH>
+Parece que es capaz de
+realizar un
+Cambio de onda EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Mmm...
+En ese caso, podemos
+usarle a nuestro favor...
+<PUSH>
+Podría ser una buena
+oportunidad para conseguir
+datos sobre Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Find it, Noise Card!
+Find the EM being that's
+<PUSH>
+inside of him, and make it
+my tool for destruction!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Ay!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(¡B-Bud, que estamos grabando!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Hace{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+.{13}{E1}.{13}{E1}.{13}{E1}calor aquí{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} o{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+soy yo?{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+¡M{13}{E1}m{13}{E1}m{13}{E1}m{13}{E1}m{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}g{13}{E1}h!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¡Ahhh!
+<PUSH>
+¡¿Qué es eso?!
+¡¿Un Wizard o algo así?!
+<PUSH>
+
+<NEW-DIALOG>
+=¡Es la primera vez que
+veo un Wizard así!
+<PUSH>
+{A0}{E1}{03}{00}<
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Mmmrrrrgh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Ahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Sonia! ¡Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Mega, apaga el fuego!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrrrrr!
+Beast Slap!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Finiquitado!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Qué rápido!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No está mal, Mega.
+<PUSH>
+That was impressive.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Soy el Wizard de Batalla
+más fuerte!
+¡Y la fuera es confianza!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Ya lo sé, Mega!
+<PUSH>
+¡Taurus Fire ha reaparecido
+en el interior de Bud!
+<PUSH>
+¡Como no hagamos algo
+enseguida, la grabación
+será un desastre!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's go buck wild on him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

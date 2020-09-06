@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I hope everyone is OK!
+Let's get to WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

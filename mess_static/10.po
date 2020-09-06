@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "SmEnrgy"
+msgstr ""
+
+msgctxt "1"
+msgid "LrgEnrgy"
+msgstr ""
+
+msgctxt "2"
+msgid "D.Enrgy"
+msgstr ""
+
+msgctxt "3"
+msgid "Unlocker"
+msgstr ""
+
+msgctxt "4"
+msgid "Cloaker"
+msgstr ""
+
+msgctxt "5"
+msgid "SrchEye"
+msgstr ""

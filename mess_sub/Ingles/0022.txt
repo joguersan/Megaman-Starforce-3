@@ -1,0 +1,38 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+Welcome to Spica Mall!
+<PUSH>
+Don't miss the Battle Wizard
+Wave Battle Tournament
+going on in the Event Area!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}á
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+<Mr.Boreal>
+oming soon:
+Candy Shop!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{E3}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+<Prez-swim>
+ungry? Why not have
+lunch in our food court?
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{E2}{00}
+[END]
+

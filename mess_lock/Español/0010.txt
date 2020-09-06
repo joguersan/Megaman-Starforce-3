@@ -1,0 +1,15 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Requerida clave de acceso
+CN para impulsionar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

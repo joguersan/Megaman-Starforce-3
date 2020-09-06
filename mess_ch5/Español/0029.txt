@@ -1,0 +1,211 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡No encuentro la salida de
+esta Onda Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Además, noto algo muy
+sospechoso...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué ocurre, Solo?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Está viniendo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Es un virus!?
+<PUSH>
+No, no puede ser...
+¡Tiene que ser Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eso parece!
+¡Esta hecho enteramente
+de Ruido!
+<PUSH>
+¡Es un cúmulo de Ruido
+andante!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+Parece que Dealer está
+involucrado en algunas cosas
+complicadas.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+Lo que significa que...
+<PUSH>
+Ambos, esta onda Ruido y
+ese monstruo de Ruido son
+cosa de Jack.
+<PUSH>
+¡Esto debe ser un arma de
+Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Exacto.
+<PUSH>
+Voy a eliminar esta cosa.
+Echame una mano.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Eh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Esta cosa controla toda esta
+area.
+<PUSH>
+Si lo eliminamos, podremos
+expulsionarnos, y esta Onda
+Ruido será destruida.
+<PUSH>
+Es bastante simple.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Cómo diablos lo sabes?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+<PUSH>
+Me encontré con una de estas
+cosas antes de que me
+alcanzaras.
+<PUSH>
+En realidad fue bastante
+complicado.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Así que escucha.
+<PUSH>
+Esta cosa ataca disparando
+Ruido.
+<PUSH>
+Si no te encargas de ese
+Ruido, explotará y te hará
+daño.
+<PUSH>
+La explosión causa una onda
+expansiva considerable.
+<PUSH>
+Mi escudo EM no tuvo mucho
+efecto...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Así que usa tu Buster para
+destruir todo el ruido que
+<PUSH>
+emita antes de que explote!
+<PUSH>
+Voy a sincronizar mis ataques
+a su cuerpo con tus ataques
+al Ruido.
+<PUSH>
+¿Lo pillas?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos a ello!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Controles
+Cruceta: Cursor de Apunte
+Botón B: Mega Buster
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Estoy listo cuando
+quieras, Solo!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+¡{16}{E1}Adelante!
+<PUSH>
+
+[END]

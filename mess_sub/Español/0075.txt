@@ -1,0 +1,560 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+MMSF3
+[END]
+
+[SENTENCE NUMBER 3]
+Black Ace
+[END]
+
+[SENTENCE NUMBER 4]
+Red Joker
+[END]
+
+[SENTENCE NUMBER 5]
+Diseño del juego
+[END]
+
+[SENTENCE NUMBER 6]
+Masahiro Yasuma
+[END]
+
+[SENTENCE NUMBER 7]
+Yusuke Tokita
+[END]
+
+[SENTENCE NUMBER 8]
+Yutaka Utsugi
+[END]
+
+[SENTENCE NUMBER 9]
+Kohei Ozaki
+[END]
+
+[SENTENCE NUMBER 10]
+Escenario
+[END]
+
+[SENTENCE NUMBER 11]
+Shin Kurosawa
+[END]
+
+[SENTENCE NUMBER 12]
+H. Yamashita
+[END]
+
+[SENTENCE NUMBER 13]
+Kosuke Nasu
+[END]
+
+[SENTENCE NUMBER 14]
+Shinsuke Kodama
+[END]
+
+[SENTENCE NUMBER 15]
+Diseño de PJ
+[END]
+
+[SENTENCE NUMBER 16]
+Keji Ueda
+[END]
+
+[SENTENCE NUMBER 17]
+Tokiko Nakashima
+[END]
+
+[SENTENCE NUMBER 18]
+Yuji Ishihara
+[END]
+
+[SENTENCE NUMBER 19]
+Diseño Dest. Lun.
+[END]
+
+[SENTENCE NUMBER 20]
+Rikuto Mizuhara
+[END]
+
+[SENTENCE NUMBER 21]
+Modelado 3D
+[END]
+
+[SENTENCE NUMBER 22]
+Kumiko Fujiwara
+[END]
+
+[SENTENCE NUMBER 23]
+Kesuke Motozono
+[END]
+
+[SENTENCE NUMBER 24]
+Takahiro Oranaka
+[END]
+
+[SENTENCE NUMBER 25]
+Norihide Fujii
+[END]
+
+[SENTENCE NUMBER 26]
+Masanori Kondo
+[END]
+
+[SENTENCE NUMBER 27]
+Objetos 2D
+[END]
+
+[SENTENCE NUMBER 28]
+Ikuo Nakayama
+[END]
+
+[SENTENCE NUMBER 29]
+Maiko Oishi
+[END]
+
+[SENTENCE NUMBER 30]
+Movimiento
+[END]
+
+[SENTENCE NUMBER 31]
+Satomi Hayashi
+[END]
+
+[SENTENCE NUMBER 32]
+Miwa Sakaguchi
+[END]
+
+[SENTENCE NUMBER 33]
+Scroll
+[END]
+
+[SENTENCE NUMBER 34]
+Asae Nishitsuji
+[END]
+
+[SENTENCE NUMBER 35]
+Chieko Ryugo
+[END]
+
+[SENTENCE NUMBER 36]
+Akemi Kohama
+[END]
+
+[SENTENCE NUMBER 37]
+Natsue Ueda
+[END]
+
+[SENTENCE NUMBER 38]
+Pant. secund.
+[END]
+
+[SENTENCE NUMBER 39]
+Eji Kuratani
+[END]
+
+[SENTENCE NUMBER 40]
+Director de arte
+[END]
+
+[SENTENCE NUMBER 41]
+Yuji Ishihara
+[END]
+
+[SENTENCE NUMBER 42]
+Program. combate
+[END]
+
+[SENTENCE NUMBER 43]
+Y. Fujikawa
+[END]
+
+[SENTENCE NUMBER 44]
+Toshihide Anai
+[END]
+
+[SENTENCE NUMBER 45]
+Takefumi Tahara
+[END]
+
+[SENTENCE NUMBER 46]
+M. Kataoka
+[END]
+
+[SENTENCE NUMBER 47]
+Program. escen.
+[END]
+
+[SENTENCE NUMBER 48]
+Kensaku Fujita
+[END]
+
+[SENTENCE NUMBER 49]
+Masato Inamochi
+[END]
+
+[SENTENCE NUMBER 50]
+Satoshi Ueda
+[END]
+
+[SENTENCE NUMBER 51]
+Soichi Ito
+[END]
+
+[SENTENCE NUMBER 52]
+Seji Hamajima
+[END]
+
+[SENTENCE NUMBER 53]
+T. Yokozawa
+[END]
+
+[SENTENCE NUMBER 54]
+Sari Hatada
+[END]
+
+[SENTENCE NUMBER 55]
+Progam. sec.
+[END]
+
+[SENTENCE NUMBER 56]
+Shingo Ito
+[END]
+
+[SENTENCE NUMBER 57]
+Mitsunori Sakano
+[END]
+
+[SENTENCE NUMBER 58]
+Naomi Nishiyama
+[END]
+
+[SENTENCE NUMBER 59]
+Director de producto
+[END]
+
+[SENTENCE NUMBER 60]
+H. Shingaki
+[END]
+
+[SENTENCE NUMBER 61]
+Música
+[END]
+
+[SENTENCE NUMBER 62]
+Yoshino Aoki
+[END]
+
+[SENTENCE NUMBER 63]
+Akari Kaida
+[END]
+
+[SENTENCE NUMBER 64]
+Efectos de sonido
+[END]
+
+[SENTENCE NUMBER 65]
+Wataru Hama
+[END]
+
+[SENTENCE NUMBER 66]
+Masatomo Tajima
+[END]
+
+[SENTENCE NUMBER 67]
+Ilustraciones
+[END]
+
+[SENTENCE NUMBER 68]
+Shinsuke Komaki
+[END]
+
+[SENTENCE NUMBER 69]
+Manami Yoshino
+[END]
+
+[SENTENCE NUMBER 70]
+Kesuke Mizuno
+[END]
+
+[SENTENCE NUMBER 71]
+Yuri Kataiwa
+[END]
+
+[SENTENCE NUMBER 72]
+Localización
+[END]
+
+[SENTENCE NUMBER 73]
+James C. Wilson
+[END]
+
+[SENTENCE NUMBER 74]
+Brandon G. Baker
+[END]
+
+[SENTENCE NUMBER 75]
+Andrew Alfonso
+[END]
+
+[SENTENCE NUMBER 76]
+Brandon Gay
+[END]
+
+[SENTENCE NUMBER 77]
+Betatesting
+[END]
+
+[SENTENCE NUMBER 78]
+Yasuo Takayama
+[END]
+
+[SENTENCE NUMBER 79]
+Tomokazu Kudo
+[END]
+
+[SENTENCE NUMBER 80]
+Betatesters
+[END]
+
+[SENTENCE NUMBER 81]
+Masahiro Ikegawa
+[END]
+
+[SENTENCE NUMBER 82]
+Seitaro Sakamoto
+[END]
+
+[SENTENCE NUMBER 83]
+Masahiro Fujita
+[END]
+
+[SENTENCE NUMBER 84]
+Mayumi Nishida
+[END]
+
+[SENTENCE NUMBER 85]
+Diseño de título
+[END]
+
+[SENTENCE NUMBER 86]
+Satoshi Ukai
+[END]
+
+[SENTENCE NUMBER 87]
+Producción sec.
+[END]
+
+[SENTENCE NUMBER 88]
+Akemi Iwasaki
+[END]
+
+[SENTENCE NUMBER 89]
+Nanase Kikuchi
+[END]
+
+[SENTENCE NUMBER 90]
+Invitado especial
+[END]
+
+[SENTENCE NUMBER 91]
+Hiroki Kurihara
+[END]
+
+[SENTENCE NUMBER 92]
+Agradecimientos:
+[END]
+
+[SENTENCE NUMBER 93]
+Masakazu Eguchi
+[END]
+
+[SENTENCE NUMBER 94]
+T. Shimogawa
+[END]
+
+[SENTENCE NUMBER 95]
+Koji Imaeda
+[END]
+
+[SENTENCE NUMBER 96]
+Kohei Ota
+[END]
+
+[SENTENCE NUMBER 97]
+Ryuji Higurashi
+[END]
+
+[SENTENCE NUMBER 98]
+Peter Fabiano
+[END]
+
+[SENTENCE NUMBER 99]
+Kaori Funakoshi
+[END]
+
+[SENTENCE NUMBER 100]
+Tsukasa Fujita
+[END]
+
+[SENTENCE NUMBER 101]
+Takayoshi Terada
+[END]
+
+[SENTENCE NUMBER 102]
+Takeshi Yamamoto
+[END]
+
+[SENTENCE NUMBER 103]
+Hironori Ojima
+[END]
+
+[SENTENCE NUMBER 104]
+A. Kobayashi
+[END]
+
+[SENTENCE NUMBER 105]
+N. Kobayashi
+[END]
+
+[SENTENCE NUMBER 106]
+Shimpei Takasugi
+[END]
+
+[SENTENCE NUMBER 107]
+Junichi Oizumi
+[END]
+
+[SENTENCE NUMBER 108]
+Norio Tanaka
+[END]
+
+[SENTENCE NUMBER 109]
+Masahide Akitake
+[END]
+
+[SENTENCE NUMBER 110]
+Kazumi Yoneda
+[END]
+
+[SENTENCE NUMBER 111]
+Tetsuya Ono
+[END]
+
+[SENTENCE NUMBER 112]
+Daisuke Hasegawa
+[END]
+
+[SENTENCE NUMBER 113]
+Takashi Kitahara
+[END]
+
+[SENTENCE NUMBER 114]
+Naoto Minamide
+[END]
+
+[SENTENCE NUMBER 115]
+Makiko Nakajima
+[END]
+
+[SENTENCE NUMBER 116]
+Kunio Funahara
+[END]
+
+[SENTENCE NUMBER 117]
+Kosuke Nakano
+[END]
+
+[SENTENCE NUMBER 118]
+Yuko Yasuda
+[END]
+
+[SENTENCE NUMBER 119]
+Yoko Furutaka
+[END]
+
+[SENTENCE NUMBER 120]
+Tsuyoshi Kanda
+[END]
+
+[SENTENCE NUMBER 121]
+Daisuke Takahashi
+[END]
+
+[SENTENCE NUMBER 122]
+Busch Michael
+[END]
+
+[SENTENCE NUMBER 123]
+ 
+[END]
+
+[SENTENCE NUMBER 124]
+Studio Mausu Co.,Ltd.
+[END]
+
+[SENTENCE NUMBER 125]
+Ryosuke Naya
+[END]
+
+[SENTENCE NUMBER 126]
+ 
+[END]
+
+[SENTENCE NUMBER 127]
+Equipo de CAPCOM
+[END]
+
+[SENTENCE NUMBER 128]
+ 
+[END]
+
+[SENTENCE NUMBER 129]
+ 
+[END]
+
+[SENTENCE NUMBER 130]
+Productor
+[END]
+
+[SENTENCE NUMBER 131]
+T. Horinouchi
+[END]
+
+[SENTENCE NUMBER 132]
+Productor eje.
+[END]
+
+[SENTENCE NUMBER 133]
+Keiji Inafune
+[END]
+
+[SENTENCE NUMBER 134]
+Director
+[END]
+
+[SENTENCE NUMBER 135]
+Masahiro Yasuma
+[END]
+
+[SENTENCE NUMBER 136]
+ 
+[END]
+
+[SENTENCE NUMBER 137]
+Tiempo
+[END]
+
+[SENTENCE NUMBER 138]
+Colección
+[END]
+
+[SENTENCE NUMBER 139]
+{28}{E1}{03}{00}:{29}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 140]
+{24}{E1}{03}{00}  {25}{E1}{02}{00}  {26}{E1}{01}{00}
+[END]
+

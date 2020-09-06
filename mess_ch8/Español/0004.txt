@@ -1,0 +1,372 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Hala... ¿Dónde estamos?
+<PUSH>
+Está lleno de estrellas...
+Nunca había estado en
+un sitio así.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Creo que hemos abandonado
+el sistema solar.
+<PUSH>
+Diría que estamos en
+el centro de la galaxia.
+<PUSH>
+Vuestros científicos lo
+llaman «espacio profundo».
+<PUSH>
+Aunque, por extraño que
+parezca, esto me resulta
+familiar.
+<PUSH>
+¿Eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya me acuerdo!
+<PUSH>
+¡Aquí es donde Kelvin y su
+equipo construyeron la Carretera
+de Ondas al <Pianeta.FM-color>!
+<PUSH>
+Esta torre de ondas EM ha
+vivido mejores días, pero
+no hay duda.
+<PUSH>
+¡Esta Carretera de Ondas
+lleva al Planeta FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Mega! ¡Eso es terrible!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Eh? ¿El qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Piénsalo.
+<PUSH>
+Hemos llegado hasta aquí
+siguiendo el mismo camino
+que esos «R»...
+<PUSH>
+Entonces, el planeta que
+quieren invadir es el
+Planeta FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Conque habéis llegado
+hasta aquí...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No sé quién habla, chaval,
+pero su presencia es increíble!
+<PUSH>
+Puede que sea un «R» de esos...
+<PUSH>
+¡O a lo mejor su líder!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Sois vosotros?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Los <3.Saggi.di.AM-color>!
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Omega-Xis...
+Te agradeceríamos que no
+nos compararas con el enemigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué queréis que haga,
+con esas pintas que tenéis?!
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Cambiemos de tema...
+Geo Stelar... Mega Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Es tal y como dices.
+<PUSH>
+El Planeta FM está al borde
+de la destrucción.
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Tu Hermano, <Cepheus-color>,
+el rey FM, está luchando
+<PUSH>
+por su vida junto al resto
+de FM-ianos.
+<PUSH>
+Están en peligro.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Cefeo...
+<PUSH>
+Entonces ese Astro Hercio
+fue enviado a la Tierra
+a buscarnos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y vosotros íbais a ayudarlos?
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Si pudiéramos ayudar,
+lo haríamos...
+<PUSH>
+Pero, el enemigo ha levantado
+una barrera EM alrededor
+de todo el planeta.
+<PUSH>
+No podemos atravesarla para
+unirnos a la batalla.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Una barrera que ni los tres
+sabios del <Pianeta.AM-color>
+pueden cruzar? Increíble.
+<PUSH>
+¿Sabéis quién es el líder
+de esos «R»?
+<PUSH>
+¡Si lo sabéis, decídnoslo!
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Se hace llamar «Sirio».
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sirio...
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}No existen muchos datos
+sobre él.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Solo oímos que quería
+destruirlo todo...
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Sí...
+<PUSH>
+Sirio posee la habilidad de
+controlar agujeros negros.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Agujeros negros?!
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Sirio manda un agujero
+negro a cualquier planeta
+<PUSH>
+que desee, engulléndolo y
+acabando así con su existencia.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pero nadie puede controlar
+un agujero negro, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Salvo Sirio, al parecer.
+Aunque no tenemos ni idea
+de cómo lo hace.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿No hay ninguna forma de
+detener un agujero negro?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Por desgracia...
+No, que sepamos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ya veo...
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Pero una cosa
+sí podemos deciros.
+<PUSH>
+Han visto a un ser EM muy
+poderoso cerca del Planeta FM.
+No responde al título de «R».
+<PUSH>
+Desconocemos su paradero actual.
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Puede que se lo haya
+llevado una corriente de Ruido...
+<PUSH>
+Ese ser era más poderoso que
+nada contra lo que os hayáis
+enfrentado hasta ahora.
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}No bajeís la guardia
+mientras os ocupáis de
+Sirio y los «R».
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias!
+¡Estaré atengo!
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}El rey FM... Cefeo
+está luchando y espera
+tu llegada.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Entendido.
+¡Ayudaré a mi Hermano,
+cueste lo que cueste!
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Omega-Xis...
+Te confiamos la protección
+de Geo Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya lo sé!
+<PUSH>
+¡Y vosotros no venís,
+así que tendré que
+hacer el doble de daño!
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Bien...
+Contamos contigo,
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Alguien que puede
+controlar agujeros
+negros?
+<PUSH>
+¡No podemos dejar
+que se vaya de rositas!
+<PUSH>
+¡Vamos, chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+Cefeo, te salvaremos...
+¡A ti y al Planeta FM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

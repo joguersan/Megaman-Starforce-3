@@ -1,0 +1,59 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Let's show Dealer what we
+at <Studi.WBG> are really
+made of!!
+<PUSH>
+
+<NEW-DIALOG>
+=If I rework the functions of
+our transmission satellite, it
+can show an image of space.
+<PUSH>
+
+<NEW-DIALOG>
+<Nice!!
+We can search for the boy
+with that!!
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}There's just one more
+important thing to do then!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}There is something that I
+want to propose to the
+whole world via television!
+<PUSH>
+Belle, would you please
+present my proposal to
+everyone for me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+O-Of course!!
+I'm all over it!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,465 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+It appears your card
+input was successful.
+<PUSH>
+Oh? What's this...?
+<PUSH>
+Contained within this
+card is some VERY
+powerful noise.
+<PUSH>
+It seems you have
+obtained something
+very valuable.
+<PUSH>
+Be careful how you use it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+This card has been
+entered already.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Only one card bearing the
+Star Force logo can be
+<PUSH>
+entered automatically at
+a time.
+<PUSH>
+Do you wish to
+overwrite this card data?
+<PUSH>
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a pity... The number
+of cards you can register
+is limited to five.
+<PUSH>
+If you want to enter a new
+card you'll have to delete
+an old one.
+<PUSH>
+Would you like to delete
+a card?
+<PUSH>
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Do you want to enter a
+new card or cancel?
+{10}{EC}{00}{00}Enter
+{10}{EC}{01}{00}Cancel
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+You cannot enter cards of
+the same suit and number
+at the same time.
+<PUSH>
+Do you want to overwrite
+the previous card?
+<PUSH>
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Very well... Your card
+data will be overwritten.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Card data overwrite has
+been canceled...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Your customized data will
+be overwritten.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Your customized data has
+been changed successfully.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Ho ho... This card
+combination "Noise
+Band" is a very
+<PUSH>
+special card combination.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Two pair. Not bad. I see
+you are learning to use
+<PUSH>
+card combinations to
+control Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Three of a kind. Not bad.
+I see you are learning to
+<PUSH>
+use card combinations to
+control Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Ho ho... This combination
+is a Straight.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a surprise!
+A Heart Flush.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a surprise!
+A Diamond Flush.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a surprise!
+A Spade Flush.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a surprise!
+A Club Flush.
+
+<PUSH>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Impressive!
+A Full House.
+
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Very impressive!
+Four of a Kind.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+My my, a Straight Flush!
+Someone like you would be
+<PUSH>
+a valuable asset to my
+organization.
+<PUSH>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What's this? A Royal
+Flush! Most impressive.
+<PUSH>
+I could use someone
+like you to lead my
+organization...
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Oh... Five of a Kind, your
+ferocity is equal to that
+of Meteor G....
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Hmm? It seems you've
+gotten {2C}{E1} as an
+additional bonus...
+<PUSH>
+You've gotten very good
+at using card combinations
+to control Noise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Hmm? It seems you've
+gotten {2C}{E1} and {2D}{E1} 
+as an additional bonus...
+<PUSH>
+You've gotten very good
+at using card combinations
+to control Noise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+What a pity... It seems
+that by updating this
+<PUSH>
+card you have lost your
+Noise Band.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+It seems that Noise is
+eating away at your
+body...
+<PUSH>
+In battle you
+should use caution.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Do you really wish to
+delete this card data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Card data has been deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Start from the beginning?
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+
+{11}{EC}{00}{00}{01}{00}{11}{EC}{01}{00}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+B Button:RETRY
+[END]
+
+[SENTENCE NUMBER 5]
+Y Button:CAMERA
+[END]
+
+[SENTENCE NUMBER 6]
+Y Button:RETURN
+[END]
+
+[SENTENCE NUMBER 7]
+
+[END]
+

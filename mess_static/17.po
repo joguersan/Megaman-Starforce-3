@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "  "
+msgstr "  "
+
+msgctxt "1"
+msgid "Taurus"
+msgstr "Taurus"
+
+msgctxt "2"
+msgid "Cancer"
+msgstr "Cancer"
+
+msgctxt "3"
+msgid "Diamond"
+msgstr "Diamond"
+
+msgctxt "4"
+msgid "Ophiuca"
+msgstr "Ophiuca"
+
+msgctxt "5"
+msgid "Crown"
+msgstr "Crown"
+
+msgctxt "6"
+msgid "Plesio"
+msgstr "Plesio"
+
+msgctxt "7"
+msgid "Kidd"
+msgstr "Kidd"
+
+msgctxt "8"
+msgid "Cygnus"
+msgstr "Cygnus"
+
+msgctxt "9"
+msgid "Lyra"
+msgstr "Lyra"
+
+msgctxt "10"
+msgid "Club"
+msgstr "Club"
+
+msgctxt "11"
+msgid "Apollo"
+msgstr "Apollo"
+
+msgctxt "12"
+msgid "Phantom"
+msgstr "Phantom"
+
+msgctxt "13"
+msgid "Leo"
+msgstr "Leo"
+
+msgctxt "14"
+msgid "Hollow"
+msgstr "Hollow"
+
+msgctxt "15"
+msgid "Wolf"
+msgstr "Wolf"
+
+msgctxt "16"
+msgid "Gemini"
+msgstr "Gemini"
+
+msgctxt "17"
+msgid "Libra"
+msgstr "Libra"
+
+msgctxt "18"
+msgid "Corvus"
+msgstr "Corvus"
+
+msgctxt "19"
+msgid "Condor"
+msgstr "Condor"
+
+msgctxt "20"
+msgid "Moon"
+msgstr "Moon"
+
+msgctxt "21"
+msgid "Spade"
+msgstr "Spade"
+
+msgctxt "22"
+msgid "Auriga"
+msgstr "Auriga"
+
+msgctxt "23"
+msgid "Virgo"
+msgstr "Virgo"
+
+msgctxt "24"
+msgid "Pegasus"
+msgstr "Pegasus"
+
+msgctxt "25"
+msgid "Ace"
+msgstr "Ace"
+
+msgctxt "26"
+msgid "Andromeda"
+msgstr "Andromeda"
+
+msgctxt "27"
+msgid "Rogue"
+msgstr "Rogue"
+
+msgctxt "28"
+msgid "Protoman"
+msgstr "Protoman"
+
+msgctxt "29"
+msgid "Dragon"
+msgstr "Dragon"
+
+msgctxt "30"
+msgid "Joker"
+msgstr "Joker"
+
+msgctxt "31"
+msgid "Le Mu"
+msgstr "Le Mu"
+
+msgctxt "32"
+msgid "Bass"
+msgstr "Bass"
+
+msgctxt "33"
+msgid "Alpha"
+msgstr "Alpha"
+
+msgctxt "34"
+msgid "Beta"
+msgstr "Beta"
+
+msgctxt "35"
+msgid "Gamma"
+msgstr "Gamma"
+
+msgctxt "36"
+msgid "Delta"
+msgstr "Delta"
+
+msgctxt "37"
+msgid "Epsilon"
+msgstr "Epsilon"
+
+msgctxt "38"
+msgid "Zeta"
+msgstr "Zeta"
+
+msgctxt "39"
+msgid "Eta"
+msgstr "Eta"
+
+msgctxt "40"
+msgid "Theta"
+msgstr "Theta"
+
+msgctxt "41"
+msgid "Iota"
+msgstr "Iota"
+
+msgctxt "42"
+msgid "Kappa"
+msgstr "Kappa"
+
+msgctxt "43"
+msgid "Lambda"
+msgstr "Lambda"
+
+msgctxt "44"
+msgid "Mu"
+msgstr "Mu"
+
+msgctxt "45"
+msgid "Nu"
+msgstr "Nu"
+
+msgctxt "46"
+msgid "Xi"
+msgstr "Xi"
+
+msgctxt "47"
+msgid "Omicron"
+msgstr "Omicron"
+
+msgctxt "48"
+msgid "Pi"
+msgstr "Pi"
+
+msgctxt "49"
+msgid "Ro"
+msgstr "Ro"
+
+msgctxt "50"
+msgid "Sigma"
+msgstr "Sigma"
+
+msgctxt "51"
+msgid "Tau"
+msgstr "Tau"
+
+msgctxt "52"
+msgid "Upsilon"
+msgstr "Upsilon"
+
+msgctxt "53"
+msgid "Phi"
+msgstr "Phi"
+
+msgctxt "54"
+msgid "Kai"
+msgstr "Kai"
+
+msgctxt "55"
+msgid "Psi"
+msgstr "Psi"
+
+msgctxt "56"
+msgid "Omega"
+msgstr "Omega"
+
+msgctxt "57"
+msgid " "
+msgstr " "
+
+msgctxt "58"
+msgid " "
+msgstr " "
+
+msgctxt "59"
+msgid " "
+msgstr " "
+
+msgctxt "60"
+msgid " "
+msgstr " "
+
+msgctxt "61"
+msgid " "
+msgstr " "
+
+msgctxt "62"
+msgid " "
+msgstr " "
+
+msgctxt "63"
+msgid " "
+msgstr " "

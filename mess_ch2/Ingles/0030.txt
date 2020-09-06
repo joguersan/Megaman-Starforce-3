@@ -1,0 +1,780 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Mega Man...
+He's capable of more than
+I imagined...
+<PUSH>
+He foiled our plans not
+only here, but also at
+Echo Ridge Elementary...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man... No.
+<PUSH>
+Geo Stelar and his friends.
+They're not half bad are
+they?
+<PUSH>
+Link Power comes from
+their team work, right?
+<PUSH>
+I've never met anyone like
+them before.
+<PUSH>
+Heh heh heh...
+They're kind of interesting...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Jack...
+Did you get the data from
+Mega Man...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Yeah, piece of cake.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+It appears that the
+secret key to his power
+<PUSH>
+is Geo Stelar's Wizard,
+Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Corvus>
+Omega-Xis?
+<PUSH>
+Ohoho. I haven't heard that
+name in a long time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Do you know him, Corvus?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Yeah, he's an old friend.
+<PUSH>
+When I first heard of
+Mega Man, I thought
+something smelled fishy.
+<PUSH>
+I never thought I'd meet
+him again, especially here!
+<PUSH>
+This is getting interesting!
+Right, Virgo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+Kyahaha!
+<PUSH>
+It was worth coming all
+the way to this planet
+and becoming Tia's Wizard!
+<PUSH>
+I've never had a dull
+moment here, with all the
+human suffering to see!
+<PUSH>
+Kyahahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+I made the right decision
+becoming Jack's Wizard,
+as well!
+<PUSH>
+Hey, Jack and Queen Tia!
+What kind of trouble are
+we going to cause next!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What do you think, Sis?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+There's going to be an
+entertaining event at Echo
+Ridge Elementary soon...
+<PUSH>
+We're going to take
+advantage of it...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Sounds fun!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Kyahahaha!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}<(Queen)Tia>
+{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Well you see.
+It's like you said.
+There was a problem here...
+<PUSH>
+But it's been settled...
+There were no injuries or
+any reasons to be alarmed.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+(It's best to keep our
+ mouths shut, Belle.)
+<PUSH>
+(We should
+ leave it to Lee.)
+<PUSH>
+
+<NEW-DIALOG>
+0That's not enough for us.
+<PUSH>
+In this studio, we've
+detected enough Noise that
+<PUSH>
+Crimson should have
+appeared.
+<PUSH>
+As Satella Police, we can't
+let something like that go
+unchecked.
+<PUSH>
+
+<NEW-DIALOG>
+1We can let it be that the
+problem is resolved but...
+<PUSH>
+We can't leave until you
+give us a detailed report
+of exactly what happened.
+<PUSH>
+And we must also acquire
+a statement from all other
+parties involved.
+<PUSH>
+
+<NEW-DIALOG>
+0We must find and arrest
+whoever released all the
+Noise.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Belle>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+(It's OK, Belle...
+ I'll tell them everything.)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+(No way. You were being
+ controlled. You didn't do
+ anything wrong!)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Just wait a second!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I'm Sonia Strumm!
+<PUSH>
+
+<NEW-DIALOG>
+1We know that.
+<PUSH>
+
+<NEW-DIALOG>
+0We watch your TV show
+every week.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thank you so much!
+<PUSH>
+Anyway...
+<PUSH>
+The problem occurred while
+my concert was taking
+place.
+<PUSH>
+Umm...
+It's like this!
+<PUSH>
+We tried to make it snow
+on stage during the
+performance.
+<PUSH>
+Right, Lee!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Umm{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} Exactly!!
+<PUSH>
+Then the equipment went
+a little haywire!
+<PUSH>
+And the stage got a tiny
+bit cold!
+<PUSH>
+Then some Noise was
+released by the equipment
+that malfunctioned.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+She's doing this for me...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+And so...
+Mystery solved!
+<PUSH>
+As you can see, nothing
+really happened!
+<PUSH>
+But thanks for checking!
+And sorry for the trouble!
+Have a safe trip back!
+<PUSH>
+
+<NEW-DIALOG>
+0No, no, no.
+We aren't fooled that
+easily.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+1Sonia Strumm...
+We are professionals.
+<PUSH>
+We can tell a lie from a
+mile away...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1And also people who are
+hiding things from us.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+And I'm telling you that
+nothing happened!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I was a member of the
+audience and I didn't see
+anything happen.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah!
+Me, neither!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Sonia was so intense that
+the stage was actually
+burning up!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+*Ahem*...
+That settles it, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+On top of the fact that
+there is no one complaining
+<PUSH>
+of damages, you have no
+conclusive evidence.
+<PUSH>
+Thank you for coming, but
+there's nothing to be done.
+Please let us be.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Way to go, Prez...)
+<PUSH>
+{13}{EC}(The way she spoke was so
+ calm, yet there was so
+ much authority behind it.)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(Wow...)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(She's scary...)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}(Scary, but...)
+<PUSH>
+{13}{EC}(I'm really grateful, Luna!)
+<PUSH>
+
+<NEW-DIALOG>
+0*Hmph*... But...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+It's fine, isn't it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}"{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ace!
+<PUSH>
+
+<NEW-DIALOG>
+0Eos...
+<PUSH>
+But...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Do you mind leaving the
+rest to me?
+<PUSH>
+As a Satella Police officer,
+I won't let anything happen.
+<PUSH>
+
+<NEW-DIALOG>
+1Understood.
+I can't say no to you.
+<PUSH>
+
+<NEW-DIALOG>
+0See you back at HQ.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*munch, munch*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...?
+<PUSH>
+What's with the stares...?
+You want a Mega Snack?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm, Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Are you a Satella Police
+officer?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yep, sure am.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+R-R-Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Really.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Awesome!
+<PUSH>
+I didn't think you were an
+ordinary guy, but I never
+would have thought this!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'm in awe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Do you know him?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+<PUSH>
+He's got a really strong
+Wizard named Acid!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Ugh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Umm...
+Thank you so much!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I brought your album with
+me...
+<PUSH>
+Umm, would you please do me
+the honor of signing it?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Huh? Umm, sure.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*scribble, scribble*
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+How's this...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Can you please write,
+"To A.C.", too?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+S-Sure...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Oh, this is great!
+Thank you!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thank you for supporting
+my music...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+(...Harp Note.)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+(...I'm going to need to
+ borrow your power some
+ day soon.)
+<PUSH>
+(Tell Mega Man over there
+ that I said, "Hello".)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Is something wrong, Sonia?
+You look pale.
+<PUSH>
+Was it something he said?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sonia...?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I-It's nothing.
+<PUSH>
+{13}{EC}(A.C. Eos...)
+<PUSH>
+{13}{EC}(Just who exactly are you?)
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Purpose fulfilled!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

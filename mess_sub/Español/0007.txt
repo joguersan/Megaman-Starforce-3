@@ -1,0 +1,10 @@
+[SENTENCE NUMBER 1]
+Objeto que aumenta tus
+PV máximos en 10.
+[END]
+
+[SENTENCE NUMBER 2]
+Objeto que aumenta tus
+PV máximos en 20.
+[END]
+

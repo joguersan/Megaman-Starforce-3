@@ -1,0 +1,61 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¡¡Raaaaaarrr!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Jack y la Srta. Tia han
+entrado al Meteorito G
+por aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Argh!!
+¡¡El acceso está restringido!!
+<PUSH>
+¡¡Nos han dejado fuera!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+El Meteorito G...
+Va a chocar contra
+la Tierra...
+<PUSH>
+¡¿Qué hacemos?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Aquí no podemos hacer más...
+<PUSH>
+Volvamos con Heartless.
+A lo mejor ella sabe algo
+que nos pueda ayudar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Buena idea.
+<PUSH>
+¡Puede que ella nos ayude!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

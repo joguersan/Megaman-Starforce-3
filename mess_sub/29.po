@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Star Card"
+msgstr "Carta estelar"
+
+msgctxt "1"
+msgid "NO ACCESS"
+msgstr "PROHIBIDO"
+
+msgctxt "2"
+msgid "Card Box"
+msgstr "Caja de cartas"
+
+msgctxt "3"
+msgid "Batl Card"
+msgstr "Cartas c."
+
+msgctxt "4"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "5"
+msgid "Equip"
+msgstr "Equipo"
+
+msgctxt "6"
+msgid "ChgName"
+msgstr "C. nombre"
+
+msgctxt "7"
+msgid "View"
+msgstr "Ver"
+
+msgctxt "8"
+msgid "Trader"
+msgstr "Comerciante"

@@ -1,0 +1,86 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa...
+The tremors are getting
+worse...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Road!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's starting to collapse!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Run, kid!
+Just keep moving!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+O-OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There're cracks all over the
+Wave Road thanks to the
+earthquakes!
+<PUSH>
+Jump over the cracks with
+the A Button.!
+<PUSH>
+If you trip on a crack, you'll
+slow down for a moment and
+you'll lose time!
+<PUSH>
+So get through as fast as
+you can without getting
+swallowed up!
+<PUSH>
+If you do fall down, going
+back is a pain in the butt!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

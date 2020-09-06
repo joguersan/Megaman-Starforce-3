@@ -1,0 +1,107 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Estamos aquí, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Es la voz de Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+¡Rápido, ayúdanos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Tu turno, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Vamos allá!
+<PUSH>
+¡Mmmrrrggg!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Bien hecho, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Soy el amo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Gracias, Geo!
+<PUSH>
+¡Me preocupaba no
+llegar a tiempo!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Sonia! ¡Prepárate,
+rápido! ¡Sales en
+unos minutos!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Ay, porras! ¡Es verdad!
+¡Gracias otra vez, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El concierto empezará
+enseguida.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡La Onda Real debe estar
+lista para entonces!
+<PUSH>
+¡Vamos a ver a Lee, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale!
+<PUSH>
+
+[END]
+

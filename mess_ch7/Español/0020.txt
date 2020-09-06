@@ -1,0 +1,264 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Es igual que en la NAZA...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que aquí nadie nos
+va a poner al corriente
+de lo que está pasando.
+<PUSH>
+¿Cuánta gente habrá
+ahí dentro?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, me llama el
+Sr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Vaya... ¿Ya estáis en el
+<Studi.WBG>?
+<PUSH>
+Geo, menudas prisas
+te das.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sr. Boreal, aquí no hay
+nadie que pueda informarnos
+de la situación.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Mmmm, ya veo.
+<PUSH>
+Os diré todo lo que
+sabemos hasta ahora.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Por qué habéis
+tardado tanto?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+El <Studi.WBG> ha sido
+evacuado casi
+por completo.
+<PUSH>
+Sin embargo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Sin embargo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Parece que la estrella Belle
+no ha conseguido escapar
+en medio de todo ese caos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Belle?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Y el miembro del personal,
+Lee Stern, fue engullido
+<PUSH>
+por el inhibidor cuando
+fue a rescatarla.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Lee y Belle...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Los conoces?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Son los únicos que
+no han escapado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Así es.
+<PUSH>
+Geo, ¿podrías entrar
+ahí dentro y rescatarlos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Pues claro!
+¡Yo me encargo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Menos mal.
+<PUSH>
+¡Enviaré a unos oficiales
+de la Policía Satella
+para ayudaros!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo!
+¡Haremos lo mismo que
+en la NAZA!
+<PUSH>
+¡Yo me cargo las zonas más
+débiles para que podamos
+entrar en la Disonancia!
+<PUSH>
+¡Y luego buscamos
+a esos dos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Me parece bien!
+¡¡Enséñale a esa
+pared quién manda!!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Wizard On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrrrrr!!
+<PUSH>
+¡¡Hora de tirar la
+pared abajo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Grr! ¡¡Roooaaar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale! ¡¡Vamos allá, he
+abierot un par de
+entradas en la Disonancia!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Gracias, Mega!!
+<PUSH>
+¡Chicos, esperadnos!
+¡¡Vamos a por vosotros!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

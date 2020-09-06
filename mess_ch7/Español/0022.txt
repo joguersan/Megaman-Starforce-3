@@ -1,0 +1,167 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Fiu...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No espera que aparecieran
+más cosas de estas!
+¡¡Malditas copias!!
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}¡Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Nos llevaremos a
+estos dos al hospital
+para hacerles unas pruebas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¿Al hospital?
+Pero si no tengo
+ninguna herida.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Sí, pero habéis
+pasado mucho tiempo
+dentro de la Disonancia.
+<PUSH>
+Solo para estar tranquilos,
+os realizaremos
+un chequeo.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Tiene sentido...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Oh, odio los hospitales...
+<PUSH>
+No me gusta cómo huelen...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Belle, ve al médico a
+que te examinen.
+<PUSH>
+Si te pones mala, no
+podrás superar a Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}En fin...
+Buen trabajo, Mega Man.
+<PUSH>
+Cuídate.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, un mensaje...
+¿De quién será?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Mira a ver.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Un código para acceder
+a la base de King?!
+<PUSH>
+{02}{E2}{0B}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Mega Man ha obtenido:
+«Llave de Dealer»!
+<PUSH>
+{01}{E2}{0B}{00}
+<NEW-DIALOG>
+<Megaman>
+¿Pero quién...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Quieres intentarlo?
+<PUSH>
+Podría ser una trampa.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tengo que hacerlo.
+<PUSH>
+Si es una trampa,
+estaremos preparados.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Seguro que en la Onda
+Aérea hay una puerta que
+se abre con esta llave.
+<PUSH>
+¡Vamos, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip ¡Hola!
+<PUSH>
+¡En este juego, donde eres
+el héroe, tienes que salvar
+la tierra de un OVNI malvado!
+<PUSH>
+Además, como eres un héroe
+de verdad creo que deberías
+probarlo, pip.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

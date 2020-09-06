@@ -1,0 +1,53 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...It's coming!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Uh oh!
+This guy is even stronger
+than the last one!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Come on, Rogue!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Don't get too excited.
+Us working together is not
+going to be a regular thing...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

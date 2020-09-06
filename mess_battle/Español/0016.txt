@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Virgo
+<PUSH>
+Cartas Agua no aten.:
+ataque +30
+<PUSH>
+Anula congelamiento
+y burbuja
+<PUSH>
+Ataque cargado:
+"Malestrom", inunda
+toda la fila
+<PUSH>
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Virgo
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C7}{10}
+[END]
+

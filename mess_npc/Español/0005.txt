@@ -1,0 +1,709 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Geo!?
+<PUSH>
+¡Pero qué te has creído
+que haces!
+<PUSH>
+¡Cómo te atreves a entrar en
+el cuarto de una dama
+sin picar en la puerta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡L-lo siento,
+Dele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Qué buen trabajo has hecho,
+Geo!
+<PUSH>
+¡Oh! ¿Así que Dele también
+te ha invitado a su casa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0D}{E1}{00}{00}cd<(Queen)Tia>
+{0D}{E1}{00}{00}ee({0D}{E1}{00}{00}ff2{0D}{E1}{00}{00}gg<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Sigo viva gracias a ti
+y al esfuerzo de todo
+el mundo.
+<PUSH>
+¡Y sobre todo a la
+Dra. Goodall!
+<PUSH>
+Tienes que ayudarla, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0D}{E1}{00}{00}cd<Heartless>
+{0D}{E1}{00}{00}ee*{0D}{E1}{00}{00}ff4{0D}{E1}{00}{00}gg>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡La Dra. Goodall está viva!
+Pedia ha detectado
+<PUSH>
+sus constantes vitales
+en la NAZA.
+<PUSH>
+¡Geo, aún podemos salvarla!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0D}{E1}{00}{00}cd!{0D}{E1}{00}{00}ee+{0D}{E1}{00}{00}ff5{0D}{E1}{00}{00}gg?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Parece que Zack y Pedia
+han detectado las constantes
+vitales de la Dra. Goodall!
+<PUSH>
+¡Geo, si te das prisa podrás
+salvarla!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Qué alivio! La Dra. Goodall
+está a salvo.
+<PUSH>
+Pero esto es solo un pequeño
+paso.
+<PUSH>
+No podemos bajar la guardia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡No podemos rendirnos!
+Porque Dealer, no, King,
+no dejará de atacar
+<PUSH>
+hasta que tenga a todo el
+mundo rendido a sus pies.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Qué buen trabajo, Geo!
+¡Cuanto me alegro de que
+hayas rescatado a la doctora!
+<PUSH>
+¿Cuál será el próximo
+movimiento por parte de
+Dealer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Ahora el <Studi.WBG>!?
+¡No puedo creérmelo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Dealer...
+<PUSH>
+No parece que tengan
+intención de parar el
+ataque.
+<PUSH>
+Ahora pongo a Pedia a
+investigar.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+El Ruido es tan fuerte
+que me es imposible
+averiguar nada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Belle! ¡Lee!
+<PUSH>
+¿¡Están bien!?
+¿¡Y si les ha
+pasado algo!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Has encontrado a King!?
+Si queréis ir a salvarle...
+¡Tened cuidado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Parece que puedes usar esa
+notificación en la Onda
+Aérea.
+<PUSH>
+¡Ten cuidado, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿De verdad vas a ir,
+Geo? ¿Crees que funcionará
+la notificación?
+
+<PUSH>
+Estoy muy preocupada...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Jack y la Srta. Tia quieren
+hacerse con el control de
+<PUSH>
+Dealer y estrellar
+Meteorito G contra la Tierra?
+<PUSH>
+¿Se puede hacer algo para
+pararles los pies?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Snif...
+Es muy triste...
+<PUSH>
+¿Por qué hay que luchar?
+¿No podríamos simplemente
+llevarnos bien?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+No te preocupes, Geo.
+Seguro que no te pasa nada
+si hablas con ellos...
+<PUSH>
+Al Jack que conocimos
+en <Alohaha> le encantaba
+pasárselo bien.
+<PUSH>
+Y la Sra. Tia parecía
+que estuviese reprimiendo
+su tristeza.
+<PUSH>
+Ellos dos no son mafiosos,
+no son como los demás,
+lo sé.
+<PUSH>
+Solo habla con ellos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+

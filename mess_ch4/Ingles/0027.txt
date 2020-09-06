@@ -1,0 +1,130 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+There's nowhere else to run,
+Dark Phantom!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh,{15}{E1} have you finally accepted
+your fate?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+...Why?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Why is Mega Man always
+in my way!?
+<PUSH>
+Why!?
+Tell me!
+<PUSH>
+Why{15}{E1} won't you follow my
+script!?
+<PUSH>
+It's such a perfect script!
+<PUSH>
+I steal the source of your
+power, then I destroy you!
+<PUSH>
+I get my revenge and grow
+stronger all in one swoop!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're such an idiot!
+<PUSH>
+We couldn't care less about
+your stupid script!
+<PUSH>
+Geez. How many times do I
+have to say it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{13}{EC}...!!
+<PUSH>
+Now I completely understand...
+<PUSH>
+{12}{E2}<Solo>
+{01}{00}
+<NEW-DIALOG>
+<Dark.Phantom>
+You fools...
+<PUSH>
+You fools haven't read my
+script! That's why you aren't
+acting according to it!
+<PUSH>
+It's not the writer's fault{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+You selfish actors are
+completely to blame!
+<PUSH>
+You fools{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+You fools{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What the heck is this guy
+talking about!?
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Dark.Phantom>
+It's all your fault!!
+You're fired!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nope, it's you who's fired!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock, Mega!!
+<PUSH>
+Wave Battle{15}{E1}
+Ride{14}{E1} On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

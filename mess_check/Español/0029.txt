@@ -1,0 +1,158 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}ì{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una mesa con una ruleta.
+Me da mala espina.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Mira, mira!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha recibido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una obra de arte colgada
+que parece una ficha de las
+que usan en los casinos...
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{96}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una mesa con una ruleta.
+Me da mala espina.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

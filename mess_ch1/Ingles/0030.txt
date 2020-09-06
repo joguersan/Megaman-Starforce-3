@@ -1,0 +1,81 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*alarm siren*
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+W-What's going on!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It looks like the Security
+System was activated.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+But, why?
+I haven't seen or heard
+anything strange...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Hey, what should we do!?
+We're trapped!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I know, Mega!
+<PUSH>
+The Security System should
+be here somewhere...
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+According to my <Spica.Mall>
+map, the Security System
+is behind that door.
+<PUSH>
+However, the construction
+of the building is quite
+complicated.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Thanks, Pedia!
+<PUSH>
+I'll turn into Mega Man and
+investigate the
+Security Sys CC!
+<PUSH>
+
+[END]
+

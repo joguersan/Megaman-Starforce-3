@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEste es el arco de
+<Studi.WBG>.
+<PUSH>
+Innumerables famosos han
+pasado por aquí.
+¡Hasta quien tú ya sabes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

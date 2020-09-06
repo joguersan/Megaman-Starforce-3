@@ -1,0 +1,217 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis butterfly specimen is
+being displayed on all
+air displays.
+<PUSH>
+I bet the actual butterfly is
+out in the wild soaring
+through the sky.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{05}{00}{0B}{00}{0C}{E1}{01}{00}{04}{00}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Burble burble...
+<PUSH>
+Burble burble...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Master the use of
+Default Cards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Burble burble...
+<PUSH>
+Burble burble...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Burble burble...
+<PUSH>
+Burble burble...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's asleep.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Is that the sound of
+him snoring?
+<PUSH>
+Heeey! Wake up!
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+.{15}{E1}.{15}{E1}.{15}{E1}*gasp*
+<PUSH>
+Oh no!
+I overslept!
+<PUSH>
+Thank you!
+I'll get back to displaying
+the specimen right away!
+<PUSH>
+{10}{E2}Ì
+<NEW-DIALOG>
+<Game>
+The display of the
+specimen is fixed!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Alright, that should've done it!
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+For waking me up,
+I'll tell you about
+Default Cards!
+<PUSH>
+A Default Card is one
+Standard Class Card
+from your folder that
+<PUSH>
+you designate, which
+will always appear first
+<PUSH>
+on your Custom Screen
+in battle.
+<PUSH>
+If you master its use,
+you will definitely gain
+an advantage!
+<PUSH>
+To make a card a
+Default Card, select it
+<PUSH>
+with the cursor and
+press the Y Button.
+<PUSH>
+And that's about all you
+need to know about
+{68}{E2}s!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Default Cards...
+They sound pretty
+handy!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Not to change the
+subject... but shouldn't
+<PUSH>
+you go and let that
+scary teacher know that
+the specimen is fixed!?
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{05}{00}
+[END]
+

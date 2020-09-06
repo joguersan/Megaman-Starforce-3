@@ -1,0 +1,92 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+At The Same Time...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+We have destroyed all of
+the WAZA HQs of the world,
+<PUSH>
+and now we are also able
+to control Meteor G!
+<PUSH>
+However...!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+We don't have 100% control!
+We need a vast amount
+<PUSH>
+of Crimson in order to
+completely control it!
+<PUSH>
+I never would have imagined
+Meteor G being
+this gigantic!
+<PUSH>
+We definitely need to get
+our hands on some more
+Crimson, don't we, Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Jack and Queen Tia were
+in charge of the Crimson
+collection...
+<PUSH>
+Do you plan on rescuing
+them?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}That will not be necessary,
+Mr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+I have an idea...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]
+

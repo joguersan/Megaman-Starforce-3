@@ -1,0 +1,1038 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}`
+{08}{E1}{00}{00}a<Geo>
+{08}{E1}{00}{00}b<(Queen)Tia>
+{08}{E1}{00}{00}c({08}{E1}{00}{00}d2{08}{E1}{00}{00}e<{08}{E1}{00}{00}fF{08}{E1}{00}{00}gP{08}{E1}{00}{00}hZ{08}{E1}{00}{00}id{08}{E1}{00}{00}jd{08}{E1}{00}{00}od
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go back to your house
+and work out a strategy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Why don't you talk to
+everyone for a bit?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{51}{08}{53}{08}<Joker>
+{09}{E1}{00}{00}{53}{08}{55}{08}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We're going to WAZA!
+We have to save Dr. Goodall!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{08}{E1}{06}{00}{00}{03}!{08}{E1}{06}{00}{60}{51}"{08}{E1}{06}{00}{61}{51}"{08}{E1}{06}{00}{62}{51}"
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Hurry up and get to
+WAZA! Don't you want to
+save the old lady!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We can enter the Noise
+Wave through the holes
+I knocked in the wall!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Is Dr. Goodall here!?
+Find her, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{0C}{E1}{01}{00}z*{08}{E1}{06}{00}{60}{51}){08}{E1}{06}{00}{61}{51}){08}{E1}{06}{00}{62}{51})
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It looks like the old lady
+has a plan. Go talk to her.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Come on, kid!
+Pulse out and go
+talk to Dr. Goodall!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+She said something was
+in <Castello.Alohaha>, right?
+Let's check it out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{5B}{08}{5D}{08}3{09}{E1}{00}{00}{5D}{08}{5F}{08}4{09}{E1}{00}{00}{5F}{08}{63}{08}5
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You ought to go see your
+mom!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You should get some rest.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+He said to check out the
+TV. I wonder if something
+is up?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{65}{08}{67}{08}={09}{E1}{00}{00}{67}{08}{69}{08}>
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+King attacked <Studi.WBG>!
+We have to go help!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{08}{E1}{06}{00}{00}{01}?{08}{E1}{06}{00}{63}{51}<Chery.Blosom>
+{08}{E1}{06}{00}{64}{51}<Chery.Blosom>
+{08}{E1}{06}{00}{65}{51}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go rescue Lee and
+Belle! Get a move on
+to <Studi.WBG>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We can enter the Noise
+Wave through the holes
+I knocked in the wall!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+{0C}{E1}{01}{00}{7B}{00}A{0C}{E1}{01}{00}|B
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Lee and Belle should be
+here somewhere! Find them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We still have to find Belle!
+Hurry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We still have to find Lee!
+Hurry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{09}{E1}{00}{00}{6B}{08}{6D}{08}G{09}{E1}{00}{00}{6F}{08}{71}{08}H{09}{E1}{00}{00}{71}{08}{73}{08}J
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You can get to King via the
+Astro Wave with that pop-up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{08}{E1}{06}{00}{00}{06}I
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I've got a bad feeling about
+this... But we're not giving up!
+Let's keep going!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That jerk, King, is definitely
+around here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+{08}{E1}{06}{00}{00}{76}K
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We have to hurry to the
+{17}{E5}! Those
+two must be stopped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Jack and Queen Tia are in
+here... We have to act quickly
+and stop those two!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{75}{08}{77}{08}Q{09}{E1}{00}{00}{77}{08}{79}{08}S
+[END]
+
+[SENTENCE NUMBER 82]
+{08}{E1}{06}{00}{00}{06}R
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's return to the Orbital
+Base and talk to that one
+lady... Heartless, or whatever.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go talk to that lady,
+Heartless, or whatever.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{08}{E1}{06}{00}{00}{03}T{08}{E1}{06}{00}{01}{03}T{08}{E1}{06}{00}{02}{03}T{08}{E1}{06}{00}{00}{93}U{08}{E1}{06}{00}{01}{93}U{08}{E1}{06}{00}{02}{93}U
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Boreal is waiting at WAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Boreal is in the Command
+Center. Go talk to him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Get off of the Wave Road
+and go see Boreal in the
+Command Center.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Isn't everyone waiting in
+<Echo.Ridge>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+{09}{E1}{00}{00}{7B}{08}{7D}{08}e{09}{E1}{00}{00}{7D}{08}{7F}{08}g{09}{E1}{00}{00}{81}{08}{83}{08}i{09}{E1}{00}{00}{83}{08}{DA}{08}k
+[END]
+
+[SENTENCE NUMBER 102]
+{08}{E1}{06}{00}{00}{03}f
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Finally...
+Let's head to WAZA, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Welcome to WAZA...
+Everyone is assembled.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+{08}{E1}{06}{00}{00}{03}h
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The plan is for us to trans
+into the rocket from WAZA!
+Meteor G, here we come!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Trans in to the rocket from
+that huge Wave Station!
+Watch out, Meteor G!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+{08}{E1}{06}{00}{02}{50}j
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's finally time!!
+We're going to Meteor G!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Meteor G is right out there!
+Get fired up kid! It's time to
+go buck wild on the bad guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+{08}{E1}{06}{00}{00}{66}l{08}{E1}{06}{00}{01}{66}l{08}{E1}{06}{00}{02}{66}l{08}{E1}{06}{00}{03}{66}m
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's finally time!!
+We're going to Meteor G!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We're stopping that stupid
+red shooting star no matter
+what it takes!! Onward, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+Are you ready for this?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+

@@ -1,0 +1,177 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Yahoo!!
+<PUSH>
+Geo, Luna, Bud, Zack!!
+<PUSH>
+I can't believe it!!
+I never expected to see
+you all here!!
+<PUSH>
+What are you guys doing
+here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+We're on a school trip.
+<PUSH>
+What about you?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+I'm doing a photo shoot for
+my next album cover.
+<PUSH>
+We wanted to give the album
+a tropical feel, so we were
+taking photos here today.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+S-Sonia...!
+You really looked great
+for the TV show recording...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+And your bathing suit looks
+very nice!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Hee hee, thanks!
+<PUSH>
+But now I'm a little
+embarrassed.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+{13}{EC}(Ugh! Famous people...!)
+<PUSH>
+{13}{EC}(Someone like myself just
+ can't compete with them!)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(Don't worry, Luna! You're
+ just as great as her!)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+But...
+This beach was supposed to
+be reserved for the shoot...
+<PUSH>
+...I guess it's already past
+the reservation time.
+<PUSH>
+What should I do...?
+<PUSH>
+I should probably tell my
+agent that there's a bit of
+a problem...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+A problem?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Yeah...
+<PUSH>
+Actually, a part of the
+stone wall that's set up
+here is a Real Wave.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+Hmm...
+It's a Real Wave, huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Yeah, and...
+<PUSH>
+The stone wall was supposed
+to be changed into a flower
+<PUSH>
+bed of hibiscus, so we could
+get a few more photos.
+<PUSH>
+But it seems like there are
+some viruses in there, so
+we couldn't get it to change.
+<PUSH>
+Then a really big Wizard
+showed up and told us to
+leave it to him.
+<PUSH>
+Then he went into the
+Cyber Core.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+So what happened to the
+Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+He still hasn't come back..
+<PUSH>
+And it's been quite a while
+since he went in...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Yeah...
+I wonder what's up with that
+Wizard...?
+<PUSH>
+We should EM Wave Change
+and check it out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

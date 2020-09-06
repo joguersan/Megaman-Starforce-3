@@ -1,0 +1,87 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿M-Magnes?
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+¡Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Caray! ¡No está fuera
+de control! ¡Está
+totalmente loco!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡M-Magnes, ¿eres tú?!
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+¡Raaaaaarrrrrrrr!
+<PUSH>
+S {16}{E1}s {16}{E1}s {16}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Es Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No sé qué está pasando
+aquí, pero si no
+lo paramos...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡El cohete explotará y
+toda la escuela...!
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+¡Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que derrotarlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Todos confían en nosotros!
+¡Y nos están esperando!
+¡No podemos fallarles!
+<PUSH>
+¡Combate de ondas!
+Ride On!!
+<PUSH>
+
+[END]
+

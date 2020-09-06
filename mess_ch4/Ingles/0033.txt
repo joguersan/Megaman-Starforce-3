@@ -1,0 +1,400 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+...Thank you for getting here
+just in time, Mega Man.
+<PUSH>
+Now, we can get you started
+on your "mission".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+"Mission"...{15}{E1}!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+At the moment, Dr. Goodall
+is using the main computer
+to prepare our trump card
+<PUSH>
+that can wipe out all of the
+enemy in one shot.
+<PUSH>
+But it's still going to take
+some time to complete...
+<PUSH>
+We have to buy all the time
+we can for Dr. Goodall!
+<PUSH>
+All of the officers and
+Battle Wizards are rallying
+to work together and
+<PUSH>
+combine their power to
+protect the main computer!
+<PUSH>
+It's going to be rough...{15}{E1}
+<PUSH>
+But do you think you can
+handle it?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+Of course!
+<PUSH>
+{13}{EC}(If WAZA isn't...
+{13}{EC} If the main computer
+{13}{EC} isn't protected, then
+<PUSH>
+{13}{EC} we won't be able to
+{13}{EC} reconstruct Prez...!)
+<PUSH>
+{13}{EC}(We have no choice!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmph!
+I don't even care about
+your plan!
+<PUSH>
+I'll go crazy if I let such
+poor quality copies of me
+exist any longer!
+<PUSH>
+I'm gonna go buck wild and
+tear them all to pieces!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+M-Mega!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+<PUSH>
+And no squishy humans or
+regular old Battle Wizards
+better get in my way...
+<PUSH>
+Or else they'll end up like
+those copy freaks!!
+<PUSH>
+Everyone's better off just
+leaving everything to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa!
+You need to chill out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Another wave...!?
+I guess I'm not going to
+have snack time today!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+At the moment, it matters
+not what you are fighting
+for.
+<PUSH>
+Mega Man, your mission is
+to stop any enemies that
+try to destroy the shield.
+<PUSH>
+Ace and I will protect the
+inside of WAZA.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Acid, you jerk!
+Who gave you the right to-
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Understood!
+We'll stay here and protect
+the shield!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The shield is a vital part
+of WAZA's defenses.
+<PUSH>
+I trust you, Geo.
+<PUSH>
+...And Omega-Xis, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So then stop asking for our
+help only when you have no
+other choice!
+<PUSH>
+...Grrr!
+<PUSH>
+And why don't you stop
+using big words like "mission",
+<PUSH>
+and just tell us to tear to
+pieces any bad guys that
+come near the shield!?
+<PUSH>
+Short and sweet is the way
+to go!
+<PUSH>
+We don't need some crazy
+hour long tutorial!
+<PUSH>
+Right, kid!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm, sure, what you said.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo! I'm going to stay here
+with you and help protect
+the shield, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Well...
+<PUSH>
+I was hoping to have you
+help with defending the main
+computer room.
+<PUSH>
+Just in case...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+I see...
+B-But...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You don't have to worry
+about me, Sonia!
+<PUSH>
+It's best if you help keep
+Dr. Goodall, Bud and Zack
+safe.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+...OK.
+<PUSH>
+But don't do anything too
+stupid, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK, I promise!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+We should be on our way,
+too, Acid. Please open the
+access port.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Understood, Ace.
+<PUSH>
+Request to access port...{16}{E1}
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Transmitted.
+<PUSH>
+Access to satellite server
+LV25 has been granted.
+<PUSH>
+Commencing download.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Alright, Acid.
+How about we go buck wild
+for once!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+Be careful!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I will...
+And Geo,{15}{E1} you do the same.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Omega-Xis...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!?
+<PUSH>
+What do you want!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Feel free to call us anytime
+you need some help.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{15}{E1}What the...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Adieu.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Grrrrrr!!
+Man, he's so annoying!
+<PUSH>
+I just can't stand him!!
+<PUSH>
+...I'm so mad, no one's gonna
+even lay a freakin' finger on
+me today!
+<PUSH>
+Hey, kid!
+Listen real good to my
+explanation, OK!?
+<PUSH>
+Basically, you aren't going
+to do the actual fighting.
+<PUSH>
+I need you to run around
+and aim at the copies.
+<PUSH>
+Press the B Button and I'll
+tear them up with my claws!
+<PUSH>
+But if the timing is off and
+we miss, then you're going to
+have to join the fight.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There isn't even going to be
+a second available to look
+<PUSH>
+at your <Hunter> and do
+things like pulse out...
+<PUSH>
+So you better organize your
+folder how you like it, now!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This battle will be lost if
+the shield behind us is
+<PUSH>
+destroyed, or if we kick the
+bucket...
+<PUSH>
+But we'll be victorious if
+we delete every last one of
+them!!
+<PUSH>
+Are you all set!?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Yes   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Mega>
+Hurry up and get ready!!{15}{E1}
+I can't wait any longer!
+<PUSH>
+I'm all worked up!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

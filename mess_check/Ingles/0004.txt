@@ -1,0 +1,316 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{1D}{02}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It's still too early to go to
+sleep.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a TV.
+<PUSH>
+There's an older video game
+console connected to it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Maybe I'll get a new
+system for my birthday?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a control panel.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a desk.
+<PUSH>
+Doing homework on this desk
+will help the student finish
+three times quicker...
+<PUSH>
+Psyche!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bookshelf.
+<PUSH>
+It's full of video games
+and comic books.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a baseball glove and ball.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Dad gave these to me...)
+<PUSH>
+{13}{EC}(I'll always keep them safe.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a poster of a space
+shuttle.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a poster of the
+Pleiades star cluster.
+<PUSH>
+It's also known as
+the "Seven Sisters".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a globe.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Muwahaha...
+One day this
+planet will be mine!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A-Are you being serious...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a telescope.
+<PUSH>
+It's a pretty popular
+model among space lovers.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The weather is nice today.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a meteorite.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Isn't this awesome!?
+It's the real thing, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Are you really going to
+ brag about something
+ like that to an AM-ian?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a garbage can.
+It's easy to throw garbage
+in it since it's in the corner.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a poster of the famous
+baseball player, Ando Ryuu.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a dresser.
+Is there anything hidden
+behind the drawer?
+<PUSH>
+Nope.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's a big closet inside.
+It's full of a bunch of
+useless stuff.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A book that's been scribbled
+all over has fallen down.
+<PUSH>
+Title: "Baseball and Space".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What kind of book is this?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Call it quits for the day?
+{05}{EC}{00}{00}{02}{00}    {06}{EC}Sleep    {07}{EC}Don't sleep
+<PUSH>
+
+{11}{EC}{00}{00}{12}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{0A}{E1}{2D}{02}
+[END]
+

@@ -1,0 +1,209 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I can't find the exit for this
+Noise Wave!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+On top of that, I'm sensing
+something really suspicious...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+W-What's wrong, Rogue?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Here it comes.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Is that a virus!?
+<PUSH>
+No, it can't be...
+It's got to be Noise!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's what it looks like!
+It's completely made up of
+Noise!
+<PUSH>
+It's like a Noise cluster that
+can move around!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph...
+Dealer is into some elaborate
+stuff, it seems.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+So that means...
+<PUSH>
+That both this Noise Wave
+and that Noise monster are
+Jack's doing.
+<PUSH>
+It must be a Dealer weapon!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Exactly.
+<PUSH>
+I'm going to delete this thing.
+{15}{E1}...Give me a hand.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+That thing is in control of
+this area.
+<PUSH>
+If we delete it, we will be
+able to pulse out, and this
+Noise Wave will be destroyed.
+<PUSH>
+It's pretty simple.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How the heck do you know
+this, anyway!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph.
+<PUSH>
+I ran into one of these
+things before you caught up
+with me.
+<PUSH>
+It was actually pretty tough.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+So listen up.
+<PUSH>
+It attacks by firing out
+Noise.
+<PUSH>
+If you leave the Noise alone,
+it will explode and hurt you.
+<PUSH>
+The explosion causes a
+considerable shock wave.
+<PUSH>
+My EM shield didn't really
+have much of an effect, so...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+So use your Buster to
+destroy all the Noise that
+<PUSH>
+it fires out, before it
+explodes!
+<PUSH>
+I will time my attacks to its
+body with your attacks on
+the Noise.
+<PUSH>
+Got it?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK, let's do this!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Controls
++Control Pad: Aiming Cursor
+B Button: Mega Buster
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm ready any time, Rogue!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph.
+{16}{E1}Go!
+<PUSH>
+
+[END]
+

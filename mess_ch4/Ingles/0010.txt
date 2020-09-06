@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+That was the last piece of
+data in this area.
+<PUSH>
+...Let's go search a different
+area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

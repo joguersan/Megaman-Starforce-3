@@ -1,0 +1,108 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+So this is the Rocket CC?
+<PUSH>
+Magnes should be up ahead!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, a phone call...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+Uh, I mean... Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What is it, Prez?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I just heard from Woody
+that the Rocket CC has
+<PUSH>
+a very powerful magnetic
+force.
+<PUSH>
+So he wants to send in
+his Wizard to help...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Woody's Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yes, Magnes' little brother.
+His name is Coil.
+<PUSH>
+He can help in places
+where you can't move
+<PUSH>
+ahead due to the powerful
+magnetic force.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Prez!
+Tell Woody thanks for me!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You can do it, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's move, kid!
+<PUSH>
+We've got to stop the
+rocket from exploding!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

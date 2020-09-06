@@ -1,0 +1,272 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ungh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+El Ruido es demasiado fuerte{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+¿P-Pero qué...?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Je, je, je...
+<PUSH>
+¡¿A que duele, Megaman?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¿?!
+<PUSH>
+¡E-Esa voz...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Fantasma Oscuro?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Je, je, je!
+¡Es todo un honor
+que me recuerdes!
+<PUSH>
+¡Me dan ganas hasta de
+salir de esta oscuridad
+que me infunde poder!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Ahh?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Uuuaah?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Je, je, je!
+<PUSH>
+¿Qué te parece, Mega Man?!
+¡¿Te duele?! ¡Dímelo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Así que{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡Esto es cosa tuya!{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¿Mía?
+<PUSH>
+Yo soy un simple espectador.
+<PUSH>
+Estás nadando en un denso
+caldito de Ruido...
+<PUSH>
+¡Es mucho más del Ruido
+que puedes soportar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¿?!
+<PUSH>
+{13}{EC}(Mr. Boreal nos
+ habló de esto...)
+<PUSH>
+{13}{EC}(¡El Ruido se multiplica
+ en los seres EM!)
+<PUSH>
+{13}{EC}(¡Ah! ¡¿Por qué no
+ le escucharía?!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Es decir, os estáis
+autodestruyendo!
+<PUSH>
+¡Llevo mucho tiempo observandoos
+todo en pos de este momento!
+<PUSH>
+¡Todo va según el guión!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡!!
+<PUSH>
+¡Conque eso era lo que
+sentí en <Alohaha>!
+<PUSH>
+¿Te estás vengando de nosotros
+por destruir <Mu-color>?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Je, je, je. ¿Venganza?{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Ya lo creo.
+<PUSH>
+Pero no por Mu.
+<PUSH>
+¡Esto es por mí!
+¡Perdí todo lo que había
+amado o deseado!
+<PUSH>
+¡Vosotros dos me lo
+arrebatasteis todo!
+<PUSH>
+Mi poder... Mis sueños...
+¡¿Por qué el guión siempre
+le da la victoria al héroe?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Cres que...
+¿esto cambiará algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Je, je, je!
+<PUSH>
+Pasemos a la siguiente escena.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ungh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+Veo que sigues sin
+mancharte las manos.
+<PUSH>
+¡Quien nace cobarde...!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡Lo lamento, pero yo solo
+escribo un tipo de guión!
+<PUSH>
+Pero bueno...
+Son la mar de emocionantes,
+¿no os parece?{15}{E1} ¡Je, je, je!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrrrr!
+¡Voy a destrozarte!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡Estoy tan enfadado que ni
+me aguanto! ¡¡Chaval,
+hora de ponerse serios!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+V...{15}{E1} ¡Vale!
+<PUSH>
+{13}{EC}(¡Arg! Por mí bien...
+{13}{EC} Pero esto... está...)
+<PUSH>
+{13}{EC}(No...{15}{E1} ¡¡No puedo rendirme!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Je, je, je.
+¡Tranquilos, es normal
+que no podáis resistiros!
+<PUSH>
+¡Y ahora, en uno de los
+finales más apoteósicos
+que se recuerdan!...
+<PUSH>
+¡La venganza es mía!
+Y... ¡acción!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

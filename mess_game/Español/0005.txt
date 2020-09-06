@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¿Empezar desde el principio?
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+
+{11}{EC}{00}{00}{01}{00}{11}{EC}{01}{00}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+Botón B: REINTENTAR
+[END]
+
+[SENTENCE NUMBER 5]
+Botón Y: CÁMARA
+[END]
+
+[SENTENCE NUMBER 6]
+BOTÓN Y: VOLVER
+[END]
+
+[SENTENCE NUMBER 7]
+
+[END]
+

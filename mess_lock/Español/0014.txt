@@ -1,0 +1,114 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Espera!
+¿Qué piensas hacer cuando
+vuelvas a casa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}¡La playa está reservada!
+¡No puedes entrar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{29}{07}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No creo que veamos a
+Strong en el Camino Onda.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Dele y los demás nos
+esperan más adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tenemos que recuperar
+las cosas robadas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡No podemos perder el
+tiempo! ¡Tenemos que ir
+en la Onda Aérea a la WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Se han suspendido de
+forma temporal todas las
+líneas del surcaondas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Requerida clave de acceso
+CN para impulsionar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

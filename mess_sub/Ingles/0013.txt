@@ -1,0 +1,988 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 20]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 21]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 27]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 29]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 30]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 33]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 34]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 35]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 36]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 37]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 38]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 39]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 40]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 41]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 42]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 44]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 45]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 46]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 47]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 48]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 50]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 51]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 52]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 53]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 54]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 55]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 56]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 57]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 58]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 59]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 60]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 62]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to overwrite
+the data?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 63]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 64]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 65]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 66]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 67]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 68]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Is it OK to overwrite
+the data?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 69]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 70]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 71]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 72]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 74]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Is it OK to overwrite
+the data?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 75]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 76]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 77]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 78]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 79]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 80]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Is it OK to overwrite
+the data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 81]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 82]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 83]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save Complete!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 84]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 85]
+{17}{EC}{00}{00}{00}{EC}{02}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Initializing backup
+data... Do not
+turn off the power!
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 86]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 87]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Could not access the data.
+Turn off the power and
+reinsert the Game Card.
+[END]
+
+[SENTENCE NUMBER 88]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Could not access the data.
+Turn off the power and
+reinsert the Game Card.
+[END]
+
+[SENTENCE NUMBER 89]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save data {28}{E1}{02}{00} is
+corrupted. Reverted to
+previous save data.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 91]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Save data {28}{E1}{02}{00} is
+corrupted. You cannot play
+with this save data.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Deleting corrupted data...
+Do not turn off the power!
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 93]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Corrupted data has
+been deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+{17}{EC}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Delete all save data and
+return Game Card to initial
+state?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+{04}{EC}{1B}{EC}{00}{00}^
+[END]
+
+[SENTENCE NUMBER 95]
+{17}{EC}{00}{00}{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Game>
+Do you really want to
+delete all save data?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+{17}{EC}{00}{00}{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Game>
+All save data has
+been deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+{17}{EC}{00}{00}{00}{EC}{02}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Initializing backup
+data... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 98]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 99]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Save Complete!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+

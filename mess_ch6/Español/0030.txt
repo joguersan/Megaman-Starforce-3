@@ -1,0 +1,555 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Ungh...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A-Acid Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Haha... I'm not looking so
+great, am I?
+<PUSH>
+I thought I'd be able to take
+him out, even in this state...
+<PUSH>
+But apparently Joker has
+quite a grip on Acid and I...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Stand up, Acid Ace.
+<PUSH>
+Give in to your urge to
+wreak havoc, once again!
+<PUSH>
+You can hear me, can you
+not, Acid?
+<PUSH>
+Do as I say!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Just shut up already!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}And just what do you plan
+on doing to stop me?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Joker!!
+<PUSH>
+Do you think you can handle
+me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah.
+<PUSH>
+You've got a lot of nerve.
+<PUSH>
+However, it is not your time
+to fight.
+<PUSH>
+Be gone.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, Acid...
+<PUSH>
+And even Prez!
+<PUSH>
+You keep hurting the people
+who are special to me!!
+<PUSH>
+You will pay for that!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+You good-for-nothing...
+<PUSH>
+I was actually expecting a
+great deal from you...
+<PUSH>
+But you're just the same as
+this fool, who acts on the
+<PUSH>
+whim of his emotions and
+is willing to sacrifice himself.
+<PUSH>
+And you will die just like him.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho!
+<PUSH>
+It looks like you are having
+fun, Joker!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Mr. King...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Por qué no juegas un poco 
+más...
+<PUSH>
+¡Y más vale que te vuelvas 
+lo más loco que puedas!
+<PUSH>
+¡Joker!
+<PUSH>
+¡Enséñales tu verdadera forma!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Sí, señor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Jo, jo, jo...
+¡Esto va a ser la bomba!
+<PUSH>
+¿No crees, Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí, Mr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¿Le gustaría apostar sobre 
+quién ganará la batalla?
+<PUSH>
+¡Jo, jo, jo, jo, jo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Por orden del Sr. King, debo 
+mostrarte mi verdadera forma.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Tu verdadera forma?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+¡Ja!
+<PUSH>
+¡¡Ja, ja, ja!!
+<PUSH>
+Sólo unos pocos han visto el 
+poder de la estrella fugaz 
+roja...
+<PUSH>
+Usar su poder es...
+<PUSH>
+¡¡La razón de mi existenncia!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Esto es...!?
+¡¡Menuda cantidad de poder!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡¡Grrr!!
+<PUSH>
+¡¡Virtualizar!!{16}{E1}
+¡¡Dread Joker!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¡Ja, ja, ja, ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡E-el ha realizado un cambio 
+de onda!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Eso no es un cambio de onda!!
+<PUSH>
+¡N-No creo que sea humano!
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Ja, ja, ja...
+¡Correcto!
+<PUSH>
+Yo soy...
+<PUSH>
+El Wizard más poderoso jamás 
+creado...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡W-Wizard!?
+<PUSH>
+¿¡Eres un Wizard!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Esta forma es la 
+manifestación del poder de la 
+estrella fugaz roja.
+<PUSH>
+Solo aquellos quienes pueden 
+acceder al "Meteor Server" 
+pueden usar este gran poder!!
+<PUSH>
+¿Ves, Acid?
+¿¡Me escuchas, hermano!?
+<PUSH>
+¡¡Esta es también tu 
+verdadera forma!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡De qué hablas!?
+<PUSH>
+Joker...
+¿Cuál es tu relación 
+con Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Nosotros nacimos del mismo 
+código fuente.
+<PUSH>
+¡El programa fue diseñado 
+para crear Wizards adaptables
+a cualquier nivel de Ruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Hablas de la Resonancia!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Ja, ja, ja...
+<PUSH>
+¡Supongo! ¡Después de todo 
+has adquirido la misma 
+habilidad!
+<PUSH>
+Sin embargo...
+<PUSH>
+No eres más que una mera 
+imitación.
+<PUSH>
+¡Sólo puedes utilizar una 
+pequeña parte del poder del 
+Servidor del meteorito!
+<PUSH>
+¡¡Qué patetico!!
+<PUSH>
+¡Dejarlo en manos de un 
+humano asustado del poder sin 
+fin que el Ruido puede darle!
+<PUSH>
+Mega Man...
+<PUSH>
+Ese programa que estás 
+usando nos fue robado.
+<PUSH>
+¡Pero es solo una pequeña 
+parte de su poder!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No tenía ni idea de que...
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Mientras vosotros los humanos
+nos otorgásteis poder...
+<PUSH>
+Y la razón de nuestra 
+existencia...
+<PUSH>
+¡Pero luego pensasteis que 
+heramos demasiado poderosos
+y nos quitasteis el poder!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¿¡Puedes comprender como se 
+siente!?
+<PUSH>
+¿¡Cómo crees que se siente 
+que te quiten tu razón de 
+vivir!?
+<PUSH>
+¡En ese momento, el Sr. King 
+me dio otro propósito en la 
+vida!
+<PUSH>
+¡Como el Wizard del Sr. King,
+He podido volver a ser como 
+era antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Bah!!
+¿¡Un propósito!?
+<PUSH>
+¡Incluso un cabeza hueca como 
+tu, puede encontrar un 
+propósito por tí mismo!
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¿¡Qué quieres decir!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Que no entiendo todo eso
+que dices de «dar» y 
+«robar»!!
+<PUSH>
+¡Un Wizard no se preocupa
+por esas tonterías!
+<PUSH>
+¡¿Es que ahora te crees
+humano o qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¡¡...!!
+<PUSH>
+Yo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¿Humano{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}?
+<PUSH>
+...
+<PUSH>
+Je...
+<PUSH>
+Ja...
+<PUSH>
+¡Ja, ja, ja!
+<PUSH>
+Que gracioso{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} En serio...
+Es para partirse{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Yo volverme un humano...
+<PUSH>
+¡¡Ja, ja, ja!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¡¡Ja, ja, ja, ja, ja, ja!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué le pasa a este tipo?
+¿Se le han caido algunos 
+tornillos o qué?
+<PUSH>
+{12}{E2}<Solo>
+{00}{00}
+<NEW-DIALOG>
+<Dread.Joker>
+¿¡Te crees muy gracioso, eh!? 
+¡Ja, ja, ja!!
+<PUSH>
+Entonces, ¿¡por qué no usas 
+vienes y me enseñas lo que 
+realmente soy!?
+<PUSH>
+¡Humano, Wizard o lo que sea!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Encantado!
+Cuentalo como hacerte un 
+favor.
+<PUSH>
+¡Te daré todas las palizas 
+que quieras!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Joker!!
+<PUSH>
+¡Creo que deberías tener 
+cosas más importantes de las 
+que preocuparte, otras aparte 
+de que eres!
+<PUSH>
+¡Lo que haces está 
+perjudicando a millones de 
+personas!
+<PUSH>
+¡Incluidos aquellos que me 
+son cercanos!
+<PUSH>
+¡Debes ser detenido!
+<PUSH>
+Por lo que{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡¡Yo seré quien se encargue 
+de ti!!
+<PUSH>
+¡Combate de ondas,{16}{E1} adelante{15}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,22 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What is this place?
+The floor seems to be
+made out of playing cards...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That Noism over there might
+have a clue, kid!
+Try talking to him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

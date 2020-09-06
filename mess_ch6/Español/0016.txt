@@ -1,0 +1,122 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Esta es la base de Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eso parece.
+<PUSH>
+¡¡Mira eso!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡ {13}{EC}!!
+<PUSH>
+Sí... Creo que la hemos encontrado.
+<PUSH>
+Sin duda esta es la base
+de Dealer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Lo mejor es que nos pongamos
+en contacto con la policía
+Satella!
+<PUSH>
+¡ !
+<PUSH>
+No recibo ninguna señal...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Me acabo de dar cuenta!
+<PUSH>
+Este sitio administra las
+ondas EM de manera especial.
+<PUSH>
+¡Solo algunas ondas EM pueden
+entrar y salir de este lugar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ya veo...
+Este sitio está oculto de
+alguna manera.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Incluso buscando mediante
+ondas EM no funcionará.
+<PUSH>
+La única manera es viendolo
+con tus propios ojos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Aún así, tenemos que
+ponernos en contacto con
+la policía Satella!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Si encontrásemos algún lugar
+donde las ondas EM puedan pasar
+aunque sea por un momento...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Guay, he contactado
+con ellos.
+<PUSH>
+Sigamos investigando mientras
+esperamos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

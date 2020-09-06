@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+Dibujar
+con boli
+[END]
+
+[SENTENCE NUMBER 2]
+Extraer color
+del logo
+[END]
+
+[SENTENCE NUMBER 3]
+Dibujar
+una línea
+[END]
+
+[SENTENCE NUMBER 4]
+Rellenar
+con color
+[END]
+
+[SENTENCE NUMBER 5]
+Dibujar un
+cuadrado
+[END]
+
+[SENTENCE NUMBER 6]
+Dibujar un
+círculo
+[END]
+
+[SENTENCE NUMBER 7]
+Deshacer
+(10 máximo)
+[END]
+
+[SENTENCE NUMBER 8]
+Rehacer
+[END]
+
+[SENTENCE NUMBER 9]
+Color logo
+equipo
+[END]
+
+[SENTENCE NUMBER 10]
+Salir sin
+guardar
+[END]
+

@@ -1,0 +1,428 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+G{15}{E1}-Geo...!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I-Is that...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+S{15}{E1}-Solo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Have you changed your mind
+about working with the
+Satella Police...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Didn't you hear me the first
+time I said it?
+<PUSH>
+I have no intention of
+working with them or you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I see...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+S-So...
+Why are you here then?
+<PUSH>
+Are you trying to pick a
+fight!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+0Solo...!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Please, we need to work
+together!
+<PUSH>
+Let's fight together in order
+to protect the world from
+Dealer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+You fools...
+Do you ever learn?
+<PUSH>
+And just how long are you
+going to follow me around?
+<PUSH>
+
+<NEW-DIALOG>
+0Until you agree to join us...
+<PUSH>
+The Satella Police need to
+improve their fighting
+capabilities...
+<PUSH>
+Please!
+Join the Commandos...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+...Hmph.
+Fine...
+<PUSH>
+
+<NEW-DIALOG>
+0!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Bud>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+However...
+<PUSH>
+Only if you can capture me...
+Right here, right now.
+<PUSH>
+
+<NEW-DIALOG>
+0...If that's what it will take!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0I apologize...
+But you've given us no
+other choice!
+<PUSH>
+All Wizards!
+Attack!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Hmph...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}...Condition red. Damage
+exceeding acceptable limit.
+<PUSH>
+Aborting mission.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Is that...
+Really a Wizard!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+It's definitely not a normal
+Wizard, I'll tell you that.
+<PUSH>
+He's different from either
+me, Taurus, Acid, or Strong...!
+<PUSH>
+On top of that{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+He's really strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Argh...
+We're not done yet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+Hmph...
+<PUSH>
+If you're not going to come
+to me, then I'll have to come
+to you...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+Come, Laplace...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Ha!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0H-How...!?
+<PUSH>
+How is it possible to take
+out so many Wizards in just
+one attack...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Game over.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+I want nothing to do with
+such weak cockroaches.
+<PUSH>
+If you continue to follow me,
+it'll be game over for you
+too... permanently.
+<PUSH>
+
+<NEW-DIALOG>
+0...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+H-He did all that without
+even EM Wave Changing...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+W-Wow...
+He's way too strong...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+Listen up, Mega Man.
+<PUSH>
+I'm going to pull my own
+trump card on Dealer.
+<PUSH>
+Don't you dare get in my
+way...
+Or you'll be next.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+Solo...
+<PUSH>
+Why are you out to get
+Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Tawdry fools like Dealer
+have no right to use the
+power of Mu.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What!?
+Dealer is using Mu
+technology!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...The whole organization will
+be destroyed.
+<PUSH>
+You don't have the right to
+fight them over this issue.
+<PUSH>
+It is mine, and mine alone.
+<PUSH>
+So don't get in my way!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Solo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

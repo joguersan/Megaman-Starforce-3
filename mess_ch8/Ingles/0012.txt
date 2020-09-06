@@ -1,0 +1,107 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+We won...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Gahaha...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sirius!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+I see that you've eliminated
+all of my "R"s...
+<PUSH>
+I guess there is nothing left
+for you to do but to come
+and visit me.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What, you too scared to
+come to us!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+If you come to see me, then
+I'll add you to my collection.
+<PUSH>
+I'll put you right next to
+Planet FM.
+<PUSH>
+See you soon.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That guy doesn't listen to a
+word we say...
+He's beginning to irritate me.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, me too...
+Well... He hasn't left us with
+any other choice!
+<PUSH>
+We have to delete him!
+<PUSH>
+There's no other way!
+...Right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh.
+That's the Geo I like!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Haha!
+<PUSH>
+Let's rock, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ready when you are!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+

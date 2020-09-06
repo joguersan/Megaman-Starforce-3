@@ -1,0 +1,60 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{A5}{03}{04}{00}{0C}{E1}{01}{00}{AA}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Acceso restringido=
+<PUSH>
+Administradores:
+Diamond Ice R
+Fantasma Oscuro R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}{AC}{00}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Acceso restringido=
+<PUSH>
+Administradores:
+Diamond Ice R
+Fantasma Oscuro R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Suprimiendo restricciones...
+Acceso concedido.
+<PUSH>
+{0B}{E1}{A5}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+

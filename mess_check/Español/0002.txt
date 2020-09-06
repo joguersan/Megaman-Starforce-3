@@ -1,0 +1,946 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+No hay respuesta...
+<PUSH>
+Es una valla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un lujoso edificio de apartamentos.
+Tiene una cerradura electrónica
+y telefonillo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Las puertas de la escuela.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un buzón.
+<PUSH>
+Parece que hace siglos
+que nadie lo usa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{10}{16}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La piscina del edificio.
+Seguro que más de uno se
+ha mudado por esto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una caseta de perro.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Con alarma incorporada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Aquí no podrá dormir
+nadie entre el perro
+y la alarma...
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el río de Echo Ridge.
+<PUSH>
+Está lleno de peces
+nadando alegremente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una máquina de aire 
+acondicionado muy grande.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chico...
+¿Qué haces mirando eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno...
+Hay algo escrito. Mira.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+  Beta86425
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué significa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«¡YA A LA VENTA!»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una fuente.
+<PUSH>
+Vienen genial cuando estás
+jugando en el parque.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0D}{E1}{00}{00}{10}{00}<Joker>
+<(Queen)Tia>
+{0D}{E1}{00}{00}<Heartless>
+/<Joker>
+{0D}{E1}{00}{00}0?"{0D}{E1}{00}{00}<Chery.Blosom>
+O<Heartless>
+{0D}{E1}{00}{00}P !{0D}{E1}{00}{00}`o#
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+Guau, guau.
+<PUSH>
+¡<Echo.Ridge> es una pequeña
+ciudad animada y con una
+naturaleza exuberante!
+<PUSH>
+¡Las risas de los niños
+pueden oírse por toda
+la ciudad!
+Guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un lecho de flores.
+<PUSH>
+Las flores emiten un
+débil destello.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un lecho de flores.
+<PUSH>
+No creo que su dueño
+sea jardinero.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Astro Wave ahead. Peligro.
+Prohibida la entrada.
+  -NAZA
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0D}{E1}{00}{00}aa{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+ONDA DE RUIDO DETECTADA.
+¡{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACESSO!
+<PUSH>
+{0A}{E1}{87}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+ONDA DE RUIDO DETECTADA.
+¡{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACESSO!
+<PUSH>
+{0A}{E1}{81}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a preguntar
+a Bud y al resto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}{11}{16}{15}{00}{0E}{E1}{01}{00}<Hope(Mom)>
+{19}{E1}{01}{00}<Hope(Mom)>
+{23}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Hay alguien en la piscina!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué lugar más raro para
+esconderse...
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Glu, glu...
+Me has... Glu...
+encontrado...
+<PUSH>
+Toma... Glu... esto.
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha conseguido:
+"{E1}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{11}{16}{21}{EC}{D8}{10}
+[END]
+
+[SENTENCE NUMBER 22]
+{0E}{E1}{01}{00}<Prez>
+{19}{E1}{01}{00}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+He perdido... Glu...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¿La piscina de
+los apartamentos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La piscina del edificio.
+Seguro que más de uno se
+ha mudado por esto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+<PUSH>
+Guau, guau.
+<PUSH>
+¡Bajando esta calle, llegarás
+al parque de Echo Ridge!
+Guau.
+<PUSH>
+¡Los habitantes de <Echo.Ridge>
+adoran este oasis de paz!
+Guau.
+<PUSH>
+Por cierto, he oído que si
+te sientas con tu pareja
+en ese banco de ahí,
+<PUSH>
+¡seréis felices y
+comeréis perdices!
+Guau.
+<PUSH>
+¡¿A que es genial?! Guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+<PUSH>
+Guau, guau.
+<PUSH>
+¡Echo Ridge se construyó a 
+las orillas del río
+Echo Ridge! Guau.
+<PUSH>
+¡El agua es clara y los
+peces vivarachos!
+<PUSH>
+¡Y el más vivaracho de todos
+es el siluro gigante que
+vive en el río!
+<PUSH>
+¿Guau?
+¿No sabes lo del
+siluro gigante?
+<PUSH>
+¡De vez en cuando se deja
+ver, pero nadie sabe
+<PUSH>
+con seguridad si es el mismo
+o hay toda una familia
+ahí dentro!
+<PUSH>
+Guau. ¡Dicen que mide casi
+dos metros, y que es de un
+brillante color esmeralda!
+<PUSH>
+¡La primera persona que lo
+vio lo bautizó como «Bigotes»!
+Qué mono. Guau.
+<PUSH>
+¿Sabes quién fue? Guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+<PUSH>
+Guau, guau.
+<PUSH>
+¿Te has pasado alguna vez por
+«BIG WAVE», al lado del
+parque Echo Ridge? Guau.
+<PUSH>
+
+<NEW-DIALOG>
+#«¡Tenemos desde auténticos
+chollos hasta los productos
+más exigentes y caros!»
+<PUSH>
+«¡Si lo que te van son las
+Cartas de Batalla,
+pásate por Big Wave!»
+<PUSH>
+
+<NEW-DIALOG>
+{9C}{00}«¡Venid a visitarme!
+¡Os estoy esperando!
+¡"Nous vemous"!»
+<PUSH>
+
+<NEW-DIALOG>
+¡{95}{00}Ken Suther y su
+Wizard Hang Ten llevan
+la tienda! Guau.
+<PUSH>
+¡Tienen casi cualquier carta
+que se te ocurra, además de
+un gran servicio de envíos!
+<PUSH>
+Ahora que lo pienso, el
+Sr. Suther estaba hasta
+<PUSH>
+hace nada en Netopía de
+vacaciones con Hang Ten.
+Guau, guau.
+<PUSH>
+Y durante su viaje...
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}x{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+...¡¿Q-Qué?!
+¡¿D-De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Menuda locura!
+¡Él...!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{A3}{E1}{00}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Eso es lo que tengo
+entendido. Guau.
+<PUSH>
+¿Qué le pasaría a
+Johnny después?
+Nadie lo sabe. Guau.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Qué historia tan
+alucinante!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Puede que...
+<PUSH>
+¿Entrenara a un equipo de
+béisbol en NetFrica?
+<PUSH>
+¡¡Alucinante, Joohhnyy!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Eh?
+¿Por qué estamos hablando
+de Johnny?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Oh, Jooohhhnyyy!!
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+<PUSH>
+Guau, guau.
+<PUSH>
+Voy a hablaros de la
+escuela de Echo Ridge.
+Guau.
+<PUSH>
+La escuela tiene una larga
+y destacada historia.
+<PUSH>
+¡Todo hermano o hermana,
+padre o madre, abuela
+<PUSH>
+o abuelo de <Echo.Ridge>
+ha ido a esa escuela!
+<PUSH>
+El primer director estaba
+muy orgulloso de su
+exquisita barba. Guau.
+<PUSH>
+Sin embargo...
+Un día que iba a
+recortarse la barba...
+<PUSH>
+Sin querer{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡Se la rapó al cero!
+<PUSH>
+Por cierto, la estatua que
+hay a la entrada de
+la escuela
+<PUSH>
+es de él de joven...
+<PUSH>
+De antes de raparse
+la barba. Guau.
+<PUSH>
+¡Entre los alumnos se ha
+extendido el rumor
+<PUSH>
+de que cada año a la
+estatua le crece la barba!
+<PUSH>
+La pena y el remordimiento
+del director habita en la
+estatua. Guau.
+<PUSH>
+Es una de las siete
+maravillas de la escuela
+Echo Ridge. Guau.
+<PUSH>
+Ah, por cierto...
+<PUSH>
+Si descubrís las
+siete maravillas...
+<PUSH>
+...
+<PUSH>
+...N-No puedo. Guau.
+Es algo terrible... Guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}Os traigo malas noticias. Guau.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}Luna Platz, una estudiante
+de quinto de primaria de la
+escuela Echo Ridge...
+<PUSH>
+{13}{EC}Ha desaparecido durante
+una excursión a <Alohaha>.
+Qué triste... Guau
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}La Policía Satella está
+haciendo todo lo posible
+para encontrarla.
+<PUSH>
+Pero tienen poca información
+y al principio la búsqueda
+avanzará lentamente. Guau.
+<PUSH>
+Espero que esté bien... Guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el puesto de información
+de <Echo.Ridge>.
+<PUSH>
+{0A}{E1}{00}{00}
+<NEW-DIALOG>
+{95}{00}¡Soy Echo Ridge Eddie!
+¡Bienvenido a <Echo.Ridge>!
+<PUSH>
+Guau, guau.
+<PUSH>
+Ya sabes muchísimas cosas
+sobre <Echo.Ridge>. Guau.
+<PUSH>
+Ven cuando quieras al
+puesto de información
+a visitarme. Guau.
+<PUSH>
+Adiós. Guau.
+<PUSH>
+...
+<PUSH>
+Ah, por cierto...
+¡Al parecer, la última
+<PUSH>
+de las siete maravillas
+de Echo Ridge no existe!
+<PUSH>
+¡¿Q-Qué?! Guau.
+<PUSH>
+¡No me mires así!
+<PUSH>
+Guau, guau.
+<PUSH>
+{0B}{E1}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+

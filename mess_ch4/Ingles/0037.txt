@@ -1,0 +1,36 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's all of them!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Mega...{15}{E1} Mega Man!
+Can you give us a hand!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+They're in trouble!
+We have to help them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

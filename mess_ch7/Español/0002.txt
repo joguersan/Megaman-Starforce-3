@@ -1,0 +1,71 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Sr. King...
+<PUSH>
+Ahora mismo...
+<PUSH>
+La «base orbital» se encuentra
+en la mesosfera, a 60km de la
+superficie terrestre.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Entiendo...
+¿Cómo va el acceso al
+Meteoro G?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Todo va de acuerdo al plan.
+<PUSH>
+Gracias al Carmesí de Jack,
+la base orbital tiene el
+<PUSH>
+control del Meteorito G.
+<PUSH>
+En otras palabras, tenemos
+el Meteorito G en nuestro
+poder.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Jo, jo, jo...
+<PUSH>
+Por fin, Dealer...
+No, ¡yo dominaré el mundo!
+<PUSH>
+Heartless...
+Es hora de declarar la
+guerra al mundo.
+<PUSH>
+¡Que aprendan a temerme!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Entendido, Sr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

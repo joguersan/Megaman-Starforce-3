@@ -1,0 +1,137 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La puerta de la NAZA
+está cerrada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Son clústeres de Ruido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ah!
+¡Nos cortan el camino!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Si son lo mismo que
+había en el aspersor
+<PUSH>
+podemos ocuparnos
+de ellos!
+<PUSH>
+Vamos allá.
+¡Ayudadnos, chicos!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡¡VALE!!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Encantada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡!
+<PUSH>
+¡Cuidado, chico!
+¡Odio los virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{98}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Aún hay más?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Son más virus!
+<PUSH>
+¡Vamos, chicos!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9A}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ay...
+¡No se acaban nunca!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chaval, a veces
+la vida te da limones!
+<PUSH>
+¡Vamos a hacer
+limonada!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9C}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El Ruido nos impide pasar...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No parece que podamos
+romperlo!
+¡Olvídalo, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+

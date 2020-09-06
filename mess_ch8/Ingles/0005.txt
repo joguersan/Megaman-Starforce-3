@@ -1,0 +1,113 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're...
+Apollo Flame!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I thought we deleted you
+back in the Alternate World?
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+My data was saved in the
+Black Hole Server, then
+Sirius recovered me.
+<PUSH>
+Amazed by my great power,
+he requested that I help him.
+<PUSH>
+Following my moral code,
+I agreed to delete all who
+attempted to get past me!
+<PUSH>
+However...
+In the end, it will be I who
+shall reign supreme.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This guy could be trouble...
+Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, he was pretty tough
+the last time around...
+<PUSH>
+But...
+<PUSH>
+Apollo Flame!
+Answer me this!
+<PUSH>
+What is up ahead?
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+Planet FM of course.
+And Sirius is in the middle
+of taking it over.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Then I'm getting past
+you to save my Brother!
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+Are you too stupid to
+understand?
+<PUSH>
+The laws of nature have
+brought you here to be
+deleted!
+<PUSH>
+All existence must follow
+the laws of nature!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well I always do things my
+own way!
+I walk my own path!
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+I see that you do not
+understand how the galaxy
+works!
+<PUSH>
+You'll just have to see it
+with your own eyes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's do this, Mega!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,22 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip ¡Este es el
+monitor administrativo
+del Cibernúcleo!
+<PUSH>
+¡Todos los monitores de la
+NAZA pueden controlarse
+desde aquí!
+<PUSH>
+¡Por aquí pasa tanta
+información que en cualquier
+momento me explota la cabeza!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

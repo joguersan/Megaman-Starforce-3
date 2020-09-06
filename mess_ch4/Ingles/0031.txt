@@ -1,0 +1,794 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+We're all set.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Let's begin.
+<PUSH>
+
+<NEW-DIALOG>
+3Yes, ma'am.
+<PUSH>
+
+<NEW-DIALOG>
+2Yes, ma'am!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Activating the data
+reconstruction program.
+<PUSH>
+The threshold is at .01.
+<PUSH>
+This is a very delicate
+operation. Be careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(...It's started!)
+<PUSH>
+{13}{EC}(Come on, Prez...
+{13}{EC} You've got to come back!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It looks like Dr. Goodall isn't
+going to say anything, so I
+guess I should.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+W-W-What is it?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+There is only a 30% chance
+that Luna will completely
+return to normal.
+<PUSH>
+So, there's a 70% chance
+that... well...
+<PUSH>
+{15}{E1}...You understand, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+Yeah.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Good.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Then I have a favor to ask
+you.
+<PUSH>
+...If everything doesn't work
+out perfectly...
+<PUSH>
+Promise me that you won't
+blame Dr. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+She has had countless
+achievements as a scientist
+in the past, yet...
+<PUSH>
+She also has an equal
+amount of upsetting memories
+resulting from failures.
+<PUSH>
+While she understands that
+failures come with being a
+scientist, most of those
+<PUSH>
+upsetting memories are
+caused by us.
+<PUSH>
+We are always asking her to
+do the impossible.
+<PUSH>
+...Just like now.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I know she would never say
+anything, so I had to say
+something.
+<PUSH>
+Maybe it's selfish of me, but
+I'm begging you not to make
+it any harder on her.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Dr. Goodall!
+The reconstruction process
+is taking too long!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Turn up the gain on the
+figure derivation!
+<PUSH>
+
+<NEW-DIALOG>
+2There's no effect...!
+<PUSH>
+
+<NEW-DIALOG>
+3The data is starting to
+degrade...!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+De-activate the auto-support!
+I'll do this manually!
+<PUSH>
+Hurry!
+<PUSH>
+
+<NEW-DIALOG>
+2T-That's impossible!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Since when is an impossibility
+a reason to give up!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+W{15}{E1}-What's going on!?
+<PUSH>
+Is everything OK...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I{15}{E1}-I don't know...
+<PUSH>
+There's no way to know...!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Please...
+<PUSH>
+Please come back, Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia...
+<PUSH>
+Bud, Zack!
+<PUSH>
+Let's cheer on Prez, too!!
+<PUSH>
+We miss you, Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah... We can't give up!
+<PUSH>
+Come on, Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'll never give up on Prez!
+<PUSH>
+I can't wait to see you
+again, Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Preeez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+P-P-Preeez!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Umm...
+It's here, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+...Huh?
+It's not here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Wait a second!
+What the heck is going on!?
+<PUSH>
+Where am I!?
+Who's there!?
+<PUSH>
+Show yourself!!
+<PUSH>
+I'm feeling...
+Really sleepy...
+<PUSH>
+Maybe I should{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+go to sleep{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Prez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+<PUSH>
+Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Preeez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+P-P-Preeez!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Bud, Zack!
+<PUSH>
+Has it been you guys the
+whole time!? Is this a prank!?
+<PUSH>
+Hurry up and come out!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Aaarrrgggh!
+<PUSH>
+Are you ignoring my orders!?
+<PUSH>
+You're going to be in for a
+world of hurt!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Dr. G{15}{E1}-Goodall...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}...Interesting.
+<PUSH>
+Interesting...{15}{E1} Very interesting...
+<PUSH>
+
+<NEW-DIALOG>
+3The data is...
+<PUSH>
+The data is reconstructing
+at an extremely fast rate...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Don't worry{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} I'm watching.
+<PUSH>
+
+<NEW-DIALOG>
+2I-It's a miracle...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Didn't you know?
+<PUSH>
+Miracles happen all the time.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+{12}{E2}<Jack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+There you two are!!
+<PUSH>
+Are you guys ready for a
+wh{14}{E1}...oo{14}{E1}...p{14}{E1}...i{14}{E1}..n'?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Huh...!?
+<PUSH>
+What's everyone staring
+at...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Pr{15}{E1}-Pr{15}{E1}-Pr{15}{E1}-Pr...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Preeez!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+{12}{E2}"{00}{00}
+<START-DIALOG>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+Oh, Prez!
+I really missed you!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Waaa!
+Prez!!
+<PUSH>
+Please{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Please yell at me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+L-Luna...
+Welcome back!!
+<PUSH>
+*sob*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Prez...!!
+<PUSH>
+I can't believe you're back!!
+This is amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What the heck is going on!?
+<PUSH>
+Where are we!?
+<PUSH>
+Everyone quit your crying
+and tell me what's going on!!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Purpose fulfilled!{17}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Can I ask you to do
+something for me now?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...What is it?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Please let me fight by
+your side!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dealer has gone too far...
+<PUSH>
+I can't let them get away
+with what they're doing!
+<PUSH>
+And WAZA and the Satella
+Police are having a lot of
+trouble dealing with them...
+<PUSH>
+So I know we can help!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+OK.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega and I have a lot of
+experience with taking on
+bad guys so we could be...
+<PUSH>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Wait...
+So you're OK with us helping?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Of course.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Were you leading us to this
+all along, anyway?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Maybe.
+<PUSH>
+Who cares about the details,
+anyway?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Let's focus on the here and
+now.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What are you planning to do?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+They gave us a pretty good
+wake up call today.
+<PUSH>
+So I think we ought to
+return the favor, don't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sweet! Are you planning on
+whooping some Dealer butt!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You got it!
+<PUSH>
+...Sounds fun, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Accordingly...
+<PUSH>
+Shall we give Mega Man
+his first assignment?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Why the heck do you get to
+give me orders!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+They are not orders.
+<PUSH>
+It is a mission.
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+What's the difference!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+The spelling... and the meaning.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+OK, OK...
+<PUSH>
+It's like I said before...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Let's not fuss about the
+details right now, alright?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

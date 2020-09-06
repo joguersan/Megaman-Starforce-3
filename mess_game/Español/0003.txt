@@ -1,0 +1,650 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Vamos allá!!
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡Estamos contigo,
+Mega Man!!
+<PUSH>
+¡¡Activar Wizards de combate!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Es hora de divertirse!
+<PUSH>
+¡¡Misión: destrozarlos!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Atacan la Barrera OR!
+¡Vuelve, Mega Man!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡¡La Barrera OR está al
+50% de energía!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Mega Man!
+¡Vuelve, deprisa!
+¡No aguantaremos más!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Las fuerzas enemigas se
+están reduciendo...
+<PUSH>
+Sigue así, Mega Man.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Estás bien, Mega Man?
+<PUSH>
+¡Ha llegado la hora
+de la verdad! ¡Aguanta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Las fuerzas enemigas
+siguen disminuyendo.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Genial!
+¡Mega Man, sigue así,
+acaba con todos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Vamos allá!!
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡Activar Wizards de combate!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos allá!
+<PUSH>
+¡¡Misión: destrozarlos!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡La CPU se ha dañado!
+¡¡Pero sigue operativa!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡¡CPU destruida en un 50%!!
+A este paso...{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡La CPU está muy dañada!
+Si siguen atacándola...{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Mega Man, ¿me oyes?!{16}{E1}
+<PUSH>
+¡El programa estará
+listo enseguida!
+<PUSH>
+¡Por favor, consíguenos
+más tiempo!
+¡Puedes hacerlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Jefe, las fuerzas enemigas
+están a la mitad!{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+4Bien. ¡Podemos hacerlo!
+¡Sé que podemos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Las fuerzas enemigas
+siguen disminuyendo!
+¡Sigue así!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡No podemos dejarles pasar!
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡Activar Wizards de combate!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{05}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Han destruido parte
+del ascensor! ¡¡Tomad
+las medidas oportunas!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Han destruido un 50%
+del ascensor! ¡Esto
+no puede seguir así!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡¡El daño es enorme!!
+¡Resiste, Mega Man!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡!
+¡No puedo creer la cantidad
+de enemigos que nos atacan!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Las fuerzas enemigas
+están al 50%. ¡Mega Man,
+sigue presionando!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Un último esfuerzo!
+¡Ya no queda casi
+nadie!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡No pasarán por
+nada del mundo!!
+<PUSH>
+
+<NEW-DIALOG>
+0¡¡Activar Wizards de combate!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{05}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡¡Han atacado el ordenador!!
+¡Responded al ataque!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡¡Han destruido el 50%
+del ordenador!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Ha recibido mucho daño!
+¡Un ataque más y
+lo destruirán!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Debemos proteger el
+ordenador principal,
+sea como sea!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡El programa estará
+listo enseguida!
+¡No te rindas!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Un poco más...
+¡¡Solo un poco más!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Atrás!
+¡¡Es muy peligroso!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¡Movilizad a los
+Wizards de combate!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}El destino de la WAZA...
+¡¡está en tus manos!!
+¡¡Aaarrrgh!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Adiós...
+Mega Man.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}Lo siento...
+No era lo bastante fuerte...{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡¿Qué está pasando aquí?!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡Viva la Policía Satella!
+¡¡Aaarrrgh!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Ace, las fuerzas enemigas
+se están recuperando.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí, ya lo veo.
+¡No bajes la guardia,
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}¡Están por todas partes!
+¡No puedo ni contarlos!{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+4¡!
+Mega Man, todo depende
+de ti. ¡Sé fuerte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Céntrate en el combate!
+¡Si pierdes la calma,
+se acabó!{16}{E1} ¡Tranquilo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡No es momento para
+Cambiar de Onda EM!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡El enemigo ha cambiado
+de objetivo!
+<PUSH>
+¡¡Protege el ordenador
+al final de la escalera!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡El enemigo ha cambiado
+de objetivo!
+<PUSH>
+¡¡Protege el ordenador
+al principio de
+la escalera!!{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

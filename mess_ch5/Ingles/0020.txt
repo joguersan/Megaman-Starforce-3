@@ -1,0 +1,93 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...Geo!
+<PUSH>
+Wake up, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+*groggy*
+<PUSH>
+I can't eat anymore.
+*mumble, mumble*
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+It's time to wake up!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+*yawn*{15}{E1} What...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh no!
+I have to get to school!
+<PUSH>
+Today is the election for
+student body president...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Prez was here earlier to
+pick you up.
+<PUSH>
+But you wouldn't wake up,
+so she went without you.
+<PUSH>
+Geez, kid...
+She's not going to be happy!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh boy...
+<PUSH>
+Either way, we have to get
+to school!!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{04}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo's Team and Purpose
+have changed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

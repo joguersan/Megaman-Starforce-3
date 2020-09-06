@@ -1,0 +1,54 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Estamos en el Cibernúcleo
+del Meteorito G{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Eh, chico!!
+¡¡Ese es{15}{E1}.{15}{E1}.{15}{E1}.!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Papá!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Se nos está apareciendo
+para llevarnos hasta él...
+<PUSH>
+¡Aún no se ha rendido, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Y me está esperando{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

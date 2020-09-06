@@ -1,0 +1,453 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sirius>
+Esto... Esto...{15}{E1}
+me gusta...
+<PUSH>
+Hay muchas formas...
+de irse...
+<PUSH>
+Sin embargo, Mega Man...
+<PUSH>
+Aún no me has eliminado.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Estoy transmitiendo
+todos mis poderes EM...
+<PUSH>
+A otro servidor.
+<PUSH>
+A ese...{15}{E1} ¡servidor!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Por el amor de Dios!
+¡¿Quieres dejarlo de una vez?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Cuando las cinco estrellas
+se alineen...{15}{E1}
+<PUSH>
+¡Vosotros y la Tierra
+os enfrentaréis
+a vuestro final!
+<PUSH>
+Y para más diversión...{16}{E1}
+<PUSH>
+Aquí tienes un regalo.
+<PUSH>
+¡Disfruta combatiendo contra
+tu rival por toda la eternidad!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿De qué estás hablando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Jajaja...{16}{E1}
+¡Adiós, Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Aaaaaahhhhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+He sentido como si algo...{15}{E1}
+saliera de Sirius...
+y entrara en mi cuerpo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, puedo sentirlo.
+<PUSH>
+¡Parece que hemos vuelto
+a meternos en un lío!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pero qué...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Interesante...
+No esperaba que las
+cosas salieran así.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Mega Man...
+<PUSH>
+Sirio te ha transferido
+el metal de Mu.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ay...
+<PUSH>
+¿A esto se refería con lo
+de combatir con tu rival
+por toda la eternidad?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+¿Vas a intentar eliminarme?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Ahora tengo más de una
+razón para hacerlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Sin embargo...{15}{E1}
+No tengo prisa.
+<PUSH>
+Puedo esperar hasta que
+aparezca el blasón
+en tu cuerpo.
+<PUSH>
+Entonces acabaré contigo.
+<PUSH>
+Por ahora, deberías
+celebrar tu victoria
+ante Sirio.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Volveremos a vernos.{15}{E1}
+Yo me voy...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Algún día...
+Solo y yo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tendremos que luchar...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, eh! ¡Chaval,
+no te vengas abajo!
+<PUSH>
+¡Cuando llegue el momento,
+ya nos preocuparemos!
+<PUSH>
+Pero que sepas que...
+¡has derrotado a Sirio
+y salvado el Planeta FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Así es...
+<PUSH>
+Gracias... Geo.
+¡Perdón, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Cefeo!
+<PUSH>
+¿El Planeta FM
+está a salvo?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Sí. El tirón gravitacional
+del agujero negro
+se ha detenido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sí! Somos...{14}{E1} prepárate...
+¡¡A{14}{E1}-L{14}{E1}-U{14}{E1}-C{14}{E1}-I{14}{E1}-N{14}{E1}-A{14}{E1}-N{14}{E1}-T{14}{E1}-E{14}{E1}-S!!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Tenemos una gran
+deuda con vosotros.
+<PUSH>
+Geo, Omega-Xis...
+muchas gracias.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No nos des tanto
+las gracias.
+<PUSH>
+Seguro que si tenemos algún
+problemas, vendrás a ayudarnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eso es!
+No es para tanto.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Sois increíbles.
+<PUSH>
+Geo...
+Debemos separarnos.
+<PUSH>
+Debo volver con mi pueblo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Seguro que se alegran mucho
+de que su rey esté bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Será más difícil sanar los
+corazones de la gente que
+arreglar el planeta.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sé que puedes hacerlo,
+rey FM.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Te admiran más que a nadie.
+Vuestros vínculos son
+inquebrantables.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Es una inspiración que un
+amigo te diga eso. Gracia.
+<PUSH>
+Haré lo que pueda.
+<PUSH>
+Y me gustaría mejorar
+la relación entre la
+<PUSH>
+Tierra y el Planeta FM
+hasta límites
+insospechados!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Es una gran idea.
+¡No puedo esperar!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sí! ¡Me encantaría
+ir de visita de vez
+en cuando!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo... Omega-Xis...
+Gracias otra vez...
+<PUSH>
+Me habéis inspirado
+para convertirme en
+un rey aún mejor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Nosotros también seremos
+la mejor versión de
+nosotros mismos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ya te digo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sirio...
+Un ser EM capaz de
+controlar agujeros negros...
+<PUSH>
+Era muy poderoso.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí...
+<PUSH>
+Pero, chaval, el espacio
+es inmenso. Seguro que ahí
+fuera hay alguien más fuerte.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, puede ser.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1} Confío en ti, Mega.
+Si alguna vez nos
+topamos con algo así...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ni falta que lo digas!
+¡Estaré a tu lado!
+<PUSH>
+Y podemos contar con
+nuestros amigos.
+<PUSH>
+¡Venga, volvamos!
+<PUSH>
+Me gustaría saber qué
+quería decir Sirio con
+lo de ...
+<PUSH>
+«Cuando las cinco
+estrellas se alineen...»{15}{E1}
+<PUSH>
+«¡Vosotros y la Tierra
+os enfrentaréis
+a vuestro final!»
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí, a mí también!
+<PUSH>
+¡Mega, a rocanrolear!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Te sigo el ritmo!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+  Capítulo extra  
+  {16}{E1}={16}{E1} F{16}{E1} I{16}{E1} N{16}{E1} ={16}{E1}  
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,334 @@
+[SENTENCE NUMBER 1]
+{09}{E1}{00}{00}{CD}{06}{DB}{06}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El cohete del
+club de ciencias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este equipo parece
+importante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la mascota del
+club de ciencias:
+«Hugh Maan».
+<PUSH>
+¡Ah!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡E-Eh, chico!
+¡¿H-Ha movido los ojos?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este equipo parece
+importante.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué guay es el aula
+del club de ciencias...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un tablón de anuncios
+con los experimentos
+programados por el club.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Aviso: Inflamable»
+«Aviso: No mezclar»
+«Aviso: No agitar»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«Experimento en proceso»
+«No tocar»
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+{13}{EC}Ahora quiero tocarlo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{09}{E1}{00}{00}{04}{00}{05}{00}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una vitrina llena de
+objetos extraños.
+<PUSH>
+El monitor muestra
+especímenes de
+polillas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una pizarra.
+<PUSH>
+Están dibujados los
+planos del cohete.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La mesa del profesor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{E4}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La caja está llena de cables
+y componentes tirados de
+cualquier manera.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Mira esto de aquí!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+¡Power Up Ability:
+"{E0}{E5}"!
+<PUSH>
+¡HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{E4}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Parecen componentes
+complejos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay planos del cohete
+por todo el suelo.
+<PUSH>
+Propulsión.
+Carga útil.
+Tiempo de combustión.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay planos del cohete
+por todo el suelo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El cohete no está...
+¡¿Lo han robado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Parece que ya lo han
+subido a la azotea!
+<PUSH>
+{09}{E1}{00}{00}{CF}{06}{DB}{06}{11}{00}
+<NEW-DIALOG>
+<Mega>
+¡Vamos, chico!
+¡No podemos
+perdérnoslo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una vitrina llena de
+objetos raros.
+<PUSH>
+El monitor muestra
+especímenes de
+polillas.
+<PUSH>
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<NEW-DIALOG>
+<Geo>
+¿Este es el espécimen
+de polilla del que
+hablaba el profe?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Estas cosas me ponen
+los pelos de punta!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La caja está llena de cables
+y componentes tirados de
+cualquier manera.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<END-DIALOG>
+
+[END]
+

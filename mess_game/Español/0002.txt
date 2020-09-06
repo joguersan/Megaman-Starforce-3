@@ -1,0 +1,160 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{49}{05}
+<NEW-DIALOG>
+<Acid>
+¡A buscar los Fragmentos
+de Luna!{15}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{08}{E1}{06}{00}{00}{02}{09}{00}{08}{E1}{06}{00}{01}{02}{09}{00}{08}{E1}{06}{00}{03}{02}{09}{00}{08}{E1}{06}{00}{00}{92}{09}{00}{08}{E1}{06}{00}{01}{92}{09}{00}{08}{E1}{06}{00}{03}{92}{09}{00}{08}{E1}{06}{00}{00}{62}{09}{00}{08}{E1}{06}{00}{01}{62}{09}{00}{08}{E1}{06}{00}{02}{62}{09}{00}{08}{E1}{06}{00}{00}{72}{09}{00}{08}{E1}{06}{00}{01}{72}{09}{00}{08}{E1}{06}{00}{0E}{77}{09}{00}{08}{E1}{06}{00}{0F}{77}{09}{00}{08}{E1}{06}{00}{10}{77}{09}{00}{08}{E1}{06}{00}{02}{78}{09}{00}
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+No recibo señal de ningún
+Fragmento de Luna en
+esta zona.
+<PUSH>
+Creo que deberíamos coger
+el autobús a <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+No recibo señal de ningún
+Fragmento de Luna en
+el mundo real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+No recibo señal de ningún
+Fragmento de Luna en el
+Camino Onda de esta zona.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9{10}{E2}{B0}{03}{00}{E1}9
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Señal... detectada.
+<PUSH>
+Detalles, como ubicación
+concreta, desconocidos.
+<PUSH>
+Sugiero que investiguemos
+la zona a fondo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{10}{E2}{AF}{03}{00}{E1}2{10}{E2}{AF}{03}{00}{E1}2
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Señal... detectada.
+Está cerca.
+<PUSH>
+Si nos acercamos más,
+podré obtener la
+ubicación exacta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{10}{E2}{AE}{03}{00}{E1}9{10}{E2}{AE}{03}{00}{E1}9
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Señal... detectada.
+Pero aún está lejos.
+<PUSH>
+Si nos acercamos más,
+podré obtener la
+ubicación exacta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{10}{E2}{AD}{03}{00}{E1}<{10}{E2}{AD}{03}{00}{E1}<
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Señal... detectada.
+Pero aún está lejos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{10}{E2}{AC}{03}{00}{E1}E{10}{E2}{AC}{03}{00}{E1}E{10}{E2}{AC}{03}{00}{E1}E
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+Señal... detectada.
+Es débil, pero está en
+esta zona, sin duda.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{10}{E2}i{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Acid>
+No recibo señal de ningún
+Fragmento de Luna en
+esta zona. Movámonos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,521 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a stand that sells an
+Alohahaian pork delicacy.
+A pig head is sitting there...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wh-Whoa! Craaazy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a stand that sells bitter
+melon burgers. Many people
+love the unique flavor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+What's with the menu?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+
+  "Delta86531"
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That doesn't sound like food...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{08}{E1}{00}{00}2{0F}{00}{06}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a stand that sells ice
+cream made from a rare
+fruit native to Alohaha.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a stand that sells
+special Alohahaian doughnuts.
+They're awesome!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{00}{00}{0A}{16}<Bud>
+{0C}{E1}{01}{00}{0B}{16}<Bud>
+{0C}{E1}{01}{00}{5E}{16}<Bud>
+{0C}{E1}{00}{00}{5D}{16}<Bud>
+{06}{E1}<Sonia>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{0A}{16}<Zack>
+{0C}{E1}{01}{00}{0B}{16}<Zack>
+{0C}{E1}{01}{00}{5F}{16}<Zack>
+{0C}{E1}{00}{00}{5D}{16}<Zack>
+{06}{E1}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's said that when this boat
+departs for sea, the island's
+Real Wave dissappears.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{9B}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}2%<Hope(Mom)>
+{0C}{E1}{00}{00}{0A}{16}<Prez>
+{0C}{E1}{01}{00}{0B}{16}<Prez>
+{06}{E1}<Mr.King-2>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{00}{00}{18}{16}"{0C}{E1}{01}{00}{19}{16}"{0C}{E1}{00}{00}{89}{16}"{0C}{E1}{01}{00}{8A}{16}"{06}{E1}!
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{00}{00}K
+{0C}{E1}{01}{00}*
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Luna Frag discovered.
+Recovering now.
+<PUSH>
+{0A}{E1}*{82}{E1}{02}{00}{01}{00}{02}{E2}L{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{72}{E5}"!
+<PUSH>
+{01}{E2}L
+<NEW-DIALOG>
+<Geo>
+Nice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{91}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's 100% mango juice.
+It's filled with healthy
+vitamins.
+<PUSH>
+
+<NEW-DIALOG>
++I'm not sure why, but it's
+out of order right now.
+<PUSH>
+Sorry.
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's 100% mango juice.
+It's filled with healthy
+vitamins.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a palm tree that's the
+result of selective breeding.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It sure looks sturdy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Fully bloomed hibiscus.
+These flowers represent the
+spirit of the tropics.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+A {95}{E5} is on the ground.
+Let's take one.
+<PUSH>
+{0A}{E1}{5E}{16}{82}{E1}%{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{95}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, isn't that a "{96}{E5}"
+plant? Let's take a flower!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I don't want to hurt the
+plant, Mega. I'll just take a
+flower that has fallen off.
+<PUSH>
+{0A}{E1}{5F}{16}{82}{E1}&{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{96}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+{0C}{E1}{00}{00}{5D}{16}<Jack>
+{0C}{E1}{00}{00}{5E}{16}<(Queen)Tia>
+{0C}{E1}{00}{00}{5F}{16}<(Queen)Tia>
+{0C}{E1}{00}{00}{60}{16}<(Queen)Tia>
+{0C}{E1}{01}{00}{61}{16}<Heartless>
+{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Oh, are you looking for a
+health drink?
+<PUSH>
+Unfortunately, I can't make
+one unless you bring me all
+of the ingredients necessary.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK, then I'll go find them!
+<PUSH>
+
+<NEW-DIALOG>
++In that case you'll need
+the following...
+<PUSH>
+A {95}{E5}, a {96}{E5} flower,
+and some {97}{E5}.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK! I'll be back ASAP!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{5D}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Bring back a {95}{E5},
+a {96}{E5} flower, and some
+{97}{E5}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I brought the ingredients.
+<PUSH>
+
+<NEW-DIALOG>
++Nice. Give me a few minutes
+to make it for you.
+<PUSH>
+First I do this, then mix,
+then wring it out...
+<PUSH>
+{A0}{E1}{03}{00}x
+<NEW-DIALOG>
++The last step is to shake it
+vigorously, but no stirring!
+<PUSH>
+{A0}{E1}{01}{00}{00}{00}
+<NEW-DIALOG>
++Ta-da! All done!
+<PUSH>
+{0A}{E1}{61}{16}{82}{E1}({01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{98}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you very much!
+<PUSH>
+Time to take this to Woody.
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}%{FF}{FF}{82}{E1}&{FF}{FF}{82}{E1}'{FF}{FF}
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Don't drink too much.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's something written on
+the wall...
+<PUSH>
+"Repairs complete! Yahoo!"
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, I found the graffiti!
+I better remove it.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*scrub, scrub*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's nice and clean now.
+That should have been the
+last of it. I'll go tell him now.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{8A}{16}
+[END]
+
+[SENTENCE NUMBER 35]
+
+<END-DIALOG>
+
+[END]
+

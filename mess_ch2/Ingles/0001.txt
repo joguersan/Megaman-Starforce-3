@@ -1,0 +1,277 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Several Days Later...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+-National WAZA HQ-
+<PUSH>
+
+<NEW-DIALOG>
+4The shooting star known
+as "Meteor G"...
+<PUSH>
+So its speed has
+increased...
+<PUSH>
+
+<NEW-DIALOG>
+3Yes, sir.
+It has also changed its
+course for Earth.
+<PUSH>
+There is now a 67%
+probability it will hit.
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}Chief, regarding the out of
+control Wizard incident at
+<Echo.Ridge> yesterday...
+<PUSH>
+It seems that "Crimson"
+was spotted sometime
+during the incident.
+<PUSH>
+
+<NEW-DIALOG>
+4Interesting...
+<PUSH>
+Was any of it confiscated?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}Nothing was left by the
+time the Satella Police
+arrived on the scene.
+<PUSH>
+It appears someone may
+have taken it...
+<PUSH>
+
+<NEW-DIALOG>
+4Every time there is an
+EM wave related incident
+where Crimson is spotted,
+<PUSH>
+the probability that Meteor
+G will strike Earth rises...
+<PUSH>
+Certainly, Meteor G is not
+just an ordinary shooting
+star, but...
+<PUSH>
+
+<NEW-DIALOG>
+3Unfortunately, we still do
+not know what it is made
+of...
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}For the time being, any
+Crimson appearing should
+be a cause for alarm!
+<PUSH>
+
+<NEW-DIALOG>
+4.{14}{E1}.{14}{E1}.{14}{E1}Just calm down.
+<PUSH>
+Right now...
+<PUSH>
+Netopia HQ is leading
+several other HQs on a
+mission to alter its course.
+<PUSH>
+If they are successful...
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3W-What is going on!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Chief, we have a problem!
+<PUSH>
+
+<NEW-DIALOG>
+4What is it?
+<PUSH>
+
+<NEW-DIALOG>
+2Netopia HQ, Sharo HQ,
+NetFrica HQ, and all other
+<PUSH>
+main WAZA HQs have been
+destroyed!
+<PUSH>
+
+<NEW-DIALOG>
+4You must be joking!!!
+<PUSH>
+
+<NEW-DIALOG>
+3All the HQs that were
+working on changing the
+course of Meteor G...
+<PUSH>
+
+<NEW-DIALOG>
+2It appears that missiles
+were fired at Meteor G
+to alter its course.
+<PUSH>
+However, they missed and
+then a large amount of
+Noise poured out of
+<PUSH>
+Meteor G, destroying their
+countries' networks
+and computer systems!
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}So that means that they
+are no longer able to assist
+us with Meteor G...
+<PUSH>
+
+<NEW-DIALOG>
+3I-I can't...
+<PUSH>
+
+<NEW-DIALOG>
+4What about Electopia?
+<PUSH>
+
+<NEW-DIALOG>
+2We were just barely able
+to cut our systems' links
+to the other countries.
+<PUSH>
+We suffered no damage.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+4So we were lucky that we
+were on the back side of
+the planet at the time...
+<PUSH>
+However, we thus inherited
+the most important mission
+of all...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Chief, do you mean...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Yes.
+<PUSH>
+We are going to try to
+stop Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Get the science team on
+composition analysis!
+<PUSH>
+Have the data team get
+started on a course
+re-evaluation!
+<PUSH>
+And request that the
+Satella Police boost their
+Battle Team numbers!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4{13}{EC}(I've been through a lot
+ over the years...)
+<PUSH>
+{13}{EC}({15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}But this time around
+ there may be nothing we
+ can do, except pray...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

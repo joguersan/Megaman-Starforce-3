@@ -1,0 +1,155 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Three Days Later...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+It looks like everyone is
+here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+We've finally arrived!
+<PUSH>
+I can't believe we're in
+<Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's so beautiful that I
+can't believe it is part of
+Electopia!
+<PUSH>
+Blue skies, vast oceans!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+It's too hot.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Try to stay calm, guys.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Aww, come on...
+We're just so happy!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Well, I suppose the point
+of a school trip is to cut
+<PUSH>
+loose from all the stress
+of school.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(She's the one that
+ seems the most excited...)
+
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+But it's a shame that Geo
+couldn't come with us...
+<PUSH>
+...Um, well, it's not like I
+especially wanted him to
+come with us or anything!!
+<PUSH>
+It's just my duty as class
+president to keep all
+classmates in mind!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+He said he'd catch up with
+us later, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(I can't really say this
+ out loud, but...)
+<PUSH>
+(He's going to use his
+ abilities as Mega Man
+ to get here, isn't he?)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+(Ah, I see.)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}Oooh....
+(M-Mega Man is coming!?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

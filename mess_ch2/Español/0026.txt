@@ -1,0 +1,101 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+¡Has venido a interrumpirme
+mientras trabajo, ¿no?!
+<PUSH>
+¡Siempre igual, como en
+la grabación del programa!
+<PUSH>
+¡Contigo y Sonia robándole
+el protagonismo, Belle
+acaba siempre ninguneada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ella estaba detrás
+de todo esto...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Eres Ice, ¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+He renacido. ¡Ahora soy
+Diamond Ice!
+<PUSH>
+¡Mi poder va más allá
+de vuestra comprensión!
+<PUSH>
+¡Y con él, eliminaré a
+cualquiera que se interponga
+en el camino de Belle!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Estás haciendo mucho daño
+a toda esta gente...
+<PUSH>
+¿No has pensado en el daño
+que le estás haciendo a Belle?
+<PUSH>
+¡¿No se te ha ocurrido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Belle es demasiado buena.
+¡El mundo del entretenimiento
+es cruel!
+<PUSH>
+Debes estar preparado para
+eliminar todos los obstáculos
+hasta llegar a la cima.
+<PUSH>
+¡Si ella no es capaz,
+lo haré yo con mis poderes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo...
+No nos va a escuchar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ice... Entiendo cómo
+te sientes, pero...
+<PUSH>
+¡No puedo permitir que
+tu orgullo haga daño
+a esas personas!
+<PUSH>
+¡Diamond Ice!
+¡Voy a detenerte aquí
+y ahora!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+¡Ja! Cuando te congele
+podrás arrepentirte de
+haber venido. ¡Para siempre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

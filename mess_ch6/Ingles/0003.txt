@@ -1,0 +1,174 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*Ding, dong...*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+...And then it turns into
+something like this...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+So, Bud!
+<PUSH>
+Why don't you try to solve
+this problem?
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Hah!?
+<PUSH>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud>
+Uh, uh, uh...
+This becomes that, and...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(That's already wrong, Bud!)
+<PUSH>
+{13}{EC}(That becomes this!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Huh?
+<PUSH>
+How does that work?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(Th{14}{E1}is{14}{E1} be{14}{E1}com{14}{E1}es{14}{E1} this!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+B-But how...
+<PUSH>
+If you take this, then...
+Ah, it's too complicated...
+<PUSH>
+{13}{EC}...
+<PUSH>
+*snoring*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+B-Bud!?
+Did he just...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Ahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ahaha!
+Wake up, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+OK, everyone!
+Quiet down now!
+<PUSH>
+Hmm...{15}{E1}
+Geo, why don't you answer
+the question for Bud?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*alarm*
+<PUSH>
+Th{15}{E1}-There is a Wizard going
+out of control by the school
+entrance!
+<PUSH>
+It is too dangerous, so no
+one is to leave their room!
+<PUSH>
+Teachers, please watch over
+the students...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+There's a Wizard that's going
+out of control!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Could it be Dealer's doing!?
+<PUSH>
+Let's go, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+On it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

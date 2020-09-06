@@ -1,0 +1,309 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ahh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Ay!
+<PUSH>
+Me he hecho pupa
+en la rodilla...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Oh, es la enfermera!
+<PUSH>
+
+<NEW-DIALOG>
+*¿Qué ha pasado?
+Vamos a ir a la enfermería
+a verte la herida, ¿vale?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿Puedes llevar a este
+niño a la enfermería?
+<PUSH>
+
+<NEW-DIALOG>
+{94}{00}¡Claro! Pero antes le
+administraré
+primeros auxilios.
+<PUSH>
+{10}{E2}{BA}{03}
+<NEW-DIALOG>
+{94}{00}¡Healing Pulse!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+.{15}{E1}.{15}{E1}.{15}{E1}¡Ya no me duele!
+<PUSH>
+¡Los Wizard son geniales!
+<PUSH>
+
+<NEW-DIALOG>
+{94}{00}¡Vale, pues esto ya está!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}¡Dejad paso!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Es un Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Un Wizard, ¿eh?
+Ahora son fundamentales
+para el día a día.
+<PUSH>
+Pues muy bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No te pongas así, Mega.
+<PUSH>
+¡Si tú eres como
+un superWizard!
+<PUSH>
+¿Qué tal si te doy
+una clase intensiva
+sobre los Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pero si no...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ejem!
+¿Listo, Mega?
+<PUSH>
+{12}{E2}<Mr.King-2>
+{00}{00}
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Grrr...
+ Looks like I lit a fire
+ under Geo's Wizard-mania...)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hasta ahora, los cuerpos EM
+eran invisibles a no ser que
+usaras el <Visualizer>.
+<PUSH>
+Sin embargo, gracias a los
+avances en la tecnología EM,
+<PUSH>
+cualquier persona puede ver
+y tocar a los cuerpos EM.
+<PUSH>
+¡Es decir, que un Wizard
+es un cuerpo EM con
+forma material!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Uuuaaahhh...
+Qué interesante, oye...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Normalmente un Wizard
+está unido intrínsecamente
+a su <Hunter>.
+<PUSH>
+Como tú, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ya veo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Últimamente los Wizard
+han ganado mucha
+popularidad.
+<PUSH>
+¡Hay uno en cada casa!
+<PUSH>
+Además, los Wizard que
+se ocupan de controlar
+maquinaria
+<PUSH>
+son los más cotizados.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Mega>
+Entonces, mi materialización
+se debe al desarrollo de
+la tecnología de
+<PUSH>
+las ondas EM y de los Wizard.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La verdad es que eso de que
+los humanos no pudieran
+verme era una lata.
+<PUSH>
+{11}{E2}{02}{00}
+<NEW-DIALOG>
+<Geo>
+¡Q-Quieto parado, Mega!
+<PUSH>
+¿No te he dicho que no
+puedes salir en la escuela?
+¡Llamas mucho la atención!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Pero soy un Wizard,
+da igual si llamo
+la atención!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Qué guay!
+¿Ese es tu <Wizard-color>?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Mola mucho!
+¿Es un Wizard de batalla?
+¡Parece fuerte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Je, je...
+Al parecer soy muy
+guay y fuerte, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Madre mía de mi vida...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Deberías estar orgulloso,
+chico!
+<PUSH>
+¡Eres el <Operatore>
+de un Wizard tan guay
+y fuerte como yo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué tonto te pones cuando
+se te sube el pavo,
+de verdad...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

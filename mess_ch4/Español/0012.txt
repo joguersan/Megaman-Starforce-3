@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tUMM...
+<PUSH>
+¡L-LO SIENTO!
+¡¡PERDÓNAME!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Devuelve los datos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{0A}{E1}.{82}{E1}{06}{00}{01}{00}{02}{E2}L{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Mega Man ha obtenido:
+"<Luna.FragE>"!
+<PUSH>
+{01}{E2}L
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Hemos encontrado
+un fragmento de Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,222 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Welcome to the orbital base...
+<PUSH>
+Thank you for coming,
+Mega Man.
+<PUSH>
+Or should I say...
+Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Are you the one that sent
+me that pop-up?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Isn't she King's right hand
+woman?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Call me Heartless.
+<PUSH>
+And just so you know...
+King is no more.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No more...?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+There was a minor setback
+in my plans, so I...
+<PUSH>
+Actually, there isn't much
+time, so I will be brief...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Jack and Ms. Tia took over
+Dealer?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And they're trying to crash
+Meteor G into the planet?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+That's basically it...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+The two of them are now in
+the {17}{E5}, which
+you can trans into ahead.
+<PUSH>
+I need you to stop them as
+quickly as you can.
+<PUSH>
+If they overwrite the main
+program, then Meteor G will
+hit Earth...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+And it won't only be EM
+technology that is lost when
+it hits.
+<PUSH>
+An astoundingly powerful
+shock wave will wipe out
+80% of all human life.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That's horrible!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Holy monkey!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+But those two don't realize
+the grave consequences...
+<PUSH>
+Even if they did understand,
+one look into their eyes will
+tell you they won't stop.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Got it.
+<PUSH>
+Heartless...
+<PUSH>
+I'll stop them before they
+can complete the overwrite!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+The world is counting on you.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Wait just a second now.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+What is it, Omega-Xis?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Who are you, really?
+<PUSH>
+And what are you trying to
+achieve here?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+As I said before, there isn't
+any time right now.
+<PUSH>
+Please stop Jack and Tia.
+<PUSH>
+I will explain everything
+after the world is safe.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Come on, Mega!!
+If we don't stop those two,
+then the...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I guess I have no choice...
+You're gonna tell us
+everything later, lady!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I promise...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

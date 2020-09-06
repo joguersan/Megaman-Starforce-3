@@ -1,0 +1,819 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Nice job, Geo!
+<PUSH>
+Our "trump card" is ready...{15}{E1}
+So, mission complete!
+<PUSH>
+We won't be having any
+more problems with these
+guys...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Here it comes.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A-Awesome...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Holy cow...!
+<PUSH>
+If you've got a weapon like
+this, then Dealer should be
+a joke to take down.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Things in this world aren't
+usually that simple.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+That weapon is called the
+"Copy Canceller"...
+<PUSH>
+It's a special weapon that
+is only able to delete
+copies.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It's really a device that
+Dr. Goodall was developing
+that deletes Noise.
+<PUSH>
+She was able to modify it
+quickly into a weapon, but...
+<PUSH>
+Using it for this purpose
+burned it out.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What a let down!
+<PUSH>
+I really wanted to see a
+bunch of bad guys go up in
+smoke again!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It was really cool, wasn't it!?
+<PUSH>
+To see all those powerful
+copies get wiped out so
+fast!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That old bat did a good job!
+<PUSH>
+So I guess we've put a
+stop to Dealer's attack!
+Right!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}...Well, not really.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr! Now that I'm all warmed
+up, it looks like it's time to
+bring the pain to Virgo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Queen Tia...
+You've come...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Long time, no see, Ace...
+<PUSH>
+Or should I say{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+Traitor of Dealer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...A-Ace is a...
+<PUSH>
+A traitor...{15}{E1}!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+You bet.
+Didn't you know, little boy?
+<PUSH>
+Your precious Ace used
+to be a top member of
+Dealer along with Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No way!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+That was a long time ago.
+<PUSH>
+That Ace is long dead.
+<PUSH>
+And there's no trace of him
+to be found.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Whaaat?
+Boooring!
+<PUSH>
+Well, well, well...{15}{E1}
+What about Tia?
+<PUSH>
+Do you still like her?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Virgo!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+...Uh oh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}So you say...
+That Ace is dead, huh?
+<PUSH>
+Well, then...
+<PUSH>
+Maybe this Ace should also
+go away...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+EM Wave Change...
+<PUSH>
+Queen Tia...
+On the Air...!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Kyahaha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+M-Ms. Tia...{15}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Would you please stop calling
+me that?
+<PUSH>
+I am Queen Virgo.
+<PUSH>
+I am the woman that will rain
+destruction and confusion
+down upon the Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...!!{15}{E1}
+Get back, Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ms. Tia EM Wave Changed!
+<PUSH>
+You're in too much danger!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+So you think that I'm too
+weak as a normal human?
+<PUSH>
+...I see.
+<PUSH>
+Well, then...
+<PUSH>
+I guess I'll just have to
+EM Wave Change, as well.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You're not the only one who
+can EM Wave Change.
+<PUSH>
+Let me show you the only
+man-made EM Wave Change
+in the world.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+What's he talking about...?
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Ace>
+You ready, {15}{E1}Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+As always, {15}{E1}Ace.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+EM Wave Change!
+<PUSH>
+Transcode 001...{15}{E1}
+"Acid Ace"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace and Acid just{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+They just EM Wave Changed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Never fear! The super hero,
+Acid Ace, is here!
+<PUSH>
+That's what super heroes
+say, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Acid{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+How ridiculous!
+<PUSH>
+You can EM Wave Change
+with a normal Wizard!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Well, Acid isn't really your
+normal every day Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+I am a Wizard that was
+created in order to EM
+Wave Change with humans.
+<PUSH>
+I am a man-made living EM
+being.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+S-So that means...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That he is just like me,
+Lyra, Virgo and Corvus...
+<PUSH>
+He's completely different
+from standard Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+I am honored to be praised
+so highly by you.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr...!
+<PUSH>
+Darn it!
+I wasn't trying to... Grr!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+W-Wait a second here!
+<PUSH>
+Is this even possible!?
+Is it even legal!?
+<PUSH>
+Yet...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Virgo>
+It does makes things a bit
+more interesting!!
+I can't wait any longer, Tia!!
+<PUSH>
+Can we take him out now!?
+Please!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+Being able to EM Wave
+Change doesn't stop you
+from being a traitor.
+<PUSH>
+You can never change that.
+<PUSH>
+Ever...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+{10}{E2}{36}{03}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's a call from Zack!
+<PUSH>
+{10}{E2}{95}{03}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Zack!?
+What's wrong!?
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+We're in trouble!
+<PUSH>
+Umm, {15}{E1}umm...{15}{E1}
+Dark Phantom is here!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!{15}{E1}
+Dark Phantom!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+He's trying to destroy the
+main computer!
+<PUSH>
+Bud and Sonia are battling
+with him now...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Umph!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Ahhh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+*squeal*
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Z-Zack!?
+<PUSH>
+Bud! Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dark Phantom!{15}{E1}
+I won't let you hurt them!
+<PUSH>
+You won't get away!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Well, well...
+Aren't we excitable, today?
+<PUSH>
+You should stop and think
+about who has all of your
+friends lives in his hands.
+<PUSH>
+Muwahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Argh...!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Listen well, Mega Man!
+<PUSH>
+If your friends really mean
+anything to you...
+<PUSH>
+Then come to the main
+computer room in your
+normal human form!
+<PUSH>
+And of course, come alone.
+<PUSH>
+You should probably run,
+don't you think? I sure do.
+<PUSH>
+If you don't, my script might
+change without you...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, Shakespeare!
+<PUSH>
+I'm going to tear you to
+pieces this time around!!
+<PUSH>
+I'm writing the script now!
+So don't read any spoilers!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Heh...
+<PUSH>
+Heh, heh, heh...!
+<PUSH>
+Muwahaha!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Guys...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Get out of here, quick!
+<PUSH>
+I'll be fine here by myself.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+<PUSH>
+Thanks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Phew.
+<PUSH>
+Finally, the third wheel is
+gone, eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+Haha...
+As usual, my jokes don't
+even phase you.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Where's Jack?
+<PUSH>
+Aren't you two always glued
+together at the hip?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+I see you still haven't
+learned when to shut up.
+<PUSH>
+Why don't we dispense with
+all the chit-chat...?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Fine.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+[END]
+

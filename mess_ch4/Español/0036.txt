@@ -1,0 +1,106 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ja!
+¡Ese era el último!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Me oyes, Mega Man?
+<PUSH>
+Parece que han aparecido
+más copias.
+<PUSH>
+Vamos a tenderles una emboscada
+aquí fuera.
+<PUSH>
+¡Cuento con que defendáis
+el interior!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+El objetivo del enemigo
+es el ordenador central
+y el de la Policía Satella.
+<PUSH>
+No dejes que sufran daños.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+El ordenador central y el
+de la Policía Satella{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No será fácil proteger
+los dos...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡No te preocupes, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{A8}{00}¡¡No dejaremos que entre nadie
+al <Centro.Comando>!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale! ¡¡Nosotros nos encargamos
+de defender el ordenador
+de la Policía Satella!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Estás listo?!
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Mega>
+¡Deprisa, chaval, prepárate!
+¡Que no tenemos todo el día!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

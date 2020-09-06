@@ -1,0 +1,270 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0A}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Busco a gente que quiera
+hacer mi cuestionario!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{25}{16}{0D}{00}{0C}{E1}{00}{00}{41}{16}{03}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Ji, ji, ji...
+Qué buen cuestionario
+he preparado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Yo haré ese cuestionario!
+<PUSH>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Ji, ji, ji...
+¡Te aviso de que es
+muy difícil!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Hacer el cuestionario?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0A}{E1}{24}{16}
+<NEW-DIALOG>
+<Chery.Blosom>
+Allá va la primera pregunta.
+<PUSH>
+Gearoid corrió los 400 metros
+relevo junto con su equipo de
+atletismo.
+<PUSH>
+Lo dio todo, y logró superar a
+la persona del segundo puesto.
+<PUSH>
+¿En qué puesto terminó
+Gearoid?
+<PUSH>
+Responde con un número,
+por favor.
+<PUSH>
+{7B}{E1}{01}{00}{02}{00}{08}{00}{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Geo>
+¡Ya me he cansado de este
+cuestionario!
+<PUSH>
+{0B}{E1}{24}{16}{0B}{E1}{41}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Correcto!
+<PUSH>
+Al superar a la persona en
+el segundo puesto, ahora ese
+puesto es suyo.
+<PUSH>
+La siguiente pregunta será
+mucho más difícil.
+<PUSH>
+Segunda pregunta: se realizó
+un concurso de comer perritos
+calientes entre diez personas.
+<PUSH>
+Ben terminó en el sexto puesto
+empezando por el final.
+<PUSH>
+¿En qué puesto terminó Ben?
+<PUSH>
+Responde con un número,
+por favor.
+<PUSH>
+{7B}{E1}{01}{00}{05}{00}
+{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Lo siento, respuesta
+incorrecta! Vuelve a
+intentarlo, por favor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Correcto!
+<PUSH>
+Diez menos seis son cuatro.
+<PUSH>
+Y ahora, la última pregunta
+y la más difícil de todas.
+<PUSH>
+Se realizó una maratón entre
+diez personas en una pista
+cerca de un campo de juego.
+<PUSH>
+Greg se las arregló para superar
+a la persona en el último puesto
+justo antes de cruzar al meta.
+<PUSH>
+Greg fue la única persona que
+superó al corredor en el
+último puesto.
+<PUSH>
+¿En qué puesto terminó Greg?
+<PUSH>
+Responde con un número,
+por favor.
+<PUSH>
+{7B}{E1}{01}{00}{01}{00}{0C}{00}{06}{E1}{0B}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Lo siento, respuesta
+incorrecta! Vuelve a
+intentarlo, por favor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+¡Correcto!
+<PUSH>
+Ji, ji, ji...
+<PUSH>
+La primera persona capaz de
+superar al corredor en el
+último puesto es aquella
+<PUSH>
+en el primer puesto. A esto
+se le llama sacarle una
+vuelta a alguien.
+<PUSH>
+Qué listo eres.
+<PUSH>
+Nadie había respondido nunca
+todas mis preguntas
+correctamente.
+<PUSH>
+Me encantaría ser Hermana de
+alguien tan inteligente.
+<PUSH>
+¿Te importaría ser mi Hermano?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡En absoluto!
+<PUSH>
+{6E}{E1}{00}{00}9
+<NEW-DIALOG>
+<Game>
+¡Geo y {D9}{E2}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Tienes que hacer mi próximo
+cuestionario una vez lo
+tenga listo.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{25}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Lo siento mucho.
+Vuelve a intentarlo,
+por favor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Tienes que hacer mi próximo
+cuestionario una vez lo
+tenga listo.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

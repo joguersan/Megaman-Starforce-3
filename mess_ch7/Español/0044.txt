@@ -1,0 +1,130 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡A{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}gh!!
+<PUSH>
+¡¡No puede ser!!
+<PUSH>
+¡¡N{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Uff{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Uff{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué hace esta cosa aún aquí?
+Hemos derrotado a King, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Puede que esté robándole
+energía a papá{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¿Qué hacemos?{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+¡¡Roooaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ah!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡H-Ha enloquecido!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ungh{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+El Ruido es muy fuerte{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tenemos que luchar{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No podemos perder{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No ahora{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Quiero{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+volver a casa con{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+pa{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}d{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Geo!!
+<PUSH>
+¡¡Geooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

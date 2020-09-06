@@ -1,0 +1,68 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Estáis bien?!
+<PUSH>
+
+<NEW-DIALOG>
+{A8}{00}Ahora sí...
+<PUSH>
+Menos mal que estabais
+cerca. ¡Gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Voy a echar un ojo
+por aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man, ¿me oyes?
+<PUSH>
+Un gran número de copias
+se dirige a tu posición.
+<PUSH>
+Prepárate.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Recibido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí vienen! ¡¿Estás listo?!
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{02}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<NEW-DIALOG>
+<Mega>
+¡¡Prepárate, deprisa!!
+¡No me hagas esperar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

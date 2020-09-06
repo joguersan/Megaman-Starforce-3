@@ -1,0 +1,526 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0A}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Embárcate en una aventura
+para resolver la desaparición
+de la carne con jengibre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{42}{16}{03}{00}{0C}{E1}{01}{00}{27}{16}{0B}{00}{0C}{E1}{01}{00}{A2}{16}
+{0C}{E1}{01}{00}{26}{16}{07}{00}{0C}{E1}{01}{00}{9E}{16}{07}{00}{0C}{E1}{01}{00}{9F}{16}{07}{00}{0C}{E1}{01}{00}{A0}{16}{07}{00}{0C}{E1}{01}{00}{A1}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+Mi carne con jengibre
+ha desparecido...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿...?
+<PUSH>
+¿Cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Bueno, iba a merendar mi
+plato de carne con jengibre
+diario...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Carne con jengibre para
+merendar?!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Y cuando iba a hincarle el
+diente, me di cuenta de que
+nunca le pongo picante!
+<PUSH>
+Así que fui a la nevera a por
+el picante y cuando volví...
+<PUSH>
+«¡Noooooo!»
+<PUSH>
+¡¡Mi carne con jengibre había
+desaparecido!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ya veo...
+<PUSH>
+¿Y si te la comiste antes de
+añadirle el jengibre?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Seré todo lo comilón que
+quieras, pero es imposible!
+¡Desapareció de verdad!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a Bud?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+¡Este suceso no debería
+tomarse a la ligera,
+Budicus!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿A quién llamas «Budicus»?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pues a mí me parece algo
+bastante extraño...
+<PUSH>
+Dile que le ayudarás, chaval.
+Esto podría ser divertido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tienes razón.
+<PUSH>
+Está bien, investigaré esta
+tragedia, Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Bien! ¡Gracias, Geo!
+<PUSH>
+Ah, por cierto...
+<PUSH>
+Ten, podría ayudarte en
+tu investigación.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{A0}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nunca había visto a alguien
+llevando carne con jengibre
+encima...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Es para calentarla en el
+microondas, pero sigue
+estando muy buena!
+<PUSH>
+Ve a mi habitación y colócala
+en el centro para usarla como
+cebo.
+<PUSH>
+{0A}{E1}{26}{16}{0A}{E1}{9E}{16}{82}{E1}0{01}{00}{20}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Bud>
+Cuento contigo, colega.
+
+<PUSH>
+{0B}{E1}{42}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Averiguaste lo que pasó, Geo?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Bud>
+Cuento contigo, colega.
+<PUSH>
+{0B}{E1}{42}{16}{0B}{E1}{26}{16}{0B}{E1}{27}{16}{0B}{E1}{9E}{16}{0B}{E1}{9F}{16}{0B}{E1}{A0}{16}{0B}{E1}{A1}{16}{82}{E1}0{FF}{FF}{82}{E1}1{FF}{FF}{21}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Bud>
+¡Espero que resuelvas el
+misterio!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Averigüé lo que pasó.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Se la llevó Taurus?!
+<PUSH>
+Qué escurridizo, será...
+<PUSH>
+¡Hubiera estado más que
+encantado de preparársela
+si me la hubiera pedido!
+<PUSH>
+¡Cuantos más coman carne con
+jengibre, mejor! ¡Hasta sabe
+mejor!
+<PUSH>
+Le sorprenderé algún día
+preparándole un plato.
+Lo apreciará.
+<PUSH>
+Muchas gracias, Geo.
+¡Esto es por ayudarme!
+<PUSH>
+{A1}{E1}{87}{E1}n{01}{00}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{9E}{E6}{D0}{E6}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{27}{16}{82}{E1}0{FF}{FF}{82}{E1}1{FF}{FF}{21}{EC}{E3}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dejaré aquí la carne con
+jengibre como cebo.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo deja en el suelo la
+carne con jengibre.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9F}{16}{0B}{E1}{BA}{16}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Qué buena pinta tiene esa
+carne con jengibre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Hala! ¡Ha desaparecido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué raro.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Me pregunto qué estará
+pasando...
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{BC}{16}
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{BB}{16}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¿Carne con jengibre?
+<PUSH>
+No tengo ni idea de lo que
+hablas.
+<PUSH>
+¡Mmmrrrgh!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No tenemos testigos oculares,
+¿eh?
+<PUSH>
+Sigamos buscando por la
+habitación.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{0C}{E1}{01}{00}{A2}{16}{11}{00}
+<NEW-DIALOG>
+<Taurus>
+¡C-cómo pica!
+¡Me arde la boca!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Taurus!
+¡Conque tu eres el ladrón!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+... Lo siento.
+<PUSH>
+Veo a Bud comer carne con
+jengibre todos los días y
+tenía tan buena pinta...
+<PUSH>
+Que tenía que probarla.
+<PUSH>
+Y ahora me he vuelto un
+completo adicto...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tiene que gustarte mucho la
+comida para llegar a comer
+comida de humanos!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrgh...
+<PUSH>
+¿Qué vais a hacer?
+¿Se lo vais a contar a Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+En realidad, creo que
+deberías disculparte
+personalmente con Bud.
+<PUSH>
+Sé que te perdonará.
+<PUSH>
+Le diré que quieres
+disculparte.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A2}{16}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<NEW-DIALOG>
+<Taurus>
+Gracias. Me disculparé una vez
+reúna el valor para ello.
+<PUSH>
+Espero que me perdone...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dejaré aquí la carne con
+jengibre como cebo. Mmm,
+¿debería añadirle picante?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{00}{00}{3F}{FF}{3F}{FF}{06}{EC}No
+{3F}{FF}{3F}{FF}{09}{EC}Añadirle un poco
+{3F}{FF}{3F}{FF}{0C}{EC}Añadirle mucho
+<PUSH>
+{17}{EC}{02}{00}{1B}{EC}{06}{00}<Geo>
+
+<NEW-DIALOG>
+<Geo>
+Esto debería bastar.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo deja en el suelo la
+carne con jengibre.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9F}{16}{0B}{E1}{BA}{16}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Geo>
+Esto debería bastar.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo deja en el suelo la
+carne con jengibre.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A1}{16}
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Saaaaaanto cieeeeeelo!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡¡Cómo p-p-pica!!
+¡La carne con jengibre no
+debería picar así!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

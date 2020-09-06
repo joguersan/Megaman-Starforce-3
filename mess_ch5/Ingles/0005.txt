@@ -1,0 +1,151 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, Acid, what are you
+guys doing!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you still members of
+Dealer...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+Bingo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Well, not really.
+Until now there wasn't
+any reason to test you.
+<PUSH>
+I had been putting it off
+for some time...
+<PUSH>
+But I thought it was the
+right time to have a real
+<PUSH>
+battle, so that I could fully
+grasp your true potential.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So you decided to sneak
+attack us?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Hahaha!
+It's all about the atmosphere!
+<PUSH>
+You were freaking out, right?
+<PUSH>
+You were like "No way!",
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Not...{16}{E1} Not at all.
+Not even a drop of sweat!
+<PUSH>
+You think you surprised us!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+U-Umm, well then...
+<PUSH>
+So what was the test really
+for? It couldn't have been
+just to test my power...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Well, you see...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geeeo!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Hey, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Huh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Sonia...{15}{E1} and Bud!?
+<PUSH>
+Why are you two here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Let me re-introduce you all.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+...This is Mega Man.
+<PUSH>
+He's going to fight along
+with you, as the newest
+<PUSH>
+member of the Satella Police
+Commandos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

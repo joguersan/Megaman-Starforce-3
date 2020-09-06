@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Está acabado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+Sigamos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Démonos prisa, Mega!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Qué más podemos hacer!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]

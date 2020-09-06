@@ -1,0 +1,1197 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Unos días después...
+<PUSH>
+
+<END-DIALOG>
+{11}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Parece que la mayor parte de la NAZA
+está en ruinas...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sí...
+<PUSH>
+No queda gran cosa aparte del ordenador
+principal...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y ahora que la Policía
+Satella no cuenta con el
+apoyo de NAZA,
+<PUSH>
+no sé qué más pueden
+hacer...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Desde luego no están en
+su mejor momento...
+<PUSH>
+¿Eh?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}¿...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué pasa?
+<PUSH>
+¿¡Por qué estáis tan
+callados!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno... Verás...
+<PUSH>
+¿Tú también te has dado
+cuenta, Zack?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+S-Sí...
+<PUSH>
+¡Este debe ser uno de esos
+«Momentos únicos en la
+vida»!
+<PUSH>
+¡Increíble!
+<PUSH>
+Bud{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+¡¡No has hablado sobre
+comida en todo este rato!!
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+<Bud>
+¡Caray,{15}{E1} pues sí que es raro,
+sí!
+<PUSH>
+¡No puedo creerlo!
+<PUSH>
+Aunque la verdad,
+últimamente no tengo
+mucha hambre...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Así que...{16}{E1} ¿a qué viene
+tanto alboroto?
+<PUSH>
+¿¡Qué pasa?! ¿¡Que solo
+hablo de comida o qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Puedes negarlo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Bueno, ya, pero...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡P-Pero...!
+<PUSH>
+¡Llega un momento en la
+vida en que uno debe
+establecer sus prioridades!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Muuuuuuuu!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ahora que Taurus está
+conmigo...
+<PUSH>
+¡He estado pensando
+sobre muchas cosas...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+E-Era una broma, Bud... No
+te lo tomes tan a pecho.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo... ¡Lo decía en serio!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Z-Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Aparte, creo que nos está
+ocultando algo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Brrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}¡Ajá!
+<PUSH>
+Bud, ¿a qué ha venido ese
+escalofrío cuando he dicho
+eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡S-S-Serán{15}{E1} imaginaciones
+tuyas!
+<PUSH>
+No suelo tener escalofríos,
+la verdad.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es como un libro abierto...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bud...
+Parece que intentas
+esconder algo...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+¡Dinos la verdad!
+<PUSH>
+¿¡Nos estás ocultando algo,
+Bud!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+Existe un 96% de
+probabilidades de que esté
+ocultando algo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Rayos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Así que es verdad!
+<PUSH>
+No está bien que nos
+mientas.
+<PUSH>
+Pero, ¿qué nos ocultas?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Jejeje...
+<PUSH>
+Creo que lo sé...
+<PUSH>
+Después de todo, nos
+conocemos desde hace
+mucho tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+*Glup*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Ajá!
+<PUSH>
+¡¡Lo que Bud no quiere
+decirnos es...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Es...?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Que está a dieta!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Su objetivo es llegar a un
+20% de grasa corporal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+¿A{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} dieta?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Exactamente!
+<PUSH>
+Al hablar de comida, lo
+normal es que pienses en
+ella y que te entre hambre.
+<PUSH>
+Pero si piensas en otras
+cosas, especialmente en
+cosas muy difíciles de
+<PUSH>
+entender, ¡dejarás de
+pensar en comida!
+<PUSH>
+Por eso estabas así,
+¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡E-En serio, Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+Sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Me habéis pillado!
+<PUSH>
+¡Llevo ya unos días a dieta!
+<PUSH>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud>
+Y pensar que iba a salirme
+con la mía...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Bien hecho, Zack!
+<PUSH>
+¡Seguro que has estado puliendo tus
+habilidades detectivescas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Jejeje...{15}{E1} ¡Sherlock Zack
+siempre da en el clavo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+{13}{EC}(...¡Por los pelos! {13}{EC} ¡Casi me
+pillan de verdad!)
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Chicos...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Os veo animados. ¿Qué os
+pasa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Dele! ¡Escucha esto!
+<PUSH>
+Resulta que...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...Ya lo sé, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+... ¿En serio?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Bud ha estado actuando a
+nuestras espaldas.
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡E-Exacto!
+<PUSH>
+Pero... ¿¡Cómo lo has
+sabido!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Jejeje...
+<PUSH>
+¿¡Es que no sabeis que
+sois como un libro abierto
+para mí!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I-Increíble, Dele...{15}{E1} ¡Eres una
+caja de sorpresas!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Así que...!
+<PUSH>
+¡Cuentanos lo que has
+estado haciendo, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pero...{14}{E1} ¿¡no lo sabes!?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Aah!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡L-Lo siento, Dele!
+<PUSH>
+Me acabo de acordar de
+que tengo cosas que
+hacer. ¡Tengo que irme!
+<PUSH>
+¡Hasta luego, chicos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Se ha ido...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+S-Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Je! ¡Qué tímido es cuando
+quiere!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{15}{E1}¿Tímido?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Bueno, hacer dieta puede
+ser embarazoso...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué dijiste?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Dieta?
+<PUSH>
+¿Por que estáis hablando
+de dietas?
+<PUSH>
+¿Eso qué tiene que ver?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno...{15}{E1} Pues...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Bud lleva unos días
+haciendo dieta en secreto...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Idiotas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Madre mía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Por dios...
+<PUSH>
+¿¡Cómo habéis llegado a la
+conclusión de que Bud
+está a dieta!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, verás...
+<PUSH>
+Sherlock Zack usó sus
+inigualables habilidades
+para sonsacárselo.
+<PUSH>
+Bueno, o eso creíamos...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Mi reputación por los
+suelos...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pero si Bud no está a dieta,
+¿qué puede ser tan
+vergonzoso como
+<PUSH>
+para que lo haga a nuestras
+espaldas?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Obvio!{15}{E1} ¡Es evidente si os
+ponéis a pensar qué día es
+mañana!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mañana...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+(¿Qué pasa mañana,
+Zack?)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(N-No lo sé...)
+<PUSH>
+(Pero parece que ocurre
+algo muy importante.{14}{E1}.{14}{E1}.{14}{E1})
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(...¡Grrr! ¡Hay que ver...!)
+<PUSH>
+(¡Eh, chavales! Haced un
+poco de memoria.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¿Eh?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Aaah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡«Luna a Presidenta»!
+<PUSH>
+Oh no!
+¡Oh, no! ¡Mañana son las
+elecciones del consejo
+estudiantil!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡E-Es cierto!
+<PUSH>
+Con todo este lío me había
+olvidado por completo.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Y-Yo también...
+<PUSH>
+Sobre todo por lo que pasó
+con ella...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+Espero no haber oído lo
+que creo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¡Qué mal! ¿¡Qué podemos
+hacer, Zack!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(Por...{14}{E1} Por ahora, ¡hay que
+pedirle perdón!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¡D-De acuerdo...!)
+<PUSH>
+¡Lo...{14}{E1} Lo siento, Dele!
+<PUSH>
+No puedo creer que nos
+hayamos olvidado de un
+día tan importante...
+<PUSH>
+¡¡Somos unos zoquetes...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Lo siento mucho, Dele!!
+<PUSH>
+Es el error más garrafal de
+toda mi vida!
+<PUSH>
+¡¡Castígame como te
+parezca oportuno!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Tampoco os paséis,
+chicos...
+<PUSH>
+Haré la vista gorda por esta
+vez...
+<PUSH>
+Últimamente no os he
+causado más que
+problemas...
+<PUSH>
+No recuerdo qué pasó
+exactamente...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¡Uf!)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(¡Gracias a Dios!)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+En cualquier caso...
+<PUSH>
+¡Quiero que hagáis
+campaña por mí una última
+vez!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Hacer campaña?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yeah!
+¡Venga! ¡Haced un último
+sondeo y raspad unos
+cuantos votos!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ah... Entiendo.
+<PUSH>
+Es nuestra última
+oportunidad para ganar
+votantes ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Exacto!
+<PUSH>
+Si ponemos todo nuestro
+empeño, seguro que
+gano...
+<PUSH>
+¡¡Y de paso cumpliremos
+con el Propósito de nuestro
+Equipo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡C{14}{E1}-Cierto!{15}{E1} ¿¡A que sí, Zack!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡C{14}{E1}-Correcto, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Muy bien, ¡es hora de que
+os pongais manos a la
+obra!
+<PUSH>
+¡Yo como buena líder os
+esperaré aquí siendo
+fabulosa!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 31]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No me lo creo. Nos hemos
+librado...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pues sí, ¡estábamos con el
+agua al cuello!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pero, bueno...
+<PUSH>
+Al final no hemos averiguado qué nos
+estaba ocultando Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Aún no lo sabes, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+N-No...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Madre mía, Geo...
+<PUSH>
+¡Es increíble que un tipo
+tan simple como tú haya
+llegado tan lejos en la vida!
+<PUSH>
+No se me ocurre otra
+manera de decirlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias, no es para tanto...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¡No te está {13}{EC} haciendo un
+cumplido, chico!)
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+¡Ajá! ¡Lo he descubierto!
+<PUSH>
+¡Bud ha estado
+consiguiendo votos para
+Dele a nuestras espaldas!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Tú crees?
+¿Consiguiendo votos?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+No hay duda...
+<PUSH>
+Bud era el único que
+recordaba que mañana
+eran las elecciones...
+<PUSH>
+¡Y se dio cuenta de que
+nosotros nos habíamos
+olvidado!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+*Glup*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡No cabe duda, Bud ha
+estado haciendo campaña
+por su cuenta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡De verdad!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Nos ha tomado el pelo a
+los dos, Geo...
+<PUSH>
+Lo más seguro es que
+Dele lo supiera todo.
+<PUSH>
+¡Dele lo va a valorar más
+que a nosotros!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Pero no sufras!
+<PUSH>
+¡Aún estamos a tiempo!
+<PUSH>
+¡Tenemos que esforzarnos
+al máximo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+S-Sí...{15}{E1} Me parece bien.
+<PUSH>
+{13}{EC}(Pues yo no creo que {13}{EC}sea
+eso...)
+<PUSH>
+{13}{EC}(Da igual, {13}{EC} el caso es que
+tenemos que{13}{EC} conseguir
+votos como sea)
+<PUSH>
+¡Bien, vamos a ello!
+<PUSH>
+¡Vamos a hablar con los
+estudiantes y profesores
+que sigan en la escuela!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Cubriremos más terreno si
+nos separamos!
+<PUSH>
+¡Déjame a mí los
+estudiantes!
+<PUSH>
+¡Y ocúpate tú de los
+profesores!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¡Por el amor de Dios!)
+<PUSH>
+{13}{EC}(¡Derrocháis{13}{EC} demasiada
+energía, {13}{EC}teniendo en
+cuenta
+<PUSH>
+{13}{EC} todo lo que ha pasado!)
+<PUSH>
+{13}{EC}(¡Pero supongo que eso es
+lo que os hace tan
+divertidos!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]

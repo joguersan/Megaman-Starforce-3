@@ -1,0 +1,1801 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}<Bud>
+<(Queen)Tia>
+{0C}{E1}{01}{00}3{03}{00}{0C}{E1}{01}{00}<Sonia>
+{04}{00}{0C}{E1}{01}{00}<Zack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Let me see your Studio
+Pass! Oh? You don't have
+one?
+<PUSH>
+Only authorized personnel
+are allowed inside!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What...? But Sonia invited us.
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}Sonia, invited you guys?
+No way!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I can't believe she didn't
+work all of this out ahead
+of time.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, she's really busy being
+famous.
+<PUSH>
+These things happen.
+Let's get on the Wave
+Road and look for her.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, that sounds like a
+good idea, kid!
+<PUSH>
+{0A}{E1}<Zack>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Shhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}4{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It appears to be a bug.
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}When it comes to security,
+leave it to me! Ruff!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0D}{E1}{00}{00}{15}{00}<Prez>
+{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Oh? Is that a Studio Pass!?
+You really are friends with
+Sonia!
+<PUSH>
+I apologize. Please use the
+pop-up in front of the door.
+<PUSH>
+{0A}{E1}3
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{08}{E1}{00}{00}{15}{00}{12}{00}{08}{E1}{00}{00}<Prez>
+<Mr.King-2>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Tomorrow is the filming of
+"Stunt Battler Sorro"!
+<PUSH>
+That's why I'm working so
+hard to get everything
+ready.
+<PUSH>
+By the way, my operator is
+the assistant director, so
+he's always running around.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{08}{E1}{00}{00}<Hope(Mom)>
+<Bud>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYou can get to the studios
+quickly from over there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0D}{E1}{00}{00}<Hope(Mom)>
+<Prez>
+<Sonia>
+{08}{E1}{00}{00}<Bud>
+$
+<START-DIALOG>
+
+<NEW-DIALOG>
+vYou're not from around here,
+are you? The Hertzes inside
+are busy, so,
+<PUSH>
+try not to disturb them, OK?
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tDA-DAA-dadada-DA-DA!
+<PUSH>
+Can you guess that tune?
+It's the opening theme to
+"End of the Tree-lined Road".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0C}{E1}{01}{00}<Jack>
+{11}{00}{0C}{E1}{01}{00}{F7}{06}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}Hey, who are you!?
+<PUSH>
+Who let these people in here
+during my rehearsal?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}<Solo>
+{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}Hey, where's Sonia's Lighting
+Wizard!? For crying out loud!
+<PUSH>
+Without that Wizard, we can't
+get started with the shoot...
+<PUSH>
+You! I don't know who you
+are, but go and look for
+that Wizard for me.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+H-How am I supposed to do
+that? Do you have a clue
+that will help or anything?
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}Hmm, let me think...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}I think he's good friends with
+the Makeup Wizard.
+<PUSH>
+The Makeup Wizard is
+probably in Sonia's dressing
+room.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, kid?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's fine by me. Everybody
+seems so busy. I guess we
+can go look for that Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK, if you say so.
+<PUSH>
+{0A}{E1}<Solo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}Did you find the lighting
+Wizard yet? I'm pressed for
+time. I'm counting on you.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}The Lighting Wizard said that
+he's on his way?
+Thanks a lot!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Filming is about to start,
+I guess I should get back
+inside the Cyber Core.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{08}{E1}{00}{00}<Hope(Mom)>
+<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Starting the camera test!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{08}{E1}{00}{00}<Prez>
+<Jack>
+{08}{E1}{00}{00}<Bud>
+%
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe director told me that I
+was getting in the way of
+the filming.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Belle! Come a little bit
+closer to the camera!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}Who's responsible for casting
+these extras!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIt's unusual that there are
+so many people over on the
+tree-lined street.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}S-Stopping the cameras!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vSomebody just blazed through
+here at lightning speed! But
+now there's no sign of them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}There was a lot of
+commotion out here.
+Did something happen?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWh-What was that!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{0C}{E1}{01}{00}{09}{07}!{0C}{E1}{01}{00}"<Heartless>
+{0C}{E1}{01}{00}{07}{07}<Joker>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I heard about the
+disturbance at the concert!
+Leave this area to me! Ruff!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}About the bomb threat...
+<PUSH>
+Most of the Wizards I sent
+to investigate are reporting
+that there is no problem.
+<PUSH>
+The Wizard in charge of the
+stunt car is the only one
+I haven't heard from.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The stunt car is the one
+parked in that parking lot
+over there, right?
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}Yep. He's probably inside
+checking out the Cyber Core.
+But I have to stay here.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK, I'll go and have a look
+inside the Stunt Car's
+Cyber Core!
+<PUSH>
+
+<NEW-DIALOG>
+{95}{00}That would be a big help!
+Thank you!
+<PUSH>
+{0A}{E1}"
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I'm counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I got word from the Wizard
+in charge of the stunt car
+that he's OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{0C}{E1}{01}{00}{09}{07}#
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}For some reason, it's been
+really hard to get in touch
+with other Wizards.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Thank you for what you've
+done. And I'm sorry that you
+couldn't get ahold of me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vAbout the Wizard I said that
+I saw... It kind of looked like
+a crow.
+<PUSH>
+At least that's the feeling
+I got.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tD-Do you think I'm in the
+way by standing here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Oh, thank you for the
+other day.
+<PUSH>
+I'm really sorry to have put
+you through all that...
+<PUSH>
+Oh, by the way, tomorrow
+they're shooting a Belle TV
+commercial.
+<PUSH>
+And as her manager, I have
+to do my best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Oh, I'm sorry... Only
+authorized personnel
+are allowed...
+<PUSH>
+...Hey!
+Aren't you Lee Stern's
+Brother!?
+<PUSH>
+Please accept my apology!
+Go on in!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}I think this stunt car has
+just about had it...
+<PUSH>
+The real thing breaks a lot
+more realistically than
+Real Waves do.
+<PUSH>
+I really want to get a little
+more mileage out of it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tMan, I can't believe all of
+the madness that's been
+going on lately.
+<PUSH>
+First, a Flame Wizard goes
+out of control, then the
+next thing you know,
+<PUSH>
+an Ice Wizard goes out of
+control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThanks to your efforts,
+<Studi.WBG> has been saved!
+<PUSH>
+You're so strong and
+dreamy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+{0D}{E1}{00}{00}&(7
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis place is really nice!
+<PUSH>
+It's a great spot to use
+for TV dramas and
+commercials!
+<PUSH>
+Today, they're going to
+have Belle's shoot here!
+<PUSH>
+I'm looking forward to it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+The shooting for Belle's
+commercial just finished!
+<PUSH>
+I'm really happy with the
+result! She's a natural!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Oh, I'm sorry... Only
+authorized personnel
+are allowed...
+<PUSH>
+Hey!
+Aren't you Lee Stern's
+Brother!?
+<PUSH>
+Please accept my apology!
+Go on in!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}This time we're going to do
+a drama that features the
+Satella Police.
+<PUSH>
+So I think we can get some
+use out of this old clunky
+stunt car.
+<PUSH>
+I just hope it doesn't fall
+apart.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThey were just shooting
+Belle's TV commercial!
+<PUSH>
+I remember when she
+was a lot shier.
+<PUSH>
+She has really changed
+for the better!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vIce, the Wizard acting as
+Belle's manager used to be a
+lot scarier.
+<PUSH>
+She always used to look
+angry, but nowadays,
+she's been really nice.
+<PUSH>
+I wonder what happened?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tBelle did great, didn't she!?
+I have a feeling that she's
+going to make it big!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Welcome to <Studi.WBG>!
+I've finally remembered
+your face.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}In the next scene, there's
+going to be a huge explosion.
+<PUSH>
+Even one small lapse in
+concentration can lead to
+disaster...
+<PUSH>
+So it's a must that we
+prepare very carefully.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe other day I got to see
+Belle in person!
+<PUSH>
+Working here, I get to see
+lots of famous people.
+It's a lot of fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI overheard the producers
+talking, and it looks like in
+three weeks, they're going
+<PUSH>
+to can the drama series
+they're filming right now.
+<PUSH>
+I guess it's all about the
+ratings.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWelcome to <Studi.WBG>!
+Another day, another
+film shoot.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Welcome to <Studi.WBG>!
+<PUSH>
+Please feel free to
+look around! Ruff!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Welcome to <Studi.WBG>!
+<PUSH>
+Oh my goodness!
+It's terrible...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Whooooagh!
+Bring it on!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, it's not gonna help
+us to fight this guy!
+<PUSH>
+We've got to find the
+cause of all this....
+<PUSH>
+Hey! Are you listening
+to me!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Whooooagh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{0C}{E1}{01}{00}{CD}{07}Y
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+What on Earth is going on?
+Where are all these viruses
+coming from!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+*sigh* There's just no end
+to this.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Forget about the small fry
+for now! We've gotta look
+for that Noise Wave, kid!
+<PUSH>
+It should be around here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+{0D}{E1}{00}{00}BDZ{09}{E1}{00}{00}{BD}{07}{D3}{07}V
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep*
+Ahh, today's Noise actually
+feels nice and refreshing!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* First there
+was all the Noise, and now
+there are all these viruses!
+<PUSH>
+Good grief!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+{0D}{E1}{00}{00}BD[{09}{E1}{00}{00}{BD}{07}{D3}{07}X
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI haven't seen Sonia
+at the studios lately.
+I'm a little sad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vOoo...
+<PUSH>
+This Noise is terrible!
+It's probably because of
+the Noise Wave nearby!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Thank you Geo!
+Everything here is fine!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+I wonder how things are
+going with Taurus?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep*
+<PUSH>
+Today's Noise is as
+thick as pea soup.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vDoes it seem to you like
+Noise Waves are popping
+up all over the place?
+<PUSH>
+Or is it all just in my head?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}OK everyone, it's almost
+time for the real thing!
+<PUSH>
+Let's give 'em a performance
+for the ages!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Welcome to <Studi.WBG>!
+Are you here on a tour?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Welcome to <Studi.WBG>!
+<PUSH>
+There was quite a
+stir here recently.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tBelle...
+I'm always watching
+over you....
+<PUSH>
+Psych!
+*guffaw*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+{09}{E1}{00}{00}{17}{08}{1D}{08}r
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI'm just glad that Belle
+and the rest of the staff
+are OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tL-Look at all of these
+Wizards!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEvery day Belle practices
+her lines right down there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThey're using a lot of
+Wizards for today's
+filming!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+{09}{E1}{00}{00}{17}{08}{1D}{08}v
+<START-DIALOG>
+
+<NEW-DIALOG>
+vTh-The Wizards here for
+filming are...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vI saw someone being carried
+out on a stretcher...
+<PUSH>
+Aren't you with the Satella
+Police?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThe Satella Police are here
+investigating the
+Event Stage.
+<PUSH>
+What in the heck do you
+think caused that Wizard to
+go out of control?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+{0D}{E1}{00}{00}ho{8C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}Sorry, I'm in the middle of
+an important conversation...
+Can it wait until later?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+{0D}{E1}{00}{00}ho<Apollo.Flame>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}Hello! Everyone seems to
+be on pins and needles.
+Don't pay them any mind!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+{0D}{E1}{00}{00}ho{8E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+vWAZA's in trouble!
+I'm so scared!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+{0D}{E1}{00}{00}ho{8F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOh, no...
+They got WAZA...
+<PUSH>
+But here should be safe...
+After all, who would attack
+a TV studio, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{96}{00}If you give up,
+you've already lost!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}<Studi.WBG> was completely
+caught up in the Jamming...
+It was so scary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vEverything just turned red...
+Ohhh, I was so scared!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tMan, that was scary...
+That red glow is the power
+of the meteor...
+<PUSH>
+Once again it's heading
+for Earth!
+S-Scaaaaary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+

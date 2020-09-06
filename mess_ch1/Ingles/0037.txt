@@ -1,0 +1,140 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+Tomorrow I'm finally going
+to space!
+<PUSH>
+I can't wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+I'm sorry but{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+That dream of yours isn't
+going to come true.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+W-Who's there!?
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Hope(Mom)>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Who are you guys!?
+How did you get in here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+So the rocket is next
+after <Spica.Mall>, huh?
+<PUSH>
+Heh heh heh...
+You're pretty amazing, Sis.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+What are you up to!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We're going to give you a
+present... Something our
+boss made.
+<PUSH>
+It's called a "Noise Card".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Oh!
+What is this!?
+<PUSH>
+A playing card!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+It's a card that makes
+Wizards go out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I'll give you the title of
+"Spade"...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Uhh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Spade Magnes...
+Give in to your primal
+urges...
+<PUSH>
+Set this school into an
+unimaginable panic!
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Spade-Magnes>
+R{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

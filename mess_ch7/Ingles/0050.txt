@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}Dad...?
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}Mega...?
+<PUSH>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+No one is... here...
+I can't... hear anything...
+<PUSH>
+This isn't right{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+If I stay here{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I don't think I'll make it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+I miss{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} everyone{14}{E1}.{14}{E1}.{14}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

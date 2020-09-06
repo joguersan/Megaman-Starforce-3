@@ -1,0 +1,905 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}{00}{00}
+{08}{E1}{00}{00}{01}{00}<Geo>
+{08}{E1}{00}{00}{02}{00}<(Queen)Tia>
+{08}{E1}{00}{00}{03}{00}({08}{E1}{00}{00}{04}{00}2{08}{E1}{00}{00}{05}{00}<{08}{E1}{00}{00}{06}{00}F{08}{E1}{00}{00}{07}{00}P{08}{E1}{00}{00}{08}{00}Z
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{81}{06}{8B}{06}{0B}{00}{09}{E1}{00}{00}{8B}{06}{8D}{06}{0C}{00}{09}{E1}{00}{00}{8D}{06}{99}{06}{0D}{00}{09}{E1}{00}{00}{99}{06}{9B}{06}{0F}{00}{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, are you done yet!?
+We should get to the Roof
+ASAP!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That Prez girl's calling for
+us. We better hustle to the
+first floor snack shop.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{08}{E1}{06}{00}{05}{77}{0E}{00}{08}{E1}{06}{00}{0B}{90}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Wave change with the
+R Button and pulse in
+via the Wave Station!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Viruses! It's been way too
+long since our last battle...
+It's time to go buck wild!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{08}{E1}{06}{00}{0B}{90}{10}{00}{08}{E1}{06}{00}{01}{70}{12}{00}{08}{E1}{06}{00}{05}{77}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I wonder if that Woody,
+or whoever, guy is OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Use the R Button to cancel
+your Wave Change and pulse
+out at the same time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Head for the Sprinkler CC!
+There are some viruses that
+need deleting!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Use the R Button to
+trans out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{9F}{06}{A1}{06}{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Prez is waiting for us at
+the first floor snack shop.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Aren't you going to form a
+Brother Band with both
+Bud and Zack?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{A5}{06}{A7}{06}<Joker>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Shouldn't you be searching
+for people in school who
+look like they need help?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{0C}{E1}{01}{00}{07}{00}#{0C}{E1}{01}{00}{06}{00}"{0C}{E1}{01}{00}{05}{00}!{0C}{E1}{01}{00}{04}{00}<Heartless>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You're supposed to find the
+teacher who is in charge of
+the Real Wave tree.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{08}{E1}{06}{00}{03}{77}$
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We need to fix the moth
+display in the Science Club
+Room. Let's get in the CC!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The display is back to normal
+now, huh? Let's go tell that
+scary teacher!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We have to get the things
+the scary teacher needs
+in his HELP pop-up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Alright! It's time to get to
+the Real Wave tree on the
+Roof!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+This Wizard is the reason
+the moth display is
+wacky! Let's take him out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{09}{E1}{00}{00}{A7}{06}{A9}{06}){09}{E1}{00}{00}{A9}{06}{AB}{06}*{09}{E1}{00}{00}{AD}{06}{AF}{06},{09}{E1}{00}{00}{AF}{06}{B1}{06}-{09}{E1}{00}{00}{B1}{06}{B3}{06}.{09}{E1}{00}{00}{B3}{06}{B5}{06}/
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It looks like there's someone
+that needs help at the
+first floor snack shop.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{0C}{E1}{01}{00}{08}{00}+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You have to help them make
+up. The other friend is in
+the park in <Echo.Ridge>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The source of the problem
+may be on the Wave Road.
+Let's check it out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The message should have
+gotten through. Let's report
+in at the snack shop.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The science club seems to
+be in a bind. You should go
+to the Science Club Room.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I wonder who it is that's
+waiting for you in the
+school entrance?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You should get some rest so
+you're fresh for tomorrow.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{B9}{06}{BB}{06}3
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We're supposed to meet by
+the train wicket, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+{08}{E1}{07}{00}{0C}{00}4
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The tournament is taking
+place in the {BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey!
+So now it's cool if you
+don't go to <Spica.Mall>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{BB}{06}{BF}{06}={09}{E1}{00}{00}{BF}{06}{C1}{06}?
+[END]
+
+[SENTENCE NUMBER 62]
+{0C}{E1}{01}{00}{09}{00}>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The security system has
+activated, even though
+<PUSH>
+there's been no emergency!
+We should check things out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{0C}{E1}{01}{00}{0F}{00}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Don't you think we should
+go report in to Prez? She
+scares me when she's mad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+If someone is asking for a
+fight, then I'm accepting!
+<PUSH>
+EM Wave Change and head
+to the Event Stage!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Now we can get to the
+{BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We've got to stop the out
+of control Wizards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{C5}{06}{C7}{06}Q{09}{E1}{00}{00}{C7}{06}{C9}{06}R{09}{E1}{00}{00}{C9}{06}{CB}{06}S
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We should see that Prez girl
+now that we have the card.
+She's in the {BD}{E4}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's get the card to that
+Woody guy. He said he'd be
+in the Science Club Room.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tomorrow's launch day, huh?
+It's probably best that you
+get a good night's rest.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{09}{E1}{00}{00}{CF}{06}{D5}{06}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's finally launch day!!
+They're launching from
+the roof, so let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+{08}{E1}{06}{00}{00}{60}\{08}{E1}{06}{00}{01}{60}]
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Magnes must be stopped!
+Trans in to the Rocket's
+Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That out of control Magnes
+is going down!! Come on, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That out of control Magnes
+is going down!! Come on, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

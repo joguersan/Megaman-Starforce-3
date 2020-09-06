@@ -1,0 +1,124 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}.{02}{00}{0C}{E1}{01}{00}O{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡¡EL SISTEMA MEDIOAMBIENTAL
+FUNCIONA PERFECTAMENTE!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¿QUÉ PUEDO HACER POR TI?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Perdona... ¿podría echarle
+un vistazo a esa cosa
+brillante de tu cabeza?
+<PUSH>
+
+<NEW-DIALOG>
+t¿¡Y A MÍ QUÉ!?
+<PUSH>
+¿¡QUIERES QUE AVISE
+A LA POLICÍA!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¿Alguien nos llamaba?
+<PUSH>
+
+<NEW-DIALOG>
+t¡SÍ, HE SIDO YO!
+ESTE TÍO MAL EDUCADO...
+<PUSH>
+...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}LA POLI...
+<PUSH>
+¿¡LA POLI!?
+<PUSH>
+¿¡QUÉ ESTÁ HACÍENDO LA
+POLICÍA SATELLA AQUÍ!?
+<PUSH>
+¿NO SE SI LOS DATOS
+QUE HE ENCONTRADO TIENE
+ALGO QUE VER?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Así que, ¿¡eres el que tiene
+los datos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Devuelve esa pieza Prez,
+¡ya!
+<PUSH>
+
+<NEW-DIALOG>
+tVALE, VALE.
+AQUÍ ESTÁ...
+<PUSH>
+...{15}{E1}¡AGH, VAYA!
+<PUSH>
+{0A}{E1}{25}{02}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tL-LO SIENTO...
+NO LO VOLVERÉ A HACER...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Los virus elementales
+de madera
+<PUSH>
+recuperan su vida cuando
+están en la hierba!
+<PUSH>
+¡Ten cuidado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

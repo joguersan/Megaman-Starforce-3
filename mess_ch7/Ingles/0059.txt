@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Th-That's...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Crimson...
+<PUSH>
+There's so much of this
+stuff inside of Meteor G.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+This can't be good.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Heh!!
+<PUSH>
+I can handle a bunch of
+Crimson all by myself, no
+problem!
+<PUSH>
+Kid! Let's do this just like
+when we fought those copy
+freaks at WAZA!
+<PUSH>
+Press the B Button to make
+me tear the Crimson to
+pieces!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it, Mega!
+I know you can do it!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Just remember that if I
+miss, then the Crimson will
+attack you head on!
+<PUSH>
+The Crimson itself doesn't
+have any bite in its bark,
+but it will call viruses to it!
+<PUSH>
+So stay frosty, kid!!
+<PUSH>
+Oh, one last thing...
+You won't have a chance to
+organize your folders or
+<PUSH>
+save your progress when
+Crimson attacks you.
+<PUSH>
+You'll have to select the
+menu screen while you're
+dodging those crazy things!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK! I'm ready!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

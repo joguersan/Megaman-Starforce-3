@@ -1,0 +1,87 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+.{16}{E1}.{16}{E1}.{16}{E1}Strange.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...?
+<PUSH>
+Is there something wrong,
+Mr. King?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Meteor G is not utilizing
+100% of its power...
+<PUSH>
+It should be able to produce
+much more powerful Jamming.
+<PUSH>
+Its Jamming should be able
+to block all EM beings from
+entering or leaving, plus all
+<PUSH>
+humans that are touched by
+it should be destroyed.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+But Meteor G is completely
+under your control.
+<PUSH>
+There is no way that it
+can deny your orders...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+That means that there is
+someone outside of WAZA
+that is interfering with me.
+<PUSH>
+But who could it be...?
+<PUSH>
+Who would wait until the last
+moment to strike at me?
+<PUSH>
+Heartless!
+<PUSH>
+Look into this for me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes, Mr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

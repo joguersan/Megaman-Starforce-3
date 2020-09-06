@@ -1,0 +1,75 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{AB}{03}{05}{00}{08}{E1}{09}{00}<Geo>
+{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+<PUSH>
+Possession of 20 Mega
+Class Cards required
+to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{00}{00}{AC}{03}{05}{00}{0C}{E1}{01}{00}{AF}{08}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Restricted by:
+XXXXXZ
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of 20 Mega
+Class Cards confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{AB}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions set
+by Rogue Z...
+Access granted.
+<PUSH>
+{0B}{E1}{AC}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+

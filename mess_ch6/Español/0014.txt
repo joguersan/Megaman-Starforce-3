@@ -1,0 +1,498 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dra. Goodall...
+<PUSH>
+¿Cómo están Ace y Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+En cuanto a Acid...
+<PUSH>
+He reinstalado su programa
+principal, y está a punto de
+reiniciarse.
+<PUSH>
+Pero Arthur...
+<PUSH>
+No le está yendo muy bien.
+<PUSH>
+Secciones profundas de su
+conciencia fueron
+<PUSH>
+despedazadas por Acid cuando
+estaba fuera de control...
+<PUSH>
+Y también permanecer en
+estado de onda EM por tanto
+tiempo lo ha empujado
+<PUSH>
+a sus límites físicos,
+y mentales.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Es un milagro el que haya
+vuelto con vida.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+Umm... Dra. Goodall...
+<PUSH>
+¿Qué le pasó a Acid?
+<PUSH>
+Normalmente Acid jamás le
+haría daño a Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+Tienes razón.
+<PUSH>
+Supongo que lo mejor es que
+lo sepas.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Dra. Goodall...
+<PUSH>
+No hará ninguna diferencia
+que el lo sepa.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Arthur!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ace!
+<PUSH>
+¿¡Estáis bien!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Casi tan «bien» como parezco.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Q-Qué...
+<PUSH>
+¿¡Qué narices haces fuera de
+la cama!?
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+No debes de moverte.
+<PUSH>
+No te presiones tanto.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doc... Lo siento.
+<PUSH>
+No puedo quedarme sentado
+sin hacer nada.
+<PUSH>
+Ahora mismo, Dealer está
+ocupado llevando a cabo sus
+planes...
+<PUSH>
+A este paso, perderemos el
+mundo a su costa.
+<PUSH>
+¡Haré lo que haga falta
+para evitar que eso ocurra!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡A-Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo, que te parece esto...
+<PUSH>
+Encontraremos la base de
+dealer...
+<PUSH>
+¡Y luego los derrotamos con
+nuestras propias manos!
+<PUSH>
+para que...
+<PUSH>
+el mundo...
+<PUSH>
+sea un lugar seguro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡¡Arthur!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Ace!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Si continuamos sólo
+respondiendo a las acciones
+<PUSH>
+de Dealer, nunca podremos
+detenerlos.
+<PUSH>
+Así que nuestra próxima
+misión será...
+<PUSH>
+{12}{E2}{11}{00}{01}{00}
+<NEW-DIALOG>
+4¡Atacar a Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+0{13}{EC}¡¡ !!
+<PUSH>
+
+<NEW-DIALOG>
+1{13}{EC}¡¡ !!
+<PUSH>
+
+<NEW-DIALOG>
+4Todo el personal de la NAZA
+se centrará ahora en
+encontrar la base de Dealer.
+<PUSH>
+¡Vamos a tener que buscar
+hasta debajo de las piedras
+para encontrarlos!
+<PUSH>
+¡No podemos dejar ni una
+sola sin mirar!
+<PUSH>
+
+<NEW-DIALOG>
+2¡Sí, señor!
+<PUSH>
+
+<NEW-DIALOG>
+3¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Todos los oficiales de la
+Policía Satella realizarán
+<PUSH>
+investigaciones en todas las
+<PUSH>
+áreas que hayan tenido
+incidentes recientes
+relacionados con Dealer!
+<PUSH>
+Podría haber rastros de
+Dealer en cualquiera de
+estos sitios.
+<PUSH>
+¡Contamos con todos ustedes!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Sí, señor!
+<PUSH>
+
+<NEW-DIALOG>
+1¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Geo Stelar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡S-Sí, señor!!
+<PUSH>
+
+<NEW-DIALOG>
+4En cuanto a vosotros...
+<PUSH>
+Permaneced en espera hasta
+que el líder del equipo, Ace,
+se haya recuperado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡...!
+<PUSH>
+¡Espere un segundo, jefe!
+<PUSH>
+¡Al menos déjame echar
+una mano!
+<PUSH>
+
+<NEW-DIALOG>
+4G-Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Como ha dicho Ace, Dealer
+no está de vacaciones
+precisamente...
+<PUSH>
+No nos queda mucho tiempo.
+<PUSH>
+Y está cada vez más cerca de
+dominar el mundo...
+<PUSH>
+¡Ace nos advirtió de no darle
+ningún tipo de ventaja!
+<PUSH>
+¡No podemos quedarnos
+sentados esperando!
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo...
+<PUSH>
+¿En serio crees que los que
+tienen el papel de apoyo no
+marcan ninguna diferencia?
+<PUSH>
+
+<NEW-DIALOG>
+4¡ !
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dra. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ya has hecho suficiente
+por hoy.
+<PUSH>
+Ahora tu deber es descansar.
+<PUSH>
+Mañana te espera mucho que hacer.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Mañana!?{15}{E1}
+¿Entonces podré echar
+una mano?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Claro!
+<PUSH>
+¡Hay muchas cosas de las que
+solo tu te puedes encargar!
+<PUSH>
+¿Verdad, Jefe?
+<PUSH>
+
+<NEW-DIALOG>
+4Ci-Cierto...
+<PUSH>
+Como ha dicho el Dr.Goodall...
+<PUSH>
+Ve a descansar.
+<PUSH>
+¡Debemos estar en nuestra
+mejor condición para lo que
+nos espera!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡E-Entendido!
+<PUSH>
+¡Llamadme a la más mínima
+señal!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo>
+Está bien...
+¡¡Hora de dormir!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¿Somos incapace de mantener
+el mundo a salvo sin poner
+a ese chico en peligro?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yo lo veo de otra forma.
+<PUSH>
+
+<NEW-DIALOG>
+4¡{13}{EC}!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Querer proteger el mundo no
+tiene nada que ver con la
+edad.
+<PUSH>
+De hecho, los niños tendrán
+motivos más puros e inocentes
+<PUSH>
+que los adultos.
+<PUSH>
+Ese joven hace todo lo
+que puede para proteger
+el mundo...
+<PUSH>
+Pero ni siquiera se da cuenta
+de lo mucho que ya ha hecho
+por todos nosotros.
+<PUSH>
+
+<NEW-DIALOG>
+4Cuando todo esto termine,
+tendremos que asegurarnos de
+hacerselo saber.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Ahora comencemos nuestra
+parte del plan.
+<PUSH>
+Hay muchas cosas que sólo
+los adultos pueden hacer...
+<PUSH>
+¿Cierto, Dra. Goodall?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Tu lo has dicho.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

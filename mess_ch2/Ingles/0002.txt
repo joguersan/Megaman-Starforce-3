@@ -1,0 +1,392 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Stick!{14}{E1} Jab!{14}{E1} Stick and jab!{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...What are you doing, Mega?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Like I said. Until the other
+day, I hadn't gone buck
+wild in a long time.
+<PUSH>
+So I'm training for the
+next trouble that pops up!
+<PUSH>
+I want to make sure I'm
+ready to rock!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cool...
+<PUSH>
+Ah! More importantly, I
+need to check the TV!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+"More importantly"!?
+What show could be that
+important!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Magnes went out of
+control recently, right?
+<PUSH>
+And before that, a Wizard
+went out of control at
+<Spica.Mall>...
+<PUSH>
+I've been really interested
+in why this is happening to
+Wizards, lately...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And you think that idiot box
+will tell you all that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm not really sure, but...
+I heard there's going to
+be a special on Wizards.
+<PUSH>
+I figured it would be worth
+it to check it out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{41}{02}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+*Welcome to our special on
+Wizards and "Noise".
+<PUSH>
+Tonight, we will be talking
+to EM technology expert,
+Legendary Master Shin.
+<PUSH>
+Thank you for coming,
+Legendary Master Shin.
+<PUSH>
+{12}{E2}<Mr.King-2>
+{00}{00}
+<NEW-DIALOG>
+$It's legendary!
+Thanks for having me!
+<PUSH>
+
+<NEW-DIALOG>
+*So you are very familiar
+with Noise, aren't you?
+<PUSH>
+
+<NEW-DIALOG>
+$Well, I find Noise quite
+interesting, and have been
+doing tons of research on it.
+<PUSH>
+You could almost call me
+a Noise maniac!
+<PUSH>
+
+<NEW-DIALOG>
+*I see.
+What can you tell us about
+Wizards and "Noise"?
+<PUSH>
+
+<NEW-DIALOG>
+$Well, let me break it down
+for you!
+<PUSH>
+To put it simply, "Noise" is
+outputted by the world's
+<PUSH>
+EM technology. Almost like
+the exhaust of a car.
+<PUSH>
+It is the negative to all
+the positives we receive
+from EM technology.
+<PUSH>
+Actually, it is the largest
+and most severe problem
+<PUSH>
+humanity has ever had to
+deal with.
+<PUSH>
+
+<NEW-DIALOG>
+*Wow, that was a mouthful!
+<PUSH>
+I'm not sure I understood
+any of that...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+$Oh, really? Hmm, well...
+<PUSH>
+OK, I'll break it down for
+you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{12}{E2}{0C}{00}{02}{00}
+<NEW-DIALOG>
+$"Noise" is constantly being
+emitted from all sorts of
+devices, like <Hunter>s.
+<PUSH>
+It is what attracts viruses
+and causes all sorts of
+problems with Cyber Cores.
+<PUSH>
+
+<NEW-DIALOG>
+*I see. So... 
+<PUSH>
+"Noise" is always around
+us making devices not
+work properly.
+<PUSH>
+
+<NEW-DIALOG>
+$You got it!
+<PUSH>
+However, with the new
+kind of Wizards that have
+been released lately...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$In short, it was discovered
+that the new Wizards are
+<PUSH>
+emitting much more Noise
+than all other types of
+EM technologies.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wizards are emitting Noise...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's the price humans have
+to pay for a comfortable
+lifestyle, eh?
+<PUSH>
+
+<NEW-DIALOG>
+$And if a Wizard goes out
+of control...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$A considerable amount of
+Noise is emitted...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$When enough is created,
+the Noise will form into
+large clusters.
+<PUSH>
+
+<NEW-DIALOG>
+*Noise clusters...
+So they crystallize?
+<PUSH>
+
+<NEW-DIALOG>
+$That's right.
+<PUSH>
+A large amount of Noise
+will become a red crystal.
+<PUSH>
+These crystals are called
+"Crimson".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$It is still unknown what
+kind of problems Crimson
+can cause...
+<PUSH>
+But Crimson should be a
+big concern for the human
+race in general.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+$Indeed, Wizards are a
+wonderful creation provided
+by today's technology.
+<PUSH>
+However, the fact that
+they are producing the
+<PUSH>
+Crimson at high levels is
+well documented.
+<PUSH>
+Humanity must deal with
+this problem as quickly and
+adequately as possible.
+<PUSH>
+
+<NEW-DIALOG>
+*That was the Legendary
+Master Shin and his
+explanation of Noise.
+<PUSH>
+Thank you so much.
+<PUSH>
+
+<NEW-DIALOG>
+$No worries!
+<PUSH>
+
+<NEW-DIALOG>
+*Next up...
+<PUSH>
+A delightful and warming
+report on a new
+amusement park built
+<PUSH>
+for children by the "King
+Foundation".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Crimson, huh?
+I didn't notice any when
+Magnes was out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We didn't really learn why
+Wizards are going out of
+control, did we?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geeeooo?
+You'll be late for school!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, man!
+I gotta run!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

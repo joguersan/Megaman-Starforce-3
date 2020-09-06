@@ -1,0 +1,108 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The entrance to the Noise
+Wave is blocking the Wave
+Road...
+<PUSH>
+What should we do?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+You're in my way. Move.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+S-Sure...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue...
+What are you going to do?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+Hmph.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue!!
+<PUSH>
+You don't know what could
+happen in that Noise Wave!
+<PUSH>
+Acid even said so!
+<PUSH>
+Even you will be in danger if
+you go in there!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*sigh*
+Geez, this guy is really
+starting to annoy me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+We're going, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]
+

@@ -1,0 +1,334 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+So...
+Are we finally there?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah.
+Over there is Planet FM.
+<PUSH>
+And Sirius's Black Hole
+Server...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It's right on top of it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+We have to get there ASAP!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Definitely.
+This Wave Road should lead
+to the server's entrance.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo, my Brother.
+You really came...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That voice...!{15}{E1}
+Is that you, Cepheus!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Cepheus! Are you OK!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good to see you, FM King!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Thank you very much for
+coming all this way.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It's not a problem.
+<PUSH>
+Brothers do whatever it
+takes to help out when
+their Brothers are in trouble.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo...
+You're always teaching me
+more and more about life.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Heh, it looks like you've
+softened up a bit.
+<PUSH>
+But anyway, what's the
+situation looking like?
+<PUSH>
+Is there some way to stop
+the black hole?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+We've tried everything within
+our arsenal.
+<PUSH>
+Nothing has had an effect
+on the black hole.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What about that super
+powerful weapon that the
+government was working on?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+You mean the Ultimate Wave
+Force Missile.
+It had little to no effect.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez!
+<PUSH>
+Well, did you sortie the
+defense troops for an
+attack on the core?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Yes. They were completely
+wiped out...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What!? That's...!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+There is nothing we can do.
+<PUSH>
+According to our analysis...
+We have exactly one day
+<PUSH>
+before Planet FM is
+swallowed by the black hole.
+<PUSH>
+I have just ordered every
+citizen of Planet FM to
+<PUSH>
+board our resonance rockets
+for evacuation.
+<PUSH>
+Geo...{15}{E1}
+Thank you for coming, but...
+Please return to Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+FM King!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Sirius and his black hole are
+just too much.
+<PUSH>
+Losing one's home is a
+tragic event.
+<PUSH>
+Yet, as king, my first duty
+is to keep my people safe.
+<PUSH>
+I share the same duty to
+you, as your Brother.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}One day, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What if we could stop Sirius
+and his black hole within one
+day?
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Don't even think about it!
+My decision has been made,
+and that's final!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I understand.
+...But I can't accept
+what Sirius is doing!
+<PUSH>
+He has no right to do this
+to you and your people!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'm with the kid on this one!
+<PUSH>
+There's no way I can just
+sit around and watch my
+home planet be destroyed!
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo... Omega-Xis...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega and I are going into
+the black hole.
+<PUSH>
+And we'll defeat Sirius!
+<PUSH>
+...But I can't promise that
+Planet FM will be saved
+from being swallowed up.
+<PUSH>
+So please continue with your
+evacuation plans, Cepheus.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+Geo...{15}{E1}
+I don't know what to say...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+Just tell me that you believe
+in me. A Brother's trust is
+invaluable.
+<PUSH>
+Cepheus, please head back!
+We'll take care of this.
+<PUSH>
+
+<NEW-DIALOG>
+<Cepheus>
+...
+<PUSH>
+I believe in you, Mega Man.
+<PUSH>
+As a Brother...
+And as a representative of
+Planet FM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+Do you know how I
+feel right now?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Of course...
+You seem unusually angry
+and ready for a fight.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I guess you know me well.
+<PUSH>
+So why don't you get fired
+up with me!?
+<PUSH>
+Let's rock, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah! But how about a little
+blues every once in a while!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

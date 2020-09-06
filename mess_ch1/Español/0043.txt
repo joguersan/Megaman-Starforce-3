@@ -1,0 +1,271 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Brum, brum
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Los niveles de energía
+se han estabilizado!
+¡Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Todos los sistemas
+en orden!
+¡Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Por fin... ¡Lanzamiento!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+¡Woody!
+¡Chicos!
+<PUSH>
+¡Me voy al espacio!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡Te cuidado, Magnes!
+<PUSH>
+¡Cuando llegues, ponte
+en contacto con nosotros!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sííííí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}"{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Lo conseguimos! ¡Sí!
+¡Ha sido todo un éxito!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Cuánto me alegro, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Es fantástico, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala! ¡Qué poderío!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Esto es genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Un gran momento para
+compartir todos juntos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Es como un sueño!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+El espacio exterior...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eh, Mega...
+¿Sabes si papá sigue vivo
+ahí arriba?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, claro.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estaba pensando...
+Puede que Magnes se
+tropiece con él.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nada es imposible...
+Espero que en su informe
+haya buenas noticias.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Propósito completado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Cambio de Onda EM, ID003...
+<PUSH>
+Transcodificación «Mega Man»...
+<PUSH>
+Tal y como imaginaba,
+él es Mega Man.
+<PUSH>
+Necesitamos su poder para
+detener el desastre que
+se avecina sobre la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Menuda temeridad.
+<PUSH>
+Si Mega Man no lo hubiera
+logrado, la explosión
+<PUSH>
+también nos habría
+engullido a nosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Je...
+He creído en él al 100 %.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+El Wizard fuera de
+control ha creado
+<PUSH>
+una cantidad descomunal
+de Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Y alguien ha cogido el
+Ruido cristalizado...
+<PUSH>
+Puede que fueran «ellos»...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Eso es lo que tenemos
+que averiguar.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Claro...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Tenemos que centrarnos
+de lleno en el caso...
+<PUSH>
+¡Pero por ahora, una chuche
+para celebrar el
+lanzamiento del cohete!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Ñam,ñam
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+¿No crees que estás
+comiendo demasiado, Ace?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

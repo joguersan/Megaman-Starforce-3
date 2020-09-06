@@ -1,0 +1,3215 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Eso de ahí es el Wizard
+del puesto de información
+de <Echo.Ridge>.
+<PUSH>
+¡Qué útiles son los
+Wizards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¡Vaya, pero si es Geo!
+<PUSH>
+¿Ya has acabado las
+clases por hoy?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Hala!
+¡¿Tienes un Wizard
+de Batalla?! He oído
+<PUSH>
+que lo mejor para los
+Wizard de Batalla son las
+"Cartas de Apoyo"!
+<PUSH>
+Tienen una habilidad
+especial para convertir
+las cartas que quieras.
+<PUSH>
+¡El otro día vi a un Wizard
+que usó una Carta de Apoyo
+luchando contra un virus
+<PUSH>
+y convirtió una carta de
+fuego en "{D6}{E7}"!
+<PUSH>
+¡Jopé, las Cartas de
+Apoyo son lo más!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*En mi universidad
+también nos actualizaron
+el <Hunter>-VG.
+<PUSH>
+El tema de las notificaciones
+y demás es muy útil.
+<PUSH>
+Por cierto, este de aquí
+es mi Wizard.
+<PUSH>
+Estábamos escuchando una
+explicación sobre los
+<Hunter>-VGs.
+<PUSH>
+Esas Cartas Blancas vienen
+de perlas. Pueden darte
+la ventaja en combate.
+<PUSH>
+¿Quieres que te hable
+de ellas?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}¿Oír su explicación?
+   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Bienvenido a Echo Ridge.
+...Oh, si eres el chico
+de los Stelar, Geo.
+<PUSH>
+Últimamente no distingo
+bien las caras.
+<PUSH>
+Será cosa de la edad.
+¿Qué te pasa? ¿Has
+olvidado dónde vives?
+<PUSH>
+Tu casa está cruzando
+el río. La que está
+más al fondo.
+<PUSH>
+Pero eso ya lo
+sabías, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¿Un mensaje?
+Qué raro... No me ha
+llegado ninguno.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mmm, ¿qué habrá pasado
+aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Habrá algún problema
+en la Carretera de Ondas
+<PUSH>
+y el mensaje no ha
+llegado a su destino?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vamos a la Carretera
+de Ondas a comprobarlo!
+<PUSH>
+{0A}{E1}{08}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Jovencito, no podrás usar
+tus Cartas de Batalla a-a-a...
+<PUSH>
+{0A}{E1}{01}{00}
+<NEW-DIALOG>
+{93}{00}A no ser que las
+metas en la carpeta,
+¿no, abuelo?
+<PUSH>
+{0B}{E1}{01}{00}
+<NEW-DIALOG>
++Exacto. Y no te olvides
+de g-g-g
+<PUSH>
+{0A}{E1}{01}{00}
+<NEW-DIALOG>
+{93}{00}¿De guardar tu
+carta por defecto, abuelo?
+<PUSH>
+
+<NEW-DIALOG>
++¡Tú lo has dicho!
+<PUSH>
+Es mi Wizard.
+Las pilla todas al vuelo,
+¿has visto?
+<PUSH>
+
+<NEW-DIALOG>
+{93}{00}¡Gracias!
+¡Nos vemos!
+<PUSH>
+{0B}{E1}{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Wizard profesor!
+¡Activación!
+<PUSH>
+{0A}{E1}{0C}{00}
+<NEW-DIALOG>
+{91}{00}¿En qué puedo ayudarte?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¿Me puedes ayudar
+con mis deberes?
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}¡Claro!
+¿Qué es lo que no entiendes?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Esto... ¿Cómo se llaman
+esas ventanas que me
+aparecen en el <Hunter>-VG?
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}Se llaman notificaciones.
+<PUSH>
+Las hay de todo tipo,
+estúdiatelas bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Vale!
+<PUSH>
+{0B}{E1}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Puedes descargar
+<Carta.Bianca-color>s en
+la Estación de Ondas.
+<PUSH>
+Vienen en paquetes de 4.
+<PUSH>
+Son todas de color blanco,
+no te costará encontrarlas
+en tu carpeta.
+<PUSH>
+¡Si sabes usarlas, pueden
+ser decisivas en combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Vale. Si cambias de idea,
+no dudes en preguntar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Ahí está el Wizard del
+puesto de información
+de <Echo.Ridge>.
+<PUSH>
+¿A que es genial cómo los
+Wizard y las Ondas Reales
+nos ayudan en el día a día?
+<PUSH>
+Qué época tan maravillosa
+nos ha tocado vivir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0D}{E1}{00}{00}{07}{00}{07}{00}<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¿Tienes que ir al
+<Spica.Mall>?
+Ese sitio es para
+<PUSH>
+las nuevas generaciones,
+no para viejos chochos
+como yo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0D}{E1}{00}{00}{07}{00}{07}{00}<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Puedes ir en tren al
+<Spica.Mall>. La parada
+está al otro lado del río.
+<PUSH>
+¡Lo mejor es que el tren
+va sobre el mismo río!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0D}{E1}{00}{00}{07}{00}{07}{00}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Voy a menudo al
+<Spica.Mall>
+con mis amigos de la Uni.
+<PUSH>
+Me encanta la mascota.
+.{15}{E1}.{15}{E1}.{15}{E1}Ah, por cierto,
+¿sabes que en combate
+<PUSH>
+las Cartas Blancas pueden
+ser la clave de la victoria?
+<PUSH>
+¿Quieres que te hable
+de ellas?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}¿Oír su explicación?
+   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Uff, uff...
+¡Un paseíto al día
+te llena de alegría!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Parece que ha pasado
+algo en el <Spica.Mall>.
+<PUSH>
+Hasta está ahí la
+Policía Satella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Hace nada he visto a dos
+extraños por aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*He oído que un Wizard se
+ha vuelto loco en el
+<Spica.Mall>.
+<PUSH>
+Es la primera vez que
+ocurre algo así.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}Ah, por cierto,
+¿sabes que en combate
+<PUSH>
+las Cartas Blancas pueden
+ser la clave de la victoria?
+<PUSH>
+¿Quieres que te hable
+de ellas?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}¿Oír su explicación?
+   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Eh, ¿te has enterado?
+Van a lanzar un cohete
+<PUSH>
+en la azotea de la
+escuela. Es un proyecto
+del club de ciencias.
+<PUSH>
+¡Qué cracks, han podido
+construir un cohete
+ellos solos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Toda la ciudad habla del
+lanzamiento en la azotea
+de la escuela.
+<PUSH>
+Tengo que llegar a tiempo
+para ver el despegue.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Van a lanzar un cohete
+desde la azotea de
+la escuela.
+<PUSH>
+Date prisa si quieres
+verlo. Está a punto
+de empezar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿Has oído lo del incidente
+del <Spica.Mall>?
+<PUSH>
+Un Wizard se volvió loco.
+<PUSH>
+La primera vez que pasa...
+.{15}{E1}.{15}{E1}.{15}{E1}Ah, por cierto,
+¿sabes que en combate
+<PUSH>
+las Cartas Blancas pueden
+ser la clave de la victoria?
+<PUSH>
+¿Quieres que te hable
+de ellas?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}¿Oír su explicación?
+   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Parece que ha pasado algo
+con un Wizard enloquecido
+en el <Spica.Mall>.
+<PUSH>
+Pero apareció Mega Man
+y controló la situación
+en un tris.
+<PUSH>
+Qué bien que nadie
+saliera herido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+{08}{E1}{00}{00}{13}{00}3{0D}{E1}{00}{00}<Geo>
+<Solo>
+6
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Un Wizard perdió el control
+en el <Spica.Mall>.
+<PUSH>
+Pero no tengo tiempo para
+hablar de eso. Tengo que
+ir a trabajar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+{08}{E1}{00}{00}{13}{00}4{0D}{E1}{00}{00}<Geo>
+<Solo>
+7
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Iba al puesto de
+información de ahí
+<PUSH>
+para que me indique cómo
+llegar al <Spica.Mall>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+{0D}{E1}{00}{00}{11}{00}{13}{00}/{0D}{E1}{00}{00}<Geo>
+<Solo>
+8{0C}{E1}{01}{00}<Bud>
+&
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿Qué harán todos
+esos niños
+<PUSH>
+frente a las puertas
+de la escuela?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Está todo el mundo
+yendo hacia la escuela.
+<PUSH>
+¿Tú no vas a ir?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Hace un día precioso.
+Voy a dejar salir a mi
+Wizard para que tome el sol.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Ah, llego tarde!
+¡Y no es culpa mía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Has hablado con
+el profesor? Su
+habitación es la "202".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Me muero de hambre!
+<PUSH>
+¡Voy a comerme el
+almuerzo antes de
+empezar las clases!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Qué le habrá pasado a ese
+profesor? Suele llegar
+el primero a clase...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+{0D}{E1}{00}{00}{11}{00}{13}{00}1{0C}{E1}{01}{00}<Bud>
+-
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Vamos, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Llego tarde!
+¡Vamos dentro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Hace poco vi a un chico
+por Big Wave con un
+estilo peculiar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{0D}{E1}{00}{00}<Geo>
+<Solo>
+9
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Hace poco aquí estaba
+una chica... Digo,
+una mujer.
+<PUSH>
+Podría ser que...
+No... es imposible.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Casi llego tarde
+a la escuela!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Al final me he tomado
+el día libre.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Menos mal que fui al
+puesto de información.
+¡Me indicó muchas tiendas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Hoy voy a trabajar!
+...Ah, espera.
+Es fiesta, ¿no?
+<PUSH>
+Pues me voy a casa
+a jugar a la consola.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¡Hoy también me voy de
+compras, a ver qué me
+recomienda el puesto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Creo que voy a buscar
+el conjunto que llevaba
+ese chico ayer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Esa chica... Digo, esa
+mujer de ayer...
+Era Sonia Strumm, seguro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)La mujer que vive en
+esta casa es preciosa.
+¿Qué?
+<PUSH>
+¡¿Qué es tu madre?!
+No he dicho nada, ¿vale?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Eh, Geo.
+¿Vas tarde a la
+excursión?
+<PUSH>
+The <Alohaha>-bound
+Wave Liner won't be
+here for a while.
+<PUSH>
+¿Llegarás a tiempo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Este año vais de
+excursión a <Alohaha>!
+<PUSH>
+¡Qué envidia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿A <Alohaha> de
+excursión?
+Qué envidia...
+<PUSH>
+Nunca he ido a <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¡Jo, jo!
+Conque vas de excursión
+a <Alohaha>...
+<PUSH>
+El precioso océano,
+comida deliciosa...
+El paraíso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Jovencito, no te olvides...
+<PUSH>
+Para subir tu efectividad
+tienes que...
+<PUSH>
+Es importante que...
+<PUSH>
+{0A}{E1}{01}{00}
+<NEW-DIALOG>
+{93}{00}Es importante eliminar
+rápido a tus enemigos,
+¿¡verdad!?
+<PUSH>
+{0B}{E1}{01}{00}
+<NEW-DIALOG>
++Sí, así es...
+<PUSH>
+Y otra cosa...
+<PUSH>
+{0A}{E1}{01}{00}
+<NEW-DIALOG>
+{93}{00}¡Eliminar varios
+enemigos a la vez es otra!
+<PUSH>
+Hay más de una manera
+de aumentar la
+efectividad!
+<PUSH>
+
+<NEW-DIALOG>
++¡Tiene razón!
+<PUSH>
+Ese es mi Wizard.
+Es muy avispado,
+¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+{93}{00}¡Muchas gracias!
+¡Ya lo hago yo!
+<PUSH>
+{0B}{E1}{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Wizard profesor!
+¡Activación!
+<PUSH>
+{0A}{E1}{0C}{00}
+<NEW-DIALOG>
+{91}{00}¿Cómo puedo ayudarte?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Tengo una pregunta sobre
+los deberes.
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}¿Si?
+¿Qué es lo que no entiendes?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Emm, ¿qué es lo que hace
+la Policia Satella?
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}Son una fuerza especial
+de policía creada por la NAZA
+para el crimen complejo
+<PUSH>
+que trata con tecnología EM.
+<PUSH>
+Espero que esta explicación
+te haya sido fácil
+de entender. ¿Ha sido fácil?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Sí, ¡lo pillo!
+<PUSH>
+{0B}{E1}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{6D}{07}{89}{07}Z
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Todo el mundo está hablando
+de una chica de la 
+Escuela Echo Ridge que
+<PUSH>
+se perdió durante una salida.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+{09}{E1}{00}{00}{6D}{07}{89}{07}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Conozco a Luna desde que
+era pequeña.
+<PUSH>
+Nunca me hubiese imaginado
+que algo así podría
+llegar a pasarle...
+<PUSH>
+Pobrecita...
+Espero que la encuentren.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+{09}{E1}{00}{00}{6D}{07}{89}{07}\
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Desde que Luna no está,
+toda la escuela está
+muy callada...
+<PUSH>
+Era una persona muy importante
+en la escuela. Las cosas no
+son lo mismo sin ella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{09}{E1}{00}{00}{6D}{07}{89}{07}]
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Con todo lo que ha pasado
+de esa chica desaparecida,
+los empleados están en pánico.
+<PUSH>
+Por lo que he oído se
+han pausado las clases.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+{09}{E1}{00}{00}{6D}{07}{89}{07}^
+<START-DIALOG>
+
+<NEW-DIALOG>
++Se dice que los compañeros
+de Platz han interrumpido su
+<PUSH>
+viaje y ahora están de
+vuelta a casa.
+<PUSH>
+Debe ser muy difícil
+pasar por algo
+así.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+{09}{E1}{00}{00}{6D}{07}{89}{07} 
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Espero que Prez esté bien.
+No puedo esperar a que vuelva
+de una pieza.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Parece que hasta la
+investigación del incidente
+por parte de la policía Stella
+<PUSH>
+no esta yendo muy bien...
+Esto me preocupa un poco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Luna es dura de roer.
+Se que estará
+bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Quiero ir y buscar
+a Prez,
+<PUSH>
+pero solo soy un niño...
+No hay nada que pueda hacer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Es sólo un rumor, pero
+se dice que la chica
+<PUSH>
+perdida quizás se vio
+involucrada en
+<PUSH>
+lo que ocurrió en
+<Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Los niños son un tesoro
+para este país. Ojalá pudiese
+intercambiar el sitio con ella.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Prez...
+*sniff*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+{0C}{E1}{01}{00}U{83}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Buenas, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Gee-oh!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Buenos días,
+Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+B-Buenos días a
+todos...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(Como pensaba...
+ Geo está un poco
+ desanimado.)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+(Probablemente esté pensando
+en Jack...)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+......
+<PUSH>
+Eh Geo, ¿qué te
+pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+¿De que estás
+hablando? Estoy b-bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hoy es mi primer día
+como presidenta del consejo
+estudiantil.
+<PUSH>
+¡Es un día muy especial!
+<PUSH>
+¿¡Por qué esa cara tan
+largas!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Tiene razón, ¡Geo!
+¡En un día como hoy
+deberías estar contento!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Exacto, Geo!
+Hoy Prez se vuelve
+¡"Presi Dele"!
+<PUSH>
+¡Así que a partir de ahora
+tienes que llamarle así!
+¡Presi Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Así es! ¡Llamade
+Presi Dele!
+<PUSH>
+Un momento, eso es un
+poco largo... Quizá con
+sólo Dele está bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué? ¿Por qué?
+¡Presi Dele suena
+mucho mejor!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Basta! ¡Dele
+ha decidido así que
+ya está!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Bud, de ninguna manera
+iba a llamarle
+Presi Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+B-Bueno, creo que suena
+muchísimo mejor que
+sólo Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ja, ja, ja, ja!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Venga chicos, dejad
+de hacer el tonto. ¡Tenemos
+que ir a la escuela!
+<PUSH>
+¡No puedo esperar a
+nuestros compañeros me
+feliciten!
+<PUSH>
+{13}{EC}{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}.
+<PUSH>
+Oh-la-la...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Emm... ¿Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+D-Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Mua, ja, ja, ja!{16}{E1}
+¡Enteraos chavales!
+<PUSH>
+¡Dele está en su mundo!
+<PUSH>
+¿¡Eso que veo es baba!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Supongo que la Dele se está
+imaginando a todos sus 
+compañeros felicitándole!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esta es nuestra Dele...
+<PUSH>
+No se me ocurre nada
+más que decir.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(L-Luna...
+{13}{EC} Geo te está mirando,
+{13}{EC} ¿no te da vergüenza?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pff, ¡ja, ja, ja!
+<PUSH>
+¡Ja, ja, ja!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Ja, ja, ja!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Ji, ji, ji!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Gracias a todos...{17}{E1}
+{13}{EC} ¡por esa risa!)
+<PUSH>
+{0A}{E1}U
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ja!
+<PUSH>
+*Cof*
+<PUSH>
+Emm, ¡mejor nos
+vamos yendo!
+<PUSH>
+¡No podemos llegar tarde!
+<PUSH>
+{13}{EC}{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}.
+<PUSH>
+Oh-la-la...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+{0D}{E1}{00}{00}ST{CA}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Me encantaría decir, "¡Oh,
+que mañana más bonita!"
+<PUSH>
+Pero no puedo con todo
+lo que ha estado pasando.
+<PUSH>
+{0A}{E1}{0D}{00}
+<NEW-DIALOG>
+{90}{00}¡Está bien!
+¡Me has pillado!
+<PUSH>
+
+<NEW-DIALOG>
+)Venga, Bud,
+¡cuento contigo!
+<PUSH>
+{0B}{E1}{0D}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+{0D}{E1}{00}{00}ST{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+/Últimamente parece que
+la escuela ya no es
+un lugar seguro......
+<PUSH>
+Me preocupan
+los niños.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+{0D}{E1}{00}{00}STÌ
+<START-DIALOG>
+
+<NEW-DIALOG>
+*No puedo dormir por
+las noches, sigo pensando
+en el meteorito rojo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Parece que el mundo
+se ha puesto patas arriba.
+<PUSH>
+Tengo esperanza de que el
+mundo pueda vivir en paz...
+<PUSH>
+Tener esperanza esta vez
+quizá no sea la solución...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+{0D}{E1}{00}{00}STÍ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¿Donde se ha metido?
+<PUSH>
+Llega tarde. Esperaba
+echar un combate con él
+antes de clase...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+{0D}{E1}{00}{00}ST<Corvus>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Ohhhhh...
+<PUSH>
+¡He de conseguir esa Carta
+si quiero derrotar a su
+Wizard!
+<PUSH>
+¡Pero es muy cara!
+<PUSH>
+¡Pero la necesito!
+¡Pero...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+{0D}{E1}{00}{00}eg{96}{00}{0D}{E1}{00}{00}ho{A0}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Contra Meteorito G,
+Hunter-VGs y las cartas
+de combate son inútiles!
+<PUSH>
+¿¡Tendremos que arrodillarnos
+ante Dealer!?
+*brrrr*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+{0D}{E1}{00}{00}eg{97}{00}{0D}{E1}{00}{00}ho{A1}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¿¡Tienen la NAZA!? ¿Qué se
+supone que vamos a hacer?
+<PUSH>
+¿Ahora quien protegerá
+el mundo de Dealer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+{0D}{E1}{00}{00}eg{98}{00}{0D}{E1}{00}{00}ho{A2}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Usaré mi mejor carta de
+combate para vencer a Dealer!
+...Exacto, como mi pequeñín
+<PUSH>
+Una cartita de combate
+no le hará nada a Dealer...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+{0D}{E1}{00}{00}eg{99}{00}{0D}{E1}{00}{00}ho{A3}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿¡Así que Dealer está
+detrás de toda esta locura
+<PUSH>
+que ha estado ocurriendo
+en todos lados!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+{0D}{E1}{00}{00}eg{9A}{00}{0D}{E1}{00}{00}ho<Coil>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¿Pero qué...?
+¿¡NAZA ha desaparecido!?
+¡Esto no va bien!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+{0D}{E1}{00}{00}eg{9B}{00}{0D}{E1}{00}{00}ho{A5}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¿Qué le pasará a la
+Tierra? Tengo miedo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+{0D}{E1}{00}{00}eg{9C}{00}{0D}{E1}{00}{00}ho<Vogue>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+La NAZA que todos conocíamos
+y amábamos... Desaparecida,
+así, ¡de sopetón! ¡Agh!
+<PUSH>
+{0A}{E1}{0C}{00}
+<NEW-DIALOG>
+{91}{00}¡No te preocupes!
+¡Pase lo que pase os voy
+a proteger!
+<PUSH>
+{0B}{E1}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Dios mío!
+¡Los <Studi.WBG> han desaparecido!
+<PUSH>
+¿¡Por qué han hecho algo
+tan estúpido como
+desobedecer a Dealer!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¡Tú!
+¡Es peligroso ir por la
+calle como si nada!
+<PUSH>
+¡Dealer podría atacar
+en cualquier momento!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Si desobedecemos a
+Dealer nos absorberán en
+una bola de Ruido rojo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Es inútil!
+¡No podemos escapar de Dealer
+y Meteorito G!
+<PUSH>
+¿¡Qué  vamos a hacer!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¡Dealer y su Meteorito G
+son imparables! ¡Lo único que
+podemos hacer es rendirnos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Parece que Dealer ha atacado
+<Studi.WBG>...
+<PUSH>
+¿Estará bien toda la gente
+de la televisión...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Han atacado <Studi.WBG>!
+¿No hay nadie ahí fuera
+que pueda hacer algo?
+<PUSH>
+{0A}{E1}{0C}{00}
+<NEW-DIALOG>
+{91}{00}¡Esto es muy frustrante!
+Si sólo supiese luchar
+mejor...
+<PUSH>
+{0B}{E1}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Se dice que Meteorito
+G está movilizándose
+otra vez. ¿¡Será verdad!?
+<PUSH>
+¿¡Qué le pasará a
+la Tierra!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¡Aunque el mundo esté
+acabado, he de proteger
+a mi familia!
+<PUSH>
+¡He de ir rápido a
+casa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Parece que NAZA ha
+escapado del Ruido rojo.
+<PUSH>
+Pero Meteorito G sigue allí,
+y vuelve a dirigirse
+a la Tierra...
+<PUSH>
+¿¡Q-Qué le pasará a nuestro
+planeta!?
+¡¡Fin de la partida tío!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¿¡Qué le pasará a la
+Tierra!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Me da igual lo que
+me pase,
+<PUSH>
+¿Pero podemos hacer algo
+para salvar a los niños?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¿Meteorito G sigue
+dirigiéndose a la Tierra?
+<PUSH>
+Si es así, ¿no estamos
+todos perdidos...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Tengo mucho miedo, ¡pero
+no voy a llorar!
+<PUSH>
+¡Porqué se que un héroe
+vendrá y nos salvará!
+<PUSH>
+{0A}{E1}{0C}{00}
+<NEW-DIALOG>
+{91}{00}Sí...
+¡Yo también lo creo!
+<PUSH>
+{0B}{E1}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Yo se que la gente de
+NAZA está bien!
+<PUSH>
+¡He de confiar en eso!
+¡Es todo lo que puedo
+hacer!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9E}{00}
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Yo nunca, nunca, nunca
+me rendiré!
+<PUSH>
+¡Yo misma contactaré
+con la gente de NAZA!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9F}{00}
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Estoy usando a Pedia para
+averiguar cosas de NAZA.
+<PUSH>
+¡Me niego a aceptar
+que todo vaya a acabar
+así!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A1}{00}
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Maldito Dealer!
+¡Ojalá pudiese pegarles
+una buena paliza!
+<PUSH>
+¿Qué vas a hacer,
+Geo? ¿¡Les dejarás
+salirse con la suya!?
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A0}{00}
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Vamos a la escuela!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Vamos a la escuela!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Parece que los Wizard
+están fuera de control
+en todos lados.
+<PUSH>
+{0A}{E1}{0D}{00}
+<NEW-DIALOG>
+{90}{00}¿En serio...?
+<PUSH>
+
+<NEW-DIALOG>
+)¡P-Pero no te preocupes,
+estás a salvo!
+<PUSH>
+¡Cien por cien segura!
+<PUSH>
+{0B}{E1}{0D}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¡Los Wizards de la
+escuela están fuera de
+control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Al final ayer por la noche
+pude dormir un poco,
+<PUSH>
+pero tuve una pesadilla,
+que Meteorito G impactaba
+contra la tierra...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Mega Man ha vuelto a aparecer
+en nuestra escuela.
+<PUSH>
+Me juego lo que quieras
+a que es un alumno de
+la Escuela Echo Ridge.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+En el nuevo cómic que estoy
+haciendo, Mega Man es
+<PUSH>
+en realidad ¡un nuevo tipo
+de Wizard!
+<PUSH>
+¡A todo el mundo le gusta!
+Tío, ¡soy un máquina
+escribiendo cómics!
+<PUSH>
+¡He de vender mis ideas
+a una compañía de cómics!
+¿¡Tú qué crees!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 211]
+{0D}{E1}{00}{00}BDÓ
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¿Quieres saber las nuevas
+noticias?
+<PUSH>
+¡Algo ha atacado NAZA!
+No dicen nada más del ataque,
+pero...
+<PUSH>
+Me pregunto si estarán bien.
+Quiero decir, ¡es NAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 212]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¿¡No los has visto!?
+¡Los virus EM han apareciendo
+en el mundo real!
+<PUSH>
+He intentado luchar con
+mi Wizard...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Que vergüenza...
+<PUSH>
+
+<NEW-DIALOG>
+)No, ¡No es tu culpa
+Buddy!
+<PUSH>
+Mis habilidades en combate
+necesitan mejorar, ¡eso es todo!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}¡Maestro!
+<PUSH>
+
+<NEW-DIALOG>
+)¡Buddy!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}¡Maeeeeeeestro!
+<PUSH>
+
+<NEW-DIALOG>
+)¡Buddyyyyyyy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 213]
+{0D}{E1}{00}{00}BD{D5}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+/¿No es genial?
+¡Poder ver la cara sonriente
+de Luna otra vez!
+<PUSH>
+Estoy tan contento que
+lloro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 214]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+/No puedo creerlo...
+¿Un virus?
+<PUSH>
+Hoy en día nunca sabes
+que va a pasar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 215]
+{09}{E1}{00}{00}{D5}{07}{D9}{07}{D7}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Por favor no me hables
+ahora, estoy en medio
+de un combate...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Sí! ¡Una apertura!
+¡Comete esta Kilobomba!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¿¡Eso es todo lo que tienes!?
+¡Aquí tienes una Criobomba
+para ti!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Agh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 216]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+V-Vi un virus con mis
+propios ojos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 217]
+{09}{E1}{00}{00}{D5}{07}{D9}{07}Ù
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Tío este tipo es
+es fuerte ...
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}¿No crees que es el
+momento de hacer deberes?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡No! ¡No pararé hasta
+ganar a ese tipo!
+<PUSH>
+
+<NEW-DIALOG>
+{91}{00}*ains*
+<PUSH>
+Pero no soy muy bueno
+en las batallas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 218]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+N-No puedo creerme
+lo que está pasando...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 219]
+{0D}{E1}{00}{00}BD{DB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++La  hija de los Platz, Luna,
+¡ha vuelto a casa!
+<PUSH>
+¡Vamos a celebrarlo!
+<PUSH>
+¡Todo el mundo en <Echo.Ridge>
+tiene que hacer una
+fiesta de bienvenida!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 220]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++¿Quien hubiese creído que
+los virus pudiesen llegar
+a materializarse?
+<PUSH>
+Aunque hoy en día con los
+Wizards y todas esas cosas,
+no es impensable...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 221]
+{0D}{E1}{00}{00}BD{DD}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Cómo Luna ha vuelto,
+todo <Echo.Ridge>
+<PUSH>
+Tiene una sonrisa en la cara!
+¡Todo en <Echo.Ridge> está
+<PUSH>
+volviendo a la
+normalidad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 222]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Les he visto! ¡Mega Man
+y los otros héroes han
+salvado <Echo.Ridge>!
+<PUSH>
+Pero ¿quien serán los
+otros héroes?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 223]
+{0D}{E1}{00}{00}BD{DF}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Luna...
+<PUSH>
+¡Dice que no se acuerda
+de nada de lo que ha pasado
+mientras estaba desaparecida!
+<PUSH>
+¿A qué es raro?
+Es como un misterio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 224]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Misterios...
+<PUSH>
+¡Misterio tras misterio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 225]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 226]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 227]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 228]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 229]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 230]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 231]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 232]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 233]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 234]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 235]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 236]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 237]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 238]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 239]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 240]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 241]
+
+<START-DIALOG>
+
+[END]
+

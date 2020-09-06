@@ -1,0 +1,62 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I'll take care of the Crimson!
+<PUSH>
+Kelvin is really close...
+Stay frosty, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+After I stop Ms. Tia and
+Jack...
+I can finally see Dad!
+<PUSH>
+I won't let anything or
+anyone stand in my way!!
+<PUSH>
+{0A}{E1}{86}{02}
+<END-DIALOG>
+
+[END]
+

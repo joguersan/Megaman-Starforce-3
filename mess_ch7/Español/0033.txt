@@ -1,0 +1,37 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Mega Man! ¡Ya no podemos
+acercarnos más
+al Meteorito G!
+<PUSH>
+Como sigamos así{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+¡¡El cohete no aguantará!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Chico!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Vale, vale!!
+<PUSH>
+¡¡Vamos a atravesar esa
+Disonancia para llegar
+hasta el Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡¡Mega Man, ten cuidado!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

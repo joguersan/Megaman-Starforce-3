@@ -1,0 +1,160 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Ahora no puedes
+seleccionarlo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Qué quieres hacer?
+<PUSH>
+
+<END-DIALOG>
+{10}{EC}{00}{00}Equipar
+{10}{EC}{01}{00}Inspeccionar
+{10}{EC}{02}{00}Nada
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Entrar a los archivos
+de transformaciones?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Qué quieres hacer?
+<PUSH>
+
+<END-DIALOG>
+{10}{EC}{00}{00}Equipar
+{10}{EC}{00}{00}Desequipar
+{10}{EC}{02}{00}Inspeccionar
+{10}{EC}{03}{00}Nada
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Restaurar esta carpeta?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{20}{EA} ¡Resonancia!
+<PUSH>
+¡Esta carpeta ha sido
+sustituida temporalmente
+por {2F}{E1}!
+<PUSH>
+Para restaurarlo, toca
+el emblema mientras
+pulsas el botón Y.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+It looks like you've
+racked up {20}{E1}{03}{00} Wi-Fi
+head-to-head wins!
+<PUSH>
+So by the power vested in
+me I present to you from
+the Satella Police...
+<PUSH>
+Your very own Attack Star!
+<PUSH>
+This amazing Star raises
+your Battle Card Attack
+Power!
+<PUSH>
+The Attack Star will be
+effective until you return
+to the Title Screen or play
+<PUSH>
+an online battle, so go ahead
+and enjoy the benefits of
+your hard work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+If you go online now,
+your Attack Star will be
+deleted. Continue?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Ahora no puedes
+usar ese archivo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

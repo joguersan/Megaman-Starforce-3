@@ -1,0 +1,952 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{FE}{00}2
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9F}{00}Oo{16}{E1}oo{16}{E1} oo{15}{E1}oo!{16}{E1}
+O{15}{E1}o{15}{E1}o{15}{E1}o{15}{E1} oo{15}{E1}oo!
+<PUSH>
+You're Mega Man, aren't you!?
+<PUSH>
+I have a big favor to ask
+of you.
+<PUSH>
+I'd like you to rescue
+Hertzes that get caught up
+in battles.
+<PUSH>
+Please bring the Hertzes
+that you rescue here!
+<PUSH>
+Your efforts will not go
+unrewarded!
+<PUSH>
+For example, I may give you
+the next installment of
+<PUSH>
+the popular video game,
+Burger Quest!
+<PUSH>
+Hmm? You were going to
+buy that game yourself
+anyway?
+<PUSH>
+I should have expected that!
+You're always thinking ahead.
+<PUSH>
+Alright, then I'll give you
+some sort of Ability that
+you can't get anywhere else.
+<PUSH>
+It's not like I can give you
+any and everything, but I'll
+<PUSH>
+reward you based on the
+number of Hertzes you save.
+Anyway, be thinking about
+<PUSH>
+what you want.
+Until we meet again!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{FE}{00}{0B}{E1}{7B}{02}{06}{E1}4
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tUp until now, you have
+saved {71}{E1} Hertzes!
+<PUSH>
+Thank you! *beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThank you very macho!
+<PUSH>
+I'll never forget how you
+rescued me, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThank you thank you
+thank you! *beep*
+<PUSH>
+It's great to be alive!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tHm, hm, hm...
+<PUSH>
+D-Dang viruses...
+The next time I see one,
+I-I-I'm gonna give it heck!
+<PUSH>
+I-I'm serious!
+I-I'm a lot stronger
+than I look!
+<PUSH>
+I can even put the smack
+down on an out-of-
+control Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI'm thankful to Mega Man for
+saving me but...
+<PUSH>
+In all honesty, I kind of wish
+Harp Note would have saved
+me!
+<PUSH>
+I mean... You're a guy
+just like me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYou know, I too get
+depressed just like any
+other Hertz.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYo!
+Mega Man! I used to think
+<PUSH>
+that you were just blue,
+but that's no ordinary blue!
+<PUSH>
+That blue is nice!
+I mean really nice!
+Nice with a capital N!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tMega Man...
+Eat your vegetables.
+<PUSH>
+They're good for you!
+<PUSH>
+If you eat your vegetables,
+you'll grow up to be
+big and strong... like me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIt was sooo scary man!
+I mean like those viruses
+were no joke!
+<PUSH>
+Mega Man, you totally
+saved my life, man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAre you afraid of heights?
+<PUSH>
+I am. When I go up high,
+my knees get weak,
+and I start pouring sweat.
+<PUSH>
+The Wave Road is just
+about as high as I can go.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThank you, Mega Man!
+<PUSH>
+I couldn't sit back and let
+the girl that I love overseas
+get hurt, or worse.
+<PUSH>
+By the way, she has a face
+just like Sonia Strumm.
+<PUSH>
+...Huh?
+Of course she's a Hertz,
+but what does that matter?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI owe you a debt of
+gratitude, Mega Man.
+<PUSH>
+If it weren't for you, I might
+as well have been deleted.
+I'm thrilled to be alive!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI'm often mistaken for
+Acid Ace!
+<PUSH>
+I guess with looks and
+strength like mine,
+it can't be helped.
+<PUSH>
+Oh well...
+*chuckle*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat do you call a fish
+with no eyes?
+<PUSH>
+A fsh!
+<PUSH>
+That's a good one, right!?
+Don't steal it, Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWho do you think would make
+a better wife for me,
+<PUSH>
+Sonia Strumm or Belle?
+I wouldn't be opposed
+to marrying both of them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI once saw a Wizard named
+Diamond Ice at <Studi.WBG>.
+<PUSH>
+It was love at first sight!
+<PUSH>
+Ahh, that's one Wizard that
+I wouldn't mind being frozen
+solid by!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhat can I do to be just
+like Mega Man?
+<PUSH>
+I guess the first thing I'd
+need to do is get that
+<PUSH>
+brilliant blue color of his!
+I think I'm a little pale.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI want to try a
+Mega Snack...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOver the years I have
+delivered countless
+love letters!
+<PUSH>
+And, all of those couples
+that I delivered love letters
+<PUSH>
+to have always gotten
+married to each other.
+<PUSH>
+Oh!? I saw your eyes get
+wide just now.
+<PUSH>
+When you need a love letter
+delivered, leave it to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIf there were Mega Snacks
+made of Real Waves, I
+wonder if I could eat one?
+<PUSH>
+I wonder which flavor
+I would like the best?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe best pre-teen idol out
+there is neither Sonia
+Strumm nor Belle!
+<PUSH>
+It's a girl who lives in Echo
+Ridge, named Luna Platz!
+<PUSH>
+She's always mad about
+something, but she's actually
+<PUSH>
+very nice and cares a lot
+about her friends.
+<PUSH>
+It's that type of girl who
+can shoot an arrow straight
+through my heart!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWe Hertzes might all look
+the same, but our
+<PUSH>
+personalities and interests
+are all quite different.
+<PUSH>
+As for me, I like train-
+spotting the Wave Liner.
+<PUSH>
+The sight, the sound, and
+the smell of it just gets me
+right in the ol' ticker!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI think it would be fun to
+get together with the other
+<PUSH>
+Hertzes here and play
+baseball!
+<PUSH>
+I'm actually very good! My
+split finger fastball is magical!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI think we Hertzes should
+learn how to battle...
+<PUSH>
+Now, the only thing we
+can do if we get attacked
+by a virus is head butt it.
+<PUSH>
+But that doesn't do
+anything except give us a
+migrane the next morning.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI really want to be like
+Strong. For now, I'll start by
+imitating the way he talks.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI was really unlucky...
+<PUSH>
+I got attacked by a virus,
+but fortunately, Mega Man
+<PUSH>
+came to my rescue,
+and now I am alright!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe Satella Police are cool!
+The all wear visualizers, so
+they can actually talk to us.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe Event Stage I saw at
+<Studi.WBG> was awesome!
+<PUSH>
+The guy with the beard
+who made it must be
+really talented.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI don't like Noise very much.
+It makes me itch!
+<PUSH>
+Politicians, they make me
+itch too. Maybe it's because
+all they do is talk noise too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tSometimes there are these
+huge viruses. They're so
+scary!
+<PUSH>
+I'm scared of them because
+I think they're gonna step
+on me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI saw King once, a long time
+ago. He came across as
+being smug and arrogant.
+<PUSH>
+But the lady he had sitting
+next to him was very
+beautiful.
+<PUSH>
+...Is this feeling... love?
+<PUSH>
+Yeah... it must be love!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tHi-ya!
+<PUSH>
+I'm learning martial arts
+just in case another
+<PUSH>
+virus tries to attack me!
+Hi-ya!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tInside is the man we
+Hertzes revere, King Roots!
+<PUSH>
+He's big...
+I mean really big!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI had to leave my old post
+at the Netfrica WAZA
+Headquarters after it was
+<PUSH>
+attacked.
+Then, to add insult to injury,
+<PUSH>
+after I got here, I was
+attacked by viruses!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI really love <Alohaha>.
+With its environmental
+<PUSH>
+system, there is just so
+much for a Hertz to see!
+<PUSH>
+I'd really like to move
+there when I'm old.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tIf we Hertzes get attacked
+by a virus, there's really
+nothing we can do.
+<PUSH>
+If only we could use swords
+and slash them like Battle
+Wizards do!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWAZA branches all over
+the world were hit hard
+by Meteor G.
+<PUSH>
+Be careful, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI am the leader of the
+"Sonia Fans H" club!
+<PUSH>
+No one loves Sonia as
+much as me!
+I love you, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI love, Belle!
+<PUSH>
+Sonia Strumm might have
+more fans, but Belle fans
+have more love!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI was attacked by viruses,
+but I was glad to be able
+<PUSH>
+to see Mega Man fighting
+a battle with my own eyes!
+<PUSH>
+Mega Man, you are so cool!
+You're Electopia's best!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tInside is the man we
+Hertzes revere, King Roots!
+<PUSH>
+I bet he can even beat
+a virus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAce and his Wizard, Acid...
+They're so cool.
+I want to be just like them!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThat member of Dealer that
+they call Joker is mad scary!
+He's huge!
+<PUSH>
+Does that mean that he
+drank tons of milk when
+he was young?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is a Hertz paradise!
+There's just something in
+the air here. I love it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tViruses are soooo scary!
+I'm so glad that Mega Man
+came to my rescue.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThe rocket that they
+launched from the roof of
+Echo Ridge Elementary...
+<PUSH>
+It was because of you that
+it was a success, right?
+<PUSH>
+I wonder where in space
+that rocket is right now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWaaaaagh!
+Those dang viruses! Next
+<PUSH>
+time I see one of them,
+I'm gonna let them have it!
+<PUSH>
+First, I need to make a lot
+of Brothers! Link Power is
+the saving grace of Hertzes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{0C}{E1}{01}{00}{7B}{02}3
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9F}{00}Please take your time
+and look around!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}4
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9F}{00}Oo{16}{E1}oo{16}{E1}oo!{16}{E1}
+<PUSH>
+I've got something special
+for you, ooooo!
+Have a look, ooooo!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}4
+[END]
+
+[SENTENCE NUMBER 53]
+{78}{E1}{01}{00}{00}{00}
+[END]
+

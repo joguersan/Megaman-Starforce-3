@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}{08}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Están reparando el cohete.
+No es seguro impulsionarnos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+El cohete está en la azotea.
+Pero con esa cosa no
+podemos impulsionarnos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEstán preparando la azotea
+para el lanzamiento del.
+No puedes pasar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Requerida clave de acceso
+CN para impulsionar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,331 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+They look pretty down.
+I wonder what's wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't worry about them.
+<PUSH>
+Why don't you put on
+your <Visualizer>, instead?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh? What's up?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Everything looks completely
+different, doesn't it?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah...
+When looking at the world
+<PUSH>
+this way, I can see that
+the tree is a "Real Wave".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+These things are popping
+up everywhere, lately.
+<PUSH>
+Real Waves are things that
+are made from materialized
+EM waves, right?
+<PUSH>
+I'm pretty sure Battle
+Cards are also Real Waves.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's right. And nowadays,
+EM waves are being used
+<PUSH>
+to make everything from
+cars to buildings.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+There's just no way, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+That's how it seems, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Here you are, Geo.
+Have you found anyone?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, umm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Oh, those two look like
+they are having some
+trouble.
+<PUSH>
+Hey, you two!
+Is there anything I can
+help you with!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Well, you see...
+<PUSH>
+We want to give our
+friend, Stey, a birthday
+present.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+My, isn't that touching!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Both of Stey's parents
+have to work today, so
+she's all alone.
+<PUSH>
+So, we want her to have
+a really memorable
+birthday.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+We were thinking we could
+use this Real Wave tree.
+<PUSH>
+The plan is to overwrite
+the tree's program to
+make it bloom full of
+<PUSH>
+beautiful flowers, and then
+show it to Stey.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's a great idea.
+She'll be really happy!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Yeah, but it seems that
+the tree's program has a
+<PUSH>
+mega lock put on it by a
+teacher.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Not you, "Mega".
+It has a "mega lock" on
+it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So...
+Why don't you just ask
+the teacher in charge?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Well we want to, but...
+<PUSH>
+The teacher in charge is
+incredibly scary.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+We're too scared to go up
+to him...
+Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A scary teacher, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+There's definitely a mega
+lock on this.
+Nothing will work for me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+You should do something
+for them, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+M-Me!?
+B-But they said the
+teacher is scary...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's probably because
+he's an adult. That's no
+reason to be scared!
+<PUSH>
+Remember, this is for our
+Purpose!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I guess I have no choice.
+(No excuse I use is going
+ to work on her...)
+<PUSH>
+That scary teacher should
+still be at school, so let's
+search around here first.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're a tough one, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

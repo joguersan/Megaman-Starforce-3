@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What are you doing, kid!?
+Let's try one more time!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+O-OK!
+<PUSH>
+
+[END]
+

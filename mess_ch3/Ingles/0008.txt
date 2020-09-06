@@ -1,0 +1,155 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+I shall not allow anyone to
+disrupt the peace of <Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's him...
+The big Wizard that Sonia
+told us about.
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Begone, virus scum!
+<PUSH>
+Rain of Fists!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa, he's strong...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Not bad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Hmph...
+There seems to be no end
+to these vile creatures...
+<PUSH>
+That was my 100th deletion...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+100!?
+<PUSH>
+That must have taken
+forever!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And he doesn't even seem
+tired at all.
+Impressive.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Please let me help out!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Hmm?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+...You want to fight?
+<PUSH>
+Your appearance doesn't
+give me much confidence,
+but if you so desire.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha! Don't take us lightly!
+If you doubt our abilities
+then go watch over there!
+<PUSH>
+We'll show you Mega Man's
+true power!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Mega Man...?
+<PUSH>
+The same Mega Man that
+has saved the Earth from
+great peril twice now?
+<PUSH>
+Very interesting...
+<PUSH>
+I would be honored to have
+you show me your power.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's tear 'em up, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

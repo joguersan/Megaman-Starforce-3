@@ -1,0 +1,100 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Tú...{15}{E1} ganas.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Solo... {15}{E1}Yo...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Mega Man...
+<PUSH>
+Las palabras...{15}{E1}
+nunca pudieron unirnos.
+<PUSH>
+Eres el único capaz de
+proteger sus vínculos...
+{16}{E1}Eso es todo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Adiós...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Tenía que luchar para
+proteger mis vínculos...
+<PUSH>
+Pero...{16}{E1}
+¿He tomado la decisión
+correcta?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Arriba ese ánimo, chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pero hay que reconocerlo,
+¡cuando te preocupas por
+<PUSH>
+algo, lo haces de verdad!
+¡Y no tiene nada de malo!
+<PUSH>
+¡Cuando estés mejor,
+podemos seguir!
+<PUSH>
+¡Tenemos una promesa
+que cumplir!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1} Sí, tienes razón, Mega.
+<PUSH>
+¡Estoy listo!
+<PUSH>
+¡Tenemos que bajar a
+Sirio de su pedestal!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

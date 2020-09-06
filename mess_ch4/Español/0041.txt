@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡¡El enemigo ha entrado
+en el <Centro.Comando>
+de la NAZA!!
+<PUSH>
+¡¡Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

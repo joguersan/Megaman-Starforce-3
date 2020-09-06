@@ -1,0 +1,454 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{3E}{03}{16}{EC}
+<NEW-DIALOG>
+{90}{00}{13}{EC}Bzz, bzz
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Uff, uff...
+Parece que ha vuelto
+a la normalidad.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Era fuerte, ¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Pero cómo ha podido
+perder el control?
+<PUSH>
+Es la primera vez que
+lo oigo.
+<PUSH>
+{10}{E2}{3E}{03}{16}{EC}
+<NEW-DIALOG>
+{90}{00}{13}{EC}Bzz, bzz
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+{99}{00}¡Aaaaaahhhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Viene a por más!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Tranquilo, Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vete, Ace!
+¡Es muy peligroso!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡No me subestimes,
+Mega Man!
+<PUSH>
+Mi Wizard no es moco
+de pavo, créeme.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{99}{00}¡Aaaahhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Vamos allá, Acid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Acaba de...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Acid!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Objetivo fijado...
+<PUSH>
+Sentenciando...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+¡Filo criminal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{10}{E2}{3E}{03}{16}{EC}
+<NEW-DIALOG>
+{90}{00}{13}{EC}Bzz, bzz
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Misión cumplida, Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Buen trabajo, Acid.
+Hemos resuelto la situación.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Qué rápido...
+ No he podido ver nada.)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Es una carta?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha salido del Wizard que
+perdió el control...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Esta carta...
+<PUSH>
+Así que por fin han
+empezado a actuar...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Eso parece.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Quiénes?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Gente muy peligrosa...
+<PUSH>
+{16}{EC}{10}{E2}{30}{03}
+<NEW-DIALOG>
+{94}{00}Uuhh, uuhh
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Es una lástima no haber
+podido luchar hoy,
+Mega Man.
+<PUSH>
+Tenía muchas ganas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Quién te crees que eres?
+<PUSH>
+¡¿Crees que puedes hablar
+así solo por haber ganado
+<PUSH>
+un torneo de don nadies?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Tan solo expresaba
+mi pesar.
+<PUSH>
+Hubiera ganado igual,
+así que supongo que
+no importa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tú a mí no me
+hablas así!
+<PUSH>
+¡Vamos al lío!
+¡Aquí y ahora!
+<PUSH>
+¡¡Vamos, chico!! ¡Le vamos
+a dar una lección a
+este tipejo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No le hagas caso, Ace.
+Es un Wizard un poco
+agresivo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{A0}{E1}{03}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Tienes horchata
+en las venas o qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Acid, tranquilízate
+tú también, ¿vale?
+<PUSH>
+Entiendo que quieras
+un reto, pero
+<PUSH>
+no está el horno
+para bollos.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...Lo siento, Ace.
+<PUSH>
+No puedo evitar meterme
+con alguien tan simple
+como Omega-Xis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{A0}{E1}{03}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Grooaaaaarrrr
+<PUSH>
+¡Tú lo has querido!
+¡Vas a saber lo que
+es el dolor!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ah, sí.
+Como os prometí, toma la
+carta Gigaenergía.
+<PUSH>
+{02}{E2}{04}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Mega Man ha obtenido:
+«{E4}{E6}»!
+<PUSH>
+{01}{E2}{04}{00}
+<NEW-DIALOG>
+<Ace>
+Tengo el presentimiento
+de que nos volveremos a
+ver. Hasta entonces...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Estoy ansioso por nuestro
+próximo encuentro,
+Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Cierra el pico y
+sal de mi vista!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Quiénes serán esos dos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrrr...
+¡Ya tenemos lo que
+queríamos, ¿no?!
+<PUSH>
+¡Volvamos con la Dele
+y los demás!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Me parece bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

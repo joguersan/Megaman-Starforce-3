@@ -1,0 +1,555 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Aquí se exponen los
+logros pasados de
+la escuela.
+<PUSH>
+«¡Campeones del Torneo
+Nacional Escolar de
+Rompehuevos!»
+<PUSH>
+«¡Fuimos el orgullo
+del director!»
+<PUSH>
+Dicen las leyendas, que
+al caer la noche aparece
+un trofeo adicional.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cafetería es uno de los
+sitios más relajantes
+de la escuela...
+<PUSH>
+¡Hasta que llega la hora
+de comer, que se vuelve
+un campo de batalla!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{19}{E1}{01}{00}<(Queen)Tia>
+{0E}{E1}{01}{00}<(Queen)Tia>
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Sonia>
+{0C}{E1}{00}{00}{1C}{16}{0E}{00}{0C}{E1}{01}{00}{1D}{16}{0E}{00}{06}{E1}<Mr.King-2>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Está lleno de leche helada.
+<PUSH>
+¡Hay batido de chocolate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Estudia un montón,
+ come como un señor,
+ y duerme como un lirón."
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una estatua del primer
+director de la escuela
+Echo Ridge.
+<PUSH>
+Parece que la barba
+le crece... un poco.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la sala de profesores.
+<PUSH>
+Qué miedo, ni se me
+ocurriría entrar ahí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{08}{E1}{00}{00}D<Heartless>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el panel de control
+del tablón de anuncios.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Como trastee con ello,
+me van a echar una
+buena bronca.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un tablón de anuncios.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El ascensor va a la
+segunda planta y la
+azotea.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Qué buen día hace.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un mapa de la escuela.
+<PUSH>
+El punto rojo marca
+dónde te encuentras.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El ascensor va a la
+segunda planta y la azotea.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay una fila de plantas
+que han florecido.
+<PUSH>
+Los estudiantes se
+turnan para regarlas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0C}{E1}{01}{00}{41}{08}{11}{00}{0C}{E1}{00}{00}{B3}{06}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la tienda de la escuela.
+<PUSH>
+«¡Prueba la famosa
+megachuche por solo
+10 Zennys!»
+<PUSH>
+
+<NEW-DIALOG>
+,¿Qué tal? ¡Lo siento
+pero se nos ha acabado
+todo!
+<PUSH>
+¡Un hombre de blanco
+con el pelo largo lo
+ha comprado todo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la entrada a la
+tienda de la escuela.
+<PUSH>
+Nadie ha visto a la
+encargada usarla jamás.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la tienda de la escuela.
+<PUSH>
+«¡Prueba la famosa
+megachuche por solo
+10 Zennys!»
+<PUSH>
+
+<NEW-DIALOG>
+,¿Qué tal?
+¡¿Quieres megachuches?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la tienda de la escuela.
+<PUSH>
+«¡Prueba la famosa
+megachuche por solo
+10 Zennys!»
+<PUSH>
+
+<NEW-DIALOG>
+,¿Qué tal?
+¡¿Quieres megachuches?!
+<PUSH>
+Ese guapetón de blanco
+no se pasa últimamente.
+<PUSH>
+Siempre me alegra el día...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{82}{13}{0A}{E1}p
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0E}{E1}{01}{00}<Joker>
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡La leche no está fría!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Puede que sea cosa
+del Ruido...
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Ha dejado de funcionar
+de repente.
+<PUSH>
+Mmm...
+Y hace mucho ruido.
+<PUSH>
+¿Le habrá pasado algo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El ascensor no funciona!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Parece que el Ruido
+lo ha roto!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 29]
+{0C}{E1}{01}{00}{90}{16}<Jack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,¿Almuerzos?
+¡Vale! Tres, ¿no?
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«Almuerzos»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Guay. Ahora tengo que
+llevárselos al personal.
+<PUSH>
+
+<END-DIALOG>
+{82}{E1},{01}{00}{82}{E1}-{01}{00}{82}{E1}.{01}{00}{0A}{E1}{90}{16}{0A}{E1}{91}{16}{0A}{E1}{92}{16}
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Qué majo eres
+por ayudarlos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la tienda de la escuela.
+<PUSH>
+«¡Prueba la famosa
+megachuche por solo
+10 Zennys!»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡La leche no está fría!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Puede que sea cosa
+del Ruido...
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Solo... No me creo que
+haya hecho un agujero
+en la pared.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+La verdad...
+Podría aprender un par
+de cosas de él.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

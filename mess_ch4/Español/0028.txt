@@ -1,0 +1,123 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+No puede ser...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+No puedo creerlo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Yo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Yo...
+<PUSH>
+Más{16}{E1} poder...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Fantasma Oscuro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Se acabó...{15}{E1} ¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eso parece.
+<PUSH>
+Pero ese hombre...{15}{E1}
+<PUSH>
+Es tan cabezón, que no me
+extrañaría que volviéramos
+tarde o temprano.
+<PUSH>
+Y seguro que vuelve con
+ese estúpido guión suyo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Fantasma Oscuro...{15}{E1})
+<PUSH>
+{13}{EC}(La búsqueda de poder no
+{13}{EC} trae la felicidad...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+[END]
+

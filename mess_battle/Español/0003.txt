@@ -1,0 +1,375 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale, vamos a ver cómo va
+un Combate de Ondas!
+La pantalla inferior.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Esta es la pantalla de cartas.
+<PUSH>
+Seis cartas son elegidas
+de forma aleatoria de
+<PUSH>
+tu carpeta y aparecen
+en esta pantalla.
+<PUSH>
+Tienes que seleccionar
+cartas de entre esas
+seis para usarlas.
+<PUSH>
+¡Si usas una carta, no 
+desparecerá, no temas!
+<PUSH>
+Pero tampoco puedes
+usar todas las cartas
+de la pantalla de cartas.
+<PUSH>
+Hay unas normas para que
+cojas una combinación
+determinada de cartas.
+<PUSH>
+¡Regla Nº. 1!
+Puedes coger las cartas
+de la misma columna.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Da igual que no estén
+exactamente en línea
+recta, lo que importa
+<PUSH>
+es que estén en la
+misma columna.
+<PUSH>
+¡Regla Nº. 2!
+Puedes coger tres cartas
+de la misma fila.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Da igual que no estén
+exactamente en línea
+recta, lo que importa
+<PUSH>
+es que estén en la
+misma columna.
+<PUSH>
+¡Regla Nº. 3!
+<PUSH>
+Puedes coger cartas iguales,
+sin importar dónde estén.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Ves esa carta blanca
+en la pantalla?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Las cartas blancas son muy
+útiles. Puedes emparejarlas
+con cualquier carta.
+<PUSH>
+No se ve afectada por las
+tres reglas anteriores.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+¿Pero y si no sé qué
+hace una carta?
+<PUSH>
+Tienen una descripción,
+¿no? ¿Cómo la veo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Con el botón R o el botón Y
+puedes ver la descripción
+de las cartas.
+<PUSH>
+¡Vale! Creo que eso es
+todo sobre la pantalla
+de cartas.
+<PUSH>
+¡Intenta coger más de
+dos cartas, ¿vale?!
+<PUSH>
+También puedes cogerlas
+tocándolas con el dedo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, puedes coger
+más cartas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tienes que coger una
+carta de ataque.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Coge esa carta después
+de coger una de ataque.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ya te hablaré de esa más
+tarde, no la uses ahora.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vamos, chico. ¡Si no
+has cogido nada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No pasa nada,
+chico, no huyas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pulsa el botón Aceptar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Por fin, a luchar!
+¡Acaba con esos bichos!
+Oh, pero antes...
+<PUSH>
+Abajo a la izquierda están
+las cartas que has cogido
+<PUSH>
+en la pantalla de cartas,
+en el mismo orden.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Y a la derecha está el
+nombre y el ataque de
+la carta que vas a usar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pulsa el botón A para
+usar una carta de combate.
+<PUSH>
+¡Mantén pulsado el botón B
+para disparar sin parar
+con el MegaBuster!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+El botón A para cartas de
+combate y el botón B para
+el MegaBuster... ¡Genial!
+<PUSH>
+Y lo de arriba a la
+izquierda son mis PV, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Correctomundo.
+Y si llegan a 0...
+¡Fin del juego!
+<PUSH>
+La barra arriba a la derecha
+se llama Carga de cartas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La Carga de cartas se
+llena con el tiempo.
+<PUSH>
+Cuando esté llena, puedes
+volver a la pantalla de
+cartas pulsando el
+<PUSH>
+botón L o el botón R.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Así, aunque use las seis
+cartas, puedo coger más
+en la pantalla de cartas...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Exacto!
+¿Todo listo, chico?
+¡Hora de practicar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí, estoy listo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

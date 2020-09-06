@@ -1,0 +1,301 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a beat-up old car that
+is used for stunts in action
+scenes.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That thing's beat.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's not beat, it's BEAT.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a tennis court.
+It's for staff use, but it
+doesn't look very used.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{11}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's an emergency exit
+that's used at night, too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a rock.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, if you look closely, you
+can see it's a Real Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Is there any point to making
+a rock from Real Waves?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Real Wave projector.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a small pond with very
+clear and beautiful water.
+It's relaxing to look at.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{12}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{F7}{00}<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a gateway for taking
+set pieces in and out. The
+set pieces are quite large.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Something's on the ground!
+<PUSH>
+{84}{E1}{03}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Sub-Card:
+"{D3}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hehe, nice!
+<PUSH>
+{0A}{E1}{F7}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a gate.
+Only staff and the media
+can enter through here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{88}{13}
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{89}{13}
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9C}{13}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a gateway for taking
+set pieces in and out. The
+set pieces are quite large.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,116 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+El tejado está más
+adelante...
+¡Y Jack está ahí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+eh, chico.
+<PUSH>
+¿Seguro que estás preparado
+para esto?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Preparado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Listo para patear el trasero
+de Jack!
+<PUSH>
+Si de verdad vas a ir ahí
+fuera, tienes que estar
+preparado para luchar.
+<PUSH>
+No tendrás ninguna
+posibilidad si tu mente no
+está al 100% en esta pelea.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Supongo que tienes razón...
+<PUSH>
+Pero, primero quiero hablar
+con Jack y darle la
+oportunidad de parar
+<PUSH>
+Sí consigo que me escuche se
+que el...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡Pse!
+<PUSH>
+¿Qué crees que puedas decirle
+para hacerlo entrar en razón?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Bud>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Eres tan ingenuo que me
+enferma!
+<PUSH>
+Seré yo quien lo derrote.
+<PUSH>
+Pero antes de eso{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡vas a caer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡De qué estás hablando!?
+¡¡Este no es momento para...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¡¡Eres realmente ingenuo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Despierta, chico!!
+<PUSH>
+¡Aquí viene!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]

@@ -1,0 +1,43 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ophiuca Noise
+<PUSH>
+Wood Elemental
+card attacks +20
+<PUSH>
+Land hit with Non-dimming,
+Non-elemental card to
+confuse enemies. You will
+<PUSH>
+not get blinded or confused
+<PUSH>
+Charged attack:
+"Wood Shot", turns
+adjacent panels to grass
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ophiuca Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C4}{10}
+[END]
+

@@ -1,0 +1,378 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#Leaving already?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#Come again, OK?
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#You wanna buy a
+"{2C}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#You want "{2C}{E1} {21}{E1}{04}{00}",
+right?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#Sorry dude,
+you don't have enough
+Zennys.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#You can't carry any
+more of this item...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+#We're now sold out.
+Thanks for your
+purchase...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xLeaving already?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xCome again, OK?
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xYou want to buy a
+"{2C}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xYou want "{2C}{E1} {21}{E1}{04}{00}",
+right?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xIt looks like you don't
+have enough money.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xOops...
+It looks like that's
+all you can carry.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+xI'm now sold out.
+Thanks for your
+purchase...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,Leaving already?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,Come again, OK?
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,You wanna buy a
+"{2C}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,You want "{2C}{E1} {21}{E1}{04}{00}",
+right?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,It looks like you don't
+have enough money...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,Oops... It looks like that's
+all you can carry.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+,I'm now sold out.
+Thanks for your
+purchase...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}LEAVING ALREADY?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}COME AGAIN, OK?
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}DO YOU WANT TO BUY A
+"{2C}{E1}"?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}YOU WANT "{2C}{E1} {21}{E1}{04}{00}",
+CORRECT?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}{7D}{E5}...
+INSUFICIENT
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 27]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}YOU CANNOT CARRY ANY
+MORE OF THIS ITEM...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{80}{00}THERE IS NOTHING LEFT.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 29]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}Leaving already?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 30]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}Come again, OK?
+[END]
+
+[SENTENCE NUMBER 31]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}You want "{2C}{E1} {21}{E1}{04}{00}",
+right?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}You want "{2C}{E1} {21}{E1}{04}{00}",
+right? *beep*
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 33]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}No money, huh? You need
+to go and help a few more
+Mr. Hertzes. *beep*
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 34]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}I'm now sold out.
+Thanks for your
+purchase... *beep*
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{9F}{00}You can't carry any
+more of this item... *beep*
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 36]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2C}{E1}
+[END]
+
+[SENTENCE NUMBER 37]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+                
+       
+[END]
+
+[SENTENCE NUMBER 38]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You got
+Battle Card:
+"{2C}{E1}"!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 39]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You got
+Sub-Card:
+"{2C}{E1}"!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 40]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You got
+Power Up Ability:
+"{2C}{E1}"!
+<PUSH>
+HP capacity increased!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You got
+Power Up Ability:
+"{2C}{E1}"!
+<PUSH>
+
+[END]
+

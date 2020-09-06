@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+I would like to use the
+environmental system's
+vast amount of data
+<PUSH>
+processing power to search
+for Geo!!
+<PUSH>
+The weather around the
+island may grow a bit severe
+while the normal functions
+<PUSH>
+of the environmental system
+are offline.
+<PUSH>
+However, let us all endure
+for the sake of the boy!!
+<PUSH>
+
+<NEW-DIALOG>
++We'll do anything for him!!
+Let's find him, Strong!!
+<PUSH>
+
+<NEW-DIALOG>
+{9B}{00}I don't care if a typhoon or
+something else crazy strikes!!
+<PUSH>
+I'll tough it out if it's for
+Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+Thank you, everyone!!
+<PUSH>
+Let's all make a miracle
+happen!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*cheers*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

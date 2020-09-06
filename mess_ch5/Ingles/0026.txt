@@ -1,0 +1,318 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...Thanks for waiting, Mr. Wolf!
+<PUSH>
+
+<NEW-DIALOG>
+{8C}{00}Grrrrrr...!
+H-He's pretty strong!
+<PUSH>
+I've completely reached my
+limit...!
+<PUSH>
+...Don't even flinch, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, Wolf.
+Happy to see me?
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Late as always!
+<PUSH>
+I'll hand this guy over to
+you, Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Thanks!
+<PUSH>
+And in exchange I'll kick this
+guy's sorry butt...
+Free of charge!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+You think you can actually
+do that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Come on, Little Mega...
+<PUSH>
+Do you really think anything
+you say is going to have an
+effect on me?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Now that you mention it...
+You always were kinda thick.
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Why you...
+You're going to regret that...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*yawn* Yeah, uhh huh.
+<PUSH>
+Can we just get to the
+fighting, already!?
+Bring it on!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Argh!
+I can't wait any longer!!
+<PUSH>
+Jaaack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Quit your crying, Corvus!
+<PUSH>
+I'm sick of hearing you go
+on and on, too...
+<PUSH>
+In due time, there won't be
+enough of them left for a
+successful data recovery.
+<PUSH>
+With these hands...
+I will show them true pain...
+<PUSH>
+And rid them from the world...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+You've got to stop and
+think about this!!
+<PUSH>
+You're our classmate...
+And our friend, right!?
+<PUSH>
+We went on our class trip
+together, and made a lot of
+great memories.
+<PUSH>
+Or was that all an act!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+You're the one that needs
+to wake up, Mega Man.
+<PUSH>
+"Friend"...?
+<PUSH>
+Give me a break!
+<PUSH>
+I was just pretending to be
+friends with you guys.
+<PUSH>
+You're pathetic{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+You put that much hope into
+a person who was just lying
+to you the whole time?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...That stuff doesn't matter!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+...What?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+It doesn't matter why you
+hung out with us.
+<PUSH>
+But during the trip we spent
+some time together and had
+a lot of fun!
+<PUSH>
+As long as we share those
+memories, you will always be
+our friend!!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Listen to him, Jack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+I also had a super fun time
+hanging out with you on the
+class trip!
+<PUSH>
+I don't care what you say,
+the guy who we hung out
+with is our friend!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Shut up...
+<PUSH>
+Just shut up!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Shut up! Shut up!
+Shut up! Shut up!
+<PUSH>
+You guys are such a pain in
+the butt! Just! Shut! Up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+I'll just delete them...
+<PUSH>
+I'll just delete all of those
+worthless memories...
+<PUSH>
+And you along with them!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+J-Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, I know...
+<PUSH>
+I know, Mega.
+<PUSH>
+Bud.
+Sonia.
+<PUSH>
+I'm sorry, but{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I have to battle Jack all
+by myself...
+<PUSH>
+Please trust me on this one.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+{13}{EC}...
+<PUSH>
+...Understood, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+We believe in you, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, guys!
+<PUSH>
+...Jack!!
+<PUSH>
+You are our friend!
+<PUSH>
+And that's why...
+Why I have to stop you!!
+<PUSH>
+Wave Battle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ride{15}{E1} On!!{30}{EC}
+<END-DIALOG>
+
+[END]
+

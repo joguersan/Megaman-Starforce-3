@@ -1,0 +1,256 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a vending machine that
+sells Sonia Cards.
+It's completely sold out...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the Event Stage.
+It's pretty unbelievable
+that it is a Real Wave.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a billboard of Sonia.
+It's actually an air display.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a spotlight that shines
+on Sonia while she's on
+stage.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A speaker.
+Soul shaking music flows
+through them during concerts.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's what they call an "amp".
+What is it used for
+exactly?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The set was designed to be
+bright and colorful in order
+to match Sonia's personality.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I can't get in...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+W-E L-O-V-E S-O-N-I-A!
+We LOVE Sonia!!
+Woooooo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{00}{00}u{0C}{00}{0C}{E1}{00}{00}v{0C}{00}{0C}{E1}{00}{00}w{0C}{00}{0C}{E1}{00}{00}x{0C}{00}{0C}{E1}{01}{00}{86}{13}{0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+<PUSH>
+ACCESS CODE SET{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Woo hoo!
+I accessed it!
+<PUSH>
+{0A}{E1}{86}{13}{0A}{E1}t
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The entrance to the
+Noise Wave is open.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESS ERROR!
+<PUSH>
+PLEASE SET THE ACCESS
+CODE.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...
+<PUSH>
+It seems like you need
+a special key to get into
+this Noise Wave.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}<Taurus.Fire>
+{10}{00}{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!!
+<PUSH>
+{13}{EC}(I'm picking
+{13}{EC} up a subtle
+{13}{EC} Noise presence...)
+<PUSH>
+{13}{EC}(Is it just my imagination?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{8A}{13}
+[END]
+

@@ -1,0 +1,48 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Huh...?
+Ace still isn't here yet.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's up with that!?
+<PUSH>
+He called us all in a hurry,
+and now he's late!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Well, that doesn't really
+surprise me about him...
+<PUSH>
+I'm sure he'll be here soon,
+if we just wait awhile...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+

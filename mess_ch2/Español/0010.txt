@@ -1,0 +1,62 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+Estaba tan nervioso
+que no he pegado ojo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No seas dramas.
+Que vas a salir de extra.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es verdad, pero los
+programas de Sonia
+<PUSH>
+tienen más del 40 % del
+share. ¡Es muy popular!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y por qué no salgo
+yo en tu lugar?
+<PUSH>
+¡Me pondría a darlo
+todo sobre el escenario!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Lo siento, pero no.
+<PUSH>
+Por Sonia, me armaré
+de valor.
+<PUSH>
+¡Estaré nervioso, pero
+no la liaré!
+<PUSH>
+¡Vamos a la parada del
+Wave Liner!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

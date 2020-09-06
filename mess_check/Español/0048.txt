@@ -1,0 +1,29 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La puerta está cerrada...
+<PUSH>
+Y el encargado no está
+por aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{8E}{00}¡¡Si quieres pasar,
+tienes que oírme cantar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

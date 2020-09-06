@@ -1,0 +1,768 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¿Ehh?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¡Aaahh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡Aaah!...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Uff, puff...
+<PUSH>
+Ace...
+<PUSH>
+Te estás...{15}{E1}
+¿conteniendo?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+No.
+Te equivocas.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+No me has dado ni
+un puñetazo...
+<PUSH>
+¿Qué quieres que piense?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+Piensa lo que quieras.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ace...
+Se ha completado la recogida
+y análisis de datos.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Vale.
+<PUSH>
+Entonces....{15}{E1}
+¡Hora de acabar con esto!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡¡Espada alada!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡Ungh!
+<PUSH>
+{13}{EC}(Qué ha... {15}{E1}¡¿sido eso?!)
+<PUSH>
+{13}{EC}(Ese poder...)
+<PUSH>
+{13}{EC}(¡Con un solo golpe...!)
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Queen Virgo...
+<PUSH>
+Comprendo todas tus
+habilidades a la perfección.
+<PUSH>
+Con tu nivel actual, no
+podrás ni rozarme.
+<PUSH>
+Y tampoco puedes esquivar
+mis ataques.
+<PUSH>
+No tienes ninguna oportunidad
+de vencerme.
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Eh,{15}{E1} eh,{15}{E1} eh{15}{E1}...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Virgo>
+¡¿Quién demonios te crees
+que eres?!
+<PUSH>
+¡¿Tan débiles te crees que somos?!
+<PUSH>
+Absurdo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Virgo>
+¡¡Es{15}{E1} imposible!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+A{16}{E1}-Ace...
+<PUSH>
+¡¿Cómo te atreves a burlarte
+de mis habilidades?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Deberías haber acabado
+conmigo con ese ataque...
+<PUSH>
+Ahora...
+<PUSH>
+¡No toleraré esa
+falta de respeto!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+Entiendo.
+<PUSH>
+Tranquila, esta vez
+no me contendré.
+<PUSH>
+Pero antes...
+Escucha lo que tengo que
+d...{15}{E1} de...{16}{E1} decir{16}{E1}...
+<PUSH>
+¡Ungh!{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¿?!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Estás bien, Ace?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Ah...
+<PUSH>
+Q{16}{E1}-Qué sorpresa...{16}{E1}
+<PUSH>
+Y yo pensando...{16}{E1}
+que lo tenía en el bote...
+<PUSH>
+¡Umf!{16}{E1} ¡Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace!!
+<PUSH>
+¡A-Acid!{15}{E1}
+¡¿Qué le pasa?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+La verdad es que
+el cuerpo de Ace
+no está bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+C-Cómo...{15}{E1}
+¡¿Está enfermo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¿Qué te he dicho de
+exagerar las cosas, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Este tipo de Cambio de Onda
+EM provoca un estrés
+<PUSH>
+excesivo al cuerpo. Un
+humano normal no podría
+soportarlo.
+<PUSH>
+El cuerpo de Ace sufre más
+y más cada vez que hace
+un Cambio de Onda EM.
+<PUSH>
+Ha llegado a un punto en
+el que no puede mantener
+la transformación...
+<PUSH>
+Básicamente, ya no está
+en condiciones de luchar.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡P-Pero...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Acid, basta ya.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Todo lo que he hecho
+hasta ahora...
+<PUSH>
+Ha sido por este momento.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+...
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Acid.Ace>
+Tia, escúchame.
+<PUSH>
+¡Tienes que irte de Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Qué...{16}{E1} ¿Qué...?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Cuando corté mis lazos
+con Dealer y escapé...
+<PUSH>
+¡quise llevaros a Jack
+y a ti conmigo!
+<PUSH>
+¡Te juro que lo intenté!
+<PUSH>
+Pero no era lo bastante
+fuerte...
+<PUSH>
+No pude protegeros
+de Dealer.
+<PUSH>
+Era débil.
+<PUSH>
+Y os fallé...
+<PUSH>
+Pero ahora,{15}{E1} soy más fuerte,
+y estoy aquí.
+<PUSH>
+¡Por fin tengo la fuerza
+para ayudaros!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¿Q-Qué estás diciendo?
+<PUSH>
+¿Querías{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} que fuéramos
+contigo?
+<PUSH>
+¿Querías que traicionáramos
+a líder?
+<PUSH>
+Eso es imposible...
+Totalmente imposible...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡¿Por qué?!{15}{E1}
+¡¿Es por King?!
+<PUSH>
+Sí, era como un padre
+para nosotros...
+<PUSH>
+Pero...
+<PUSH>
+¡Pero solo lo hacía para
+poder utilizarnos!
+¡¿Es que no te das cuenta?!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+...
+<PUSH>
+Yo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Yo... Nosotros tenemos un
+deseo... que debemos cumplir...
+<PUSH>
+Y no se cumplirá si
+abandonamos Dealer.
+<PUSH>
+Por eso,{15}{E1} no es una opción.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡Entonces no tengo elección!
+<PUSH>
+Tendré que usar mis poderes
+para dete-
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡¿?!
+<PUSH>
+¡Acid, ¿qué está pasando?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Ace, has llegado a tu límite.
+<PUSH>
+Tu cuerpo no puede
+aguantar más.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Eso no va a detenerme!
+<PUSH>
+¡Acid, una vez más!
+¡Cambio de Onda EM!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Cálmate y piénsalo bien, Ace.
+<PUSH>
+En tu estado no podrás
+cumplir tu deseo.
+<PUSH>
+Y te será imposible derrotar
+a Queen Virgo.
+<PUSH>
+Tú precisamente deberías
+saberlo mejor que nadie.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿S-Sí, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ya lo has oído...
+<PUSH>
+Ace no puede luchar.
+<PUSH>
+¿Podrías hacer realidad
+su deseo?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Acid!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Ace...{15}{E1}
+He trabajado durante un
+tiempo con Geo.
+<PUSH>
+He visto de lo que es capaz
+y creo que puede
+<PUSH>
+ocupar tu lugar.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Por favor, Mega Man.
+<PUSH>
+Detén a Queen Virgo.
+<PUSH>
+Solo tú...{15}{E1} ¡puedes hacerlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Lo entiendo...
+<PUSH>
+¡Yo me encargo!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡Gracias, Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace...
+¡Voy a luchar contra la
+Srta. Tia y detenerla!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sí!
+¡Tú quédate ahí quietecito
+y relájate!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+{13}{EC}(Ya lo entiendo, Acid...)
+<PUSH>
+{13}{EC}(Esos dos juntos son
+{13}{EC} capaces de hacer realidad
+{13}{EC} mi deseo...)
+<PUSH>
+{13}{EC}(Tú también lo
+{13}{EC} crees, ¿eh?)
+<PUSH>
+Vale, Acid.{15}{E1}
+Se lo dejo a ellos.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Buena decisión, Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Geo Stelar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡S-Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Eres nuestra única esperanza,
+tienes que detener a Queen Tia!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¡Pues claro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Srta. Tia!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡Te he dicho que
+no me llames así!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia...
+¡¿Por qué estás con Dealer?!
+<PUSH>
+¡¿Qué queréis conseguir Jack
+y tú trabajando con esa
+organización?!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+No es de tu incumbencia...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡Ya veeees!
+<PUSH>
+¡Los niñatos no deberían
+entrometerse en temas
+de adultos!
+<PUSH>
+¡¿Quieres que te castigue?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Tú eres la que se
+comporta como una niña!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{12}{E2}<Solo>
+{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Chico, te encanta
+quejarte, ¿no?
+<PUSH>
+¿Vas a luchar o no?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia...{16}{E1} No, ¡Queen Virgo!
+<PUSH>
+Sí, lucharé contigo.
+¡Por Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Mocoso, me estás empezando
+a cansar.
+<PUSH>
+Voy a destruirte ahora mismo...
+<PUSH>
+Junto con el deseo de Ace...{15}{E1}
+¡Y todo lo demás!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+¡Inténtalo, vamos!
+<PUSH>
+¡Prepárate, chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí, Mega, vamos a derrotarla!
+<PUSH>
+¡Aquí nadie va a
+destruir nada!
+<PUSH>
+¡Y voy a hacer realidad
+el deseo de Ace!
+<PUSH>
+¡Combate de Ondas!{16}{E1}
+¡Adelante{15}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

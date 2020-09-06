@@ -1,0 +1,1319 @@
+[SENTENCE NUMBER 1]
+Noise Change
+[END]
+
+[SENTENCE NUMBER 2]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+It looks like it's up and
+running.
+<PUSH>
+The main feature of my
+<AcePrgm> is the Noise
+Change... When the
+<PUSH>
+<AcePrgm> encounters high
+concentrations of Noise,
+it installs itself and
+<PUSH>
+resonates with the Noise,
+summoning more of the
+same resonant Noise from
+<PUSH>
+a server in space. This
+way, Noise no longer
+<PUSH>
+harms Mega Man, it makes
+him stronger as he
+draws more of it into
+<PUSH>
+himself. This power
+doesn't come without
+risk, and for that I
+<PUSH>
+apologize. But it was my
+belief that you, Geo,
+<PUSH>
+would be able to keep
+the Noise under control.
+<PUSH>
+Now let me explain to you
+how the Noise change
+works.
+<PUSH>
+The system can't be fully
+effective unless your
+<PUSH>
+Noise level is greater than
+50 percent.
+<PUSH>
+At less than 50 percent
+your color remains blue,
+<PUSH>
+and some of your Battle
+Card Attack Power Ups and
+abilities will be unusable.
+<PUSH>
+That is called your
+Noise Form.
+<PUSH>
+But, at greater than
+50 percent,
+your combat effectiveness
+<PUSH>
+will increase markedly.
+You'll gain extra color and
+charged attacks,
+<PUSH>
+Counters, NFBs (Noise
+Force Big Bang), etc. will
+<PUSH>
+all be at your disposal.
+If you want to fight
+<PUSH>
+normally, all you need to
+do is unequip the <AcePrgm>
+from your Abilities.
+<PUSH>
+Was there anything else I
+needed to tell you
+<PUSH>
+about...? Oh, yes...
+While it is true that the
+<PUSH>
+higher your Noise Level,
+the better fighter you
+should be, if your Noise
+<PUSH>
+Level rises too high -
+say above 200 percent,
+<PUSH>
+it's uncertain what could
+happen...
+<PUSH>
+But I know that
+you'll be alright, Geo.
+<PUSH>
+You're every bit the hero
+I thought you were! Go
+get 'em!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Wind
+[END]
+
+[SENTENCE NUMBER 5]
+Lee Stern
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Hey, Geo!
+I've got some good news!
+<PUSH>
+Do you know that some
+Battle Cards have
+<PUSH>
+inherent "Wind
+properties"?
+<PUSH>
+The WindyAtk, for
+example has a very
+interesting feature.
+<PUSH>
+It can strip away Barriers,
+Auras, etc. in one shot,
+regardless of damage.
+<PUSH>
+There are other cards
+out there with wind
+<PUSH>
+properties, so keep your
+eyes peeled for them!
+<PUSH>
+Well, talk to you later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+Open!
+[END]
+
+[SENTENCE NUMBER 8]
+<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.This is a message from
+<Spica.Mall>! The
+Candy Shop is now open!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Come over
+[END]
+
+[SENTENCE NUMBER 11]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 12]
+{0A}{E1}<Corvus>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+There's something
+important I want to talk
+to you about.
+<PUSH>
+Come to the Main
+Computer Cyber Core.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Noise Wave
+[END]
+
+[SENTENCE NUMBER 14]
+Harp Note
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+The virus disturbance
+has died down,
+<PUSH>
+but now there's a very
+powerful Noise Wave
+at the Event Stage!
+<PUSH>
+Could you come?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Please Read
+[END]
+
+[SENTENCE NUMBER 17]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Geo, I want to explain to
+you a little about your
+Multi Noise Form.
+<PUSH>
+I'm sending a tutorial
+program about it. Have a
+look when you get time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Noise Change
+[END]
+
+[SENTENCE NUMBER 20]
+Goodall
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hello, Geo.
+<PUSH>
+I hope you're doing well.
+<PUSH>
+There's something I
+learned about Noise
+Changing that I wanted to
+<PUSH>
+share with you.
+There's the possibility
+<PUSH>
+that you, having Noise
+Changed once already,
+<PUSH>
+could spontaneously
+Noise Change in the
+<PUSH>
+presence of very strong
+Noise.
+<PUSH>
+Also, Arthur may have
+told you this already, but
+<PUSH>
+fighting especially large
+viruses may also cause
+you to Noise Change,
+<PUSH>
+because of their ability to
+affect the area
+<PUSH>
+surrounding them by
+creating balls of Noise.
+<PUSH>
+There is still much we
+don't know about the
+Noise Change...
+<PUSH>
+So, please, Geo,
+be careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+Mysterious
+[END]
+
+[SENTENCE NUMBER 23]
+Zack
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+There's a strange EM body
+holding up traffic on the
+Natl Astro Wave2.
+<PUSH>
+It doesn't seem to be
+related to Dealer.
+<PUSH>
+But if you go there,
+please be careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+To Geo
+[END]
+
+[SENTENCE NUMBER 26]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 27]
+{22}{EC}{01}{00}`
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+If you're reading this
+pop-up, I'm probably
+<PUSH>
+already gone from this
+world.
+<PUSH>
+I set this pop-up to
+activate automatically in
+<PUSH>
+the event that anything
+should happen to me.
+<PUSH>
+I wonder how I went out?
+I can only imagine.
+<PUSH>
+I just hope that I can
+leave you with the will to
+<PUSH>
+keep on fighting till the
+end.
+<PUSH>
+I want to help my friends
+and colleagues in the
+<PUSH>
+Satella Police Force,
+and Queen Tia.
+<PUSH>
+I fought this long and hard
+because I want to protect
+all that is dear to me...
+<PUSH>
+You too, Geo, fight to
+protect the bonds that
+you've built-up until now,
+<PUSH>
+and the things you care
+about.
+<PUSH>
+Overcome the enemy,
+yourself, and anything
+that stands in your way.
+<PUSH>
+You are our final hope.
+I'm passing the torch
+onto you.
+<PUSH>
+And finally, I'm leaving
+the Satella Police's
+<PUSH>
+"Ultimate Weapon" in
+your care...
+<PUSH>
+I'm counting on you,
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+Dealer Key
+[END]
+
+[SENTENCE NUMBER 29]
+?????
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+King is now at the
+Orbital Base in space.
+This key will open the
+<PUSH>
+Astro Wave, which will
+take you there.
+Hurry, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+News Flash
+[END]
+
+[SENTENCE NUMBER 32]
+E.News
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Meteor G is once again
+on a collision course
+with our planet.
+<PUSH>
+Moreover, the leader of
+the organization known as
+<PUSH>
+Dealer is presumed
+deceased.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+It's awful!
+[END]
+
+[SENTENCE NUMBER 35]
+Boreal
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, turn on the TV!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+Meet me
+[END]
+
+[SENTENCE NUMBER 38]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo, would you mind
+coming to Echo Ridge
+if you have time?
+<PUSH>
+Everyone has something
+they want to talk with
+you about.
+<PUSH>
+Let's meet on the roof
+of the school.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+Interference
+[END]
+
+[SENTENCE NUMBER 41]
+WAZA
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Presently, WAZA and the
+surrounding area is
+experiencing severe
+<PUSH>
+EM interference. Some
+kind of Noise is thought
+to be the cause.
+<PUSH>
+All members of the
+Satella Police Force
+able to respond are to
+<PUSH>
+proceed to the area
+around WAZA immediately.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+W. Liner ID
+[END]
+
+[SENTENCE NUMBER 44]
+WAZA
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Notice to the Satella
+Police Department.
+<PUSH>
+Those who would like to
+request issue of a
+Wave Liner ID, which
+<PUSH>
+allow its holders to ride
+the WAZA-bound Wave
+Liner, should submit their
+<PUSH>
+application to the duty
+officer at WAZA
+Command.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+Wave Rd. Map
+[END]
+
+[SENTENCE NUMBER 47]
+WAZA Serv
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Information for Geo Stelar.
+<PUSH>
+Starting today, you can use
+any Wave Station to get
+Wave Road Maps.
+<PUSH>
+To use this service,
+select "Maps" from the
+Wave Station menu.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Run away
+[END]
+
+[SENTENCE NUMBER 50]
+Zack
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+I almost forgot to
+mention something very
+important!
+<PUSH>
+If you come up against
+a virus you think you
+<PUSH>
+can't beat, you might want
+to try running away!
+<PUSH>
+All you have to do is
+press the L Button at
+the Custom Screen.
+<PUSH>
+But just know that there
+are some times you won't
+be able to run away.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Noise Level
+[END]
+
+[SENTENCE NUMBER 53]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So, how do you like that
+Astro Wave?
+<PUSH>
+By the way, did you ever
+use that <AcePrgm> I gave
+you in battle?
+<PUSH>
+When it's installed,
+you'll see a Noise Level
+<PUSH>
+gauge on the upper right
+of the screen.
+<PUSH>
+The gauge rises and falls
+depending on the battle
+situation.
+<PUSH>
+Until about 99 percent,
+you won't be affected
+<PUSH>
+much. But after 100%,
+be careful!
+<PUSH>
+All sorts of strange
+phenomena have been
+observed. For example,
+<PUSH>
+you may get hit with an
+attack even though you
+are flashing.
+<PUSH>
+Or you land an attack
+that is supposed to blow
+enemies back,
+<PUSH>
+but instead it draws
+them toward you.
+<PUSH>
+Also, this hasn't been
+confirmed, but Noise may
+<PUSH>
+cause your acquired data
+to be converted into data
+<PUSH>
+that is totally unrelated
+to the enemy you have
+deleted.
+<PUSH>
+These are just some of
+the reports that have
+come in.
+<PUSH>
+We're not quite sure
+what conditions govern
+the rise of Noise levels,
+<PUSH>
+but early reports suggest
+that when a non-dimming,
+<PUSH>
+non-elemental card is
+used to delete a virus,
+<PUSH>
+the difference of the
+card's attack power and
+<PUSH>
+the virus's HP correlates
+to the percentage of
+Noise elevation.
+<PUSH>
+I'd advise caution. But you,
+Mega Man, may be able to
+<PUSH>
+control it as Noise
+levels rise.
+<PUSH>
+I guess it all boils down to,
+don't overdo it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Purpose Card
+[END]
+
+[SENTENCE NUMBER 56]
+WAZA
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}WAZA Top-secret program
+Purpose Card input has
+been confirmed.
+<PUSH>
+Only one of these Purpose
+Cards can be entered.
+<PUSH>
+Installing this data will
+Power Up your Finalization.
+<PUSH>
+And if you are on a Team,
+and that Team has your
+Real Brothers on it,
+<PUSH>
+you can share this data
+with them.
+<PUSH>
+So, the more Real Brothers
+you have on your Team,
+<PUSH>
+the more Power Ups
+you'll be able to share.
+<PUSH>
+In order to form a Team
+with your Real Brothers,
+<PUSH>
+you'll need to first clear
+the game, though.
+<PUSH>
+Power Ups can be turned
+ON and OFF on the Purpose
+Card Screen.
+<PUSH>
+This conclude the Purpose
+Card explanation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+Noise Card
+[END]
+
+[SENTENCE NUMBER 59]
+?????
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+Hahaha...
+<PUSH>
+I see that you have
+finally obtained the
+prized Noise Card...
+<PUSH>
+Allow me to explain to
+you how it's used.
+<PUSH>
+You can only enter up
+to 5 Noise Cards at a
+time.
+<PUSH>
+If you wish to enter a new
+Noise Card when you
+have already entered 5,
+<PUSH>
+you'll first need to select a
+Noise Card to delete from
+the list by touching it.
+<PUSH>
+Noise Cards come in four
+suits. Diamonds, Hearts,
+Clubs, and Spades.
+<PUSH>
+You should try to enter
+cards of the same suit as
+much as possible.
+<PUSH>
+If you enter cards from
+different suits,
+<PUSH>
+you may experience
+bugs that damage you...
+<PUSH>
+Oh, that reminds me...
+<PUSH>
+If you happen to get a
+card that bears the
+<PUSH>
+Star Force logo,
+consider yourself lucky!
+<PUSH>
+Because, those cards can
+be combined with cards
+from other suits.
+<PUSH>
+One last thing...
+I'll tell you one method to
+control Noise.
+<PUSH>
+You can make poker
+hands called Noise Hands.
+<PUSH>
+Depending on the kind
+of Noise Hand you make,
+<PUSH>
+not only will you
+control Noise,
+<PUSH>
+but the power that lies
+within the Noise will be
+bestowed upon you.
+<PUSH>
+Finally, the power of Noise
+Cards can be turned
+<PUSH>
+ON /OFF on the
+Mega Man Screen.
+<PUSH>
+Alas, will you be able to
+master the full potential
+of Noise Cards!?
+<PUSH>
+Mwu ha ha ha ha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+HP Recovery
+[END]
+
+[SENTENCE NUMBER 62]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Kid, there's one thing I
+wanna tell you.
+<PUSH>
+While you're Wave
+Changed, Sub-Cards,
+<PUSH>
+Acquired Data, and HP
+Balls are the only means
+to restore your HP,
+<PUSH>
+but you can fully restore
+your HP by un-Wave
+Changing! Bear in mind
+<PUSH>
+though, that just pulsing out
+but staying in your
+Mega Man form won't do
+<PUSH>
+the trick! You have to
+completely un-Wave
+Change.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+HELP pop-up
+[END]
+
+[SENTENCE NUMBER 65]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Helping people is the
+mission of Team
+Luna 4 Prez!
+<PUSH>
+That wonder work doesn't
+just stop here at school!
+<PUSH>
+It carries on across the
+whole nation... No!
+<PUSH>
+Team Luna 4 Prez will help
+people in need all around
+the world!
+<PUSH>
+As such if you ever talk to
+someone and you get a
+pop-up that says "HELP",
+<PUSH>
+it means that person
+is in need of assistance.
+<PUSH>
+You can touch the
+HELP pop-up to find out
+more about their situation!
+<PUSH>
+Once you've done that,
+it's a good idea to talk to
+them some more to get
+<PUSH>
+detailed information
+about what you can do
+for that person.
+<PUSH>
+At that point, that person
+can give you a formal
+"Mission Request".
+<PUSH>
+Take it and carry it out
+to its end, understood?
+<PUSH>
+Nobody should have a
+problem or request that
+<PUSH>
+you... oh I mean Mega Man
+can't handle in a flash!
+<PUSH>
+But, if for some reason,
+though no valid reasons
+come to mind at this time,
+<PUSH>
+you can't complete a
+mission that you've been
+given, you can go back
+<PUSH>
+to the person who gave
+you the mission request
+<PUSH>
+and formally cancel the
+mission.
+<PUSH>
+But don't worry, you can
+accept the mission as
+<PUSH>
+many times as it takes to
+resolve the issue!
+<PUSH>
+Oh, one more thing.
+<PUSH>
+Once you've taken a
+mission request from
+<PUSH>
+someone, until you either
+complete or cancel it,
+<PUSH>
+pop-ups from other
+people won't be displayed.
+<PUSH>
+That means you'll need
+to make a decision quickly,
+and not dilly-dally around.
+<PUSH>
+...OK, now do your best!
+Like the true leader that
+I am, I'll be watching over
+<PUSH>
+your progress, Ge... I mean
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+If you're reading this
+pop-up, I'm probably
+<PUSH>
+already gone from this
+world.
+<PUSH>
+I set this pop-up to
+activate automatically in
+<PUSH>
+the event that anything
+should happen to me.
+<PUSH>
+I wonder how I went out?
+I can only imagine.
+<PUSH>
+I just hope that I can
+leave you with the will to
+<PUSH>
+keep on fighting through
+till the end.
+<PUSH>
+I want to help my friends
+and colleagues in the
+Satella Police Force,
+<PUSH>
+and Queen Tia.
+<PUSH>
+I fought this long and hard
+because I want to protect
+all that is dear to me...
+<PUSH>
+You too, Geo, fight to
+protect the bonds that
+you've built-up until now,
+<PUSH>
+and the things you care
+about.
+<PUSH>
+Overcome the enemy,
+yourself, and anything
+that stands in your way.
+<PUSH>
+You are our final hope.
+I'm passing the torch
+onto you.
+<PUSH>
+And finally, I'm giving
+you the power that is
+<PUSH>
+the ace up the
+Satella Police's sleeve...
+<PUSH>
+I'm counting on you,
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

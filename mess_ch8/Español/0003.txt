@@ -1,0 +1,120 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+N-No es posible...
+<PUSH>
+Llevo el título de «R».
+Alguien como tú no puede
+derrotarme...
+<PUSH>
+Pero no importa.
+Algún «R» te derrotará...
+<PUSH>
+¡Y este mundo será destruido!
+<PUSH>
+La oscuridad lo consumirá
+todo.{16}{E1}
+¡¿Por qué resistirse?!
+<PUSH>
+¡¡Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Fiu...
+<PUSH>
+Ese Spade Magnes luchaba
+de forma totalmente
+distinta a la del original.
+<PUSH>
+Ha dicho que había otros
+con el título de «R».
+¿Cuántos habrá?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Buena pregunta.
+<PUSH>
+¿Qué hacemos?
+Según parece, su
+objetivo es la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, pero no tenemos
+más pistas...
+Volvamos a la Disonancia.
+<PUSH>
+A lo mejor nos encontramos
+con más «R» de esos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es más divertido buscar
+pelea que esperar a
+encontrarte con una.
+<PUSH>
+¡Buen plan, chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Oh, no!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Podremos abrir la puerta
+a la Disonancia?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No te preocupes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Por qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vi en la tele que cuando
+se abre la puerta a una
+Disonancia,
+<PUSH>
+no vuelve a cerrarse
+del todo jamás!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Genial!
+<PUSH>
+¡Pues en marcha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

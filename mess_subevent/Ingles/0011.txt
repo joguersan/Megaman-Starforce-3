@@ -1,0 +1,383 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0A}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Have you heard the rumors
+about <Spica.Mall>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{39}{16}{03}{00}{0C}{E1}{01}{00}{81}{16}
+{0C}{E1}{01}{00}{14}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+What's going on in <Spica.Mall>?
+Something bad?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Ugh...
+ Just talking about it
+ makes me feel sick.)
+<PUSH>
+Everyone is talking about it.
+<PUSH>
+If you knock three times
+on the door of the girls'
+bathroom, then chant a spell...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+A ghost will appear!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A ghost!?
+<PUSH>
+Haha...
+<PUSH>
+You don't believe that, do
+you, Prez?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Who do you think I am!?
+<PUSH>
+I would never believe in that
+kind of childish stuff!
+<PUSH>
+{13}{EC}(Actually, I can't even
+ sleep at night anymore.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Then I guess there's no
+reason to go check it out.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+W-W-Wait a second!
+<PUSH>
+I'm fine, but some students
+are really scared. I can't let
+this go unchecked!
+<PUSH>
+Since you're a hero, Geo...
+Go check it out for me,
+please.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Accept her request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+If it's really that big of a
+deal, then I'll do it.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Thanks, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So you knock on the door
+of the girls' bathroom, then
+chant a spell...
+<PUSH>
+What's the spell?
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+<Prez>
+I have no clue!
+<PUSH>
+Even if you find out what it
+is, don't you dare say it in
+front of me.
+<PUSH>
+I'll stop being your Brother!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(She's the one that's
+ actually scared, isn't she?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Fine.
+I'll have to ask someone at
+school...
+<PUSH>
+{0A}{E1}{14}{16}{0A}{E1}{7D}{16}{20}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Prez>
+I thought you were a man!?
+<PUSH>
+Geez...
+<PUSH>
+Well, if you change your mind,
+let me know!
+<PUSH>
+{0B}{E1}{39}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Did you find out the truth
+behind the ghost?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Prez>
+A real man would never
+take back his word!
+<PUSH>
+{0B}{E1}{39}{16}{0B}{E1}{14}{16}{0B}{E1}{15}{16}{0B}{E1}{7D}{16}{0B}{E1}{7E}{16}{0B}{E1}{7F}{16}{0B}{E1}{80}{16}{0B}{E1}{81}{16}{82}{E1}){FF}{FF}{21}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Prez>
+Thanks, Geo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+It was a prank by viruses?
+<PUSH>
+{13}{EC}(Phew...)
+<PUSH>
+I figured it had to be
+something like that!
+<PUSH>
+At any rate, thanks so much
+for helping, Geo.
+<PUSH>
+Here's something for helping.
+<PUSH>
+{87}{E1}{4B}{01}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{57}{E6}{D2}{E6}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Geo is such
+ a reliable guy.)
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{15}{16}{21}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}{7E}{16}{0D}{00}{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Do you know anything about
+the rumors about the girls'
+bathroom in <Spica.Mall>?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+!!
+<PUSH>
+Actually...
+I heard a voice in the girls'
+bathroom in <Spica.Mall>!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A-A voice?
+<PUSH>
+{13}{EC}(This is getting creepy.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+It felt like it was following
+me around! I was so scared!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+If you happen to know the
+necessary spell, would you
+please teach it to me?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+This is what you should say...
+<PUSH>
+{0A}{E1}{7E}{16}{82}{E1}){01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{99}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+I'm not taking any
+responsibility for
+what happens to you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It looks like the viruses
+were having fun scaring
+a bunch of humans.
+<PUSH>
+There's no way ghosts exist
+on this planet!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+How do you know?
+You're not from Earth!
+<PUSH>
+Let's go back to Luna.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{81}{16}
+[END]
+

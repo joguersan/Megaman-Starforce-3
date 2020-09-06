@@ -1,0 +1,169 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Ya estáis todos?
+<PUSH>
+Ahora que estáis
+registrados, podéis
+<PUSH>
+entrar y salir de la
+WAZA cuando queráis.
+<PUSH>
+Solo tenéis que abrir
+las puertas con la
+huella dactilar.
+<PUSH>
+Eso es lo que os
+estaba diciendo antes.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Cuando queramos?!
+<PUSH>
+¡¿Tanto confiáis
+en unos niños?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Tened muchísimo
+cuidado, por favor.
+<PUSH>
+La WAZA contiene muchos
+docmentos con información
+clasificada.
+<PUSH>
+Si se os escapara
+algo ahí fuera{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Q-Qué{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡¿Qué pasaría?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+N-Nos...
+<PUSH>
+...¡¿eliminarían?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No...
+<PUSH>
+Mi jefe me montaría
+un buen pollo. Y no me
+mola nada la idea.
+<PUSH>
+En fin, vamos a entrar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ace es...
+<PUSH>
+Bueno, es un poco rarito...
+¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Un poco...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Vaya, vaya...
+Conque ese es Acid.
+<PUSH>
+No tiene mala pinta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ugh!
+¡¿Pero qué le ves?!
+<PUSH>
+¡El día que luchemos,
+vais a ver quién es
+más fuerte de los dos!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+No has cambiado nada.
+<PUSH>
+Sabes que no es un
+Wizard normal, ¿no?
+<PUSH>
+Es mucho más especial...
+<PUSH>
+Algo parecido a nosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Y a mí qué me importa!
+<PUSH>
+¡Ningún Wizard creado
+por humanos podrá
+jamás conmigo!
+<PUSH>
+¡No son más que insectos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+{13}{EC}...
+<PUSH>
+Entiendo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

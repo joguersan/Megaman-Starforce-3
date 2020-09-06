@@ -1,0 +1,535 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Gracias a todos
+por venir!
+<PUSH>
+¡Por fin ha llegado el
+momento de lanzar el
+cohete del club de ciencias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}{45}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+¡Síííí! ¡Viva! ¡Qué grandes!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Pero primero me gustaría
+presentaros al Equipo
+productor de este proyecto.
+<PUSH>
+¡La líder de «Luna Presidenta»,
+Luna Platz, y sus miembros!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{10}{E2}{45}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+¡Uuhh! ¡Luna, guapa! ¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Es maravilloso sentirse
+arropada de esta manera!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Zack, la popularidad
+de la Dele está por
+las nubes!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Si el lanzamiento va
+según lo planeado,
+<PUSH>
+su popularidad se
+situará en el 40 %!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Por fin...
+¡Listos para el lanzamiento!
+<PUSH>
+¡Magnes, comienza con
+los preparativos!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{01}{00}{F0}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*dum* {13}{E1}*dum* {13}{E1}*dum* {13}{E1}*dum*{13}{E1}.{13}{E1}.{13}{E1}.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}Badump, badump
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bum
+Bzz... ¡Bzz!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Q-Qué está pasando?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Algo no va bien!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¿Pero qué...?
+¡Los controles
+no responden!
+<PUSH>
+¡¿Magnes?!
+¡Magnes, responde!
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¡Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¿M-Magnes?!
+¡¿Qué ocurre?!
+¡¿Qué te ha pasado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¡Aaaahh!
+¡Soy invencible!
+¡¡¡Invencible!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Pero qué...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Se está produciendo
+una sobrecarga
+energética!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¿Q-Qué?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Eso qué quiere decir?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡Va a explotar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Corred!
+<PUSH>
+¡Salid todos de aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,¡Ahhh!
+¡Está tirando de mí!
+<PUSH>
+
+<NEW-DIALOG>
+*¡Es demasiado fuerte!
+¡No puedo alejarme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Las fuerzas magnéticas
+de Magnes están
+fuera de control!
+<PUSH>
+¡Está atrayendo los
+objetos metálicos
+que llevan puestos!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Bud>
+¡Eso da igual!
+¡¿Qué pasa si esa
+cosa explota?!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Si se libera la energía de 
+la carta Gigaenergía...
+¡No quiero ni pensarlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Zack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡El Wizard está fuera de
+control, por eso aumentan
+las fuerzas magnéticas!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¿Magnes ha perdido
+el control?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¿Cuál es la estimación
+de los daños?!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Si el cohete explota,
+borrará la escuela
+Echo Ridge del mapa!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡<Echo.Ridge> también
+recibirá un daño considerable!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+No puede ser...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Por qué...
+<PUSH>
+¡¿Por qué está
+ocurriendo esto?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Es lo mismo que pasó en
+el <Spica.Mall>...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es verdad.
+Chico, eso significa que...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo-2>
+¡Sí! ¡Tenemos que detenerlo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡No puedes transformarte
+en Mega Man y detenerlo!
+<PUSH>
+¡Podría explotar!
+¡Es muy peligroso!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Pero no hay nadie más
+que pueda hacerlo.
+<PUSH>
+Y no puedo quedarme de
+brazos cruzados mientras
+destruyen la escuela.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Siempre igual...
+<PUSH>
+...Vale.
+<PUSH>
+Si vas a ir, no me
+moveré de aquí
+hasta que vuelvas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿P-Pero qué dices?!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Nuestro Equipo comparte el
+mismo Propósito, ¿no?
+¡Y yo soy la líder!
+<PUSH>
+¡Ni se me pasa por la
+cabeza abandonar a
+un compañero!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Yo también me quedo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Y yo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Bud! ¡Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Vete, Geo...
+<PUSH>
+"Luna Presidenta" no se moverá
+un ápice hasta que vuelvas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Esto...
+<PUSH>
+¡No he oído toda la
+conversación, pero
+yo también me quedo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Este cohete es el
+fruto de nuestro trabajo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, je...
+¡Como no paremos el cohete,
+esta charla será inútil!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Claro!
+¡Vamos allá, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

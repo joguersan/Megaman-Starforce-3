@@ -1,0 +1,959 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}P
+{08}{E1}{00}{00}Q<Geo>
+{08}{E1}{00}{00}R<(Queen)Tia>
+{08}{E1}{00}{00}S({08}{E1}{00}{00}T2
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{03}{08}{07}{08}{0B}{00}{09}{E1}{00}{00}{07}{08}{0B}{08}{0C}{00}{09}{E1}{00}{00}{0B}{08}{0D}{08}{0D}{00}{09}{E1}{00}{00}{0D}{08}{15}{08}{0E}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}U{0F}{00}{0C}{E1}{01}{00}T{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Pero dile hola a tu
+madre al menos!
+¡Modales, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Hay Wizards enloquecidos
+en la entrada!
+¡Vamos, vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Hay Wizards enloquecidos
+en el <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Busca a Wizards
+enloquecidos y
+párales los pies!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{08}{E1}{06}{00}{07}{00}{11}{00}{08}{E1}{06}{00}{08}{00}{11}{00}{08}{E1}{06}{00}{09}{00}{11}{00}{08}{E1}{06}{00}
+{12}{00}{08}{E1}{06}{00}{0B}{00}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos al colegio
+ya mismo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+La Dele y los demás
+te esperan fuera.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Venga, vete a clase!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tenemos tiempo,
+¿por qué no hablamos
+con todos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{15}{08}{17}{08}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{08}{E1}{06}{00}{01}{03}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡La Policía Satella
+quiere verte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué pasa ahora?
+¡Vamos a hablar
+con Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{17}{08}{1D}{08}<Joker>
+{09}{E1}{00}{00}{1D}{08}{1F}{08}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Hay Wizards enloquecidos en
+el <Stage.Evento> del
+Estudio WBG! ¡Deprisa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{0C}{E1}{01}{00}X"{08}{E1}{06}{00}{01}{00}!{08}{E1}{06}{00}{02}{00}!
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Menudo día, ¿eh?!
+¡Vete a casa y relájate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chico.
+Tú madre no parece
+muy contenta...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{08}{E1}{06}{00}{01}{00}#{08}{E1}{06}{00}{02}{00}#
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vete a descansar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Chico, creo que deberías
+echarte un rato.
+¡Que eres humano!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{0C}{E1}{01}{00}tU{0C}{E1}{00}{00}u){0C}{E1}{00}{00}v){0C}{E1}{00}{00}w){0C}{E1}{00}{00}x){06}{E1}S
+[END]
+
+[SENTENCE NUMBER 42]
+{08}{E1}{06}{00}{08}{00}*{08}{E1}{06}{00}{01}{51}+{08}{E1}{06}{00}{0C}{00},{08}{E1}{06}{00}{02}{51}-{08}{E1}{06}{00}{0D}{00}.{08}{E1}{06}{00}{03}{51}/{08}{E1}{06}{00}{0E}{00}0{08}{E1}{06}{00}{04}{51}1{08}{E1}{06}{00}{02}{01}R
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Detective Stelar!
+¡Primero tienes que
+investigar
+<PUSH>
+en la escuela y el
+<Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{0C}{E1}{01}{00}uQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Los Wizards han enloquecido
+aquí, ¿eh? Vamos a buscar
+la entrada a la Disonancia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+{0C}{E1}{01}{00}uP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí hay algo!
+¡Mi sentido detectivesco
+no me falla jamás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Tres incidentes en el
+mismo edificio. ¡A buscar
+en <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+{0C}{E1}{01}{00}vP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí hay algo!
+¡Mi sentido detectivesco
+no me falla jamás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+{0C}{E1}{01}{00}wQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Dicen que el Wizard
+enloquecido estaba
+en un CN de esta zona.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+{0C}{E1}{01}{00}wP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí hay algo!
+¡Mi sentido detectivesco
+no me falla jamás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{0C}{E1}{01}{00}xQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Dicen que el Wizard
+enloquecido estaba
+en un CN de esta zona.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+{0C}{E1}{01}{00}xP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí hay algo!
+¡Mi sentido detectivesco
+no me falla jamás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{21}{08}{23}{08}3{09}{E1}{00}{00}{23}{08}{25}{08}4{09}{E1}{00}{00}{25}{08}{29}{08}5{09}{E1}{00}{00}{29}{08}{2D}{08}6{09}{E1}{00}{00}{2D}{08}{31}{08}7{09}{E1}{00}{00}{31}{08}{35}{08}8{09}{E1}{00}{00}{35}{08}{37}{08}9{09}{E1}{00}{00}{37}{08}{3B}{08}:{09}{E1}{00}{00}{3B}{08}{3F}{08};
+[END]
+
+[SENTENCE NUMBER 52]
+{08}{E1}{07}{00}{00}{05}B
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a mirar más
+adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{08}{E1}{06}{00}{00}{75}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico, impulsiónate
+al Cibernúcleo de
+esa puerta!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Se habrá abierto
+la puerta? ¡Vamos a ver!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+{08}{E1}{06}{00}{00}{65}=
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ve por el Camino Onda
+hasta el núcleo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{08}{E1}{06}{00}{01}{65}>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Si rompemos el sistema
+de defensa, el Camino
+Onda se reconectará.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+{08}{E1}{06}{00}{02}{65}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya casi estamos en
+el núcleo! ¡No pierdas
+la calma, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Una cosa menos!
+¡Ya podemos seguir!
+¡Estamos muy cerca!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+{08}{E1}{07}{00}{02}{05}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+A Ace le pasa algo...
+¡Estate pendiente
+de él, chico!
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+{08}{E1}{07}{00}{02}{05}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ace se ha ido por
+su cuenta...
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Tiene que haber una
+forma de desbloquear
+este Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Un sistema de defensa, ¿eh?
+Debería valer con destruir
+la unidad de control.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Busca la unidad de
+control y destrúyela!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí debe de haber una
+unidad de control!
+¡Destrózala!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, ¡¿no habías
+quedado con Ace?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chico...
+¿Crees que Ace...?
+Nada, olvídalo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¿Pero qué demonios
+haces? ¡Tenemos que
+buscar la base de Dealer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hemos encontrado una pista
+decente, ¡¿eh?! ¡Pero
+hay que buscar más!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Ves?! ¡Ya te dije que
+aquí había una buena pista!
+¡Mi sentido detectivesco!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ya volveremos luego...
+¡La impaciencia es un
+crimen, detective!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{08}{E1}{06}{00}{02}{01}T
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya tenemos un Código Ruido!
+¡Ya solo queda buscar
+en el <Studi.WBG>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Detective, no hay ninguna
+duda! ¡Ha huido a la
+Disonancia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+{08}{E1}{06}{00}{01}{50}V
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hemos abierto la Disonancia
+con los Códigos Ruido.
+¡Falta poco para la base!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Seguro que la entrada
+a la base de Dealer está
+por aquí cerca!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+

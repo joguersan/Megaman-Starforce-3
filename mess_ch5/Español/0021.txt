@@ -1,0 +1,170 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Qué!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Sonia!?
+<PUSH>
+¿¡Por qué está Sonia en
+nuestro colegio!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Por fin estás aquí, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡G-Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Geo...
+<PUSH>
+He venido a apoyar a Luna...
+<PUSH>
+Pero tenemos mayores problemas
+que las elecciones...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡A qué te refieres!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡S-Solo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+<PUSH>
+Lo que significa que...
+¿¡Jack va a venir aquí!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¡Pse!
+<PUSH>
+Es lógico que vaya a atacar
+el lugar
+<PUSH>
+donde todos vosotros vayais a
+estar reunidos.
+<PUSH>
+Quiere matar tres pajaros de
+un tiro.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Entonces...
+<PUSH>
+¿¡Vas a esperar en esta clase
+hasta que aparezca!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+Evidentemente.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡...!!
+<PUSH>
+¡E-Esto no es bueno!
+<PUSH>
+¡Si algo como lo de ayer
+ocurre aquí...!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+Si queréis provocar un
+escándalo, hacedlo.
+<PUSH>
+Pero no me metáis en esto.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+P-Pero...
+<PUSH>
+¡No podemos dejar que los
+profesores y alumnos se vean
+atrapados en esto!
+<PUSH>
+Debemos irnos a otro lugar.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+¡...!
+<PUSH>
+¡Pse!
+Por fin ha llegado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Qué!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]

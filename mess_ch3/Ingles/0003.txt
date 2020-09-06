@@ -1,0 +1,702 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+I'm sorry I made you late
+for your school trip to
+{53}{E2}, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I don't mind being late for
+the trip, Ace.
+<PUSH>
+You've done a lot for Sonia,
+Belle, and everyone else.
+So I'm happy to help.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+That means a lot, Geo.
+<PUSH>
+I wonder what really
+happened at <Studi.WBG>?
+<PUSH>
+I'm on the Satella Police
+investigation team.
+<PUSH>
+And I realized the only
+way to find out is to ask
+Mega Man...
+<PUSH>
+Or rather... You, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Him knowing all about you
+is getting annoying, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I heard that, Omega-Xis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+It appears you were
+originally an alien.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!!
+<PUSH>
+Y-You...
+How do you know that...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Don't be surprised.
+<PUSH>
+Satella Police's information
+recon is unrivaled.
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}But that's not important.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So what do you want
+to know?
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Ace>
+When you were Mega Man,
+did anything strange
+happen to you?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Strange?
+<PUSH>
+...Actually, yeah.
+My body went numb.
+It was pretty terrible.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hmm...
+<PUSH>
+I see...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!!
+If you've got something to
+say, then say it already!
+<PUSH>
+You and your Wizard
+are always thinking and
+never speaking!
+<PUSH>
+That really gets to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+*sigh*
+I've never met a more
+short tempered Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Shut it!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cool it, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Well...
+I guess it's better than
+letting it all build up inside.
+<PUSH>
+So... You've fought with out
+of control Wizards several
+times now, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+When a Wizard goes out
+of control, a vast amount
+of Noise is released...
+<PUSH>
+That Noise is very
+dangerous for EM beings...
+<PUSH>
+If a Wizard absorbs too
+much Noise, he could be
+deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{22}{EC}{00}{00}{05}{00}{22}{EC}{01}{00}{06}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Deleted!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Holy cow...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+When a device goes out
+of control, its EM waves
+can be corrupted...
+<PUSH>
+That's really what Noise is.
+<PUSH>
+So from now on, you need
+to stay very alert...
+<PUSH>
+But for now...
+<PUSH>
+I'll give you my <AcePrgm>...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+"<AcePrgm>"?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's that?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It's a Satella Police special
+weapon, as well as my pride
+and joy!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really?
+Is it really OK for me to
+take something like that?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You're the only one that I
+would trust with it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Just consider it an early
+birthday present, OK?
+<PUSH>
+So... I should tell you what
+it actually does...
+<PUSH>
+Quite simply, it's a device
+that gives you the ability
+to control Noise.
+<PUSH>
+I'm going to send it to your
+<Hunter>-VG now.
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+OK, it's sent.
+<PUSH>
+{87}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got
+Power Up Ability:
+"<AcePrgm>"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Deleted!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Holy cow...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+When a device goes out
+of control, its EM waves
+can be corrupted...
+<PUSH>
+That's really what Noise is.
+<PUSH>
+So from now on, you need
+to stay very alert...
+<PUSH>
+But for now...
+<PUSH>
+I'll give you my {C2}{E6}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+"{C2}{E6}"?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's that?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It's the most powerful and
+terrible of all programs that
+<PUSH>
+the Satella Police have in
+their possession.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Geez... Are you sure it's OK
+for me to take something
+so powerful?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Don't worry, I know you can
+handle it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Just consider it an early
+birthday present, OK?
+<PUSH>
+There's no need to give it
+a second thought.
+<PUSH>
+So... I should tell you what
+it actually does...
+<PUSH>
+Quite simply, it's a device
+that gives you the ability
+to control Noise.
+<PUSH>
+I'm going to send it to your
+<Hunter>-VG now.
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+OK, it's sent.
+<PUSH>
+{87}{E1}*{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got
+Power Up Ability:
+"{C2}{E6}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+With this you can control
+Noise enough that you won't
+be deleted.
+<PUSH>
+Also, during battles the
+Noise Level will now be
+displayed.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What the heck is that?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+In short, it's a number that
+shows you how much Noise
+is being emitted around you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Noise Level...
+<PUSH>
+Sounds like an awesome
+program!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah, it's pretty amazing.
+<PUSH>
+You should definitely spend
+some time getting used to
+using it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Good idea!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Man, Geo is such
+ a science maniac...)
+<PUSH>
+So... Will anything change
+along with the Noise Level?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Most definitely.
+<PUSH>
+The most simple change is
+that when the Noise Level
+<PUSH>
+is at 100% or higher when
+the final enemy is deleted,
+<PUSH>
+you will acquire Illegal Data
+on top of regular data.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Illegal Data?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+It's data that has been
+altered by Noise.
+<PUSH>
+You won't know what you'll
+get until you've actually
+acquired it.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's being "Mr. Vague", again...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+There are other types of
+changes that occur along
+with the Noise Level.
+<PUSH>
+But I'm positive that you'll
+be able to handle them just
+fine, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...?
+<PUSH>
+{13}{EC}(I wonder what's wrong?
+ Ace looks like he's
+ feeling pretty down.)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Well, that's it for all the
+serious talk!
+<PUSH>
+But please don't forget this
+this much, Geo.
+<PUSH>
+When a Wizard goes out of
+control, do your best not to
+<PUSH>
+fight, and just wait for the
+Satella Police to arrive.
+<PUSH>
+Noise is too dangerous to
+play around with.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+U-understood.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Yet, Mega Man has already
+absorbed a considerable
+amount of Noise...
+<PUSH>
+But with absolutely no
+noticeable effects...
+<PUSH>
+Mega Man is just as I
+assumed...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...?
+<PUSH>
+Ace?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Ah, my bad...
+<PUSH>
+Here's another present to
+make up for making you
+late for your school trip!
+<PUSH>
+{02}{E2}{08}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"{E8}{E6}"!
+<PUSH>
+{01}{E2}{08}{00}
+<NEW-DIALOG>
+<Geo>
+What does this pop-up do?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It lets you access the
+Astro Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Astro Wave?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah, it's a Wave Road
+that's in space.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Space!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Just the word "space"
+ reeled him in, hook, line
+ and sinker...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You can get to the Astro
+Wave from the highest point
+<PUSH>
+of the Wave Road in
+<Echo.Ridge>.
+<PUSH>
+There's a lot of viruses
+there, so be extra careful.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Is it really OK!?
+<PUSH>
+It's not a problem that a kid
+like me can access such an
+amazing place!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Usually, it would never be
+allowed. But like I said, I
+owe you for making you late.
+<PUSH>
+You can get to <Alohaha> in
+no time at all, using the
+Astro Wave.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, Ace!
+<PUSH>
+Astro Wave...
+A Wave Road in space...
+<PUSH>
+I can't wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Haha. Your excitement is
+making me want to jump
+up and down too.
+<PUSH>
+Well, have fun on your
+school trip.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks again!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+OK, Mega!
+<PUSH>
+Let's EM Wave Change and
+get to the Astro Wave as
+fast as possible!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+If we must...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

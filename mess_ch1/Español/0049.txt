@@ -1,0 +1,60 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Se han abierto
+las puertas.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Menuda tortura, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, vamos a
+decírselo a la Dele.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Sí, en marcha!
+<PUSH>
+¡Seguro que el torneo
+ya ha empezado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Me estoy emocionando!
+¡Déjamelos a mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale, vale...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

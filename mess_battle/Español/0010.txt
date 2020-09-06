@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Corvus
+<PUSH>
+Cartas Fuego no aten.:
+ataque +30
+<PUSH>
+Anula paneles veneno,
+Errores PV, y ataques
+Agujero Negro
+<PUSH>
+Ataque cargado:
+"Fuego chocante", llamas
+que paralizan al enemigo
+<PUSH>
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Corvus
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C1}{10}
+[END]
+

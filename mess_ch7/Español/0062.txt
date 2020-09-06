@@ -1,0 +1,177 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ha resurgido un
+recuerdo de Kelvin{16}{E1}.{16}{E1}.{16}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Bueno...
+Tengo que irme.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+A¡Papá, buen viaje!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Hope...
+¿Puedes despedirme
+tú también con
+<PUSH>
+una sonrisa, como Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Tienes razón, perdona.
+<PUSH>
+Sé que viajar al espacio
+siempre ha sido tu sueño.
+<PUSH>
+Estoy muy feliz por ti.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Gracias, cariño.
+<PUSH>
+
+<NEW-DIALOG>
+A¡Papá!
+<PUSH>
+¡¿Cuando vuelvas, me
+contarás cosas del espacio?!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}¡Claro! ¡Pero solo
+si te portas bien
+mientras no estoy!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin...
+<PUSH>
+Por favor...
+Ten mucho cuidado ahí fuera.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Lo tendré, te lo prometo.
+<PUSH>
+No puedo dejar a mi
+familia sola.
+<PUSH>
+Geo...
+Cuida de tu madre mientras
+yo no estoy, ¿vale?
+<PUSH>
+
+<NEW-DIALOG>
+A¡Vale!
+¡Confía en mí!
+<PUSH>
+¡La protegeré con mi vida!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Buen chico, Geo.
+Estoy muy orgulloso.
+<PUSH>
+Y no te preocupes por mí.
+No me pasará nada
+ahí arriba.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin...
+Ten cuidado...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Yo...
+Os quiero mucho.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}{13}{EC}(Me pase lo que me pase
+ sé que Geo estará ahí...)
+<PUSH>
+{13}{EC}(Que la protegerá.)
+<PUSH>
+{13}{EC}(Sé que él heredará
+ mi sueño de compartir
+ el valor de los vínculos.)
+<PUSH>
+{13}{EC}...
+<PUSH>
+{13}{EC}(.{14}{E1}.{14}{E1}.{14}{E1}Vaya, no me pega
+ nada hablar así...)
+<PUSH>
+{13}{EC}(Volveré a casa...)
+<PUSH>
+{13}{EC}(Y abrazaré a mi familia,
+ como siempre.)
+<PUSH>
+{13}{EC}(Y Hope preparará su famoso
+ pastel de carne con
+ judías verdes.)
+<PUSH>
+{13}{EC}(Mientas yo le cuento a Geo
+ historias del espacio.)
+<PUSH>
+{13}{EC}(¡Jopé, soy el tío más
+ afortunado del mundo!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

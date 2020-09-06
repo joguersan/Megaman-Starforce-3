@@ -1,0 +1,48 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Es el agujero negro...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí que está oscuro
+aquí dentro.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pero... Seguro que estamos en
+el servidor. El ambiente es
+similar al del Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ahora que lo dices...
+Sí, tienes razón.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos! ¡Tenemos que
+encontrar a Sirio!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos hasta el fondo
+del servidor!
+<PUSH>
+¡El jefazo siempre está
+en la última sala,
+esperando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

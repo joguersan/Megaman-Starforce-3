@@ -1,0 +1,885 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Hah...
+<PUSH>
+Hah... Ahhhhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Joker>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Argh... Ugh...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We did it, kid!!
+<PUSH>
+We brought that jerk down!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+*huff, huff*
+<PUSH>
+Y-Yeah...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Ha... Haha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+You...
+Defeated Joker...!
+<PUSH>
+You really are the world's
+greatest hero!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Mega Maaan!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Phew!
+I finally caught up to you!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Harp Note...
+<PUSH>
+Acid Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+The only thing left to do is
+to stop King!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+It's time for the final push,
+Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Yeah!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+King!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hmph...
+<PUSH>
+I should have placed my bet
+on you, after all.
+<PUSH>
+But who would have thought
+you would defeat Joker...
+<PUSH>
+Ho ho ho!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+You haven't changed a bit,
+King.
+<PUSH>
+Too bad you won't have the
+chance to reform!
+<PUSH>
+Dealer and all its evil doings
+will end today!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Ho ho ho ho ho!!
+<PUSH>
+You are hilarious, Ace!
+What a superb joke!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Give me a...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Heartless!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes, sir.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+This should be fine here.
+<PUSH>
+You look like the despicable
+and worthless little ants
+that you truly are!
+<PUSH>
+Ho ho ho ho ho!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Why you...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Err...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey!!
+We're not letting him get
+away, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm with you on that!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wait.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+J-Jack!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Tia...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Oh, how pleasant!
+<PUSH>
+My children have come home
+to me!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Would you do your father a
+favor, and take out these
+pieces of garbage for me?
+<PUSH>
+Ho ho ho! Such good children!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+...King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Why don't you give us all of
+the Crimson that you've
+collected?
+<PUSH>
+It's not like you need it
+anymore.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+What are you trying to say,
+my dear boy?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+First, you lost Acid.
+Now Joker has been
+defeated...
+<PUSH>
+Dealer is done for...
+<PUSH>
+We'll take care of everything
+from here.
+Just the two of us.
+<PUSH>
+Does everything make sense,
+now?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}You would dare turn your
+back on the man who raised
+you?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Raised us!? How dare you
+presume to be our father!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I'll only say this once...
+<PUSH>
+We never have, and never
+will think of you as our
+father!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho...!
+<PUSH>
+Ho ho ho!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hoooooo!
+Ho ho ho ho ho!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What do you think is so
+funny!? Jerk...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+You truly are foolish little
+children!
+<PUSH>
+You came back here
+nonchalantly, with your
+noses pointed high...
+<PUSH>
+And now, you actually
+believe that they have me
+defeated!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Enough jabber! Spit it out!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Joker!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+J-Joker...!?
+<PUSH>
+What are you going to do?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+No way...
+<PUSH>
+I think he's going to
+self-destruct!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Self-destruct...!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+No way!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho!!
+<PUSH>
+That is correct, Ace!
+<PUSH>
+Joker will soon self-destruct...
+<PUSH>
+I always have a trump card
+up my sleeve!
+<PUSH>
+At least you'll be in the
+company of friends when
+you go down!!
+<PUSH>
+Ho ho ho ho ho!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Hah!
+<PUSH>
+What are you going to do,
+Acid Ace?
+<PUSH>
+Are you going to let
+everyone here be deleted?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Acid...
+<PUSH>
+Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ace...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Geo...
+<PUSH>
+I'm sorry, but there isn't
+enough time to explain.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A-Ace...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Hah!
+<PUSH>
+Hah hah hah!!
+<PUSH>
+That's it, Ace!
+<PUSH>
+Absorb all of the explosive
+energy that I am releasing!
+<PUSH>
+We will be deleted...
+<PUSH>
+But the lives of your
+friends may be saved!
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}I can't think of a better
+way to go!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hah...!
+<PUSH>
+That is truly{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} despicable.
+<PUSH>
+I am impressed by your
+determination, nonetheless.
+<PUSH>
+Goodbye, Acid Ace!
+<PUSH>
+Aaaaaargh...!
+Raaaaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}Whoaaaaaagh!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}Queen... Tia!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+A{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Ace...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Tia...
+<PUSH>
+The reason I left Dealer and
+acquired all this power...
+<PUSH>
+Was so that I could make my
+wish come true...
+<PUSH>
+My wish was that one day
+I could see you smile again.
+<PUSH>
+That you could be happy
+again.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You...
+You always were so selfish!
+<PUSH>
+I never asked that of you...
+<PUSH>
+All I wanted was for my own
+wish to come true!
+<PUSH>
+If you really wanted me to
+be happy, then you should
+<PUSH>
+have stayed in Dealer and
+worked together with us.
+<PUSH>
+I always believed that you
+would come back...
+<PUSH>
+I never stopped believing...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...I see.
+<PUSH>
+That might not have been
+so bad.
+<PUSH>
+Haha.{16}{E1} If I would have done
+that, we could have been
+together!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+But, we can't change the
+past now, can we?
+<PUSH>
+Hah. Regret doesn't make
+any difference at all!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Goodbye, Tia.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Don't forget to smile and
+eat lots of chocolate.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+W-Wait...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...I... lov... y...
+<PUSH>
+Tia...
+...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}!!
+<PUSH>
+Ace!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A{15}{E1}-Aaaaaace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ace{16}{E1}... Aciiid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ac...
+<PUSH>
+...!!
+<PUSH>
+...!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Very good, Joker!
+<PUSH>
+And you too, Ace!!
+<PUSH>
+You've granted me with
+more Crimson than I know
+what to do with!!
+<PUSH>
+You were always such an
+overly serious and foolish
+lad!
+<PUSH>
+How dare you leave my
+organization and then stand
+in opposition against me!
+<PUSH>
+Is that how you repay your
+father?
+<PUSH>
+I suppose your deletion is
+compensation enough for me...
+<PUSH>
+Ho... Ho ho ho ho ho!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

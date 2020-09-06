@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+Team Logo
+[END]
+
+[SENTENCE NUMBER 2]
+Luna4Prez
+[END]
+
+[SENTENCE NUMBER 3]
+Rocket
+[END]
+
+[SENTENCE NUMBER 4]
+Concert
+[END]
+
+[SENTENCE NUMBER 5]
+Trip
+[END]
+
+[SENTENCE NUMBER 6]
+Find Prez
+[END]
+
+[SENTENCE NUMBER 7]
+ACE
+[END]
+
+[SENTENCE NUMBER 8]
+CrushDealr
+[END]
+
+[SENTENCE NUMBER 9]
+Star Force
+[END]
+
+[SENTENCE NUMBER 10]
+Black Ace
+[END]
+
+[SENTENCE NUMBER 11]
+Red Joker
+[END]
+

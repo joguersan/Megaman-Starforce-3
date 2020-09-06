@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You'll be on the front page
+of the tabloids if you go out
+that way!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOnly authorized Hertzes
+are allowed past this point!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The filming's going to start
+without us if we don't hurry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

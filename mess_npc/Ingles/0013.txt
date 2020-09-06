@@ -1,0 +1,1972 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{02}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Lately, when the sun goes
+down haven't you been
+<PUSH>
+able to see that big red
+star in the sky?
+<PUSH>
+Everybody's so easy-going
+saying how pretty it
+looks, but not me.
+<PUSH>
+There's something really
+eerie about it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Hey, I'm the janitor here
+at Echo Ridge Elementary
+School.
+<PUSH>
+I got a call saying that the
+sprinkler system up here
+had gone out of control,
+<PUSH>
+but by the time I got here
+the viruses responsible for
+<PUSH>
+the incident had already
+been eliminated.
+<PUSH>
+Just to be safe though,
+I'm having my Wizard over
+here do a safety check.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{01}{00}{07}{00}{0E}{00}{09}{E1}{00}{00}{A5}{06}{A7}{06}{10}{00}{0A}{E1}{04}{02}
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{01}{00}{07}{00}{0F}{00}{09}{E1}{00}{00}{A5}{06}{A7}{06}{11}{00}{0A}{E1}{04}{02}
+[END]
+
+[SENTENCE NUMBER 15]
+{0A}{E1}{05}{02}
+[END]
+
+[SENTENCE NUMBER 16]
+{0A}{E1}{05}{02}
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Would you like to help
+us out!? That's great!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+The teacher in charge of
+Real Waves should be
+around school somewhere.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Last night that red star
+was bigger and redder
+than ever.
+<PUSH>
+How can it be so
+big yet they don't say
+anything on TV about it?
+<PUSH>
+It's a little scary...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Thanks to you and your
+team, Stey's birthday
+party was a huge success!
+<PUSH>
+Thank you team Luna 4
+Prez! And thank you, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Thank you so much Geo!
+<PUSH>
+Just know that I'll be
+voting for Luna Platz for
+student body president!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+The water stopped! Woody,
+I'm so glad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Are you OK, Woody!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+We will do everything
+that we can!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+We won't let the rocket
+blow up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+We will try to keep in
+contact with Magnes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I'll be waiting right
+here! Come back safely!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I believe in you, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+We think the problem
+might lie in the Rocket's
+Cyber Core!
+<PUSH>
+We have no choice but to
+go and look for Magnes
+inside the rocket's core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Something is pulling on
+me! I'm trying to get
+away, but I can't!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,*scream! Something
+is pulling on me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{08}{E1}{05}{00}{11}{00}5
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Hm? What about your
+class?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-A new student named Jack?
+Nope, never heard of him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+The fifth-graders have
+their school trip next
+month, don't they?
+<PUSH>
+I wish I were in fifth grade.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's almost time to go
+home.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Oh hello, I'm the janitor.
+<PUSH>
+I plan to fix up the flower
+bed while the students are
+away on their school trip.
+<PUSH>
+By the way, that's my
+Wizard taking care of the
+animals.
+<PUSH>
+Say, aren't you supposed
+to be on that school trip?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*At first it was the incident
+with the rocket, and then
+somebody goes missing.
+<PUSH>
+It just seems like so many
+incidents are happening
+around us...
+<PUSH>
+It makes me feel kind of
+uneasy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+{0C}{E1}{01}{00}{B5}{07}f{0C}{E1}{01}{00}{81}{00}e
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Damian>
+Grrrr... What do you want
+lad!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm...
+<PUSH>
+Huh!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Y-You're {5D}{E2},
+aren't you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Geo Stelar!
+And Omega-Xis!
+<PUSH>
+Hmm, grrrr...
+So you two attend Echo
+Ridge Elementary, do you?
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}It's been a long time,
+Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Wolf!?
+You're still here on this
+planet!?
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Grrrr... Well what can I say.
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Wolf likes Earth so much
+that he decided to stay here
+and help me with my work.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mr. Wolfe... Did you say that
+you were a gardener...?
+<PUSH>
+Oh I got it! So YOU must
+be the new gardener!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+That is correct!
+Today is my first day
+on the job!
+<PUSH>
+Cheers to you, lad!
+<PUSH>
+Grrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cheers back at you...
+Mr. Wolfe...
+<PUSH>
+Oh, yeah!
+I was told that you might
+need help with something...
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Oh that...
+<PUSH>
+That sprinkler over there
+isn't working, so I was
+<PUSH>
+thinking I should Wave Change
+and have a look inside.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(W-Wave Change...!)
+<PUSH>
+(If Mr. Wolfe merges with
+ Wolf and Wave Changes,
+ they become Wolf Woods.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(He might start hollering,
+ "My blood is boiling...
+ Try and cool me down"
+<PUSH>
+ and other such nonsense.
+ He may also try to
+ attack us.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+M-Mr. Wolfe!
+Wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll go.
+<PUSH>
+I'll trans into the sprinkler
+system's Cyber Core and
+find out the problem.
+<PUSH>
+Please, just wait here!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+B-But..
+It's no problem, really...
+It's my job, y'know.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll be back in two yanks of
+a wolf's tail!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Hey!
+<PUSH>
+{0A}{E1}{81}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Damian>
+Oi, of all the nerve...
+Why I oughta...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Damian>
+I see, so it was Noise
+that was the culprit.
+<PUSH>
+I suppose it would've
+only gotten worse.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Even so, I wonder how
+Noise could clump up
+into balls like that?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I wouldn't worry about it.
+They're easy enough to
+bust into pieces! So, the
+<PUSH>
+next time we see one,
+let's just smash it!
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Grrr! You would have
+an opinion like that,
+wouldn't you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmph!
+Back off!
+<PUSH>
+
+<NEW-DIALOG>
+<Damian>
+Anyway...
+Thank you lad!
+<PUSH>
+Now I can get back
+to work!
+<PUSH>
+I'll see you around!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+See you, Mr. Wolfe!
+(OK, problem solved!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey kid, haven't we made
+the rounds enough?
+<PUSH>
+Maybe we should head
+back to where Prez is at?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, you're right!
+We even talked to the
+teachers...
+<PUSH>
+Let's go back and
+debrief Prez!
+<PUSH>
+{0A}{E1}{82}{00}
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Damian>
+Geo.
+<PUSH>
+I think I'm finally getting
+used to this job.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Wolf! Feeling frisky?
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}Any time you want some.
+<PUSH>
+Shall we have a go?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Damian>
+Geo.
+You look busy, as always.
+<PUSH>
+
+<NEW-DIALOG>
+{AF}{00}How about it?
+Feeling up for a battle?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+I wonder who I should
+vote for?
+<PUSH>
+Just kidding, I already know
+know who I'm going to pick!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+That gardener is kind of
+old, isn't he?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+It looks like the
+election is about to
+start.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+...Soooo cooool!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Student body president...
+<PUSH>
+Maybe next year I should
+try to run for student
+body president.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.They say this year is
+going to be a tough race!
+Everybody is all fired up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+It's almost time. We have
+to root for Luna as hard
+as we can!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Now I'm starting to get
+excited, Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+This is almost like that
+rocket launch, Woody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}ho{BE}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Just as I thought, that
+thing in the sky is no
+ordinary star...
+<PUSH>
+It's scary.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I won't let anyone tell
+me that this is the end!
+<PUSH>
+For Ace's sake I won't
+give up hope!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+That's right Luna, we
+can't give up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Ace risked his life to
+teach us not to let
+anything go to waste,
+<PUSH>
+and to protect that which
+we hold dear no matter
+what!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+We are going to show King
+exactly what our power
+is!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Pedia and I are searching
+for King's location!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+We won't let Dealer get
+away with this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+That star is getting
+brighter... I wonder
+what's happening?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 211]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 212]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 213]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 214]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 215]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 216]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 217]
+
+<START-DIALOG>
+
+[END]
+

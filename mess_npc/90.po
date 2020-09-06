@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "0"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START][Cibernúcleo]\n"
+"Deciding what goes\n"
+"where...\n"
+"[NEW_DIALOG]\n"
+"Is my job!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+"{ec00}{0}\n"
+"[DIALOG_START][Cibernúcleo]\n"
+"¡Yo decido donde\n"
+"[NEW_DIALOG]\n"
+"va cada cosa!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+
+msgctxt "1"
+msgid ""
+"{ec00}{0}\n"
+"[DIALOG_START]{75}Hmm... Let me see...\n"
+"I'll put this over here!\n"
+"And I'll put that over there!\n"
+"[NEW_DIALOG]\n"
+"...Oops.\n"
+"Maybe that was wrong.\n"
+"[NEW_DIALOG]\n"
+"Meh, oh well!\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+msgstr ""
+"{ec00}{0}\n"
+"[DIALOG_START]{75}Mmm, a ver....\n"
+"¡Esto aquí!\n"
+"¡Y eso allí!\n"
+"[NEW_DIALOG]\n"
+"Vaya...\n"
+"Creo que he metido\n"
+"la pata.\n"
+"[NEW_DIALOG]\n"
+"Bueno, que le vamos\n"
+"a hacer.\n"
+"[NEW_DIALOG]\n"
+"{ec00}{1}"
+
+msgctxt "2"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "3"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "4"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "5"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "6"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "7"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "8"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "9"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "10"
+msgid "{e10a}5"
+msgstr "{e10a}5"
+
+msgctxt "11"
+msgid "{ec00}{1}"
+msgstr "{ec00}{1}"
+
+msgctxt "12"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "13"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "14"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "15"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "16"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "17"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "18"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "19"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "20"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "21"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "22"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "23"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "24"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "25"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "26"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "27"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "28"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "29"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "30"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "31"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "32"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "33"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "34"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "35"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "36"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "37"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "38"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "39"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "40"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "41"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "42"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "43"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "44"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "45"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "46"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "47"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "48"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "49"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "50"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "51"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "52"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "53"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "54"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "55"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "56"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "57"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "58"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "59"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "60"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "61"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "62"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "63"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "64"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "65"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "66"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "67"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "68"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "69"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "70"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "71"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "72"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "73"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "74"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "75"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "76"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "77"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "78"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "79"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "80"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "81"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "82"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "83"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "84"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "85"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "86"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "87"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "88"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"
+
+msgctxt "89"
+msgid "{ec00}{0}"
+msgstr "{ec00}{0}"

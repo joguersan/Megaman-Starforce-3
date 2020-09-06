@@ -1,0 +1,212 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Prez is late, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Even after I made sure
+that I was on time...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+The probability that Prez
+would be late was very
+low...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hee hee hee!
+Sorry I'm late, everyone!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You're in a good mood.
+What's up?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I told you yesterday that
+I had something that I
+wanted to show you.
+<PUSH>
+It finally arrived so I can
+show you now!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ah, I see now.
+That's why you were late.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+So what is it?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Take a look!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Vogue>
+Pleased to meet you!
+<PUSH>
+I'm Luna's Wizard, "Vogue"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You finally got a Wizard,
+eh Prez?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+She seems to really suit
+you!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+She's going to be very
+important to me, so I
+didn't mind waiting.
+<PUSH>
+And she turned out to be
+perfect for me!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Best friends forever!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+You're so lucky...
+Now I'm the only one who
+doesn't have a Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Well, now that everyone
+has met Vogue, let's get
+going to <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+What luck, there's actually
+a train coming right now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Huh?
+Hey, Prez...
+Are you wearing make-up?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Ack!)
+<PUSH>
+What are you talking about,
+Omega-Xis? I'm not wearing
+any make-up!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you sure you didn't
+dress up a bit for the
+TV show recording?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I said I'm not wearing any,
+so I'm not wearing any!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(She definitely is...)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(No doubt about it.)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}(I concur...)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(I saw her put it on...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

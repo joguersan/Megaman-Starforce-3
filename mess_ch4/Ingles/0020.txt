@@ -1,0 +1,78 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+W-What is this...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Some kind of crazy Noise...!?
+<PUSH>
+Ungh...!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Aa{15}{E1}ar{15}{E1}rr{15}{E1}g!
+<PUSH>
+What's going...{15}{E1} on!?
+I can't breathe...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Uuu{15}{E1}rrrg...!
+<PUSH>
+It's got to be an effect of
+all the Noise!
+<PUSH>
+It feels like the program
+isn't working!
+<PUSH>
+We've got to get out of
+here quick, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+*huff, puff*
+<PUSH>
+{13}{EC}(My body is
+{13}{EC} going numb...!)
+<PUSH>
+I-I got it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+Ungh...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

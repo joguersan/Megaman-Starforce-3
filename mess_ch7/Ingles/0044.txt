@@ -1,0 +1,130 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+A{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}gh!!
+<PUSH>
+This can't be!!
+<PUSH>
+N{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}o{13}{E1}.{13}{E1}.{13}{E1}.!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+*huff*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} *huff*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why is big ugly still here?
+We beat King, didn't we?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It might be drawing energy
+from Dad{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+What should we do{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Roooaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I-It's out of control!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ungh{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The Noise is so strong{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We have to fight{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+We can't lose{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Not after all this{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+I want to{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Go home with{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Da{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}d{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Geo!!
+<PUSH>
+Geooo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

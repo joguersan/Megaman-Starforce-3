@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Nice...
+I was hoping you would make
+it this far... Mega Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+The name's Jack Corvus...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ohohoho...
+Finally, our chance to really
+fight has come, Omega-Xis.
+<PUSH>
+I'm going to destroy you!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Actually, you're the one
+that's going D-O-W-N!
+<PUSH>
+Don't mistake me for who I
+was so long ago, Corvus!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+You will not stop our wish
+from coming true.
+<PUSH>
+Your time in this existence
+ends now.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm fighting to protect the
+people that I love, and all
+the people of Earth!
+<PUSH>
+Your wish will remain only
+a pathetic pipe dream!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+If you think you're that
+tough, then bring it!!
+<PUSH>
+This is the end for the
+"Hero of Justice"!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Meteor G is next after I'm
+done with you!!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

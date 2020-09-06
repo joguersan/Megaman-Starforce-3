@@ -1,0 +1,98 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+We can relax now that
+we've come this far.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Um, some kind of voice
+came from my <Hunter> when
+I EM Wave Changed...
+<PUSH>
+I think it said, "Transcode",
+and then, "004".
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, I had the same thing
+happen earlier. I'm "003".
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+I'm not really sure, but it
+looks like we were
+<PUSH>
+registered with the Satella
+Police.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't worry about it.
+<PUSH>
+Let's move.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo... I mean, Mega Man.
+What should we do now?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's take this Wave Road
+to the Roof of the school.
+It'll be safe there.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+OK, sounds good.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We shouldn't go back down
+for a little while...
+<PUSH>
+Come on, Harp Note!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+OK!
+Let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Boy, she's still as perky
+as ever.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We better get going, too.
+Come on, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

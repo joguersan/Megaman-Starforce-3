@@ -1,0 +1,804 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "anal"
+msgstr ""
+
+msgctxt "1"
+msgid "arseholes"
+msgstr ""
+
+msgctxt "2"
+msgid "arsehole"
+msgstr ""
+
+msgctxt "3"
+msgid "arses"
+msgstr ""
+
+msgctxt "4"
+msgid "arse"
+msgstr ""
+
+msgctxt "5"
+msgid "assholes"
+msgstr ""
+
+msgctxt "6"
+msgid "asshole"
+msgstr ""
+
+msgctxt "7"
+msgid "asses"
+msgstr ""
+
+msgctxt "8"
+msgid "ass"
+msgstr ""
+
+msgctxt "9"
+msgid "bastards"
+msgstr ""
+
+msgctxt "10"
+msgid "bastard"
+msgstr ""
+
+msgctxt "11"
+msgid "bitchass"
+msgstr ""
+
+msgctxt "12"
+msgid "bitches"
+msgstr ""
+
+msgctxt "13"
+msgid "bitch"
+msgstr ""
+
+msgctxt "14"
+msgid "blowjobs"
+msgstr ""
+
+msgctxt "15"
+msgid "blowjob"
+msgstr ""
+
+msgctxt "16"
+msgid "boobs"
+msgstr ""
+
+msgctxt "17"
+msgid "bullshit"
+msgstr ""
+
+msgctxt "18"
+msgid "buttfuck"
+msgstr ""
+
+msgctxt "19"
+msgid "buttsex"
+msgstr ""
+
+msgctxt "20"
+msgid "clitoris"
+msgstr ""
+
+msgctxt "21"
+msgid "clits"
+msgstr ""
+
+msgctxt "22"
+msgid "clit"
+msgstr ""
+
+msgctxt "23"
+msgid "cocks"
+msgstr ""
+
+msgctxt "24"
+msgid "cockteaser"
+msgstr ""
+
+msgctxt "25"
+msgid "cock"
+msgstr ""
+
+msgctxt "26"
+msgid "coksucker"
+msgstr ""
+
+msgctxt "27"
+msgid "cokteaser"
+msgstr ""
+
+msgctxt "28"
+msgid "coks"
+msgstr ""
+
+msgctxt "29"
+msgid "cono"
+msgstr ""
+
+msgctxt "30"
+msgid "coon"
+msgstr ""
+
+msgctxt "31"
+msgid "crappy"
+msgstr ""
+
+msgctxt "32"
+msgid "crap"
+msgstr ""
+
+msgctxt "33"
+msgid "cumshot"
+msgstr ""
+
+msgctxt "34"
+msgid "cumm"
+msgstr ""
+
+msgctxt "35"
+msgid "cum"
+msgstr ""
+
+msgctxt "36"
+msgid "cuntlicker"
+msgstr ""
+
+msgctxt "37"
+msgid "cunts"
+msgstr ""
+
+msgctxt "38"
+msgid "cunt"
+msgstr ""
+
+msgctxt "39"
+msgid "damn"
+msgstr ""
+
+msgctxt "40"
+msgid "dickhead"
+msgstr ""
+
+msgctxt "41"
+msgid "dickwad"
+msgstr ""
+
+msgctxt "42"
+msgid "dicks"
+msgstr ""
+
+msgctxt "43"
+msgid "dick"
+msgstr ""
+
+msgctxt "44"
+msgid "dike"
+msgstr ""
+
+msgctxt "45"
+msgid "dipshit"
+msgstr ""
+
+msgctxt "46"
+msgid "dumb"
+msgstr ""
+
+msgctxt "47"
+msgid "dumbass"
+msgstr ""
+
+msgctxt "48"
+msgid "erection"
+msgstr ""
+
+msgctxt "49"
+msgid "fagots"
+msgstr ""
+
+msgctxt "50"
+msgid "fagot"
+msgstr ""
+
+msgctxt "51"
+msgid "fags"
+msgstr ""
+
+msgctxt "52"
+msgid "fag"
+msgstr ""
+
+msgctxt "53"
+msgid "fisting"
+msgstr ""
+
+msgctxt "54"
+msgid "fuckface"
+msgstr ""
+
+msgctxt "55"
+msgid "fuckling"
+msgstr ""
+
+msgctxt "56"
+msgid "fucking"
+msgstr ""
+
+msgctxt "57"
+msgid "fuckin"
+msgstr ""
+
+msgctxt "58"
+msgid "fuckyou"
+msgstr ""
+
+msgctxt "59"
+msgid "fuckoff"
+msgstr ""
+
+msgctxt "60"
+msgid "fuckme"
+msgstr ""
+
+msgctxt "61"
+msgid "fuckers"
+msgstr ""
+
+msgctxt "62"
+msgid "fucker"
+msgstr ""
+
+msgctxt "63"
+msgid "fucked"
+msgstr ""
+
+msgctxt "64"
+msgid "fucks"
+msgstr ""
+
+msgctxt "65"
+msgid "fuck"
+msgstr ""
+
+msgctxt "66"
+msgid "horney"
+msgstr ""
+
+msgctxt "67"
+msgid "homo"
+msgstr ""
+
+msgctxt "68"
+msgid "jackass"
+msgstr ""
+
+msgctxt "69"
+msgid "jerkoff"
+msgstr ""
+
+msgctxt "70"
+msgid "marijuana"
+msgstr ""
+
+msgctxt "71"
+msgid "masturbat"
+msgstr ""
+
+msgctxt "72"
+msgid "naked"
+msgstr ""
+
+msgctxt "73"
+msgid "nigger"
+msgstr ""
+
+msgctxt "74"
+msgid "penis"
+msgstr ""
+
+msgctxt "75"
+msgid "pissed"
+msgstr ""
+
+msgctxt "76"
+msgid "piss"
+msgstr ""
+
+msgctxt "77"
+msgid "prick"
+msgstr ""
+
+msgctxt "78"
+msgid "pussys"
+msgstr ""
+
+msgctxt "79"
+msgid "pussy"
+msgstr ""
+
+msgctxt "80"
+msgid "rape"
+msgstr ""
+
+msgctxt "81"
+msgid "raping"
+msgstr ""
+
+msgctxt "82"
+msgid "sexy"
+msgstr ""
+
+msgctxt "83"
+msgid "sex"
+msgstr ""
+
+msgctxt "84"
+msgid "shithead"
+msgstr ""
+
+msgctxt "85"
+msgid "shitty"
+msgstr ""
+
+msgctxt "86"
+msgid "shit"
+msgstr ""
+
+msgctxt "87"
+msgid "sluts"
+msgstr ""
+
+msgctxt "88"
+msgid "slut"
+msgstr ""
+
+msgctxt "89"
+msgid "sperm"
+msgstr ""
+
+msgctxt "90"
+msgid "tits"
+msgstr ""
+
+msgctxt "91"
+msgid "vagina"
+msgstr ""
+
+msgctxt "92"
+msgid "whores"
+msgstr ""
+
+msgctxt "93"
+msgid "whore"
+msgstr ""
+
+msgctxt "94"
+msgid "capcom"
+msgstr ""
+
+msgctxt "95"
+msgid "usersupport"
+msgstr ""
+
+msgctxt "96"
+msgid "supportcenter"
+msgstr ""
+
+msgctxt "97"
+msgid "supportstaff"
+msgstr ""
+
+msgctxt "98"
+msgid "admin"
+msgstr ""
+
+msgctxt "99"
+msgid "ANAL"
+msgstr ""
+
+msgctxt "100"
+msgid "ARSEHOLES"
+msgstr ""
+
+msgctxt "101"
+msgid "ARSEHOLE"
+msgstr ""
+
+msgctxt "102"
+msgid "ARSES"
+msgstr ""
+
+msgctxt "103"
+msgid "ARSE"
+msgstr ""
+
+msgctxt "104"
+msgid "ASSHOLES"
+msgstr ""
+
+msgctxt "105"
+msgid "ASSHOLE"
+msgstr ""
+
+msgctxt "106"
+msgid "ASSES"
+msgstr ""
+
+msgctxt "107"
+msgid "ASS"
+msgstr ""
+
+msgctxt "108"
+msgid "BASTARDS"
+msgstr ""
+
+msgctxt "109"
+msgid "BASTARD"
+msgstr ""
+
+msgctxt "110"
+msgid "BITCHASS"
+msgstr ""
+
+msgctxt "111"
+msgid "BITCHES"
+msgstr ""
+
+msgctxt "112"
+msgid "BITCH"
+msgstr ""
+
+msgctxt "113"
+msgid "BLOWJOBS"
+msgstr ""
+
+msgctxt "114"
+msgid "BLOWJOB"
+msgstr ""
+
+msgctxt "115"
+msgid "BOOBS"
+msgstr ""
+
+msgctxt "116"
+msgid "BULLSHIT"
+msgstr ""
+
+msgctxt "117"
+msgid "BUTTFUCK"
+msgstr ""
+
+msgctxt "118"
+msgid "BUTTSEX"
+msgstr ""
+
+msgctxt "119"
+msgid "CLITORIS"
+msgstr ""
+
+msgctxt "120"
+msgid "CLITS"
+msgstr ""
+
+msgctxt "121"
+msgid "CLIT"
+msgstr ""
+
+msgctxt "122"
+msgid "COCKS"
+msgstr ""
+
+msgctxt "123"
+msgid "COCKTEASER"
+msgstr ""
+
+msgctxt "124"
+msgid "COCK"
+msgstr ""
+
+msgctxt "125"
+msgid "COKSUCKERS"
+msgstr ""
+
+msgctxt "126"
+msgid "COKTEASER"
+msgstr ""
+
+msgctxt "127"
+msgid "COKS"
+msgstr ""
+
+msgctxt "128"
+msgid "CONO"
+msgstr ""
+
+msgctxt "129"
+msgid "COON"
+msgstr ""
+
+msgctxt "130"
+msgid "CRAPPY"
+msgstr ""
+
+msgctxt "131"
+msgid "CRAP"
+msgstr ""
+
+msgctxt "132"
+msgid "CUMSHOT"
+msgstr ""
+
+msgctxt "133"
+msgid "CUMM"
+msgstr ""
+
+msgctxt "134"
+msgid "CUM"
+msgstr ""
+
+msgctxt "135"
+msgid "CUNTLICKER"
+msgstr ""
+
+msgctxt "136"
+msgid "CUNTS"
+msgstr ""
+
+msgctxt "137"
+msgid "CUNT"
+msgstr ""
+
+msgctxt "138"
+msgid "DAMN"
+msgstr ""
+
+msgctxt "139"
+msgid "DICKHEAD"
+msgstr ""
+
+msgctxt "140"
+msgid "DICKWAD"
+msgstr ""
+
+msgctxt "141"
+msgid "DICKS"
+msgstr ""
+
+msgctxt "142"
+msgid "DICK"
+msgstr ""
+
+msgctxt "143"
+msgid "DIKE"
+msgstr ""
+
+msgctxt "144"
+msgid "DIPSHIT"
+msgstr ""
+
+msgctxt "145"
+msgid "DUMB"
+msgstr ""
+
+msgctxt "146"
+msgid "DUMBASS"
+msgstr ""
+
+msgctxt "147"
+msgid "ERECTION"
+msgstr ""
+
+msgctxt "148"
+msgid "FAGOTS"
+msgstr ""
+
+msgctxt "149"
+msgid "FAGOT"
+msgstr ""
+
+msgctxt "150"
+msgid "FAGS"
+msgstr ""
+
+msgctxt "151"
+msgid "FAG"
+msgstr ""
+
+msgctxt "152"
+msgid "FISTING"
+msgstr ""
+
+msgctxt "153"
+msgid "FUCKFACE"
+msgstr ""
+
+msgctxt "154"
+msgid "FUCKLING"
+msgstr ""
+
+msgctxt "155"
+msgid "FUCKING"
+msgstr ""
+
+msgctxt "156"
+msgid "FUCKIN"
+msgstr ""
+
+msgctxt "157"
+msgid "FUCKYOU"
+msgstr ""
+
+msgctxt "158"
+msgid "FUCKOFF"
+msgstr ""
+
+msgctxt "159"
+msgid "FUCKME"
+msgstr ""
+
+msgctxt "160"
+msgid "FUCKERS"
+msgstr ""
+
+msgctxt "161"
+msgid "FUCKER"
+msgstr ""
+
+msgctxt "162"
+msgid "FUCKED"
+msgstr ""
+
+msgctxt "163"
+msgid "FUCKS"
+msgstr ""
+
+msgctxt "164"
+msgid "FUCK"
+msgstr ""
+
+msgctxt "165"
+msgid "HORNEY"
+msgstr ""
+
+msgctxt "166"
+msgid "HOMO"
+msgstr ""
+
+msgctxt "167"
+msgid "JACKASS"
+msgstr ""
+
+msgctxt "168"
+msgid "JERKOFF"
+msgstr ""
+
+msgctxt "169"
+msgid "MARIJUANA"
+msgstr ""
+
+msgctxt "170"
+msgid "MASTURBAT"
+msgstr ""
+
+msgctxt "171"
+msgid "NAKED"
+msgstr ""
+
+msgctxt "172"
+msgid "NIGGER"
+msgstr ""
+
+msgctxt "173"
+msgid "PENIS"
+msgstr ""
+
+msgctxt "174"
+msgid "PISSED"
+msgstr ""
+
+msgctxt "175"
+msgid "PISS"
+msgstr ""
+
+msgctxt "176"
+msgid "PRICK"
+msgstr ""
+
+msgctxt "177"
+msgid "PUSSYS"
+msgstr ""
+
+msgctxt "178"
+msgid "PUSSY"
+msgstr ""
+
+msgctxt "179"
+msgid "RAPE"
+msgstr ""
+
+msgctxt "180"
+msgid "RAPING"
+msgstr ""
+
+msgctxt "181"
+msgid "SEXY"
+msgstr ""
+
+msgctxt "182"
+msgid "SEX"
+msgstr ""
+
+msgctxt "183"
+msgid "SHITHEAD"
+msgstr ""
+
+msgctxt "184"
+msgid "SHITTY"
+msgstr ""
+
+msgctxt "185"
+msgid "SHIT"
+msgstr ""
+
+msgctxt "186"
+msgid "SLUTS"
+msgstr ""
+
+msgctxt "187"
+msgid "SLUT"
+msgstr ""
+
+msgctxt "188"
+msgid "SPERM"
+msgstr ""
+
+msgctxt "189"
+msgid "TITS"
+msgstr ""
+
+msgctxt "190"
+msgid "VAGINA"
+msgstr ""
+
+msgctxt "191"
+msgid "WHORES"
+msgstr ""
+
+msgctxt "192"
+msgid "WHORE"
+msgstr ""
+
+msgctxt "193"
+msgid "CAPCOM"
+msgstr ""
+
+msgctxt "194"
+msgid "USERSUPPORT"
+msgstr ""
+
+msgctxt "195"
+msgid "SUPPORTCENTER"
+msgstr ""
+
+msgctxt "196"
+msgid "SUPPORTSTAFF"
+msgstr ""
+
+msgctxt "197"
+msgid "ADMIN"
+msgstr ""

@@ -1,0 +1,135 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+También Ace, ¿eh?
+Pero tú no eres el
+Ace que conozco.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Soy Acid Ace R.
+<PUSH>
+Sirio me creó y me obsequió
+con una cantidad casi
+<PUSH>
+infinita de poder dentro
+de este servidor.
+<PUSH>
+Debes de ser un guerrero
+notable para haber derrotado
+a los demás «R».
+<PUSH>
+¡Pero con nosotros
+será diferente!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿«Nosotros»?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No puede ser...
+¡¿Él también está aquí?!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ya lo creo que sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dread.Joker>
+¡Soy Dread Joker R!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Interesante...
+<PUSH>
+O sea, que hasta siendo «R»,
+venís en parejita, ¿eh?
+<PUSH>
+¿Pero dónde ha quedado esa
+rivalidad fraternal que
+tanto nos gusta?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Sería una ridiculez ponernos
+a luchar entre nosotros...
+<PUSH>
+Nuestro poder es mayor
+si estamos unidos.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Bien dicho.
+<PUSH>
+¡Tenemos que proteger el
+camino que lleva
+hasta Sirio!
+<PUSH>
+¡Somos la caña!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ay...
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Yo haré los honores.
+Si no te importa, Acid Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+No sufras, Joki.
+Yo me quedo mirando
+desde la grada.
+<PUSH>
+Estoy aquí mismo, por si
+las cosas se ponen feas.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tenemos que enfrentarnos
+a estos dos pringados
+a la vez...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Menudo combate nos
+espera...
+<PUSH>
+¡Pero no nos queda otra!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

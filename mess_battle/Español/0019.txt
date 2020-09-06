@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Rogue
+Ataques Espada no aten.:
+ataque +50
+<PUSH>
+Una vez por turno, bloquea
+ataques con la Barrera Mu
+<PUSH>
+Puede destruir el punto de
+mira del enemigo incluso
+estando fijado
+<PUSH>
+Cartas no elem. y no aten.
+infligen parálisis
+<PUSH>
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Rogue Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{CA}{10}
+[END]
+

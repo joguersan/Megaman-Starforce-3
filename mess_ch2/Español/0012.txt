@@ -1,0 +1,205 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Hemos llegado
+al <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Yo he visto este camino
+arbolado en la tele!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Viene alguien.
+<PUSH>
+Creo que me suena...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Es Jack!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué hace él aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Pasaba por aquí y
+os he visto.
+<PUSH>
+Y he pensado en
+apuntarme... Je, je.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vaya! Y yo que pensaba
+que eras un imbécil.
+Resulta que eres majo.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Agh...)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jack, puedes salir con
+nosotros en la tele,
+si quieres!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Salir?
+<PUSH>
+¿Salir dónde?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vamos a hacer de extras
+en un programa de la tele!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Conoces a Sonia Strumm,
+la estrella de la música?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pues es nuestra amiga.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Y hoy va a grabar un
+programa y dar un
+concierto!
+<PUSH>
+¡Ven con nosotros, Jack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(¿Un programa y un
+concierto? Cómo odio
+esas cosas...)
+<PUSH>
+{13}{EC}(¡¡Tia, me las vas
+a pagar por esto!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿A qué viene tanto
+refunfuño?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Oh! N-Nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pues vamos!
+<PUSH>
+¡Es hora de hacer
+nuestros sueños realidad!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Como si este fuera
+mi sueño...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Menos quejas y
+mueve el culo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Al final parece que se
+han caído bien.
+¿Crees que durará?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bueno, hace no tanto,
+vosotros estabáis igual.
+Démosle una oportunidad.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tienes razón.
+Vamos al estudio con
+los demás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

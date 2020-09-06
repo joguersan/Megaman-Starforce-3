@@ -1,0 +1,605 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We're safe now.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thanks a lot, Geo.
+<PUSH>
+And I'm sorry for all the
+trouble.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Don't worry about it.
+It's what friends are for.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+So this is the Roof of
+the school, huh?
+<PUSH>
+It's really nice up here
+with the breeze and the
+view.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's the most popular place
+at Echo Ridge Elementary.
+<PUSH>
+Give me a second to call
+Prez and the others.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I'm so glad to see
+you again, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I watch your TV show,
+"Song of Dreams", every
+week!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thanks, guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+So what happened that
+forced you to take shelter
+on the Roof?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, I was looking for
+Jack, but I couldn't find
+him.
+<PUSH>
+Then I bumped into Sonia.
+<PUSH>
+After we talked for a bit,
+a fan noticed her.
+<PUSH>
+So we had to EM Wave
+Change and use the Wave
+Road to get away.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Oh yeah, Sonia can EM
+Wave Change just like Geo.
+<PUSH>
+You become Harp Note,
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'm so jealous!
+I wish I could EM Wave
+Change with Pedia!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Sorry, Zack.
+I am not equipped with
+that function.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+So why did you come to
+Echo Ridge, today, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Oh, well, I really wanted to
+see everyone since it's
+been awhile.
+<PUSH>
+I also wanted to ask if
+everyone wanted to appear
+in my TV show tomorrow.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Be on TV!?
+Us!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Well, only as extras.
+As long as it's cool with
+everyone...
+<PUSH>
+But don't worry! I'm going
+to make sure the director
+gets you clearly on screen.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+A chance to appear on a
+TV show...
+It's a dream come true...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+They got free catering at
+TV recordings! Booyah! I'm
+totally in!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Is that all you really care
+about, Bud?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+So it's decided then...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Of course!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Since she went to all the
+trouble to invite us...
+<PUSH>
+We should go to make her
+happy, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yey!
+<PUSH>
+Oh yeah! I'm also doing a
+concert at the studio,
+after the recording!
+<PUSH>
+You're welcome to come to
+that as well!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sweet! I haven't heard you
+live in a while.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, I've been busy with
+other things. But singing is
+my true passion!
+<PUSH>
+I'm really excited to get
+up on stage again!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Where exactly is the TV
+show recording and the
+concert taking place?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+At <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, I know that studio!
+<PUSH>
+It's a new studio where
+humans and Wizards work
+<PUSH>
+together to make TV
+shows!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That's right!
+Even the director of my
+show is a Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+So cool...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+So is it really OK?
+I mean, the studio is
+kind of far away.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Not a problem!
+For you we'd do just
+about anything!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Would you go that far for
+me, Bud?
+<PUSH>
+Maybe if you got a pizza
+as a reward or something...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Of course I would!
+Even with no pizza!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+...Ah.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What's up?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I just received a pop-up.
+<PUSH>
+I have to get back for a
+meeting about the TV show
+and concert. Gotta run!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What!?
+But you just got here!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah, I know...
+<PUSH>
+Should I pretend I didn't
+see it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I don't think that's a good
+idea, Sonia!
+<PUSH>
+The TV show recording and
+the concert are tomorrow,
+right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+*giggle*
+I was just joking, silly.
+<PUSH>
+I could never skip out on
+my work and my passion!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+But I did really want to
+hang out with everyone.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Don't worry. We'll all see
+each other tomorrow!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I guess you're right.
+Then I'll see you all
+tomorrow at <Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I can't wait!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Take it easy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, Sonia!
+You shouldn't go that way!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Why not?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The entire school would
+get thrown into a panic.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ah, good point.
+I'll EM Wave Change and
+go back that way, then.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+She seems to forget just
+how big of a star she
+actually is...
+<PUSH>
+I suppose that's not a
+bad trait to have.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So how are we going to
+get to <Studi.WBG>?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Let's meet at the Wave
+Liner Wicket like we did when
+we went to <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We're going to appear in a
+TV show and get to see
+a concert! How awesome!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yeah, it'll be fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I have something I want
+to show to everyone, but
+I'll save it for tomorrow!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really? What is it?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hehehe.
+You'll find out tomorrow!
+<PUSH>
+And don't you dare be
+late, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Understood!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Then that's all for today!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Time to go home, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez, finally...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+<Studi.WBG>...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

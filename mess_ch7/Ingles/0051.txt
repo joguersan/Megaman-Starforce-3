@@ -1,0 +1,287 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo!!
+Geo, please respond!!
+<PUSH>
+...Darn it!!
+It's not getting through!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Even though Meteor G is
+gone...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Come on, Geo...
+<PUSH>
+You promised me that you
+would come back...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Isn't there something that
+we can do, Mr. Boreal!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Mr. Boreal!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+For cryin' out loud!!
+<PUSH>
+Isn't there someone that
+can help him!?
+<PUSH>
+I'll do anything if someone
+rescues him!!
+<PUSH>
+I'll stop eating, I'll study,
+whatever it takes...
+<PUSH>
+So please...
+<PUSH>
+Somebody please help him!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{01}{00}{16}{EC}{10}{E2}{73}{04}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*static*
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+What's that noise?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+It's from my <Hunter>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Actually, everyone's <Hunter>
+has received a message.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+It's not just us.
+<PUSH>
+Every person in the whole
+world has received a direct
+transmission to their <Hunter>.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What's going on?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{16}{EC}{10}{E2}{73}{04}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*static*{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}People of Earth{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}Can you read me{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+T-That voice...
+Could it be{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Meteor G was destroyed...
+<PUSH>
+By a young boy...
+<PUSH>
+Who wanted to protect the
+people that he loved...
+<PUSH>
+He always believed in us,
+and he never gave up...
+He... saved us all...
+<PUSH>
+However...
+Right now, that young boy is
+alone and lost in space...
+<PUSH>
+That boy is{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+My son, and he means more
+to me than anything...
+I want to{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Bring him back to all of his
+friends{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Back to his mother...
+Geo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin!!
+<PUSH>
+I-I can't believe it!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Hope...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Geo fought all by himself,
+risking his life in order to
+<PUSH>
+give us a chance to live
+our own lives to the fullest.
+<PUSH>
+I need{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} you all{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+To pray, wish, or picture in
+your minds that Geo will
+make it home.
+<PUSH>
+As a fellow human being...
+<PUSH>
+As a father...
+<PUSH>
+I'm begging you all{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+Please{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+{16}{EC}{10}{E2}{79}{04}
+<NEW-DIALOG>
+<Game>
+*static*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+The transmission was cut{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+.{15}{E1}.{15}{E1}.{15}{E1}Kelvin is right.
+We can't give up on Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You heard the man, people!
+<PUSH>
+We're going to do everything
+that we can to bring Geo
+back to Earth!!
+<PUSH>
+
+<NEW-DIALOG>
+4All WAZA staff and
+Satella Police officers!!
+<PUSH>
+You are to do everything
+in your power to rescue
+Geo Stelar from space!!
+<PUSH>
+I want ideas and strategies!
+Immediately!!
+<PUSH>
+There is only one condition
+to my orders!!
+<PUSH>
+Never give up!!
+<PUSH>
+Now get to work!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,69 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Fantastic...
+<PUSH>
+We can finally get into
+Dealer's base.
+<PUSH>
+We have no idea what kind
+of traps await us in there.
+<PUSH>
+So don't let your guard down
+for even a second!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Move out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+So you've come...
+<PUSH>
+At long last...
+<PUSH>
+Hah hah{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Hah hah hah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+[END]
+

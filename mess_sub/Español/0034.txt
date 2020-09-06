@@ -1,0 +1,439 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Your Nintendo Wi-Fi
+Connection User Information
+may have been erased.
+<PUSH>
+Check your connection
+settings. For help, visit
+support.nintendo.com.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Connect to Nintendo Wi-Fi
+Connection?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Nintendo Wi-Fi Connection
+treats your Nintendo DS
+Game Card and Nintendo DS
+<PUSH>
+as a set. Save this Nintendo
+DS system's Nintendo Wi-Fi
+Connection User Information
+<PUSH>
+to this Game Card and
+connect to Nintendo Wi-Fi
+Connection?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Nintendo Wi-Fi Connection
+User Information for this
+<PUSH>
+Nintendo DS has been saved
+to the Game Card.
+<PUSH>
+From now on, please use
+this Nintendo DS to connect
+to Nintendo Wi-Fi Connection.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Unable to connect to
+Nintendo Wi-Fi Connection
+<PUSH>
+because the Nintendo Wi-Fi
+Connection User Information
+<PUSH>
+from the Nintendo DS and
+the Game Card do not match.
+<PUSH>
+{06}{E1}{05}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Update Nintendo Wi-Fi
+Connection User Information
+saved on the Game Card?
+<PUSH>
+When you update your
+Nintendo Wi-Fi Connection
+User Information, you will
+<PUSH>
+lose all data that was used
+to connect to Nintendo
+Wi-Fi Connection.
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Do you still
+want to update?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Connecting to
+Nintendo Wi-Fi Connection...
+Please wait a moment...
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You cannot
+access Nintendo
+Wi-Fi Connection
+<PUSH>
+using this Codename.
+Please change your
+Codename and try again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+OK to disconnect from
+Nintendo Wi-Fi Connection?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Disconnecting from
+Nintendo Wi-Fi Connection.
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You have been
+disconnected from
+Nintendo Wi-Fi Connection.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+When Nintendo Wi-Fi
+Connection User Information
+from the Nintendo DS
+<PUSH>
+and the Game Card do
+not match,
+<PUSH>
+Real Brothers, Battle Mates,
+and Friends who are READY
+will be deleted.
+<PUSH>
+To become Brothers or
+Battle Mates again,
+<PUSH>
+Brother or Battle Mate
+registration will have to be
+performed again.
+<PUSH>
+Or, re-enter friend codes
+and re-connect to
+Nintendo Wi-Fi Connection.
+<PUSH>
+But be aware that you
+will be issued a new
+friend code.
+<PUSH>
+{06}{E1}{06}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Unable to connect to
+Nintendo Wi-Fi Connection.
+For help, check the software
+<PUSH>
+Instruction Booklet, or visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Either Nintendo Wi-Fi
+Connection is experiencing
+high traffic volumes or the
+<PUSH>
+service is down.
+Please try again later.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+This Nintendo Wi-Fi
+Connection ID
+<PUSH>
+was removed because it
+was inactive for a
+<PUSH>
+long time. For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Nintendo Wi-Fi Connection
+service for this software
+has been discontinued.
+<PUSH>
+Visit support.nintendo.com
+<PUSH>
+for a list of current
+Nintendo Wi-Fi Connection-
+compatible software.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+The access point is busy.
+You cannot connect.
+Try again later.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+No access point in
+range.
+<PUSH>
+Please try again when closer
+to an access point.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+No compatible access
+point in range.
+Check your connection
+<PUSH>
+settings and try again.
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Unable to connect to the
+Nintendo Wi-Fi USB Connector.
+<PUSH>
+Confirm connection settings
+in the Nintendo Wi-Fi
+Connection setup.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Unable to connect to
+Nintendo Wi-Fi Connection.
+<PUSH>
+Confirm connection settings
+and access point settings.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+There is no response.
+Either the player is not
+connected to
+<PUSH>
+Nintendo Wi-Fi
+Connection or you have
+<PUSH>
+been removed from the
+player's friend roster.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Communication error. You
+have been disconnected from
+Nintendo Wi-Fi Connection.
+<PUSH>
+For help, visit
+support.nintendo.com.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Communication error.
+Connection has been lost
+with the other player.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Could not access the data.
+Turn off the power and
+reinsert the Game Card.
+[END]
+
+[SENTENCE NUMBER 27]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Nintendo Wi-Fi Connection
+cannot be used because
+an error has occurred.
+<PUSH>
+Turn off the power
+and try again.
+<PUSH>
+{08}{FF}error code {21}{E1}{05}{00}{09}{FF}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<END-DIALOG>
+
+[END]
+

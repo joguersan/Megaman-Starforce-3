@@ -1,0 +1,157 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Then...
+<PUSH>
+The next school day after
+Jack's attack on the school...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(It looks like the
+{13}{EC} school is back to normal...)
+<PUSH>
+{13}{EC}(Jack and Ms. Tia{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} they're both gone...)
+<PUSH>
+{13}{EC}(Why did it have
+{13}{EC} to be like this?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Are you still all upset about
+them!?
+<PUSH>
+Act like a man!
+<PUSH>
+The fight with Dealer has
+only just begun!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Y-Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We're going to kick those
+Joker and King guys' butts!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Raaaooor!
+<PUSH>
+I can't wait to tear those
+two to pieces!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+You need to chill, Mega!
+<PUSH>
+The only thing you think
+about lately is fighting!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grr! Humans are always
+over thinking things!
+<PUSH>
+And that always puts you
+into dangerous situations!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...!!
+<PUSH>
+T{15}{E1}-That...
+That{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} could be true...
+<PUSH>
+B-But, I...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geeeo!
+Your friends are here!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+OK!!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Let's just
+{13}{EC} get to school...)
+<PUSH>
+{13}{EC}(I don't know if
+{13}{EC} something is going
+{13}{EC} to happen, but...)
+<PUSH>
+{13}{EC}(But no
+{13}{EC} matter what, I'll...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

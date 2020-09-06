@@ -1,0 +1,88 @@
+[SENTENCE NUMBER 1]
+PntdFang
+[END]
+
+[SENTENCE NUMBER 2]
+StarHoop
+[END]
+
+[SENTENCE NUMBER 3]
+ShadowClaw
+[END]
+
+[SENTENCE NUMBER 4]
+Quick Ring
+[END]
+
+[SENTENCE NUMBER 5]
+AquaFang
+[END]
+
+[SENTENCE NUMBER 6]
+StormHoop
+[END]
+
+[SENTENCE NUMBER 7]
+ParlyzWing
+[END]
+
+[SENTENCE NUMBER 8]
+R-F Claw
+[END]
+
+[SENTENCE NUMBER 9]
+ZennyFindr
+[END]
+
+[SENTENCE NUMBER 10]
+TitnGlve
+[END]
+
+[SENTENCE NUMBER 11]
+FlashBand
+[END]
+
+[SENTENCE NUMBER 12]
+K.Knckle
+[END]
+
+[SENTENCE NUMBER 13]
+VirusClaw
+[END]
+
+[SENTENCE NUMBER 14]
+HypnoEye
+[END]
+
+[SENTENCE NUMBER 15]
+ImpctRoar
+[END]
+
+[SENTENCE NUMBER 16]
+CardFindr
+[END]
+
+[SENTENCE NUMBER 17]
+CosmicRave
+[END]
+
+[SENTENCE NUMBER 18]
+Chivalry
+[END]
+
+[SENTENCE NUMBER 19]
+WhiteFang
+[END]
+
+[SENTENCE NUMBER 20]
+GaleClaw
+[END]
+
+[SENTENCE NUMBER 21]
+DangerRing
+[END]
+
+[SENTENCE NUMBER 22]
+BN BlstrEX
+[END]
+

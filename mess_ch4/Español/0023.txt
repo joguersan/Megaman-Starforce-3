@@ -1,0 +1,256 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}(No sé cuánto
+{13}{EC} podremos aguantar...)
+<PUSH>
+Acid...
+¿El inhibidor de
+Ruido está listo?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Aún no.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Para qué preguntaré...
+<PUSH>
+Pero estamos hablando de
+la Dra. Goodall. Seguro
+que lo tiene a tiempo.
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Ahhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Oh, venga ya!
+<PUSH>
+¡Una copia de mí tendría que
+ser más fuerte que estos
+monigotes!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+¡Garra de bestia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡¿Omega-Xis?!
+Entonces{15}{E1}.{15}{E1}.{15}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Estás bien, Sonia?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Siento llegar tarde!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+El hérore llega en el
+momento oportuno.
+<PUSH>
+Jijiji...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...{15}{E1} ¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Nada, no te preocupes!
+<PUSH>
+Pero dime...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Tú qué crees?
+¡Tengo todos los datos
+de la Dele!
+<PUSH>
+Ahora podemos...
+¡Podemos recuperar
+a la Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+{13}{EC}¡!
+<PUSH>
+¡¡Y-Yupi!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+La situación es tan
+mala como parece.
+<PUSH>
+No sabemos si pretenden
+destruir o tomar el
+control de la NAZA, pero...
+<PUSH>
+¡No vamos a permitir
+que lo consigan!
+<PUSH>
+Necesitamos el ordenador
+central de la NAZA para
+recuperar a Luna.
+<PUSH>
+Así que...
+<PUSH>
+Ya sabes lo que tienes
+que hacer, ¿no, Mega Man?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Voy a partirles la cara
+a esos impostores hasta
+que supliquen clemencia!
+<PUSH>
+¡Soy imparable!
+<PUSH>
+¡¡Vamos, chaval!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Bien dicho!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Por fin están aquí.
+<PUSH>
+Ahora podemos acabar
+con todos de una vez...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡Jiajaja!
+<PUSH>
+Pooooor fin. Ya era hora
+de que pudiera divertirme
+un poco, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡!
+<PUSH>
+Es bastante divertido mirar...
+Vamos a esperar un poco más.
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¿Quééé?!
+¡Qué aburrido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

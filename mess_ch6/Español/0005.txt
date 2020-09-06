@@ -1,0 +1,185 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Guau... Guau, guau...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Miau... Miau, miau...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Todo ese Crimson...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Adónde irá?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ni idea...
+<PUSH>
+¿Quieres ir tras él?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Pues no es mala idea!
+<PUSH>
+{15}{E1}Pero, es demasiado tarde...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip, bip...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Eh? Una llamada...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Es la Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Mega Man!
+¡Tenemos problemas!
+<PUSH>
+¡Hay Wizards fuera de
+control por toda Electopía!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Qué?!
+<PUSH>
+¡¿Es cosa de Dealer?!
+<PUSH>
+
+<NEW-DIALOG>
+0Aún no lo hemos confirmado.
+<PUSH>
+Pero no hemos encontrado
+ningún Naipe.
+<PUSH>
+La causa del problema parece
+ser una cantidad inusual de
+Ruido...
+<PUSH>
+¡En estos momentos, la Policía
+Satella se dirige a
+<PUSH>
+varios puntos del país para
+detener a los Wizards!
+<PUSH>
+¡Agradeceríamos que un miembro
+de los Fuerzas Especiales
+nos echara una mano!
+<PUSH>
+¿Puedes ayudarnos?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Claro!{15}{E1}
+¿Adónde quiere que vaya?
+<PUSH>
+
+<NEW-DIALOG>
+0Hemos recibido un informe de
+que un Wizard hace cosas raras
+en el <Spica.Mall>.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿El <Spica.Mall>?!
+¡Voy para allá!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Gracias, Mega Man!
+<PUSH>
+¡Contamos contigo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Así que los Wizards vuelven
+a perder el control, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Eso parece...
+<PUSH>
+¡Electopía está al borde
+de una crisis!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Es una locura que estén
+atacando tantos puntos de
+Electopía a la vez!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Debemos defender el
+<Spica.Mall>!
+<PUSH>
+¡Vamos, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

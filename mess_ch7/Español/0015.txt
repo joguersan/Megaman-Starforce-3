@@ -1,0 +1,161 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡Geo, ¿dónde estabas?!
+<PUSH>
+El mundo patas arriba
+y yo sin poder contactar
+contigo...
+<PUSH>
+¡¡No sabes lo preocupada
+que estaba!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+L-Lo siento mucho.
+Es que...
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+No vuelvas a preocuparme
+de esta manera...
+<PUSH>
+Con tu padre desaparecido...
+<PUSH>
+Solo me quedas tú.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mamá...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Si te perdiera a ti también
+qué sería de mí?
+<PUSH>
+Sin vosotros dos, todo mi
+mundo se vendría abajo.
+<PUSH>
+No puedo volver a sentir
+el dolor que sentí al
+perder a tu padre.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Lo siento...
+Esto no es propio de mí.
+<PUSH>
+Se ha hecho tarde,
+vamos a dormir un poco...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Vale...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Es un...
+¿mensaje de Ace?
+<PUSH>
+¡¿Cómo puede ser?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{80}{E1}É{01}{00}{A1}{E1}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido la
+Carta de Combate:
+«{09}{E8}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{80}{E1}{C4}{00}{01}{00}{A1}{E1}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido la
+Carta de Combate:
+«{04}{E8}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ese chaval{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Sigue luchando por la
+gente que más le importa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Lo siento, mamá...)
+<PUSH>
+{13}{EC}(Pero ahora no puedo
+ dejar de luchar...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

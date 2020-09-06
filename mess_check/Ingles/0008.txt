@@ -1,0 +1,518 @@
+[SENTENCE NUMBER 1]
+{0E}{E1}{01}{00}>{19}{E1}{01}{00}>{0C}{E1}{01}{00}{7A}{02}{11}{00}{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A communication area.
+<PUSH>
+It's a place where people
+can trade Battle Cards and
+form Brother Bands.
+<PUSH>
+If one looks very closely
+there is a price tag on it!
+<PUSH>
+"Friends...{16}{E1}
+    {15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Priceless."
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a display case with
+rare cards specially arranged.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a register.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Come to think of it...
+I don't think I've ever seen
+Mr. Suther use it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Normal cards are lined up
+pretty normally.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{08}{16}{0B}{00}{0C}{E1}{01}{00}{09}{16}{0B}{00}{0C}{E1}{01}{00}{5A}{16}{0B}{00}{06}{E1}:
+[END]
+
+[SENTENCE NUMBER 8]
+{0E}{E1}{01}{00}?{19}{E1}{01}{00}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The palm tree looks real...
+<PUSH>
+
+<NEW-DIALOG>
+#It IS real!
+<PUSH>
+Those trees grow
+crazy fast if you plant
+one of the seeds!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a life-sized cut-out
+of Mr. Suther.
+What a smile...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a hand-made speaker.
+<PUSH>
+The dried wood of a certain
+southern tree makes for a
+fantastic sound.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a life-sized carving of a
+sea turtle. It's too big to
+move.
+<PUSH>
+There is a majestic feeling
+about him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Expensive looking items
+are eloquently displayed.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#Welcome!
+We have lots of
+awesome stuff for sale!
+<PUSH>
+{0C}{E1}{01}{00}{B9}{00}{12}{00}{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#Welcome!
+We just got a ton of really
+sweet new stuff in stock!
+<PUSH>
+{0B}{E1}{7A}{02}{0C}{E1}{01}{00}{B9}{00}{12}{00}{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+{19}{E1}{01}{00}>
+<NEW-DIALOG>
+#We can also order stuff
+from other stores if you
+want!
+<PUSH>
+But it costs an extra 20%
+for the delivery charges.
+<PUSH>
+Use the service?
+{05}{EC}{00}{00}{0D}{00}   {06}{EC}Shop here
+   {09}{EC}Use the service
+<PUSH>
+
+<END-DIALOG>
+{1B}{EC}{00}{00}{13}{00}{1B}{EC}{03}{00}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<END-DIALOG>
+{78}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 21]
+{0A}{E1}{7D}{02}{06}{E1}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{0A}{E1}{81}{02}{0B}{E1}{82}{02}{0B}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<(Queen)Tia>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0B}{E1}{81}{02}{0A}{E1}{82}{02}{0B}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0B}{E1}{81}{02}{0B}{E1}{82}{02}{0A}{E1}{83}{02}{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{07}{E1}{00}{00}{00}{00}{06}{E1}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{05}{E1}<Zack>
+{0B}{E1}{7E}{02}{0B}{E1}{7F}{02}{0B}{E1}{80}{02}{0C}{E1}{01}{00}{81}{02}<(Queen)Tia>
+{0C}{E1}{01}{00}{82}{02}<Joker>
+{0C}{E1}{01}{00}{83}{02}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{01}{00}{7E}{02}<Sonia>
+{0C}{E1}{01}{00}{7F}{02}<Solo>
+{0C}{E1}{01}{00}{80}{02}<Mr.King-2>
+{06}{E1}<Jack>
+
+[END]
+
+[SENTENCE NUMBER 27]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 28]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 29]
+{07}{E1}{00}{00}{02}{00}
+[END]
+
+[SENTENCE NUMBER 30]
+{07}{E1}{00}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 31]
+{05}{E1}!{05}{E1}#{05}{E1}%{10}{EC}{03}{00}Go to page 2.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}"{1B}{EC}{03}{00}${1B}{EC}{06}{00}&{1B}{EC}{09}{00}<Hope(Mom)>
+{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 32]
+{05}{E1}'{05}{E1}){05}{E1}+{10}{EC}{03}{00}Go to page 3.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}({1B}{EC}{03}{00}*{1B}{EC}{06}{00},{1B}{EC}{09}{00}<Prez>
+{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 33]
+{05}{E1}-{05}{E1}/{05}{E1}1{10}{EC}{03}{00}Go to beginning.
+{0F}{EC}{04}{00}{04}{00}{0D}{00}{00}{00}{1B}{EC}{00}{00}.{1B}{EC}{03}{00}0{1B}{EC}{06}{00}2{1B}{EC}{09}{00}{15}{00}{0B}{E1}{7D}{02}
+[END]
+
+[SENTENCE NUMBER 34]
+{0C}{E1}{00}{00}{BB}{00}3{10}{EC}{00}{00}<Echo.Ridge>
+[END]
+
+[SENTENCE NUMBER 35]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}{BB}{00}7{0A}{E1}{7E}{02}{78}{E1}{05}{00}{02}{00}
+[END]
+
+[SENTENCE NUMBER 36]
+{0C}{E1}{00}{00}{BC}{00}4{10}{EC}{01}{00}<Spica.Mall>
+[END]
+
+[SENTENCE NUMBER 37]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{BC}{00}7{0A}{E1}{7F}{02}{78}{E1}{05}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 38]
+{0C}{E1}{00}{00}{BD}{00}5{10}{EC}{02}{00}{C1}{E4}
+[END]
+
+[SENTENCE NUMBER 39]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}{BD}{00}7{0A}{E1}{80}{02}{78}{E1}{05}{00}{04}{00}
+[END]
+
+[SENTENCE NUMBER 40]
+{0C}{E1}{00}{00}{BE}{00}3{10}{EC}{00}{00}{5A}{E5}
+[END]
+
+[SENTENCE NUMBER 41]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}{BE}{00}8{0A}{E1}{7E}{02}{78}{E1}{05}{00}{05}{00}
+[END]
+
+[SENTENCE NUMBER 42]
+{0C}{E1}{00}{00}{BF}{00}4{10}{EC}{01}{00}{C9}{E4}
+[END]
+
+[SENTENCE NUMBER 43]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{BF}{00}8{0A}{E1}{7F}{02}{78}{E1}{05}{00}{06}{00}
+[END]
+
+[SENTENCE NUMBER 44]
+{0C}{E1}{00}{00}À5{10}{EC}{02}{00}{D5}{E4}
+[END]
+
+[SENTENCE NUMBER 45]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}À8{0A}{E1}{80}{02}{78}{E1}{05}{00}{07}{00}
+[END]
+
+[SENTENCE NUMBER 46]
+{0C}{E1}{00}{00}Á3{10}{EC}{00}{00}{CF}{E4}
+[END]
+
+[SENTENCE NUMBER 47]
+{07}{E1}{00}{00}{00}{00}{0C}{E1}{00}{00}Á9{0A}{E1}{7E}{02}{78}{E1}{05}{00}{08}{00}
+[END]
+
+[SENTENCE NUMBER 48]
+{0C}{E1}{00}{00}{C2}{00}4{10}{EC}{01}{00}{D2}{E4}
+[END]
+
+[SENTENCE NUMBER 49]
+{07}{E1}{00}{00}{01}{00}{0C}{E1}{00}{00}{C2}{00}9{0A}{E1}{7F}{02}{78}{E1}{05}{00}{09}{00}
+[END]
+
+[SENTENCE NUMBER 50]
+{0C}{E1}{00}{00}{C3}{00}5{10}{EC}{02}{00}{5C}{E5}
+[END]
+
+[SENTENCE NUMBER 51]
+{07}{E1}{00}{00}{02}{00}{0C}{E1}{00}{00}{C3}{00}9{0A}{E1}{80}{02}{78}{E1}{05}{00}
+
+[END]
+
+[SENTENCE NUMBER 52]
+{10}{EC}{00}{00}????
+[END]
+
+[SENTENCE NUMBER 53]
+{10}{EC}{01}{00}????
+[END]
+
+[SENTENCE NUMBER 54]
+{10}{EC}{02}{00}????
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+#I'm sorry, but that is still
+out of order.
+<PUSH>
+It should be ready to go
+in no time. Please wait
+patiently.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{05}{E1}6{06}{E1}<(Queen)Tia>
+
+[END]
+
+[SENTENCE NUMBER 57]
+{05}{E1}6{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 58]
+{05}{E1}6{06}{E1}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Whoa, it's "{94}{E5}"!
+<PUSH>
+Geez, that's expensive!
+It's 5000 Zennys!
+Should I buy it?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Buy it?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Buy
+  {09}{EC}Don't buy
+<PUSH>
+{11}{EC}{00}{00};{11}{EC}{03}{00}=
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+{8A}{E1}{88}{13}<
+<NEW-DIALOG>
+<Geo>
+Doh...
+I don't haven enough Zennys.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{0A}{E1}{5A}{16}{82}{E1}${01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{94}{E5}"!
+<PUSH>
+{81}{E1}{78}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<NEW-DIALOG>
+<Geo>
+Maybe I should hold back
+from spending my money.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+I can't buy stuff looking
+like this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The palm tree looks real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

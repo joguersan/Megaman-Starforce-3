@@ -1,0 +1,133 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡E-Es enorme!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Narices, qué grande...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Toma, entradas para ti
+y tus amigos, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué guay! ¡Gracias, Lee!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Dale las gracias a Sonia.
+<PUSH>
+Me pidió que os reservara
+asientos especiales.
+<PUSH>
+Ahora tengo una reunión,
+me voy a ir yendo.
+<PUSH>
+Nos vemos en el escenario.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Y qué hacemos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vamos a esperar a que
+lleguen la Dele
+y los demás.
+<PUSH>
+Tenemos asientos reservados,
+no hay prisa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Perdona la espera, Geo.
+¿Vamos?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala! ¡Qué pedazo de escenario!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Estoy impaciente!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{67}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bla, bla, bla...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Menudo ambiente!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sonia es muy popular.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nuestros asientos están ahí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

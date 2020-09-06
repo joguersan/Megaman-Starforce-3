@@ -1,0 +1,16 @@
+[SENTENCE NUMBER 1]
+Brother
+[END]
+
+[SENTENCE NUMBER 2]
+NO ACCESS
+[END]
+
+[SENTENCE NUMBER 3]
+Satellite Server
+[END]
+
+[SENTENCE NUMBER 4]
+Meteor Server
+[END]
+

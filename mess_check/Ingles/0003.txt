@@ -1,0 +1,332 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a shelf for shoes.
+<PUSH>
+Kelvin bought it because
+he likes the chic design.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a plant that Hope named
+Barnaby.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a TV.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The flower bed is visible.
+<PUSH>
+It's really relaxing just
+looking at it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a refrigerator.
+<PUSH>
+The inside is sparkling
+clean just like always!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0D}{E1}{00}{00}{10}{00}<Joker>
+{10}{00}{0D}{E1}{00}{00}<Heartless>
+/{11}{00}{0D}{E1}{00}{00}0?{12}{00}{0D}{E1}{00}{00}<Chery.Blosom>
+O{13}{00}{0D}{E1}{00}{00}P <Geo>
+{0D}{E1}{00}{00}`o{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+It's cleaner than clean!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Utensils.
+<PUSH>
+They're sparkling!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the control panel for
+the living room.
+<PUSH>
+The air conditioning and
+lighting can be fine tuned
+with it.
+<PUSH>
+Kelvin special ordered it!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the dining room table.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the living room table.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{8B}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Dinner today is chicken
+and mashed potatoes.
+<PUSH>
+The mashed potatoes
+are handmade!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Dinner today is macaroni
+and cheese.
+<PUSH>
+Hope's favorite...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Dinner today is
+liver...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Whoa...!
+<PUSH>
+T-Today... I'm just not
+feeling hungry at all...
+<PUSH>
+I'm fine until breakfast
+tomorrow.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Today's dinner is...
+Breakfast.
+<PUSH>
+Geo's favorite day is
+"Breakfast for dinner day".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hope has never made my
+favorite meal before...
+<PUSH>
+{13}{EC}(Who do they think I
+ am! The family dog!?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Today's dinner is
+pasta carbonara!
+<PUSH>
+They don't even make it
+this good in Italy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The kitchen.
+<PUSH>
+Today's dinner is
+steak and green beans.
+<PUSH>
+The price of beef went up
+this week. In other words,
+the steaks are too high...
+<PUSH>
+Haha...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

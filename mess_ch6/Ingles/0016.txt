@@ -1,0 +1,124 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+This is Dealer's base...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Looks like it.
+<PUSH>
+Check that out!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+Yeah... I think we found it.
+<PUSH>
+This is definitely Dealer's
+base.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+We better get a hold of the
+Satella Police, ASAP!
+<PUSH>
+{15}{E1}...Huh?
+<PUSH>
+I'm not getting an EM wave
+signal...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I just noticed that!
+<PUSH>
+This place seems to handle
+EM waves in its own peculiar
+way.
+<PUSH>
+Only specific EM waves can
+enter or leave this place!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I see...
+This place must be hidden
+somehow.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Even searching for this
+place with EM waves wouldn't
+work.
+<PUSH>
+The only thing that would
+work is the naked eye.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Either way, we still need
+to get in touch with the
+Satella Police!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+If we just go somewhere
+where EM waves can get
+through, for a bit...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Sweet, I got a hold of them.
+<PUSH>
+While we're waiting let's
+investigate more.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

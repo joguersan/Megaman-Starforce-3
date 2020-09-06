@@ -1,0 +1,317 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Jopé!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Mierda,{14}{E1} mierda,{14}{E1} mierda!
+<PUSH>
+¿Por qué, Tia?
+¡¿Por qué?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Por qué, Tia?!
+¡Dímelo!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Tranquilízate, Jack...
+<PUSH>
+Han decidido que yo podría
+completar esta misión
+por mi cuenta.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Pues eso digo!
+¡Siempre trabajamos juntos!
+<PUSH>
+¡¿Por qué esta
+vez no?! ¡Es raro!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Raro?
+<PUSH>
+{13}{EC}...
+<PUSH>
+Mmm, puede ser{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿A que sí?!
+<PUSH>
+Vamos juntos, anda...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Hay algo raro, desde luego...
+<PUSH>
+Tú, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿No te has dado cuenta?
+<PUSH>
+Ahora mismo estás
+haciendo cosas raras...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Estás muy nervioso...
+<PUSH>
+Asustado, diría...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿A{15}{E1}-Asustado?!
+¡¡No digas tonterías, Tia!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡Cuidado con lo que dices!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Lo ves, Jack?
+Estás demasiado
+alterado...
+<PUSH>
+No estás en condiciones
+de luchar...
+<PUSH>
+Tenemos un deseo que
+debemos cumplir...
+<PUSH>
+¿No?
+<PUSH>
+No puedo perderte...
+<PUSH>
+Por eso, esta vez
+iré sola...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Es la hora. Me voy...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡!
+<PUSH>
+¡Espera, Tia!
+<PUSH>
+¡No pueden pedirte que
+acabes con la NAZA tú
+sola!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+El Sr. King ha terminado
+el desarrollo de una
+nueva arma...
+<PUSH>
+No habrá problema.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡P-Pero...!
+<PUSH>
+¡Pero es un oficial
+de la Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡¡!!...
+<PUSH>
+¿Y qué quieres decir con eso?
+<PUSH>
+Cres que...{15}{E1}
+¿no puedo cumplir con
+esta misión? ¿Es eso?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Bueno...
+Tú no te muevas y no
+te metas en líos.
+<PUSH>
+Luego hablamos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡¡T-Tia!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Jopé...
+¿Qué está pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Tranquilo, Jack!
+Virgo va con ella, no hay
+de qué preocuparse.
+<PUSH>
+Y esa nueva arma es una
+pasada, para haberla
+creado un humano¡.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Cállate!
+¿Te crees que no estoy
+tranquilo o qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Eres un manojo de nervios.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Jopé!
+¡Es que no lo entiendo, Tia!
+<PUSH>
+¿Por qué dices que estoy raro?
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Ay...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Conque esas tenemos, ¿eh?!
+<PUSH>
+Cuando la vea{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Será estúpida... Yo...
+<PUSH>
+¡Yo...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,707 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Oh, Geo!?
+<PUSH>
+And everyone else...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+We need to talk...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+...Yes, I heard that Luna has
+gone missing...
+<PUSH>
+You all have gotten
+yourselves into quite a pickle
+this time around...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah...
+<PUSH>
+That's why we came to talk
+to you, Mr. Boreal...
+<PUSH>
+We thought maybe WAZA, or
+even you, might be willing to
+help us out.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I see...
+<PUSH>
+{13}{EC}...
+<PUSH>
+First...
+<PUSH>
+I think everyone should take
+a look at this...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Strong!?
+<PUSH>
+W-Why...?
+But I saw him...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+I still haven't told you why
+I am here, have I...?
+<PUSH>
+I was requested by WAZA to
+repair this environmental
+system.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+By WAZA...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+During the repair process,
+I stumbled upon Strong...
+Or, what was left of him.
+<PUSH>
+...He was torn to shreds and
+his data was scattered all
+over the place.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+{13}{EC}(Because of what
+{13}{EC} Joker did to him...!)
+<PUSH>
+{13}{EC}(So... Then maybe Prez...!?)
+<PUSH>
+{12}{E2}!{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+I desperately searched for
+the rest of his data.
+<PUSH>
+And luckily I was able to find
+it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} In short, I've managed to
+reconstruct Strong.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...I think that's the longest
+word that I've ever heard...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+"Reconstruct" means "to put
+back together".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+D-Does that mean...
+<PUSH>
+Does that mean that you
+brought Strong back to life!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's amazing, Mr. Boreal!
+<PUSH>
+...Isn't that great, Strong!?
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Strong?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+I am certain that I have put
+him back to his original self.
+<PUSH>
+But he is not the same as
+he was before...
+<PUSH>
+There just wasn't enough
+data.
+<PUSH>
+Some data must have been
+destroyed when he was torn
+apart.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Everyone, listen.
+<PUSH>
+As far as I know, Luna and
+Strong were destroyed by
+the same weapon.
+<PUSH>
+If that is true, then Luna
+could be in the same state
+that Strong was.
+<PUSH>
+{13}{EC}...
+<PUSH>
+That is all I know at the
+moment{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+But, Mr. Boreal!
+<PUSH>
+Strong came back to life!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y-Yeah!
+<PUSH>
+Please put Prez back
+together again!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I'm sorry, everyone...
+<PUSH>
+I was able to bring Strong
+back to life because he is
+a program created by people.
+<PUSH>
+...Because I was able to
+compensate for the missing
+data with a new program.
+<PUSH>
+Luna is a human being, made
+of flesh and blood.
+<PUSH>
+There's nothing I can do...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+N-No way...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+T-That can't be...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}(I must have misheard him...!
+{13}{EC} There must be some way!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+There is nothing that I can
+do, but I think I may know
+of someone who can help.
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Dr. Goodall is the woman in
+charge of the Satella Police
+Science Department.
+<PUSH>
+She is recognized as one of
+the most brilliant scientists
+in the world.
+<PUSH>
+If anyone can help, it's her...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dr. Goodall of the Satella
+Police...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We don't have a moment
+to lose!
+Let's go visit Dr. Goodall!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+T-Thank you, Mr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Hey, Geo.
+I heard what happened.
+<PUSH>
+...You should come over to
+Satella Police HQ, right away.
+<PUSH>
+The top people are willing to
+put all of their energy into
+helping to find Luna.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{02}{E2}{09}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"<WAZAPasscode>"!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+This is the security gate
+passcode.
+<PUSH>
+A touch panel to input the
+code will pop up when you
+stand in front of the gate.
+<PUSH>
+Please input the passcode
+with the touch panel once
+it has popped up.
+<PUSH>
+I'll send some officers to
+come get you, just wait
+there. See you soon.
+<PUSH>
+{01}{E2}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Satella Police HQ, huh...?
+<PUSH>
+I guess it must be inside of
+Natl WAZA HQ...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Are Satella Police officers
+going to come to get us?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah.
+<PUSH>
+Ace said to wait for them.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+...Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Yes, Mr. Boreal?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Do you have a minute?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+There's something I've been
+wanting to ask you...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What is it...?
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{00}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+It's about Noise.
+<PUSH>
+Once you EM Wave Change
+into Mega Man, you should
+<PUSH>
+feel the effects of Noise
+that is around you.
+<PUSH>
+Noise has been building up
+more and more each day.
+<PUSH>
+You haven't had anything
+strange happen?
+No problems at all?
+<PUSH>
+If anything bad should
+happen, I would feel
+responsible.
+<PUSH>
+I could never look your
+parents in the eye again.
+<PUSH>
+If you ever feel even just
+a little bit strange, you
+should stop...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's nothing to worry
+about, Mr. Boreal!
+<PUSH>
+Noise isn't a problem!
+<PUSH>
+Ace, the man I just spoke
+to, gave me an anti-Noise
+program to use!
+<PUSH>
+It's the Satella Police's most
+powerful program!
+<PUSH>
+It allows me to see how
+much Noise is around by
+showing me the Noise Level!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Well, simply put...
+<PUSH>
+It's something that lets us
+control Noise!
+<PUSH>
+And it gives us the ability to
+acquire illegal data!
+Isn't that sweet!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Heh heh{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Well, I suppose for now
+there's no reason to worry.
+<PUSH>
+You can trust anything that
+comes from Dr. Goodall and
+the Satella Police.
+<PUSH>
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}But, Geo...
+<PUSH>
+I don't want to scare you,
+but there is still a lot that
+we don't know about Noise...
+<PUSH>
+One theory claims that it
+accumulates inside of
+EM beings.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+Accumulates...!?
+So more and more builds up
+inside of them!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Yes.
+<PUSH>
+Right now, that program is
+helping, but...
+<PUSH>
+Problems could possibly
+arise from being around
+Noise for too long.
+<PUSH>
+...Please be careful.
+<PUSH>
+Don't overdo it, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+O-OK...!
+<PUSH>
+I promise to be careful!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+...Great!
+<PUSH>
+{13}{EC}...
+<PUSH>
+...I just have one more thing
+I need to say.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sure, go ahead!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+There is always hope!
+<PUSH>
+As long as you never give
+up!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah...
+<PUSH>
+OK, Mr. Boreal...!
+<PUSH>
+I promise to never give up
+and never surrender.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Sounds like a plan!
+<PUSH>
+...Try your hardest!
+I will do all I can, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+The WAZA people are here!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK, thanks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Thanks again, Mr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Not a problem, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+I'm pretty worthless, aren't
+I, Strong?
+<PUSH>
+I couldn't do anything for
+them.
+<PUSH>
+I couldn't even help you...
+<PUSH>
+Darn it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

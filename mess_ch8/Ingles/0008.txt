@@ -1,0 +1,393 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nice!
+We found it!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah!
+That should be the entrance
+to the Black Hole Server!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Sirius is most likely inside...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We have him now!
+<PUSH>
+Here we go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue!
+Why are you here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...I'm here for Sirius.
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Gzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I have no idea how you
+even know about him, but
+let's team up to get him!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+No...
+<PUSH>
+You are going to fight me...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What? Why?{16}{E1} But I'm trying to
+stop Sirius too.
+<PUSH>
+If we were to combine our
+powers...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph... Not that talk about
+bonds, again...
+<PUSH>
+Maybe you'll understand once
+you hear this.
+<PUSH>
+I'm waiting to stop Sirius...
+{16}{E1}Two days from now.
+<PUSH>
+{13}{E2}{03}{00}
+<NEW-DIALOG>
+<Megaman>
+Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's too late, kid!
+Planet FM will be destroyed
+before then!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What are you up to, Rogue?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+I'm going to take back the
+Mu Metal that Sirius stole.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why do you have to wait
+two days to do that?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Because the Mu Metal has
+been absorbed into Sirius.
+<PUSH>
+And it rises out of his body
+in the shape of a crest, on
+a cyclical basis.
+<PUSH>
+The current cycle will end
+in two days...
+<PUSH>
+I'm going to defeat him, and
+take back the Mu Metal.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What happens if you delete
+him before then?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Then the Mu Metal will be
+lost forever along with him.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That Mu Metal is very
+important to you, isn't it?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Yes. It's something that I
+must get back for myself...
+<PUSH>
+For my people...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+If the Mu Metal were fused
+with the edge of the Laplace
+Blade.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...?
+What would happen?
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Brzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Good point, Laplace.
+<PUSH>
+It's not necessary for you
+to know.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Anyway...
+As long as you try
+to keep moving ahead...
+<PUSH>
+I will have to stop you.
+<PUSH>
+So, what do you think?
+<PUSH>
+Do you think you can beat
+me to get to Sirius?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Planet FM or Mu...
+Which one can be saved?
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Rzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}Rogue...
+<PUSH>
+I'm going to defeat you...{14}{E1}
+And honor my...{16}{E1}
+Promise to Cepheus.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph...
+<PUSH>
+It looks like you've learned
+to make decisions like a man.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Words and feelings aren't
+always enough to ensure
+peace and safety.
+<PUSH>
+Sometimes you have to risk
+your life to get them...
+<PUSH>
+I learned that from Dad,
+Ace, and Mega...
+<PUSH>
+And even from you, Rogue.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Even from me...?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You don't recognize or try
+to form bonds with the
+people of today.
+<PUSH>
+But you hold your bond
+to Mu very dearly in your
+heart.
+<PUSH>
+It doesn't matter what's in
+your way, you will risk your
+life to protect that bond.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Of course, people nowadays
+don't understand about Mu,
+<PUSH>
+so you've been driven to
+protect your bond by some
+not so nice means...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Don't you dare act like you
+understand me.
+<PUSH>
+I'm going to delete you
+because it will be fun.
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Dzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Shut up, Laplace.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}Rogue{15}{E1}... I see.
+<PUSH>
+There's no way that our
+feelings about bonds will
+ever coincide.
+<PUSH>
+But if we are both people
+who truly respect our
+bonds with others...
+<PUSH>
+Then we will both be willing
+to fight to protect them.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Exactly...
+<PUSH>
+It would be ideal to protect
+your own bonds without
+harming anyone else's.
+<PUSH>
+But life is not that simple
+and easy.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That's why I must protect
+my bond with Cepheus!
+<PUSH>
+I understand your situation,
+Rogue. But Cepheus
+<PUSH>
+entrusted me with the
+fate of his people!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Then let it begin...{15}{E1} Mega Man.
+<PUSH>
+This is...{15}{E1}
+A fight for honor...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I'm going to win, Rogue!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

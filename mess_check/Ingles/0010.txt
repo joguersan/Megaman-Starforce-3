@@ -1,0 +1,546 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The glory of the school's
+past is on display.
+<PUSH>
+"Nation-Wide Elementary
+School Egg Cracking
+Competition Champions!"
+<PUSH>
+"We did our best to
+make our principal proud!"
+<PUSH>
+Legend has it that once
+night falls, the number of
+trophies increases by one.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The cafeteria area is one
+the most relaxing areas...
+<PUSH>
+...Until lunch time hits, then all
+heck breaks loose!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{19}{E1}{01}{00}<(Queen)Tia>
+{0E}{E1}{01}{00}<(Queen)Tia>
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Sonia>
+{0C}{E1}{00}{00}{1C}{16}{0E}{00}{0C}{E1}{01}{00}{1D}{16}{0E}{00}{06}{E1}<Mr.King-2>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's full of ice-cold milk.
+<PUSH>
+There's chocolate milk, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Study hard,
+ eat right,
+ sleep tight."
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a statue of the first
+principal of Echo Ridge
+Elementary.
+<PUSH>
+It looks like the beard is
+growing... slightly.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the faculty room.
+<PUSH>
+It's too scary to even think
+about going in there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{08}{E1}{00}{00}D<Heartless>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the control panel for
+the bulletin board.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll get yelled at by the
+teachers if I mess with it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bulletin board.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The elevator goes to the
+second floor and the roof.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The weather is really nice.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A map of the school is
+displayed.
+<PUSH>
+The red spot marks where
+you currently are.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{09}{E1}{00}{00}{DF}{07}{01}{08}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The elevator goes to the
+second floor and the roof.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A row of potted plants that
+have beautifully bloomed.
+<PUSH>
+The students take turns
+watering it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0C}{E1}{01}{00}{41}{08}{11}{00}{0C}{E1}{00}{00}{B3}{06}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the school store.
+<PUSH>
+"The popular Mega Snacks
+are now 10 Zennys each!"
+<PUSH>
+
+<NEW-DIALOG>
+,Hello there... I'm sorry
+but we're all sold out!
+<PUSH>
+A man in white with long
+hair bought them all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the entrance to the
+school store.
+<PUSH>
+No one has ever seen the
+store lady use it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the school store.
+<PUSH>
+"The popular Mega Snacks
+are now 10 Zennys each!"
+<PUSH>
+
+<NEW-DIALOG>
+,Hello there...
+We've got Mega Snacks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the school store.
+<PUSH>
+"The popular Mega Snacks
+are now 10 Zennys each!"
+<PUSH>
+
+<NEW-DIALOG>
+,Hello there...
+We've got Mega Snacks!
+<PUSH>
+That handsome man in white
+hasn't come around lately.
+<PUSH>
+He really brightens my day...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{82}{13}{0A}{E1}p
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0E}{E1}{01}{00}<Joker>
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The milk isn't ice-cold!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Maybe Noise had a bad
+effect on it...
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,This thing isn't working so
+well all of a sudden.
+<PUSH>
+Hmm...
+It's really noisy, too.
+<PUSH>
+I wonder if something
+happened to it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The elevator isn't working!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It looks like it broke down
+from the effects of Noise!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 29]
+{0C}{E1}{01}{00}{90}{16}<Jack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Lunches?
+OK, three, right?
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"Lunches"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nice. Now I just have to
+get these to the staff.
+<PUSH>
+
+<END-DIALOG>
+{82}{E1},{01}{00}{82}{E1}-{01}{00}{82}{E1}.{01}{00}{0A}{E1}{90}{16}{0A}{E1}{91}{16}{0A}{E1}{92}{16}
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,What a good kid you are for
+helping them out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the school store.
+<PUSH>
+"The popular Mega Snacks
+are now 10 Zennys each!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The milk isn't ice-cold!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Maybe Noise had a bad
+effect on it...
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Solo... I can't believe he
+would just blow a hole
+through the wall like that.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You know...
+Maybe you could learn a
+thing or two from him.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

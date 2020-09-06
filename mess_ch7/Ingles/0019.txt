@@ -1,0 +1,179 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That jerk!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+We have to get to
+<Studi.WBG>!!
+<PUSH>
+Maybe we can save the
+people who are trapped
+in the Jamming!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good point! Let's go!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+.{14}{E1}.{14}{E1}.{14}{E1}Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Where are you going, dear?
+<PUSH>
+You can't leave. It's too
+dangerous outside.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo>
+I'm sorry, Mom.
+<PUSH>
+I have to go{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+There's something I have to
+do that no one else can.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Isn't there some way that
+you can stay?
+<PUSH>
+Space is such a dangerous
+place...
+Someone else can go, Kelvin{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}I'm sorry, Hope.
+<PUSH>
+I have to go.
+<PUSH>
+There's something I have to
+do that no one else can.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}?
+<PUSH>
+Mom?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+.{14}{E1}.{14}{E1}.{14}{E1}You've really grown, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Y-You think so?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+It's OK. Go ahead.
+<PUSH>
+Just make sure that you
+come back safe!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Of course!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hope...
+Don't worry, I'll be watching
+over him the whole time.
+<PUSH>
+I'll get him back safe, even
+if it kills me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Hehe.
+You're the best, Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We'll be back, Mom!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Be careful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

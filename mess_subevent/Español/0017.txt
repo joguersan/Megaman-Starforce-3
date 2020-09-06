@@ -1,0 +1,172 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0A}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Busco la carta de combate
+«{B2}{E7}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{20}{16}{06}{00}{06}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Buscas una carta de
+combate, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sí, hay una que me interesa.
+<PUSH>
+Se llama: «{B2}{E7}»...
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a Sonia?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{04}{00}{11}{EC}{03}{00}{05}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<NEW-DIALOG>
+<Geo>
+Si quieres, la busco.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Eso estaría genial!
+<PUSH>
+No podía pedírselo a
+nadie más.
+<PUSH>
+Vuelve a hablar conmigo
+cuando la encuentres.
+<PUSH>
+{0A}{E1}{20}{16}{20}{EC}{E0}{10}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Sonia>
+Ya veo...
+Pues si cambias de opinión,
+házmelo saber, por favor.
+<PUSH>
+{0B}{E1}{3F}{16}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¿Conseguiste aquella carta de
+combate que quería?
+Se llama: «{B2}{E7}».
+<PUSH>
+{89}{E1}r{01}{00}{07}{00}{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<NEW-DIALOG>
+<Game>
+¿Entregar la carta de combate
+«{B2}{E7}»?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0B}{00}{11}{EC}{03}{00}{08}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí 
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{09}{00}{11}{EC}{03}{00}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Sonia>
+Ya veo...
+Pues si cambias de opinión,
+házmelo saber, por favor.
+<PUSH>
+{0B}{E1}{3F}{16}{0B}{E1}{20}{16}{0B}{E1}{21}{16}{21}{EC}{E0}{10}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+<Sonia>
+Si la consigues, dímelo.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Gracias, Geo!
+<PUSH>
+La próxima vez, podrías
+enseñarme a usarla.
+<PUSH>
+Toma, por haberme ayudado.
+<PUSH>
+{87}{E1}{94}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{32}{E6}{D1}{E6}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+{0A}{E1}{21}{16}{80}{E1}r{FF}{FF}{21}{EC}{E0}{10}
+[END]
+

@@ -1,0 +1,134 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, too, huh?
+But you're not the Ace that
+I know.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+I am Acid Ace R.
+<PUSH>
+I was created by Sirius, and
+gifted with an almost infinite
+<PUSH>
+amount of power by this
+server.
+<PUSH>
+You must be quite the
+warrior to have defeated
+all of the other "R"s.
+<PUSH>
+But you will not be able to
+do the same to us!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+"Us"...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No way...
+Is he here, too!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Why yes I am.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dread.Joker>
+I am Dread Joker R!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Interesting...
+<PUSH>
+So even in these "R"
+forms, you guys still come
+in a two-pack, huh?
+<PUSH>
+But where's the sibling
+rivalry that we all love?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Fighting amongst ourselves
+would be ridiculous...
+<PUSH>
+Our power increases greatly
+when we work together.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Well said.
+<PUSH>
+I mean, Sirius did trust us
+to protect the final path to
+where he is!
+<PUSH>
+We're pretty awesome!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+I'll do the honors first.
+If you don't mind, Acid Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+No worries, Jokey.
+I'll watch from the sidelines.
+<PUSH>
+If anything goes wrong, I'll
+be right there to help.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like we have to
+deal with both of these
+losers in a row...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+This is going to be one
+tough battle...
+<PUSH>
+But we have no choice!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,15 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey! Where do you think
+you're going!? We've got
+viruses to bust!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

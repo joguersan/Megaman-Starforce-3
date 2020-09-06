@@ -1,0 +1,2072 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+If you want to get to the
+roof, you should take the
+elevator.
+<PUSH>
+Class just let out,
+so there is probably
+no one up there yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I was just checking out
+some of the new functions
+on my <Hunter>-VG.
+<PUSH>
+All of these different
+pop-ups are really
+interesting.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Pop-ups are fun and
+convenient!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Recently we got a new
+basketball hoop on the roof.
+<PUSH>
+Now I can practice my super
+tomahawk dunk!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+My brothers and I formed
+a team. Our Purpose is to
+get 100% on a test.
+<PUSH>
+Unfortunately neither of
+us have ever done it yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+There is a lot of
+commotion on the roof.
+I wonder what's up?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I just updated my mobile
+device to the new
+Hunter-VG.
+<PUSH>
+Since it was formatted, I
+had to re-form my Brother
+Bands all over again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Having a Purpose just
+seems to make every day
+more fun!
+<PUSH>
+I gonna try hard to fulfill
+my Purpose!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Be sure to go straight
+home!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+So Geo, I heard you
+formed a Team!
+<PUSH>
+Let's all work hard to
+fulfill our Purposes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Let's make a trade! I'll
+trade you 5 of my
+<Cannone> cards for
+<PUSH>
+1 of your {55}{E7}
+cards!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Trading Battle Cards is
+fine and all, but my friend
+here is always wanting to
+<PUSH>
+trade me her <Cannone>
+cards for my stuff. I don't
+do much virus busting, so I
+<PUSH>
+don't need any more
+<Cannone> cards.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+You know, most people
+don't put {B9}{E7}
+cards in their folders.
+<PUSH>
+But I have one in my folder,
+and I use it all the time.
+<PUSH>
+It's useful for guarding
+against most attacks from
+Mettenna and BlueShark,
+<PUSH>
+so it's perfect for
+people like me who aren't
+that good at battling!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Be sure to go straight
+home!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+{0C}{E1}{01}{00}{06}{00}&{0C}{E1}{01}{00}{05}{00}%{0C}{E1}{01}{00}{04}{00}$
+<START-DIALOG>
+
+<NEW-DIALOG>
+){13}{EC}...Grrrr...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Wow, he's one scary
+ teacher...)
+<PUSH>
+{13}{EC}(It looks like once again
+ I caught him at a bad time.
+ He looks really mad...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Well, it's too late to get
+ cold feet now, kid! Hurry
+ up and talk to him!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Ohh, I'm scared...)
+<PUSH>
+
+<NEW-DIALOG>
+)Hrmph!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eep.
+<PUSH>
+
+<NEW-DIALOG>
+)Pop-up...
+<PUSH>
+What...?
+<PUSH>
+The moth specimen
+display in the science
+club room is acting funny?
+<PUSH>
+Something might be
+wrong with the Cyber Core?
+<PUSH>
+I don't have time for this!
+I'm too busy to leave
+what I'm doing right now!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This is your chance, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+If we fix the moth specimen
+display, we might be
+<PUSH>
+able to get on this guy's
+good side.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Sorry, but I'm just too
+busy to go myself...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm... I fixed that specimen
+display in the science club
+room you were talking about.
+<PUSH>
+
+<NEW-DIALOG>
+)What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Uh-oh, now he's mad!)
+<PUSH>
+
+<NEW-DIALOG>
+)Thanks! That's a big
+help! I was too busy to
+do it myself!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+If you wouldn't mind...
+I'd like to ask you a
+favor.
+<PUSH>
+
+<NEW-DIALOG>
+)...What?
+<PUSH>
+You want permission to
+use the Real Wave tree
+on the roof?
+<PUSH>
+Well, normally, I would
+say no, but since
+you were so helpful,
+<PUSH>
+I'll give you a pop-up that
+will allow you to use it.
+<PUSH>
+{02}{E2}{03}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"{E3}{E6}"!
+<PUSH>
+{01}{E2}{03}{00}
+<NEW-DIALOG>
+)With that pop-up, you can
+change the appearance of
+the Real Wave tree!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yesss! Come on, let's get
+to the roof!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{06}{00}{0A}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Thanks a lot, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Geo, how's your Team
+coming along?
+<PUSH>
+I heard that your Purpose
+is to make Luna the new
+student body president!
+<PUSH>
+Good luck!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Lately, some of my mail
+doesn't get to me!
+<PUSH>
+Some people tell me that
+viruses could be to
+blame!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I hear that your Team is
+going around helping
+people.
+<PUSH>
+Is that true? That's cool
+if it helps you fulfill your
+Purpose at the same time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+You know, most people
+don't put {B9}{E7}
+cards in their folders.
+<PUSH>
+But I have one in my folder,
+and I use it all the time.
+<PUSH>
+It's useful for guarding
+against most attacks from
+Mettenna and BlueShark,
+<PUSH>
+so it's perfect for
+people like me who aren't
+that good at battling!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Thank you for your help,
+Geo! Team activities are
+<PUSH>
+fine and all, but remember
+to stay safe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo, we have to work hard
+to make Prez student body
+president!
+<PUSH>
+Our Purpose must be
+fulfilled, no matter what!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+What are you doing at
+school on a Saturday,
+Geo?
+<PUSH>
+Me? My grades weren't
+so hot, so I'm here for
+Saturday school!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Well if it isn't Geo.
+What brings you here on a
+Saturday?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+I'm here to see the
+science club's rocket
+launch!
+<PUSH>
+They're going to
+do it on the roof!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Did you hear? The science
+club is going to have a
+rocket launch on the roof!
+<PUSH>
+You'd better hurry
+before it starts!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm looking forward to
+the rocket launch on the
+roof!
+<PUSH>
+Everybody's going
+to be there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+{09}{E1}{00}{00}{CF}{06}{DB}{06}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Somebody told me that
+your Team is producing
+today's rocket launch!
+<PUSH>
+That's pretty impressive!
+I'll attend a little
+later!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Geo, all of the students
+who were in the school
+have been evacuated!
+<PUSH>
+It's important that we do
+what we can not to cause
+a panic in <Echo.Ridge>.
+<PUSH>
+I know that you guys
+are trying to solve this
+situation, but please,
+<PUSH>
+for the love of all that
+is good, don't do
+anything reckless!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{08}{E1}{00}{00}{13}{00}K
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+School is peaceful when
+that scary teacher is not
+here.
+<PUSH>
+What? He's sick?
+Oh, my bad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Was the guy who got off
+the elevator when I got
+on the transfer student?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Everybody's gone home.
+<PUSH>
+The only ones left are the
+science club kids.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Things sure are quiet
+around here since the
+<PUSH>
+students are on their
+school trip.
+<PUSH>
+Hey, wait a minute...
+What are you doing
+back here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Oh, Geo... You're still
+here... I'm worried about
+Prez.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+{0C}{E1}{01}{00}{82}{00}<Taurus.Fire>
+{0C}{E1}{01}{00}{80}{00}{83}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hello, Mr. Shepar!
+<PUSH>
+Tomorrow is election day!
+Please vote for Prez.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Oh, Geo! You couldn't
+have come at a better
+time!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Right now, our new
+gardener is on the roof.
+<PUSH>
+Apparently, he's having a
+problem with something.
+<PUSH>
+Could you go and find out
+what's wrong?
+<PUSH>
+I'm sure you can lend him a
+helping hand!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The new gardener on the
+roof? OK, leave it to
+me!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Thank you for going to
+see what he needs!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Don't mention it! It's the
+duty of Team Luna 4 Prez
+to help people in need!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Aren't you getting a
+ little overly gung-ho
+ there, kid?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Not at all!)
+<PUSH>
+(This is how I make a
+ good impression!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Team Luna 4 Prez...
+Isn't Luna Platz the
+leader of that Team?
+<PUSH>
+And you guys help
+people in need, huh?
+<PUSH>
+Hmm... OK, if you say so.
+<PUSH>
+That is very kind of
+you. Anyways, you have my
+full support, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you very much, Mr.
+Shepar! OK, I'm on my way
+to the roof!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Thanks!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(That guy's easy to
+ get along with.)
+
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(I think it's just the way
+ I managed to connect with
+ him. I got the touch!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(...)
+<PUSH>
+(...Yeah, I guess if you
+ wanna keep telling
+ yourself that.)
+<PUSH>
+{0A}{E1}{80}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Geo! The gardener on the
+roof! Go and find out
+what he wants!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Ohh, how'd it go, Geo?
+You helped the gardener
+out with his problem?
+<PUSH>
+I'm glad to hear it...
+<PUSH>
+Huh? It's your duty as a
+member of Team Luna 4
+Prez?
+<PUSH>
+Umm... That Team name...
+<PUSH>
+It's... Umm... Wonderful!
+<PUSH>
+Team Luna 4 Prez is
+wonderful! I think I've
+become a fan!
+<PUSH>
+Please continue your
+service to the people and
+to the world!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(...)
+<PUSH>
+{13}{EC}(What's this dude's deal?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Huh? The teacher? I
+think he went to the
+science club room.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+(I must say, that I look
+ as good as ever...)
+*cheese* *wink*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+That was a stimulating
+student body presidential
+election!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I've heard a rumor that
+you were a transfer
+student...
+<PUSH>
+Is that true!?
+Well Geo, what's the story!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+There were so many people
+at the rocket launch even
+<PUSH>
+though there was no
+school today.
+<PUSH>
+This rocket fever is hot,
+my friend... I mean HOT!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}ho{BE}{00}{0D}{E1}{00}{00}``È
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Oh, Geo... It's awful!
+What are we supposed to do
+if they attack <Echo.Ridge>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+{0D}{E1}{00}{00}ho{BF}{00}{0D}{E1}{00}{00}``É
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Listen up, Dealer! If you
+even lay a finger on one
+<PUSH>
+of my students, you'll
+answer to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm going home... 'Cuz if
+this is really the end of
+<PUSH>
+the world, I want to be
+with my mommy and daddy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)They say that the meteor
+is headed for Earth
+again...
+<PUSH>
+What could've happened!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Lately, this Noise has
+been really strong.
+<PUSH>
+The electronics at our
+house are all out of whack.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Geo, lately you've been
+looking quite grown up.
+<PUSH>
+Or maybe it's all in my
+head...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+

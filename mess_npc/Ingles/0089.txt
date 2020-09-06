@@ -1,0 +1,202 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{09}{00}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHello! This is the Security
+System Cyber Core!
+<PUSH>
+The big Hertz up ahead is in
+charge of the security
+system.
+<PUSH>
+By the way, I am in charge
+of the lost child center.
+<PUSH>
+The security system seems
+to have been activated
+outside.
+<PUSH>
+I wonder if all of the
+children are OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}{09}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Sup? This is the Security
+System Cyber Core! And I'm
+the loss prevention Hertz!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{09}{00}{05}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+wE-Emergency!
+<PUSH>
+The security system
+has been activated!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+U-Umm...
+<PUSH>
+
+<NEW-DIALOG>
+wHuh?
+<PUSH>
+It was just a false alarm?
+That's odd...
+<PUSH>
+I could have sworn I
+detected some high level
+Noise!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Noise?
+<PUSH>
+
+<NEW-DIALOG>
+wWhat are you, stupid!? You
+don't know what Noise is!?
+Noise is an EM disturbance!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Enough!
+Just shut up already,
+will ya!?
+<PUSH>
+There is no emergency!
+Just open up the
+shutter!
+<PUSH>
+
+<NEW-DIALOG>
+wOK, OK, you don't have
+to be so scary...
+<PUSH>
+If there's no emergency,
+I'll deactivate the system.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good grief...
+<PUSH>
+
+<NEW-DIALOG>
+wOK, I deactivated it.
+<PUSH>
+The shutter should be
+open now.
+<PUSH>
+{10}{E2}Ì
+<NEW-DIALOG>
+<Game>
+The security system
+has been deactivated!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK. Problem solved!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's go back to
+where Prez is at!
+<PUSH>
+{0A}{E1}{09}{00}{0B}{E1}{81}{03}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vHello! I'm the Hertz in charge
+of the lost child center!
+My job is to quickly reunite
+<PUSH>
+lost children with their
+parents!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+*sneer*
+<PUSH>
+I'm the Hertz in charge of
+loss prevention! Nothing
+gets past my watchful eye!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+wHeya! If you didn't know,
+I'm the Hertz in charge
+of the security system!
+<PUSH>
+Right now the security
+system is undergoing
+<PUSH>
+a check, so it can't be
+activated!
+<PUSH>
+In case of emergency,
+please follow the instructions
+announced over the PA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+wNice to meet you!
+I'm the Hertz in charge
+of the security system!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,510 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Mega Man...
+Quiero decir, Geo...
+<PUSH>
+¿Dónde están Jack y Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No hemos llegado a tiempo.
+<PUSH>
+No han querido escucharme.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Entiendo...
+<PUSH>
+Entonces el Meteorito G
+está bajo su control.
+<PUSH>
+No es la situación ideal,
+la verdad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Eh!!
+¡¡Algo no me cuadra!!
+<PUSH>
+¡Seguro que sabes algo
+que no nos estás contando!
+<PUSH>
+¡¡Empieza a hablar!!
+<PUSH>
+¡¿Quién eres tú?!
+<PUSH>
+¡¿Y qué buscas?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Heartless, dínoslo, por favor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+.{14}{E1}.{14}{E1}.{14}{E1} Si trabajé para King fue
+para alcanzar mi propio
+objetivo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Tu objetivo?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Tenía que ponerme en contacto
+con alguien cuanto antes.
+<PUSH>
+Geo, tú lo conoces muy bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+.{15}{E1}.{15}{E1}.{15}{E1} ¿De quién habla?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ni idea...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin Stelar{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+Tu padre.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿P-Papá?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Pero qué dices?!
+<PUSH>
+¡¿Cómo conoces a Kelvin?!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yo antes trabajaba para una
+organización de investigación
+espacial.
+<PUSH>
+Mi organización trabajaba
+con Kelvin y su equipo en
+su misión espacial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Durante ese tiempo hablé con
+Kelvin unas cuantas veces.
+<PUSH>
+Siempre hablaba de crear
+vínculos con otros mundos
+<PUSH>
+e intercambiar culturas
+e ideas.
+<PUSH>
+Yo compartía por completo
+su visión.
+<PUSH>
+Él es una pieza clave para
+el futuro de este planeta.
+A escala galáctica.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Querías ponerte en contacto
+con él para rescatarlo
+del espacio, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí.
+<PUSH>
+Y así me topé con King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Cómo te «topaste» con King
+mientras buscabas a Kelvin?
+<PUSH>
+¿Qué tiene que ver una cosa
+con la otra?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Conocí a King cuando intentaba
+contactar con Kelvin porque...
+<PUSH>
+Porque Kelvin está dentro{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+del Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+.{14}{E1}.{14}{E1}.{14}{E1}D{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Papá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¿está dentro del Meteorito G?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Estás segura?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí.
+<PUSH>
+Kelvin tuvo un accidente
+en el espacio y se
+convirtió en un ser EM, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, eso es...
+Lo convertí en un ser EM
+para cumplir su sueño
+<PUSH>
+de volver a ver a su
+familia algún día.
+<PUSH>
+{12}{E2}<Heartless>
+{01}{00}
+<NEW-DIALOG>
+<Heartless>
+Y desde entonces, como un
+ser EM, ha estado vagando
+por el espacio.
+<PUSH>
+Al volver a casa descubrió
+el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Sabía que si no hacía algo,
+el Meteorito G chocaría
+contra la Tierra.
+<PUSH>
+Por eso se impulsionó al
+núcleo del Meteorito G,
+y empezó a luchar contra él.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Papá está luchando{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Todo este tiempo, Kelvin
+ha estado luchando contra
+el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Por fin sé lo que le
+ocurrió...
+<PUSH>
+Intentaste ponerte en contacto
+con papá mientras King tomaba
+<PUSH>
+el control del Meteorito G,
+¿no es así?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Exacto.
+<PUSH>
+Mi plan era quitar el control
+del Meteorito G a King,
+<PUSH>
+hacer que Mega Man viniera
+y traer de vuelta a Kelvin.
+<PUSH>
+Tras eso, modificaría el rumbo
+del Meteorito G, salvando así
+a Kevin y el mundo.
+<PUSH>
+Era un plan perfecto...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Pero Jack y Tia se interpusieron.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí...
+El único error en mis cálculos.
+<PUSH>
+Por su culpa, el Meteorito G
+se dirige de nuevo a la Tierra.
+<PUSH>
+Por ahora no podemos hacer nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No puede ser...
+¡No podemos rendirnos!
+¡¡Estamos muy cerca!!
+<PUSH>
+¡¡Tiene que haber una
+forma de detenerlos!!
+<PUSH>
+¡¡Si no te rindes,
+siempre hay esperanza!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Geo...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Me están llamando...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es Boreal.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, ¿me oyes?
+<PUSH>
+Parece que estás justo en el
+límite para que te lleguen
+las comunicaciones...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sr. Boreal, lo siento mucho...
+<PUSH>
+Jack y la Srta. Tia se han
+hecho con el control del
+Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+No te preocupes, lo he oído
+todo gracias a tu <Hunter>.
+<PUSH>
+Geo, Heartless, venid a la
+NAZA. Se me ha ocurrido
+un plan.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Que volvamos a la NAZA?
+<PUSH>
+¿No está afectada por
+el inhibidor?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Cuando King perdió el
+control del Meteorito G,
+<PUSH>
+el inhibidor dejó de
+actuar en el <Studi.WBG>
+y la NAZA.
+<PUSH>
+Venid enseguida, por favor.
+No nos queda mucho tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Entendido!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Heartless!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí...
+<PUSH>
+Geo, antes de irnos
+quiero darte esto.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+«{F2}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qué es esta carpeta?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+La encontré mientras
+buscaba a Kelvin.
+<PUSH>
+Es su carpeta.
+Por eso te la doy a ti,
+su hijo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+La carpeta... de papá...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Cuando termine mis preparativos
+me reuniré con vosotros.
+<PUSH>
+Id primero vosotros.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Vale.
+¡¡Nos vemos en la NAZA!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Chico, en marcha!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

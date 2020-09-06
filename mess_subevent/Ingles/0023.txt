@@ -1,0 +1,283 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0A}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+My Hunter-VG isn't working
+right! I wonder if it could be
+a side-effect of Noise?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{2D}{16}{0B}{00}{0C}{E1}{00}{00}{45}{16}{03}{00}{0C}{E1}{01}{00}{A9}{16}
+{0C}{E1}{01}{00}{2C}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+My name's Gian Luigi!
+<PUSH>
+Virus busting is my favorite
+hobby.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+My Hunter-VG started to
+go haywire while I was
+doing some virus busting.
+<PUSH>
+It might be broken.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+I know someone who's really
+good with electronics. I could
+take it to be repaired...
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Would you really!?
+I don't know what to say!
+<PUSH>
+Here, take my Hunter-VG.
+Please be careful with it.
+<PUSH>
+{82}{E1}2{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{A2}{E5}"!
+<PUSH>
+
+{0A}{E1}{2C}{16}{20}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Candy.Bar>
+I can't do any virus busting
+now...
+<PUSH>
+{0B}{E1}{45}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ah, is my Hunter-VG fixed
+already?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Candy.Bar>
+I can't do any virus busting
+now...
+<PUSH>
+{0B}{E1}{45}{16}{0B}{E1}{2C}{16}{0B}{E1}{2D}{16}{0B}{E1}{A8}{16}{82}{E1}2{FF}{FF}{21}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Candy.Bar>
+I hope you can get it fixed!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hey, I got it repaired.
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Holy baloney! Thanks!!
+<PUSH>
+Now I can whoop some more
+virus butt!
+<PUSH>
+I train as much as possible.
+I want to get really good
+someday!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+The stronger the virus you
+fight, the stronger the
+effect Noise will have.
+<PUSH>
+So don't overdo it, OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ah, that's a good point.
+Thanks for the advice!
+<PUSH>
+You sound like you know a
+lot about battling.
+<PUSH>
+Maybe we could be Brothers?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Of course!
+<PUSH>
+{6E}{E1}{00}{00}d
+<NEW-DIALOG>
+<Game>
+Geo and {04}{E3}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We should exchange battle
+tactics and information when
+we have a chance!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{2D}{16}{82}{E1}2{FF}{FF}{21}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+I'd like to try battling with
+you one of these days.
+<PUSH>
+I wonder who will win!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{0C}{E1}{01}{00}{A9}{16}{0D}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+You want me to fix a
+broken Hunter-VG for
+one of your friends?
+<PUSH>
+I think I can handle that!
+<PUSH>
+Hmm...
+<PUSH>
+The damage appears to have
+been caused by contact with
+high levels of Noise.
+<PUSH>
+Fighting strong viruses will
+have this sort of effect.
+<PUSH>
+Sometimes running away is
+the best strategy.
+<PUSH>
+Here you go, all fixed!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you, Mr. Boreal!
+<PUSH>
+I'm going to go give it back
+to its owner now.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A9}{16}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Feel free to come to me
+for repairs anytime, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

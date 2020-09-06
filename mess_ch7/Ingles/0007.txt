@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*Boooooom!*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Zack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho ho ho!!
+<PUSH>
+How was that!?
+<PUSH>
+It took but seconds to turn
+WAZA, the pride and joy
+of human beings, into this!!
+<PUSH>
+And I can use Meteor G's
+"Jamming" on any location
+in the world!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

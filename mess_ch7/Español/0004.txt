@@ -1,0 +1,65 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Seguro que todos habéis visto
+la estrella fugaz roja del
+cielo, el Meteorito G.
+<PUSH>
+El Meteorito G no es una
+estrella fugaz normal y
+corriente.
+<PUSH>
+Es un almacén gigante de
+Ruido. Un «clúster de
+Ruido», podría decirse.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Si el Meteorito G impactara
+contra la Tierra...
+<PUSH>
+La tecnología EM se volvería
+totalmente inservible.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+N-No puede ser...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+No obstante...
+¡Yo tengo los medios para
+controlar el Meteorito G!
+<PUSH>
+Solo yo poseo la habilidad
+de detener su más que
+seguro impacto.
+<PUSH>
+¿Lo entendéis?
+<PUSH>
+¡¡El destino del mundo
+está en mis manos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+{13}{EC}...
+<PUSH>
+
+[END]
+

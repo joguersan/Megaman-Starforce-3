@@ -1,0 +1,179 @@
+[SENTENCE NUMBER 1]
+Battle Card
+[END]
+
+[SENTENCE NUMBER 2]
+Sonia
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+There's this one battle
+card I want. It's called
+the "{B2}{E7}"...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+My brother
+[END]
+
+[SENTENCE NUMBER 5]
+Jax Dubelz
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.My twin brother moved to
+a condo here in
+<Echo.Ridge>.
+<PUSH>
+I'm here to see him but
+every time I enter his room
+number, I get an error.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+Quiz
+[END]
+
+[SENTENCE NUMBER 8]
+Alic Tebek
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Mystery
+[END]
+
+[SENTENCE NUMBER 11]
+Bud Bison
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I was at home about to
+dig into my homemade
+ginger beef when I
+<PUSH>
+realized that I was
+forgetting something!
+<PUSH>
+The ever important spices!!
+<PUSH>
+I went to the fridge to
+get the spices, but when
+I came back, I was faced
+<PUSH>
+with an empty bowl! Who
+could have eaten my
+ginger beef like that!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Card trade
+[END]
+
+[SENTENCE NUMBER 14]
+Lowe Sweet
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)If you can find a
+"{79}{E7}" card,
+<PUSH>
+I will trade you an
+"{D4}{E7}" card for it.
+<PUSH>
+OK? Just let me know
+when you have one.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Battle Card
+[END]
+
+[SENTENCE NUMBER 17]
+Kard Kolek
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-I'm looking for a card called
+"{8F}{E7}".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Broke Hunter
+[END]
+
+[SENTENCE NUMBER 20]
+Gian Luigi
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+While I was out virus
+busting, my Hunter-VG
+went on the fritz,
+<PUSH>
+I wonder if it can be fixed?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

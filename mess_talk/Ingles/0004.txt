@@ -1,0 +1,674 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}0
+{08}{E1}{00}{00}1<Geo>
+{08}{E1}{00}{00}2({08}{E1}{00}{00}32{08}{E1}{00}{00}4<{08}{E1}{00}{00}5F
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{5B}{07}{5F}{07}{0B}{00}{09}{E1}{00}{00}{5F}{07}{61}{07}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}{10}{00}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You're looking for Boreal...
+Maybe your mom knows
+where he is?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+She said Boreal is in Alohaha!
+Get there on the double!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{08}{E1}{06}{00}{00}{02}{0E}{00}{08}{E1}{06}{00}{01}{02}{0E}{00}{08}{E1}{06}{00}{03}{02}{0E}{00}{08}{E1}{06}{00}{00}{92}{0F}{00}{08}{E1}{06}{00}{01}{92}{0F}{00}{08}{E1}{06}{00}{03}{92}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+She said Boreal is in Alohaha!
+Get there on the double!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Boreal should be on the
+island somewhere. Let's
+find him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Get off the Wave Road and
+look for Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{61}{07}{65}{07}{15}{00}{09}{E1}{00}{00}{65}{07}{67}{07}<Hope(Mom)>
+{09}{E1}{00}{00}{67}{07}{69}{07}<Prez>
+{09}{E1}{00}{00}{69}{07}{6D}{07}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You're supposed to enter a
+passcode into the security
+gate, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+A fingerprint?
+Will mine work?
+Are claws OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0C}{E1}{01}{00}{12}{00}<Sonia>
+{0C}{E1}{01}{00}A<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We finally got in!
+What's with all the pomp
+and circumstance anyway?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{0C}{E1}{01}{00}<Geo>
+<Mr.King-2>
+{0C}{E1}{01}{00}{13}{00}<Solo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It looks like this is going to
+take a while. Why don't
+<PUSH>
+you go ask around about
+Kelvin for a bit?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's probably someone
+here who knew Kelvin!
+<PUSH>
+Let's ask around the
+Command Center!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hmph... Ace, or whatever he
+calls himself, called for us!
+Go to the Satella Police HQ!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{08}{E1}{06}{00}{00}{73}<Jack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Is this the viruses' doing?
+Kid... We should check
+out the Info Board CC!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Dr. Goodall called for you!
+Maybe she figured something
+out?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The viruses causing the
+problem should be close by!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{09}{E1}{00}{00}{6D}{07}{81}{07})
+[END]
+
+[SENTENCE NUMBER 42]
+{0C}{E1}{01}{00}<Hope(Mom)>
+*
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Scattered pieces of Luna's
+data? Bah! Ask that jerk,
+Acid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We have to keep finding
+these until that loser Acid
+tells us there's no more!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{81}{07}{83}{07}3{09}{E1}{00}{00}{83}{07}{87}{07}4{09}{E1}{00}{00}{87}{07}{89}{07}5
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+They said you can get to
+WAZA via the Astro Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's some strong Noise!
+Be careful, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We'll worry about
+Dark Phantom later, kid.
+We need to hurry to WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{09}{E1}{00}{00}{89}{07}{A1}{07}=
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The place is swarming with
+those copy freaks!
+We're wiping them out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+[END]
+
+[SENTENCE NUMBER 71]
+{09}{E1}{00}{00}{A1}{07}{A5}{07}G{09}{E1}{00}{00}{A5}{07}{A7}{07}H{09}{E1}{00}{00}{A9}{07}{AD}{07}I{09}{E1}{00}{00}{AD}{07}{B1}{07}J
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That Dark Phantom dolt!
+We've got no choice. Let's go
+to the main computer room!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{08}{E1}{06}{00}{01}{73}K
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+He ran away into the
+Main Computer CC!
+Let's catch him, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ace and Queen Tia...
+I want to see that!
+Let's go outside!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+{08}{E1}{07}{00}{02}{03}L
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Dr. Goodall...
+Please take care of Prez.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+This time we're taking that
+Shakespeare loser down!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Now we just have to worry
+about Prez... Dr. Goodall is
+in the main computer room.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

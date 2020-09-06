@@ -1,0 +1,93 @@
+[SENTENCE NUMBER 1]
+{0E}{E1}{01}{00}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...!
+Do you have a minute?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Uhh...
+Sure, what is it, Mom?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0E}{E1}{01}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+Isn't there something that
+you want to tell me?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Wait a second, kid!
+<PUSH>
+You're mom seems a bit
+off, doesn't she!?
+Go check on her!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+I think you should talk to
+your mom before you leave!
+<PUSH>
+She looks worried about
+something...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+H-Hey, kid!
+<PUSH>
+Your mom looks upset...
+<PUSH>
+Shouldn't you see if there's
+anything wrong?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

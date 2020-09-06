@@ -1,0 +1,259 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0A}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¡Misión especial!
+¡Descubrir la identidad de
+una persona misteriosa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{0F}{16}{0C}{00}{0C}{E1}{00}{00}{36}{16}{03}{00}{0C}{E1}{01}{00}{73}{16}
+{0C}{E1}{01}{00}{70}{16}{07}{00}{0C}{E1}{01}{00}{0E}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Mmm...
+Aquí hay algo que no me
+termina de encajar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Ha surgido algún otro
+problema?
+<PUSH>
+
+<NEW-DIALOG>
+0Acabo de recibir un informe
+sobre una persona misteriosa
+en {19}{E5}.
+<PUSH>
+Necesito a alguien para una
+misión de reconocimiento.
+¿Estás dispuesto?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Aceptar la misión?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Está en <Echo.Ridge>, ¿verdad?
+¡Pues iré inmediatamente!
+<PUSH>
+
+<NEW-DIALOG>
+0Cuento contigo.
+<PUSH>
+{0A}{E1}{70}{16}{0A}{E1}{0E}{16}{20}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+0Ya veo...
+Debes tener algo más
+importante que hacer...
+<PUSH>
+{0B}{E1}{36}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿En serio? ¿Por qué?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+0Ya veo...
+Debes tener algo más
+importante que hacer...
+<PUSH>
+{0B}{E1}{36}{16}{0B}{E1}{0E}{16}{0B}{E1}{0F}{16}{0B}{E1}{70}{16}{0B}{E1}{71}{16}{0B}{E1}{72}{16}{0B}{E1}{73}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+0Cuento contigo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Misión cumplida!
+<PUSH>
+
+<NEW-DIALOG>
+0Muy bien hecho.
+<PUSH>
+Esta misión era muy peligrosa.
+<PUSH>
+La gente adecuada será
+informada sobre tu honor
+y valentía.
+<PUSH>
+{22}{EC}{01}{00}{0B}{00}{80}{E1}{C7}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+Carta de combate:
+«{07}{E8}»!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{0F}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+{80}{E1}�{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+Carta de combate:
+«{0C}{E8}»!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{0F}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Te tendré en cuenta para
+futuras misiones de este
+tipo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Eh! ¡¿Qué estás haciendo?!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}¿Eh?
+<PUSH>
+¿Eres uno de esos
+estúpidos humanos?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No muevas un pelo, chaval!
+¡Lleva un explosivo consigo!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Así es...
+<PUSH>
+Estoy ayudando a los humanos
+a evolucionar. La evolución
+definitiva es algo que
+<PUSH>
+los humanos no pueden lograr
+sin un poco de ayuda.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Y-y por qué nos ayudas
+a ello?
+<PUSH>
+¡Detente inmediatamente!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Ju, ju...
+A estas hemos llegado, ¿eh?
+<PUSH>
+Ju, ju, ju... Ju, ju, ju...
+<PUSH>
+¡Hora de destruirlo todo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No creo que sea de los que
+atienden a la lógica.
+<PUSH>
+¡Ten cuidado, chaval!
+<PUSH>
+{0A}{E1}{71}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Por los pelos...
+Vayamos a informar sobre ello.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{73}{16}
+[END]

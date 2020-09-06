@@ -1,0 +1,185 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+(Hace nada estuve
+{13}{EC} aquí con la Dele...)
+{13}{EC}Dele...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}<{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Eh, Geo!
+<PUSH>
+¡No es momento de deprimirse!
+<PUSH>
+¡Conviértete en Mega Man
+y sálvame!
+<PUSH>
+OK!?
+<PUSH>
+
+<END-DIALOG>
+{A3}{E1}{00}{00}<{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¡Jaja! Eso sería
+{13}{EC} lo que dirí ella...)
+<PUSH>
+¡Vale!
+¡Tengo que ir a ver al Sr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{15}{E1}¡Espera, quieto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Qué pasa, Mega?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Creo que nos están
+observando...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿De verdad?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Idiota!
+¡No los busques!
+<PUSH>
+¡Como te vean...!
+<PUSH>
+¡¿Eh?!
+¡Creo que se ha ido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+L-Lo siento, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Hay que ver, chico!
+¡Piensa con la cabeza
+de vez en cuando!
+<PUSH>
+¡Algún día tienes
+que madurar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Y-Ya lo sé!
+<PUSH>
+Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Que seas tú precisamente el
+que regañe por actuar
+sin pensar...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡¿Y eso a qué viene?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡A-A nada!
+¡De verdad!
+<PUSH>
+¡Vamos a ver al
+Sr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No me cambies de tema!
+<PUSH>
+¡Eh!
+¡Espera, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo Stelar{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No... ¡Mega Man!
+<PUSH>
+Tu poder será mío...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

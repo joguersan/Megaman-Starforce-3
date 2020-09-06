@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Q-Qué es eso?
+¿Ruido?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ruido que se ha
+agrupado y solidificado!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Como un... ¿clúster de Ruido?
+<PUSH>
+No me gusta un pelo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya lo creo que no!
+<PUSH>
+¡Seguro que el aspersor
+está así por su culpa!
+<PUSH>
+¡Hora de eliminar basura!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Tienes razón!
+<PUSH>
+¡Voy a intentarlo!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{96}{00}
+[END]
+

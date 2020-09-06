@@ -1,0 +1,590 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Perdón por la espera!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Ya estás aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Llegas taaaaarde, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Te parecerá bonito hacer
+esperar a una dama...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Lo siento!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}(Por fin apareces,
+Geo Stelar...)
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Pues ya estamos todos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vaya...
+Esto no se parece en
+nada a Electopía...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Se nota que estamos
+en una isla tropical!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Como ya sabréis...
+Estamos en la isla más
+meridional de Electopía,
+<Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Jamás pensé que iríamos
+de excursión a <Alohaha>!
+<PUSH>
+¡Qué suerte tiene
+nuestro curso!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Todas las escuelas de
+Electopía han recibido
+una donación de la
+<PUSH>
+Fundación King para que
+todos los niños puedan
+visitar lugares nuevos.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡La Fundación King siempre
+trata de hacer feliz a
+todo el mundo!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Y tanto!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Bueno, chavales...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Por ahí está el edificio
+que ha hecho famosa a
+<Alohaha>{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡El <Castello.Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Qué flipe!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Es el famoso
+<Castello.Alohaha>!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Y ahora...
+<PUSH>
+¡La Srta. Tia nos hablará
+del <Castello.Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+¿Yo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Es la práctica perfecta!
+<PUSH>
+¡Ánimo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+El rey que gobernaba esta
+isla vivía en el gran
+<Castello.Alohaha>...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Entonces ahí dentro
+vive un rey?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No. Esta isla forma parte
+de Electopía, por lo que
+no hay rey...
+<PUSH>
+En su lugar, en su interior
+se encuentra un potente
+"sistema medioambiental".
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Según mi Wizard...
+<PUSH>
+¡Gracias al "sistema
+medioambiental", <Alohaha>
+<PUSH>
+vive en un verano permanente,
+y está protegida de
+desastres naturales!
+<PUSH>
+¡Es el sistema más
+famoso de Electopía!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡A-Alucinante!!
+¡Tengo que verlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Madre, chico. Sí que te
+gustan estas cosas, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Mañana tenemos el día completo,
+así que hoy es vuestra
+oportunidad de verlo.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+En marcha... El sistema
+medioambiental no lo administra
+una persona, sino un Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Un Wizard?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Exactamente...
+Es un Wizard totalmente
+autónomo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+O sea, que no depende
+de un <Hunter>...
+<PUSH>
+¡Seguro que es
+poderosísimo!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Se llama "Strong"...
+<PUSH>
+Y lo adoran como a
+una "deidad protectora"
+de la isla.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Muy bien, Srta. Tia.
+¡Tenemos que parar, es
+la hora del recreo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Sr. Shepar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Sí, Luna?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Le importa si todos
+cambiamos nuestro
+Propósito actual?
+<PUSH>
+Estamos en una excursión
+especial, y no tendremos
+muchas más oportunidades?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Oh, no es mala idea.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Está bien que cambiemos
+nuestro Propósito ahora?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Tenemos que crear un
+montón de recuerdos juntos!
+<PUSH>
+¡Y olvidarnos de todo
+lo malo!
+<PUSH>
+¡Hemos venido toda la clase,
+así que deberíamos compartir
+un Propósito en la excursión!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Buea idea!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Geo, ¿por qué no eliges
+el nuevo propósito?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+¡¿Q-Que lo elija yo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Confío en ti, Geo!
+<PUSH>
+¡Lo que hagamos hoy y
+mañana dependerá de tu
+Propósito!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Adelante!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mmm...
+<PUSH>
+Qué tal...
+¿"Un viaje inolvidable"?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Oooh, me gusta.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Entonces, el Propósito
+de la clase 5-A será
+"Un viaje inolvidable"!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Viva!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{04}{E2}{04}{00}
+<NEW-DIALOG>
+<Game>
+¡El Propósito de Geo
+ha cambiado!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué emocionante que toda
+la clase comparta el
+mismo Propósito...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Puaj...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Eh... Esto, ¿Jack?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Q-Qué quieres?!
+¡No te acerques!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No has cambiado tu
+Propósito. Mal hecho.
+<PUSH>
+¡Se supone que tenemos
+que tener el mismo
+Propósito!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Olvídame!
+¡Eso es cosa mía!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ni. Hablar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bip, bip...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+N-No te acerques...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+T-Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Haz lo que te dice...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Bien, chicos!
+<PUSH>
+¡Vamos a crear recuerdos
+inolvidables y cumplir
+el Propósito!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Pues en marcha!
+¡No os alejéis mucho!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Y... ¿Qué hacemos?
+<PUSH>
+Ya que estamos aquí,
+podríamos echar un vistazo
+al sistema medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por mí perfecto...
+<PUSH>
+Quiero ver cómo es ese
+tal Strong.
+<PUSH>
+¡Vamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Bien!
+¡Al <Castello.Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

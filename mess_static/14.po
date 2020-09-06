@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "  "
+msgstr ""
+
+msgctxt "1"
+msgid "Team"
+msgstr "Equipo"
+
+msgctxt "2"
+msgid "Purpose"
+msgstr "Propósito"
+
+msgctxt "3"
+msgid "Blossom Code"
+msgstr "Código flor"
+
+msgctxt "4"
+msgid "GigaEnrgCard"
+msgstr "CartaGigaEn."
+
+msgctxt "5"
+msgid "Gate Key"
+msgstr "Llave puerta"
+
+msgctxt "6"
+msgid "Studio Pass"
+msgstr "Clave estudio"
+
+msgctxt "7"
+msgid "Stage Pass"
+msgstr "Clave escen."
+
+msgctxt "8"
+msgid "SP Key1"
+msgstr "Clave ES1"
+
+msgctxt "9"
+msgid "WAZAPasscode"
+msgstr "ContraseñaWAZA"
+
+msgctxt "10"
+msgid "SP Key2"
+msgstr "Clave ES2"
+
+msgctxt "11"
+msgid "Dealer Key"
+msgstr "Clave Dealer"
+
+msgctxt "12"
+msgid "Kelvin Key"
+msgstr "Clave Kelvin"
+
+msgctxt "13"
+msgid "Mega Snack"
+msgstr "Megachuche"
+
+msgctxt "14"
+msgid "  "
+msgstr ""
+
+msgctxt "15"
+msgid "  "
+msgstr ""
+
+msgctxt "16"
+msgid "School Seal"
+msgstr ""
+
+msgctxt "17"
+msgid "Spica Shop"
+msgstr "Tienda Spica"
+
+msgctxt "18"
+msgid "77TV"
+msgstr "TV77"
+
+msgctxt "19"
+msgid "WAZA ID"
+msgstr "ID WAZA"
+
+msgctxt "20"
+msgid "SP ID"
+msgstr "ID ES"
+
+msgctxt "21"
+msgid "Btl Wzrd F"
+msgstr "Wzrd Cmb F"
+
+msgctxt "22"
+msgid "Burger Club"
+msgstr "Club Burger"
+
+msgctxt "23"
+msgid "MM Club ID"
+msgstr "ID Club MM"
+
+msgctxt "24"
+msgid "Sonia Fans"
+msgstr "Soniamaníacos"
+
+msgctxt "25"
+msgid "DM"
+msgstr "MD"
+
+msgctxt "26"
+msgid "  "
+msgstr ""
+
+msgctxt "27"
+msgid "ERROR!"
+msgstr "¡ERROR!"
+
+msgctxt "28"
+msgid "  "
+msgstr "  "
+
+msgctxt "29"
+msgid "WARNING"
+msgstr "AVISO"
+
+msgctxt "30"
+msgid "DOWNLOAD!"
+msgstr "¡DESCARGA!"
+
+msgctxt "31"
+msgid "Battle Card"
+msgstr "Carta de combate"
+
+msgctxt "32"
+msgid "  "
+msgstr ""
+
+msgctxt "33"
+msgid "  "
+msgstr ""
+
+msgctxt "34"
+msgid "Pedia"
+msgstr "Pedia"
+
+msgctxt "35"
+msgid "Coil"
+msgstr "Coil"
+
+msgctxt "36"
+msgid "Magnes"
+msgstr "Magnes"
+
+msgctxt "37"
+msgid "Acid"
+msgstr "Acid"
+
+msgctxt "38"
+msgid "Lyra"
+msgstr "Lyra"
+
+msgctxt "39"
+msgid "Vogue"
+msgstr "Vogue"
+
+msgctxt "40"
+msgid "Taurus"
+msgstr "Taurus"
+
+msgctxt "41"
+msgid "Corvus"
+msgstr "Corvus"
+
+msgctxt "42"
+msgid "Virgo"
+msgstr "Virgo"
+
+msgctxt "43"
+msgid "Laplace"
+msgstr "Laplace"
+
+msgctxt "44"
+msgid "Hang Ten"
+msgstr "Hang Ten"
+
+msgctxt "45"
+msgid "Ice"
+msgstr "Ice"
+
+msgctxt "46"
+msgid "Cygnus"
+msgstr "Cygnus"
+
+msgctxt "47"
+msgid "Wolf"
+msgstr "Wolf"
+
+msgctxt "48"
+msgid "ShadowAcid"
+msgstr "AcidOscuro"
+
+msgctxt "49"
+msgid "ShadowCorvus"
+msgstr "CorvusOscuro"
+
+msgctxt "50"
+msgid "ShadowVirgo"
+msgstr "VirgoOscura"
+
+msgctxt "51"
+msgid "Wizard"
+msgstr "Wizard"
+
+msgctxt "52"
+msgid "Boss"
+msgstr "Jefe"
+
+msgctxt "53"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "54"
+msgid "NO ACCESS"
+msgstr "PROHIBIDO"
+
+msgctxt "55"
+msgid "ACCESS"
+msgstr "ACCESO"
+
+msgctxt "56"
+msgid "  "
+msgstr ""
+
+msgctxt "57"
+msgid "Destination"
+msgstr "Destino"
+
+msgctxt "58"
+msgid "Echo Ridge"
+msgstr "Echo Ridge"
+
+msgctxt "59"
+msgid "Spica Mall"
+msgstr "C.C. Spica"
+
+msgctxt "60"
+msgid "WBG Studios"
+msgstr "Estudio WBG"
+
+msgctxt "61"
+msgid "Alohaha"
+msgstr "Alohaha"
+
+msgctxt "62"
+msgid "Natl WAZA HQ"
+msgstr "Cuartel WAZA"
+
+msgctxt "63"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "64"
+msgid "2F"
+msgstr "P2"
+
+msgctxt "65"
+msgid "Roof"
+msgstr "Azotea"
+
+msgctxt "66"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "67"
+msgid "57F"
+msgstr "P57"
+
+msgctxt "68"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "69"
+msgid "2F"
+msgstr "P2"
+
+msgctxt "70"
+msgid "Roof"
+msgstr "Azotea"
+
+msgctxt "71"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "72"
+msgid "57F"
+msgstr "P57"
+
+msgctxt "73"
+msgid "White Card"
+msgstr "Carta blanca"
+
+msgctxt "74"
+msgid "Transform ID"
+msgstr "ID Tranform."
+
+msgctxt "75"
+msgid "Folder"
+msgstr "Carpeta"
+
+msgctxt "76"
+msgid "Luna Display"
+msgstr ""
+
+msgctxt "77"
+msgid "Noise Key"
+msgstr "Clave Ruido"
+
+msgctxt "78"
+msgid "NPC Bro."
+msgstr "NPC Hermano"
+
+msgctxt "79"
+msgid "NPC Bro. Big"
+msgstr "NPC Her. May."
+
+msgctxt "80"
+msgid "Team Big"
+msgstr "Equipo grande"
+
+msgctxt "81"
+msgid "Keyword"
+msgstr "Clave"
+
+msgctxt "82"
+msgid "Mail1"
+msgstr "Correo1"
+
+msgctxt "83"
+msgid "Mail2"
+msgstr "Correo2"
+
+msgctxt "84"
+msgid "Message"
+msgstr "Mensaje"
+
+msgctxt "85"
+msgid "Keypad"
+msgstr "Teclado"
+
+msgctxt "86"
+msgid "Print Reader"
+msgstr ""
+
+msgctxt "87"
+msgid "HELP"
+msgstr "AYUDA"
+
+msgctxt "88"
+msgid "Brother"
+msgstr "Hermano"
+
+msgctxt "89"
+msgid "Text1"
+msgstr "Texto1"
+
+msgctxt "90"
+msgid "Text2"
+msgstr "Texto2"
+
+msgctxt "91"
+msgid "Text3"
+msgstr "Texto3"
+
+msgctxt "92"
+msgid "Menu"
+msgstr "Menú"

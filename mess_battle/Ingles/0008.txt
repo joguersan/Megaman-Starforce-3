@@ -1,0 +1,183 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+I would like to teach you
+about Support Use. Please
+look at the bottom screen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+On the Custom Screen, there
+are dark cards under certain
+cards, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+If you touch them, you will
+be able to use them as
+Support Use Cards.
+<PUSH>
+Single Use is also selectable.
+That means the card can be
+used as normal. But you
+<PUSH>
+can't pick any other cards
+if you choose Single Use.
+<PUSH>
+Back to Support Use...
+Each element activates a
+different Support Use ability:
+<PUSH>
+Non-elemental = AreaEater
+Fire Element = Attack+10
+Aqua Element = Invisible
+<PUSH>
+Elec Element = ParlyzPlus
+Wood Element = GrassStage
+<PUSH>
+Right now, we are going to
+use the Non-elemental card
+<PUSH>
+Cannon. So the Support
+Use will be AreaEater!
+<PUSH>
+AreaEater erases the
+<PUSH>
+front row, pulling the enemies
+closer to you.
+<PUSH>
+First, touch Cannon and
+select Support Use. Then
+<PUSH>
+pick BeastSlap1, followed
+by the OK Button.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+It looks like you're ready.
+So let's test it out!
+<PUSH>
+First, erase the front row
+by using AreaEater.
+<PUSH>
+Follow that with BeastSlap1
+to get a Double Deletion!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Press the OK Button once
+you have picked your cards.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Pick that card after you
+select an attack card.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+First, touch Cannon, then
+pick Support Use.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Could you please pick
+Support Use this time?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+You haven't selected
+BeastSlap1 yet.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Running is not an option.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

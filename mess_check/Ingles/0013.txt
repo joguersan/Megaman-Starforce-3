@@ -1,0 +1,402 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{A0}{E1}{03}{00}{0F}{00}
+<NEW-DIALOG>
+<Game>
+Cockle-doodle-doo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{09}{E1}{00}{00}{8F}{06}{99}{06}{15}{00}{09}{E1}{00}{00}{81}{00}{B7}{07}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's the roof garden.
+<PUSH>
+Radishes and strawberries
+are being grown in it now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0D}{E1}{01}{00}<Chery.Blosom>
+o{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a basketball hoop.
+<PUSH>
+The ball mysteriously returns
+by itself, even if it falls
+off the building.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a projector that
+projects Real Waves,
+creating the nearby tree.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{09}{E1}{00}{00}{81}{06}{A5}{06}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Real Wave tree.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a real evergreen tree.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The Sprinker is attacking
+Woody with crazy force!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*crackle, crackle*
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0E}{E1}{01}{00}{06}{00}{19}{E1}{01}{00}{06}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Argh! *cough, gasp*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Some gourds...
+<PUSH>
+Who knows how big
+they will get!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a paper airplane
+that landed here.
+<PUSH>
+It looks like it would fly
+very far if someone were
+to throw it into the wind.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{8E}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a basketball hoop.
+<PUSH>
+The ball mysteriously returns
+by itself, even if it falls
+off the building.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's one of the seven
+wonders of Echo Ridge
+Elementary!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(For a second there
+{13}{EC} I felt a really strong
+{13}{EC} Noise presence...)
+<PUSH>
+Hmm, it must have just
+been my imagination...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It looks like a tree...
+But something
+about it feels strange.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The sprinkler is going
+out of control!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It must be a virus's doing!
+Let's check out the
+sprinkler's Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The sprinkler isn't
+working at all.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's definitely something
+wrong with it. We better
+check out its Cyber Core.
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{00}{00}{18}{16}<Sonia>
+{0C}{E1}{01}{00}{19}{16}<Sonia>
+{0C}{E1}{00}{00}{87}{16}<Sonia>
+{0C}{E1}{01}{00}{88}{16}<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The wall has writing on it.
+"The school is done! Yahoo!"
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, I found the graffiti!
+I better remove it.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*scrub, scrub*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's nice and clean now.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{88}{16}
+[END]
+
+[SENTENCE NUMBER 27]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+

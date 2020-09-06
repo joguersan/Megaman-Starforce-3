@@ -1,0 +1,43 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Estás acabado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Combate de ondas, adelante!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

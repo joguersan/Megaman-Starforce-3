@@ -1,0 +1,260 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0A}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm looking for people who
+want to take my quiz!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{25}{16}{0D}{00}{0C}{E1}{00}{00}{41}{16}{03}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Hee hee hee...
+I made a really great quiz.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'll take your quiz!
+<PUSH>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Hee hee hee...
+My quiz is really hard!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Take the quiz?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0A}{E1}{24}{16}
+<NEW-DIALOG>
+<Chery.Blosom>
+Get ready for question #1.
+<PUSH>
+Gearoid ran the 400 meter
+relay for his track team.
+<PUSH>
+He ran his hardest, and was
+able to squeeze past the
+person in second place.
+<PUSH>
+What place did Gearoid
+finish in?
+<PUSH>
+Please answer with a number.
+<PUSH>
+{7B}{E1}{01}{00}{02}{00}{08}{00}{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Geo>
+I don't want to do this
+anymore!
+<PUSH>
+{0B}{E1}{24}{16}{0B}{E1}{41}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+That's correct!
+<PUSH>
+When the person in 3rd
+place passes the person in
+2nd, he is now in 2nd place.
+<PUSH>
+The next question will be
+much harder.
+<PUSH>
+Here we go, question #2.
+A hot dog eating contest
+was held with ten people.
+<PUSH>
+Ben finished the contest
+6th from the bottom.
+<PUSH>
+What place did Ben finish in?
+<PUSH>
+Please answer with a number.
+<PUSH>
+{7B}{E1}{01}{00}{05}{00}
+{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm sorry, that's incorrect!
+Please try again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+That's correct!
+<PUSH>
+10 minus 6 equals 4.
+<PUSH>
+And now for the final and
+toughest question.
+<PUSH>
+A marathon with ten people
+was held on a track around
+a playing field.
+<PUSH>
+Greg just managed to pass
+the person in last place
+right before the finish line.
+<PUSH>
+Greg was the only person
+to pass the runner in last
+place.
+<PUSH>
+What place did Greg finish in?
+<PUSH>
+Please answer with a number.
+<PUSH>
+{7B}{E1}{01}{00}{01}{00}{0C}{00}{06}{E1}{0B}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm sorry, that's incorrect!
+Please try again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+That's correct!
+<PUSH>
+Hee hee hee...
+<PUSH>
+The first person that is
+capable of passing the
+runner in last place is the
+<PUSH>
+person in 1st place. This is
+called lapping a person.
+<PUSH>
+You're really smart.
+<PUSH>
+No one else has ever
+answered all of my
+questions correctly.
+<PUSH>
+I'd love to be Brothers with
+someone that's so smart.
+<PUSH>
+Would you mind being
+Brothers with me?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Not at all!
+<PUSH>
+{6E}{E1}{00}{00}9
+<NEW-DIALOG>
+<Game>
+Geo and {D9}{E2}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+You'll definitely have to take
+my next quiz once it's ready.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{25}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{E1}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+I'm so sorry.
+Please try again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+You'll definitely have to take
+my next quiz once it's ready.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,215 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Dos semanas después...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Papá...
+Mega...
+<PUSH>
+Gracias a vosotros
+conseguí volver a casa.
+<PUSH>
+Me lo estoy pasando
+muy bien.
+<PUSH>
+Y he decidido vivir mi vida
+al máximo, aunque no estéis
+aquí...
+<PUSH>
+Pero a veces me pongo
+muy triste...
+<PUSH>
+Os echo mucho de menos.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?{16}{E1}
+¿Y esa estrella?{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¿Es una estrella fugaz azul?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Se...
+<PUSH>
+¡Se está acercando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Aaahhh!!
+¡Viene hacia aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Eh?!.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, je, je...
+<PUSH>
+¡¡Eh, chico!!
+¡¡He vuelto!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Me.{14}{E1}.{14}{E1}.{14}{E1}ga{14}{E1}.{14}{E1}.{14}{E1}.?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡MEGAAA!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡No estoy soñando, ¿verdad?!
+<PUSH>
+¡¿Estás aquí de verdad?!
+<PUSH>
+¡¡Pensaba que no iba
+a volver a verte!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Je, je, je!!
+<PUSH>
+¡¿Te creías que iba a estirar
+la pata tan fácilmente?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ah, sí...
+Y no he venido solo,
+pero aún no ha llegado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1} ¡¿Qué?!
+<PUSH>
+T-Te refieres a{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Ah, aquí está!!
+<PUSH>
+¡¡Chico, ¿no quieres
+ponerte el guante de
+béisbol?!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Qué?!
+¡¿O-Otra vez?!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡U-Uaaaaa!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

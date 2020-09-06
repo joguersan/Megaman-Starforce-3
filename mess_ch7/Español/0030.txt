@@ -1,0 +1,369 @@
+[SENTENCE NUMBER 1]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Sr. Boreal nos llamó
+mientras venías aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Nos lo ha contado todo,
+incluido el plan.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, bien{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Es como os ha dicho.
+<PUSH>
+Mañana voy a ir al espacio
+para detener el Meteorito G.
+<PUSH>
+Esta es nuestra última
+oportunidad.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+.{14}{E1}.{14}{E1}.{14}{E1} No te pasará nada, ¿verdad?
+<PUSH>
+Va a salir todo bien, ¿no?
+<PUSH>
+¿Me estoy preocupando
+demasiado?
+<PUSH>
+Si tú...
+Igual que Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estaré bien.
+<PUSH>
+Le hice una promesa a Ace.
+<PUSH>
+Dije que siempre protegería
+a las personas importantes
+para mí.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ojalá pudiéramos estar
+todos juntos en un momento
+tan terrible como este...
+<PUSH>
+Si no volviera a ver a
+alguno de vosotros...
+No quiero ni pensarlo.
+<PUSH>
+Geo, prométeme una cosa.
+<PUSH>
+Prométeme que volverás
+con nosotros{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eso te lo puedo prometer.
+Volveré.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Nos lo has prometido, ¿vale?!
+<PUSH>
+¡Como nos mientas, te voy
+a hacer comer un kilo
+de lentejas!
+<PUSH>
+Así que...
+¡¡Más te vale volver
+de una pieza!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Tienes que estar para
+la fiesta de la elección
+de la dele como presidenta!
+<PUSH>
+¡Y para el próximo
+concierto de Sonia!
+<PUSH>
+¡¡No puedes perderte
+nada de eso!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí...
+¡Qué ganas tengo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Yo también!
+<PUSH>
+¡Nos lo vamos a
+pasar genial!
+<PUSH>
+¡Y todos estaremos ahí!
+<PUSH>
+Todos{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Todos nosotros{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Snif{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} Snif{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Zack, no llores!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Sí, Dele!!
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} ¡Buaaa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mamá...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Siento interrumpirte cuando
+estás con tus amigos.
+<PUSH>
+Pero tenía que hablar
+contigo de una cosa.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Nosotros somos los que tenemos
+que disculparnos por robarle
+tiempo con su hijo.
+<PUSH>
+Tómese el tiempo que necesite.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ha venido una vieja amiga
+a casa.
+<PUSH>
+Antes trabajaba con tu
+padre y es una buena
+amiga mía.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1} ¿Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Es uno de sus nombres...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Te lo ha contado todo, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Sí...
+<PUSH>
+Que tú eres Mega Man
+y que tu padre está dentro
+de esa estrella fugaz{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1} Mamá, siento mucho no
+habértelo dicho antes.
+<PUSH>
+No quería precuparte.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Todo este tiempo has estado
+luchando, ¿no?
+<PUSH>
+Pensaba que siempre serías
+mi niñito...
+<PUSH>
+Pero te has convertido en un
+hombre fuerte y valiente,
+igual que tu padre.
+<PUSH>
+Me pone un poco triste,
+pero estoy orgullosa de ti.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mamá...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+No voy a detenerte.
+<PUSH>
+Eres el hijo de tu padre.
+<PUSH>
+Creo de verdad que volverás
+a casa...
+<PUSH>
+Creo que volverás habiendo
+madurado incluso más
+que ahora{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Llévate esto.
+<PUSH>
+Son datos que dejó tu
+padre cuando se fue
+al espacio.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Datos de papá...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Estos datos eran el
+tesoro de tu padre.
+<PUSH>
+Son recuerdos de
+nuestra familia.
+<PUSH>
+Seguro que dentro de esa
+estrella fugaz te llevarán
+hasta tu padre.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Gracias, mamá.
+<PUSH>
+Cuando vuelva te los devolveré.
+<PUSH>
+{02}{E2}{0C}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+«Llave de Kelvin»!
+<PUSH>
+{01}{E2}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Mañana{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Es el último día hasta que
+caiga el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+.{15}{E1}.{15}{E1}.{15}{E1} Hemos terminado con
+los preparativos.
+<PUSH>
+¿Podrías venir a la NAZA?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

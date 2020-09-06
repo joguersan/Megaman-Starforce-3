@@ -1,0 +1,73 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{B8}{03}{05}{00}{0C}{E1}{01}{00}<Vogue>
+{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Restricted by:
+Spade Magnes R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{00}{00}{B7}{03}{05}{00}{08}{E1}{0C}{00}{F4}{01}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Fighting in a set number of
+battles is required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions set
+by Spade Magnes R...
+Access granted.
+<PUSH>
+{0B}{E1}{B8}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Participation in 500 battles
+confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{B7}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+

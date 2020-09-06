@@ -1,0 +1,207 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡L-La NAZA...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Jo, jo, jo, jo, jo!!
+<PUSH>
+¡¡No tenéis dónde huir,
+insectos!!
+<PUSH>
+¡Líderes del mundo!
+¡¡Espero vuestras cartas
+de sumisión!!
+<PUSH>
+¡Si no las recibo, el
+inhibidor del Meteorito G
+caerá sobre vuestros países!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Será capullo!!
+¡¿Es una amenaza?!
+<PUSH>
+¡¿Por qué no vas a por mí
+si eres tan valiente?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Tenési tres días!
+<PUSH>
+¡Después, los países que
+no se hayan sometido,
+desaparecerán!
+<PUSH>
+¡¡Jo, jo, jo!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡G-Geo!!
+¡¿Y la gente que
+estaba en la NAZA?!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Eso!
+¡¿El Sr. Boreal y la
+Dra. Goodall estarán bien?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Jopé{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No puedo contactar con ellos.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Esto es malo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No me creo que haya acabado
+con la NAZA tan fácilmente{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Pedia!!
+¡¿En qué estado está la NAZA?!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Está repleta de Ruido.
+<PUSH>
+Parece que el Ruido es
+tan fuerte que bloquea
+cualquier comunicación.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Inconcebible...
+<PUSH>
+O sea, que por eso lo
+llama «inhibidor»...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qué hacemos?{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+La Dra. Goodall y los demás...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+No me lo creo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Ya es un mazazo la
+muerte de Ace...
+<PUSH>
+Ellos también no...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Chicos, no perdáis la
+esperanza!
+<PUSH>
+¡¡Si lo hacéis, estará
+todo perdido!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Tienes razón!!
+<PUSH>
+¡Aún no hemos perdido!
+¡¡Seguro que podemos
+hacer algo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Siempre hemos superado
+los obtáculos luchando!
+<PUSH>
+¡¡King puede tener el
+Meteorito G, pero aún
+no ha ganado!!
+<PUSH>
+Ace...
+¡¡Ace no se habría rendido
+en un momento así!!
+<PUSH>
+¡Vamos a calmarnos y
+a pensar!
+<PUSH>
+¡¡Entre todos se nos
+ocurrirá algo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Seguro!
+<PUSH>
+¡¡Chicos, Geo y Luna
+tienen razón!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Sí!!
+¡No voy a rendirme!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Pedia y yo vamos a
+analizar el inhibidor
+a fondo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

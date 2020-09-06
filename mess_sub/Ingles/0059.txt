@@ -1,0 +1,117 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Cancel the trade?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Trade canceled.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Oops...
+It appears the other side
+has canceled the trade.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Trade complete!{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+...What did you hope to
+accomplish by that?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Bud>
+Even I'm smart enough to
+realize that trade was
+pointless!{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+What was the point of
+that?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Zack>
+Uh... Isn't that
+the same card?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It seems they can't hold
+any more of this card.
+Let's pick another one.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Now saving... Do not
+turn off the power!
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save Complete!{01}{E1}
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Save failed.
+Trying again.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Could not access the data.
+Turn off the power and
+reinsert the Game Card.
+[END]
+

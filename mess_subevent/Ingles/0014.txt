@@ -1,0 +1,470 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0A}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I so want to eat that!
+It's cold and sweet, and it
+reminds me of my childhood.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Darn... Time's up.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It melted everywhere.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Looks like I failed...
+<PUSH>
+Time to get psyched up and
+try it one more time! Let's
+go buy another ice cream!
+<PUSH>
+
+<END-DIALOG>
+{0B}{E1}{8D}{16}{82}{E1}+{FF}{FF}
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{1B}{16}#{0C}{E1}{00}{00}{3C}{16}{03}{00}{0C}{E1}{00}{00}{1A}{16}<Mr.King-2>
+{0C}{E1}{00}{00}{8D}{16}<Joker>
+{06}{E1}"
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3My job is to issue
+{A5}{E5}s.
+<PUSH>
+If you have one of these,
+you can ride the Wave
+<PUSH>
+Liner to WAZA. Something
+ordinary people can't do.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Can you issue one for me?
+<PUSH>
+
+<NEW-DIALOG>
+3Code Number 003
+Geo Stelar
+<PUSH>
+Requesting ID, correct?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes!
+<PUSH>
+
+<NEW-DIALOG>
+3Understood. However, it will
+take a some time to issue.
+<PUSH>
+{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{0C}{E1}{00}{00}{00}{16}{05}{00}{0C}{E1}{00}{00}{01}{16}<Solo>
+{06}{E1}{05}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{00}{00}{02}{16}{06}{00}{0C}{E1}{00}{00}{03}{16}<Solo>
+{06}{E1}{06}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{04}{16}{07}{00}{0C}{E1}{00}{00}{05}{16}<Solo>
+{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{0C}{E1}{00}{00}{06}{16}{08}{00}{0C}{E1}{00}{00}{07}{16}<Solo>
+{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{00}{00}{08}{16}{09}{00}{0C}{E1}{00}{00}{09}{16}<Solo>
+{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{0C}{E1}{00}{00}{0A}{16}
+{0C}{E1}{00}{00}{0B}{16}<Solo>
+{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{00}{00}{0C}{16}{0B}{00}{0C}{E1}{00}{00}{0D}{16}<Solo>
+{06}{E1}{0B}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{00}{00}{0E}{16}{0C}{00}{0C}{E1}{00}{00}{0F}{16}<Solo>
+{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{00}{00}{10}{16}{0D}{00}{0C}{E1}{00}{00}{11}{16}<Solo>
+{06}{E1}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}{12}{16}{0E}{00}{0C}{E1}{00}{00}{13}{16}<Solo>
+{06}{E1}{0E}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+{0C}{E1}{00}{00}{14}{16}{0F}{00}{0C}{E1}{00}{00}{15}{16}<Solo>
+{06}{E1}{0F}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{00}{00}{16}{16}{10}{00}{0C}{E1}{00}{00}{17}{16}<Solo>
+{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+{0C}{E1}{00}{00}{18}{16}{11}{00}{0C}{E1}{00}{00}{19}{16}<Solo>
+{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+{0C}{E1}{00}{00}{1C}{16}{12}{00}{0C}{E1}{00}{00}{1D}{16}<Solo>
+{06}{E1}{12}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+{0C}{E1}{00}{00}{1E}{16}{13}{00}{0C}{E1}{00}{00}{1F}{16}<Solo>
+{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{00}{00}{20}{16}<Geo>
+{0C}{E1}{00}{00}{21}{16}<Solo>
+{06}{E1}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{00}{00}{22}{16}{15}{00}{0C}{E1}{00}{00}{23}{16}<Solo>
+{06}{E1}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{00}{00}{24}{16}<Hope(Mom)>
+{0C}{E1}{00}{00}{25}{16}<Solo>
+{06}{E1}<Hope(Mom)>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0C}{E1}{00}{00}{26}{16}<Prez>
+{0C}{E1}{00}{00}{27}{16}<Solo>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0C}{E1}{00}{00}{28}{16}<Bud>
+{0C}{E1}{00}{00}{29}{16}<Solo>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{0C}{E1}{00}{00}{2A}{16}<Zack>
+{0C}{E1}{00}{00}{2B}{16}<Solo>
+{06}{E1}<Zack>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{00}{00}{2C}{16}<Sonia>
+{0C}{E1}{00}{00}{2D}{16}<Solo>
+{06}{E1}<Sonia>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<NEW-DIALOG>
+<Mega>
+(Why don't we help out
+ that lady while we wait
+ for the ID to be issued?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+(It looks like you have that
+ lady's HELP pop-up. It
+ would be a great way to
+<PUSH>
+ use our time while we wait
+ for the ID to be issued.
+<PUSH>
+ But you are already helping
+ a different person with a
+ request at the moment...)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, but I'd kind of like
+to get that {A5}{E5}
+<PUSH>
+as soon as possible.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Good point.
+Then let's cancel the other
+request!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK. We'll have to go back
+to the person who made the
+request to cancel it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+3There's nothing really wrong,
+but...
+<PUSH>
+I absolutely love to have my
+mid-afternoon snack.
+<PUSH>
+Snacks eaten at work are
+so much more delicious than
+when eaten at home!
+<PUSH>
+But today I forgot to bring
+any snacks to work...
+<PUSH>
+Life without snacks is like
+french fries without ketchup!
+<PUSH>
+Well, more like cake without
+icing...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What are you craving today?
+<PUSH>
+
+<NEW-DIALOG>
+3Without a doubt, ice cream!
+<PUSH>
+More specifically, ice cream
+from the {BE}{E4} in
+<Spica.Mall>.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Go buy her ice cream?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}<Jack>
+{11}{EC}{03}{00}<(Queen)Tia>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<NEW-DIALOG>
+3You will?
+That's fantastic!
+<PUSH>
+I'll work on getting your ID
+issued while you're away.
+<PUSH>
+{0A}{E1}{1A}{16}{0A}{E1}{8C}{16}{20}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 31]
+
+<NEW-DIALOG>
+<Geo>
+Maybe I'll help another time...
+
+<PUSH>
+{0B}{E1}{3C}{16}
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Wow, that was fast.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}<Heartless>
+{11}{EC}{03}{00}!
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<NEW-DIALOG>
+3*depressed*
+My... ice cream...!
+<PUSH>
+{0B}{E1}{3C}{16}{0B}{E1}{1A}{16}{0B}{E1}{1B}{16}{0B}{E1}{8C}{16}{0B}{E1}{8D}{16}{82}{E1}+{FF}{FF}{21}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 34]
+
+<NEW-DIALOG>
+3I'll work on getting your ID
+issued.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{23}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+*huff, huff*
+I brought the ice cream!
+<PUSH>
+
+<NEW-DIALOG>
+3That's my favorite type of
+{9B}{E5}!
+<PUSH>
+You're something else, kid.
+<PUSH>
+Here's something to show
+you my thanks.
+<PUSH>
+{81}{E1}{E8}{03}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"1000 Zennys"!
+<PUSH>
+
+<NEW-DIALOG>
+3And here is your brand new
+{A5}{E5}, as promised.
+<PUSH>
+With this, you can travel to
+and from WAZA via the
+Wave Liner.
+<PUSH>
+{82}{E1}5{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{A5}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}+{FF}{FF}{0A}{E1}{1B}{16}{21}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I'll be able to finish the work
+day strong now.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+

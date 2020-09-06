@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Corona
+<PUSH>
+Aumenta la probabilidad de
+que aparezca primero una
+carta de clase Mega
+<PUSH>
+Cartas Elec.:
+ataque +20
+<PUSH>
+Cartas no aten. y no elem.
+ciegan a los enemigos
+<PUSH>
+Ataque cargado:
+"Disparo de plasma",
+paraliza al enemigo
+<PUSH>
+Revisa tu correo
+para más detalles
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ruido Corona
+Cambio completado
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C8}{10}
+[END]
+

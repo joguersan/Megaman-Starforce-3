@@ -1,0 +1,90 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2F}{E1}
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Equip this weapon?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{32}{EC}{00}{00}{02}{00}{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}Hey! Take it easy!{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}Hey, that tickles!
+You're doin' that on
+purpose! Aren't you!?{12}{EC}
+<PUSH>
+{14}{EC}I'm warning you,
+you'd better knock it off.{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}...OK, now I've had it!
+Now it's my turn have
+some fun!{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+Hehe, I gotcha,
+didn't I?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Behold, the Mega Buster
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Change equipment
+  {09}{EC}Quit
+<PUSH>
+
+[END]
+

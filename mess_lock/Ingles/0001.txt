@@ -1,0 +1,188 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{0A}{E1}{0D}{00}
+<NEW-DIALOG>
+{90}{00}I am sorry, but the Wave
+Liner is currently being
+serviced. Please wait a bit.
+<PUSH>
+{0B}{E1}{0D}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+This is Prez's house.
+I don't really have any
+reason to be here, though...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+This is Bud's house.
+I don't really have any
+reason to be here, though...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+This is Zack's house.
+I don't really have any
+reason to be here, though...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It looks like {B6}{E4} is
+closed.
+<PUSH>
+Mr. Suther must be out
+surfing right now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Shouldn't you go to school?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+If I were to pulse out now...
+I don't even want to know!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}I am sorry, but the Wave
+Liner is currently being
+serviced. Please wait a bit.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh yeah!
+I should ask Mom
+about Mr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oops!
+Prez and the gang
+are waiting for me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}All Wave Liner activity is
+suspended for the time being.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go ask Bud and them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Access Forbidden =
+Unable to authenticate
+WAZA Access Key.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

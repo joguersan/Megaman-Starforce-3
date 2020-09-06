@@ -1,0 +1,285 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Tenemos la carta
+Gigaenergía, Dele.
+Toma.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Vaya, lo has conseguido,
+Geo!
+<PUSH>
+No podríamos haberlo
+hecho sin ti. I
+<PUSH>
+Dásela tú al club
+de ciencias.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Claro, por mí bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vivaaaa!
+¡Volvamos a la escuela!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Los del club de ciencias
+se van a poner como locos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Esos son...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Las fuerzas especiales
+de la Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Hala!
+¡Son ellos de verdad!
+<PUSH>
+¡Nunca los había
+visto en persona!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Qué guays son!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿A qué viene
+tanta emoción?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué tienen de especial,
+si se puede saber?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿No sabéis quienes son?!
+¡Son las fuerzas especiales
+de la Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No tengo ni idea de
+qué me estás hablando.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Son una organización que
+trabaja a las órdenes
+directas de {51}{E2}.
+<PUSH>
+Se encargan de delitos
+de ondas EM que
+<PUSH>
+involucran a los Wizard
+y las Ondas Reales.
+<PUSH>
+Ni sueñes en entrar si
+no tienes habilidades
+extraordinarias.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+¡Son lo más de lo más!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Son alucinantes...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Como os gustan estas
+cosas a los chicos.
+A mí me importa un pimiento.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Que te importa un pimiento?
+<PUSH>
+¡Pues a nuestra estimada
+líder tiene que importarle!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo tiene razón...
+<PUSH>
+¿Quieres oír toda la
+historia de la
+Policía Satella?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡No, vale, vale!
+<PUSH>
+Me morderé la lengua,
+aunque me duela...
+<PUSH>
+De todos modos no
+tienen nada que ver
+con nuestro Equipo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡No pasa nada, de verdad!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Sí, seguro que la gran
+historia de la Policía
+Satella te llega al corazón!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Pero con los dos hablando
+a la vez no acabaremos
+nunca, par de pirados!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué gran verdad...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿Todo bien, Eos?
+Sentimos llegar tarde.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No te preocupes.
+<PUSH>
+Pero mira, uno de esos
+naipes se cayó
+<PUSH>
+del Wizard que perdió
+el control. Parece que
+han empezado a moverse.
+<PUSH>
+
+<NEW-DIALOG>
+0Eso parece.
+<PUSH>
+Los niveles de Ruido de
+ese Wizard se salían
+del gráfico.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ese era su plan desde
+el principio. Han
+jugado con nosotros.
+<PUSH>
+Tarde o temprano
+volverá a ocurrir.
+<PUSH>
+
+<NEW-DIALOG>
+0Ah, sí. ¿Has podido
+luchar contra
+Mega Man, Eos?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No. El incidente se
+produjo cuando íbamos
+a empezar.
+<PUSH>
+
+<NEW-DIALOG>
+0Ah, no pasa nada, supongo.
+<PUSH>
+Por ahora, no perdamos
+de vista a Geo Stelar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,50 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Estamos en la Astro Wave!
+<PUSH>
+¡¿A que es alucinante, Mega?!
+¡Una Carretera de Ondas en
+el espacio!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Para un FM-iano como yo,
+no es algo tan raro.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace es la bomba...
+<PUSH>
+¡Gracias a él he cumplido
+mi sueño e ir al espacio!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo... Entiendo tu emoción,
+pero hay que ponerse
+en marcha.
+<PUSH>
+Si cruzamos por aquí,
+seguro que encontramos
+una forma de ir a <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tienes razón.
+<PUSH>
+¡Vamos a <Alohaha>
+con los demás!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

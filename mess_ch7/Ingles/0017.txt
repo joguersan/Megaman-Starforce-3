@@ -1,0 +1,136 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Lee!?
+And Belle too!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What the heck is going on?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+We understand the danger
+of sending this out, but we
+could not stay silent.
+<PUSH>
+Everyone from around the
+world who is watching this!!
+<PUSH>
+We cannot give in to Dealer!!
+<PUSH>
+We've got to fight for our
+hopes and dreams, for the
+future, until the very end!!
+<PUSH>
+We can't lose if we all
+combine our energy and
+effort into the cause!!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Don't give up, everyone!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+We need Wizards to stand
+up too!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So it's a call to unite, huh?
+<PUSH>
+They're trying to get the
+whole world to cooperate.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What they're doing is too
+dangerous!
+<PUSH>
+If King finds out what
+they're doing...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+They said that they
+understand the danger.
+<PUSH>
+They know they're risking
+their lives sending this out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Get away from there, Lee!!
+Run!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}{15}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Foolish rebels...
+<PUSH>
+It appears as if you have
+already forgotten the
+greatness of my power.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+King, no!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+I suppose I will have to
+refresh your memories!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

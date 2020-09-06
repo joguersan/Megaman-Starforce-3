@@ -1,0 +1,324 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+You can become Brothers
+with Friends close by
+<PUSH>
+using the wireless
+communications capabilities
+of your Nintendo DS.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+From the Network menu,
+select "DS Wireless Play"...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Here, if you select
+"Wave Battle" or
+"Brother Invitation", you
+<PUSH>
+can become Brothers after
+you've had a head-to-head
+Wave Battle with your Friend.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+But if you want to become
+Brothers with a friend who
+is far away,
+<PUSH>
+you can do it via
+Nintendo Wi-Fi Connection.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Select "Nintendo Wi-Fi 
+Connection" from the
+Network Menu.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Here, select
+"Friend Code Invt" and follow
+the on-screen instructions.
+<PUSH>
+If you're not sure about
+your Online Setup, you 
+should ask an adult for help.
+<PUSH>
+If you become Real Brothers
+with someone in your
+Brother Band,
+<PUSH>
+you'll be able to view
+their personal profile.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is {2E}{EC}'s
+Profile Screen.
+<PUSH>
+You can access this screen
+by touching your icon on the
+Brother Screen or by
+<PUSH>
+touching the Mega Man icon
+on the Mega Man Screen.
+<PUSH>
+This screen is where you
+can check your personal
+information and details.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Your Codename, Message
+and Link Power are displayed
+on in that order. Your
+<PUSH>
+message is the first thing
+a Real Brother sees when
+they look at your profile.
+<PUSH>
+Why don't you try writing a
+message to your Brothers
+now?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Well, did your message come
+out the way you wanted it
+to? Your Link Power should
+<PUSH>
+go up after you become
+Brothers with Luna, Bud,
+and Zack.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+White Cards can be
+downloaded when at Wave
+Stations.
+<PUSH>
+They come in sets of 4.
+Since they're white, they're
+easy to select.
+<PUSH>
+Be sure to go and check
+out a Wave Station and
+download a set.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Your Team Name, Team Logo,
+and Purpose are generally
+filled in automatically.
+<PUSH>
+But one day, when you
+fulfill your Purpose,
+<PUSH>
+you'll be able to freely edit
+your Team Name, Team Logo,
+and Purpose.
+<PUSH>
+Real Brothers can become
+part of the same Team by
+<PUSH>
+choosing the same Team
+Name.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This screen displays online
+battle results and other
+battle-related information.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+For "Favorites", you can
+either choose your favorite
+<PUSH>
+Battle Card from a list or
+enter them manually.
+<PUSH>
+Why don't you go ahead and
+set up your "Favorites"
+now?
+<PUSH>
+
+<END-DIALOG>
+{10}{EC}{00}{00}Choose from a list
+{10}{EC}{01}{00}Enter manually
+{0F}{EC}{01}{00}{00}{00}{00}{00}{02}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+That was a nice set up.
+<PUSH>
+As you can see, by taking a
+look at this screen you can
+<PUSH>
+learn some pretty interesting
+things about your friends.
+<PUSH>
+This concludes the
+explanation of Brother Bands
+and Profiles.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+OK, so let's you and I
+form a Brother Band right
+here and now.
+<PUSH>
+{10}{E2}{43}{02}
+<NEW-DIALOG>
+<Game>
+Geo became Brothers
+with {A3}{E2}.
+<PUSH>
+Geo's Link Power has
+increased by 60!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I look forward to being your
+Brother for many years to
+come.
+<PUSH>
+Oh, and don't forget to form
+a Brother Band with Zack
+and Bud as well.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

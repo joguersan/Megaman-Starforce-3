@@ -1,0 +1,43 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Lo hemos conseguido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ahora tenemos que
+recuperar a Strong!
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Reconfigurando el
+sistema medioambiental.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡En marcha, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,431 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+.{16}{E1}.{16}{E1}.{16}{E1}Dad.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}...Hey, kiddo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}.{15}{E1}.{15}{E1}.{15}{E1}You've grown.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dad...!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Thanks for taking care of
+him, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No sweat.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}There's so much I want to
+talk to you about. But it'll
+have to wait for now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Meteor G is still growing
+stronger and stronger...
+<PUSH>
+I can't hold it back anymore.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let me help, Dad!!
+<PUSH>
+You'll be deleted if you push
+yourself any harder!!
+<PUSH>
+Leave it to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}You've really grown into an
+upstanding young man...
+<PUSH>
+I guess it's time to pass
+the baton...
+<PUSH>
+Mega Man is capable of
+anything, right?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ho ho ho...
+<PUSH>
+I'm not so sure about that.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+If I cannot have the planet
+for my own...
+<PUSH>
+Then I will just have to
+destroy it.
+<PUSH>
+I will become one with this
+shooting star, and rain
+<PUSH>
+punishment down on all of
+you pathetic humans.
+<PUSH>
+Farewell, Earth!{15}{E1}
+Farewell, humanity!{15}{E1}
+<PUSH>
+Your time is up!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Meteor G!!
+Return to me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}...!!
+This isn't good!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Please stop, King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's too late!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Watch in awe as Meteor G
+and I become one!!
+<PUSH>
+Ho ho ho ho ho!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<(Queen)Tia>
+{01}{00}{A0}{E1}{04}{00}<
+<START-DIALOG>
+{10}{E2}{66}{04}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Mu{13}{E1}wa{13}{E1}ha{13}{E1}ha{13}{E1}ha{13}{E1}ha{13}{E1}ha{13}{E1}ha{13}{E1}ha!!
+<PUSH>
+Well...
+What do you think!?
+<PUSH>
+I will lead Earth to its
+destruction...
+I am Crimson Dragon!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}What the...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Kelvin Stelar!!
+<PUSH>
+You have been a thorn in
+my paw for far too long...
+<PUSH>
+It is a shame that such
+great power must go to
+waste!!
+<PUSH>
+Which is why I will have your
+power added to mine!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Ungh!!
+A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h{13}{E1}h{13}{E1}h!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dad!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kelvin!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Geo!!
+Don't worry about me!!
+<PUSH>
+You've got to stop King and
+destroy Meteor G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+But...
+I can't...
+<PUSH>
+I've missed you so much...
+And now I finally found you...
+<PUSH>
+I won't let you go!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}What did you come all the
+way here for!?
+<PUSH>
+To protect those you love...
+Right!?
+<PUSH>
+There are many people on
+Earth who you share deep
+bonds with...
+<PUSH>
+And Hope...
+Your mother is there too!!
+<PUSH>
+You can't let all of them
+down!! They believe in you!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}You must fight, Mega Man!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Dad{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Darn it!!
+Kelvin!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ho ho ho ho ho!
+The power is overwhelming!!
+<PUSH>
+So, Mega Man!
+What will you do!?
+<PUSH>
+Are you still going to
+challenge me, even after I
+have acquired such power!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Kelvin Stelar is now a part
+of me!!
+<PUSH>
+Would a nice boy like you
+harm his own father!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+K-Kid...!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dad told me to fight{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+If I don't stop you now,
+then all the sacrifices that
+<PUSH>
+everyone has made until now
+will have been in vain!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Solo>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Crimson Dragon!!
+<PUSH>
+For the people that I love...
+<PUSH>
+I will defeat you! You won't
+see the light of tomorrow!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+You are pitiable, indeed!
+<PUSH>
+Come then!!
+<PUSH>
+Have a look at the true
+power of Meteor G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's rock, kid!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Last Battle!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Megaman>
+Ride On!!{30}{EC}
+<END-DIALOG>
+
+[END]
+

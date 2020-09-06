@@ -1,0 +1,401 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0A}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I really want to get Woody
+to try this amazing health
+drink I heard about.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{0B}{16}{0B}{00}{0C}{E1}{00}{00}{34}{16}{03}{00}{0C}{E1}{01}{00}{63}{16}
+{0C}{E1}{01}{00}{0A}{16}{07}{00}{0C}{E1}{01}{00}{5C}{16}{07}{00}{0C}{E1}{01}{00}{5E}{16}{07}{00}{0C}{E1}{01}{00}{5F}{16}{07}{00}{0C}{E1}{01}{00}{60}{16}{07}{00}{0C}{E1}{01}{00}{61}{16}{07}{00}{0C}{E1}{01}{00}{62}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I wonder if Woody is alright
+all by himself...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It looks like you're worried
+about Woody.
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I am, actually.
+<PUSH>
+He's been working so hard,
+I'm worried that he's going
+to wear himself out...
+<PUSH>
+I want to get him to try a
+health drink that you can
+get in <Alohaha>.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+I can help you out!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I can get the health drink
+in <Alohaha>, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Well...
+I heard that it is really
+hard to get ahold of.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, I'll see what I can do.
+<PUSH>
+{0A}{E1}{5C}{16}{0A}{E1}{0A}{16}{20}{EC}{D5}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Angel.Wise>
+Thanks anyway.
+I'm sorry for the trouble...
+<PUSH>
+Oh, please don't go over
+there.
+<PUSH>
+Take this! Cannon!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Huh!? Did she pop a gasket?
+<PUSH>
+{0B}{E1}{34}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Did you already give it to
+Woody?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Angel.Wise>
+Thanks anyway.
+I'm sorry for the trouble...
+<PUSH>
+Oh, please don't go over
+there.
+<PUSH>
+Take this! Cannon!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Huh!? Did she pop a gasket?
+<PUSH>
+{0B}{E1}{34}{16}{0B}{E1}{0A}{16}{0B}{E1}{0B}{16}{0B}{E1}{5C}{16}{0B}{E1}{5D}{16}{0B}{E1}{5E}{16}{0B}{E1}{5F}{16}{0B}{E1}{60}{16}{0B}{E1}{61}{16}{0B}{E1}{62}{16}{0B}{E1}{63}{16}{82}{E1}%{FF}{FF}{82}{E1}&{FF}{FF}{82}{E1}'{FF}{FF}{82}{E1}({FF}{FF}{21}{EC}{D5}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Angel.Wise>
+You're the best!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Thank you very much for
+giving it to Woody!
+<PUSH>
+Here, this is for you!
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E1}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I'm so excited to see Woody
+start feeling better!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{0B}{16}{21}{EC}{D5}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I'm so excited to see Woody
+start feeling better!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{01}{00}{60}{16}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MDo you want the ingredient
+{97}{E5}?
+<PUSH>
+That stuff is pretty intense.
+Make sure that you don't
+drink too much.
+<PUSH>
+{0A}{E1}{60}{16}{82}{E1}'{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{97}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MMake sure that you don't
+drink too much.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{01}{00}{63}{16}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+My club members were
+worried about me, so they
+had you get this for me?
+<PUSH>
+They're such great friends!
+<PUSH>
+I'll try it right away!
+<PUSH>
+*gulp*{16}{E1}
+*gulp*{16}{E1}
+*gulp*
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+<Woody>
+That was delicious!
+<PUSH>
+And I feel better already!
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+<Woody>
+Oh!
+<PUSH>
+I'm feeling a bit warm...
+<PUSH>
+Umph...
+<PUSH>
+{A0}{E1}{04}{00}{FF}{FF}
+<NEW-DIALOG>
+<Woody>
+Whoooaaa!
+{45}{E1}
+<PUSH>
+{A0}{E1}{00}{00}{00}{00}
+<NEW-DIALOG>
+<Woody>
+...
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez! Standing up was too
+much for his body to handle!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Woody!
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+<Woody>
+Huh...!?
+<PUSH>
+This drink is so strong.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank goodness you woke
+back up.
+<PUSH>
+I should go tell your fellow
+club members that I got you
+the drink.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{63}{16}{82}{E1}({FF}{FF}
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+This drink is so strong.
+<PUSH>
+Do you know what it's made
+from?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

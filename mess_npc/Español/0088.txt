@@ -1,0 +1,224 @@
+[SENTENCE NUMBER 1]
+{09}{E1}{00}{00}{80}{06}{A5}{06}{05}{00}{09}{E1}{00}{00}{A5}{06}{A7}{06}{02}{00}{09}{E1}{00}{00}{A7}{06}{A9}{06}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+¡Este es el ciber 
+núcleo del Árbol Memorial!
+¡Y yo soy el Hertz encargado de él!
+<PUSH>
+Este arbol no creció usando
+Tecnología de Ondas Real,
+¡de hecho está formando por ondas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+vThere is a 3-way fork in
+the Wave Road ahead.
+Try not to get lost.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is the Memorial Tree's
+<PUSH>
+Cyber Core! And I am the
+Hertz in charge here!
+<PUSH>
+...Huh? You want me to
+change into a cherry tree?
+<PUSH>
+...Umm, that's a little tough.
+<PUSH>
+You see, I can only carry
+out commands which are
+dictated by pop-ups.
+<PUSH>
+I'm not allowed to go against
+my orders.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI am the Hertz in charge of
+this place.
+<PUSH>
+Right now the cherry
+tree Real Wave is my
+responsibility!
+<PUSH>
+I don't know who, but
+someone installed a cherry
+tree pop-up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tI am the Hertz in charge of
+this place, the cherry tree
+Real Wave!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tHello and welcome!
+This is the Memorial Tree's
+Cyber Core!
+<PUSH>
+...Huh? You want to know
+why there's a Cyber Core in
+this tree? He-he-he...
+<PUSH>
+That is a se{15}{E1}cret!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+MoonDstry"R"!
+<PUSH>
+It won't be long before
+we take out Sirius!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The jig is up, buster.
+<PUSH>
+You might as well give up
+now and spare yourself
+anymore embarrassment.
+<PUSH>
+
+<NEW-DIALOG>
+{8E}{00}YO YO!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sheesh... What a nuisance!
+Does this "R" version say
+YO YO too?
+<PUSH>
+
+<NEW-DIALOG>
+{8E}{00}YO YO!!
+You! You are one of them!
+Aren't you from Planet AM?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+H-How did you know that!?
+<PUSH>
+
+<NEW-DIALOG>
+{8E}{00}I know a lot of things!
+<PUSH>
+You know, Sirius thought it
+would be nice to add Planet
+<PUSH>
+AM to our collection, right
+there next to Planet FM.
+<PUSH>
+But, when you look at them
+side by side, Planet AM
+<PUSH>
+looks a little shabby,
+don't you think?
+<PUSH>
+YO YO YO!!
+What a joke YO!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why you!!
+<PUSH>
+Kid, if this guy says one
+more thing, so help me I
+swear I'm gonna...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega, stay cool!
+<PUSH>
+He's gonna get what's
+coming to him!
+<PUSH>
+
+<NEW-DIALOG>
+{8E}{00}YO YO YO!!
+Here I go!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{B1}{00}
+[END]
+

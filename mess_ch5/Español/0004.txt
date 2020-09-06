@@ -1,0 +1,48 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Eh...? Ace aún no ha
+llegado.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¡Qué le pasa!?
+<PUSH>
+Nos llamó a toda prisa,
+¿¡y ahora llega tarde!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Bueno, eso no me
+sorprende mucho de él
+<PUSH>
+Seguro que llegará pronto,
+esperemos un poco
+más...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]

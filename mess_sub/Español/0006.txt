@@ -1,0 +1,35 @@
+[SENTENCE NUMBER 1]
+Un pequeño estímulo
+energético que
+restaura 50 PV.
+[END]
+
+[SENTENCE NUMBER 2]
+Un gran estímulo
+energético que
+restaura 200 PV.
+[END]
+
+[SENTENCE NUMBER 3]
+Un estímulo energético
+de lujo que restaura
+todos los PV.
+[END]
+
+[SENTENCE NUMBER 4]
+Este objeto desbloquea
+las ondas de misterio
+púrpura.
+[END]
+
+[SENTENCE NUMBER 5]
+Te vuelves invisible
+durante un rato.
+[END]
+
+[SENTENCE NUMBER 6]
+Aumenta la probabilidad
+de toparte con el
+enemigo anterior.
+[END]
+

@@ -1,0 +1,149 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Both of you, stop!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{9E}{00}Gyaaaaaa!
+<PUSH>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{99}{00}Nyaaaaaa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+They're both really out of
+control!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What do you want to do?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(If they keep this up,
+{13}{EC} the school could be
+{13}{EC} destroyed all over again...)
+<PUSH>
+{13}{EC}(I don't think the
+{13}{EC} teachers and students
+{13}{EC} could handle that.)
+<PUSH>
+I won't let everyone go
+through this all over again!!
+<PUSH>
+Mega!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's EM Wave Change time!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{01}{00}
+<NEW-DIALOG>
+<Geo-2>
+Transcode!{15}{E1}
+Mega Man!{30}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}Gya... Gya...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{99}{00}...Nya...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Alright, you two!
+Try me on for size!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9E}{00}...Gyaaa?
+<PUSH>
+
+<NEW-DIALOG>
+{99}{00}....Nyaaa?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{9E}{00}Gyaaaaaa!
+<PUSH>
+{10}{E2}{3C}{03}{16}{EC}
+<NEW-DIALOG>
+{99}{00}Nyaaaaaa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+[END]
+

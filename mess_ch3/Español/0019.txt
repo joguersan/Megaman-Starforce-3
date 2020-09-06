@@ -1,0 +1,334 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+Strong no está aquí...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ayer nos dijo que
+nos estaría esperando.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Qué extraño...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Ahh!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Un terremoto?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡No puede ser!!
+El sistema medioambiental
+debería impedir los...
+<PUSH>
+{13}{EC}¡¡!!
+<PUSH>
+¡¡E-Es imposible!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Estás de broma?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡¡Yo soy el nuevo rey
+de esta isla!!
+<PUSH>
+¡¡Adoradme!! ¡¡Veneradme!!
+<PUSH>
+¡¡Reconstruiré <Alohaha>
+según mis deseos!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Esa voz...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Madre mía!
+¡¿Quién eres?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Es un gigante!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No serás...
+¿Eres Strong?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡¡Mi nombre es Club Strong!!
+<PUSH>
+¡¡La isla de <Alohaha>
+está bajo mi control!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¿Ese es Strong?!
+<PUSH>
+¡¡E-Es totalmente distinto
+al que vimos ayer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Sonia...
+Strong ha enloquecido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Lyra tiene razón, chico.
+<PUSH>
+Se ha transformado, igual
+que los otros Wizards
+enloquecidos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No me creo que hayan conseguido
+enloquecer al Wizard más
+poderoso de Electopía...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡¡Toda esta isla está
+bajo mis órdenes!!
+<PUSH>
+¡¡Rendidme pleitesía
+y adorad a vuestro
+nuevo rey!!
+<PUSH>
+Si desobedecéis...
+¡¡Lo pagaréis caro!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¡P-P-Para!!
+¡¡Por favor!!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡¡Va a destruir el castillo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡Jo, jo, jo, jo, jo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Club Strong tiene el control
+del sistema medioambiental!
+<PUSH>
+Según mis datos...
+<PUSH>
+¡Se seguirán produciendo
+terremotos de magnitud 6
+y 7 sin parar!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Estimación de daños?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Si no detenemos los terremotos,
+<Alohaha> acabará en el
+fondo del mar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Q-Qué mal...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chico...
+¡¡Tenemos que hacer algo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Yo también voy!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Chicos, vosotros ayudad a
+evacuar a la gente!
+<PUSH>
+Puede que tardemos en parar
+los terremotos...
+¡¡Tenéis que protegeros!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Vale...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Geo, vuelve de una pieza!
+<PUSH>
+¡Recuerda que nuestro
+Propósito es "Un viaje
+inolvidable"!
+<PUSH>
+¡No podremos cumplirlo
+si vuelves lleno de heridas!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No me pasará nada. Lo prometo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Ahí va otro temblor!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Deprisa, vamos a
+evacuar a los demás!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Tenemos que detener a
+Strong ahora mismo, o
+<Alohaha> se hundirá!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Vamos a impulsionarnos
+al CN del sistema
+medioambiental!!
+<PUSH>
+Podemos llegar a través
+de la Carretera de Ondas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

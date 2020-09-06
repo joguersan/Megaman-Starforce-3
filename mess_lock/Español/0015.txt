@@ -1,0 +1,45 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿A quién le importa el
+Camino Onda?!
+¡Vamos a la playa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Se acabó la clase de
+natación, chico!
+¡Vamos, vamos, vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+= Acceso denegado =
+Imposible autenticar
+la clave de la WAZA.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

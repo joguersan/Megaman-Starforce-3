@@ -1,0 +1,100 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡A tomar viento,
+copias baratas!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Uff, puff...
+<PUSH>
+¡Lo hemos conseguido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Madre mía...
+¡¿Ya estás tan cansado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Pero si nos hemos
+cargado a mil cosas
+de esas!
+<PUSH>
+Claro que lo estoy...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Débil...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡Ahora...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Pero qué...
+¡¡Esto no es bueno!!
+<PUSH>
+¡Vamos, chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡N-Nooo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

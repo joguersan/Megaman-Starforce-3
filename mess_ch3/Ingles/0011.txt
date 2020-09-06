@@ -1,0 +1,152 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Come on!
+<PUSH>
+Give me back all of Prez,
+Sonia, and Bud's stuff!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}You really think I'm gonna
+listen to you!?
+<PUSH>
+A real thief would never give
+back anything he took!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Then I'll have to take it all
+back from you!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Go ahead and try!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Zack>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Arrrgh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Are you ready to give up!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}Darn it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We'll get blown over if we
+don't get out of here, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I won't let that happen!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I can do this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah!
+I only have time to grab
+one item!
+<PUSH>
+Which one should I grab...!?
+<PUSH>
+{05}{EC}{00}{00}{00}{00}   {06}{EC}Prez's handkerchief
+   {09}{EC}Sonia's bag
+   {0C}{EC}Bud's shirt
+<PUSH>
+{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}{11}{EC}{06}{00}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*splash*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+{07}{E1}{00}{00}{02}{00}
+[END]
+

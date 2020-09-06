@@ -1,0 +1,139 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+¡Mañana voy a ir
+al espacio!
+<PUSH>
+¡Qué emoción!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Lo siento, pero{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+Me temo que no podrás
+cumplir tu sueño.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡¿Q-Quién anda ahí?!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Hope(Mom)>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡¿Quiénes sois vosotros?!
+¡¿Cómo habías entrado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Después del <Spica.Mall>
+viene el cohete, ¿eh?
+<PUSH>
+Je, je, je...
+Eres genial, Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡¿Qué estáis tramando?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Vamos a darte un regalo...
+Hecho expresamente
+por nuestro jefe.
+<PUSH>
+Se llama "Naipe Ruido".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Oh!
+¡¿Qué es eso?!
+<PUSH>
+¡¿Un naipe?!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Esta carta hace que los
+Wizards pierdan el control.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Te daré el título de
+"Espada"...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡¡A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+Aahh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Spade Magnes...
+Cede a tus instintos...
+<PUSH>
+¡Siembra el terror más
+absoluto en esta escuela!
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Spade-Magnes>
+¡R{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

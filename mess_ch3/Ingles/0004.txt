@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+This is the Astro Wave!
+<PUSH>
+Isn't it amazing, Mega!?
+It's a Wave Road in space!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's a pretty nostalgic view
+for an AM-ian, like myself.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace is so great...
+<PUSH>
+He's helped me achieve my
+dream of going to space!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geo... I understand that
+you're excited, but we should
+really get a move on.
+<PUSH>
+If we cross over here, we
+should find a place where
+we can go down to <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're right.
+<PUSH>
+Alright, let's go meet
+everyone at <Alohaha>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,239 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ya tenemos
+suficientes datos...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{15}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Comenzad con el análisis.
+<PUSH>
+¡Llegó la hora, Heartless!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Espera un momento.
+<PUSH>
+Aún no nos has dicho
+qué vas a hacer con
+los datos de Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Vigila tu lenguaje al
+dirigirte al Sr. King, Jack.
+<PUSH>
+Recuerda que es el líder
+de la organización...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+No te preocupes, Heartless.
+No te va a hacer caso.
+<PUSH>
+¿No es así, hijo?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Ja, ja,ja!
+Pronto verás para qué
+usaré los datos...
+<PUSH>
+¡¿Podrás esperar?!
+¡Ja, ja, ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡Mierda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+¿Me estás escuchando?{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Quieres{15}{E1} algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+Desde el incidente en el
+<Castello.Alohaha> Jack
+actúa de forma extraña.
+<PUSH>
+Está mucho más dócil
+que de costumbre.
+<PUSH>
+¿Le pasa algo?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No, que yo sepa...
+<PUSH>
+Estamos bien los dos.
+<PUSH>
+Pero no veo por qué
+apareces siempre que
+crees que estamos mal...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Entendido.
+<PUSH>
+Sin problema.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+¡"Sin problema"!
+<PUSH>
+¡¿Pero quién se cree que es?!
+<PUSH>
+Eh, Tia.
+<PUSH>
+Últimamente Joker está
+bastante raro, ¿no?
+<PUSH>
+¡Va por ahí como si fuera
+el amo del cotarro, y
+acaba de entrar en Dealer!
+<PUSH>
+¡No respondo de mí misma
+como vuelva a hacer
+enfadar a Corvus!
+<PUSH>
+¡Kiajajajaja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

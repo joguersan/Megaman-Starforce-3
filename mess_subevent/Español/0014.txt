@@ -1,0 +1,467 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0A}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡Menudas ganas de comérmelo!
+Es frío, dulce y me trae
+recuerdos de la infancia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Argh... Se acabó el tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Se ha derretido por completo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Parece que he fracasado...
+<PUSH>
+¡Hora de animarse y volver
+a intentarlo! ¡Vayamos a
+comprar otro helado!
+<PUSH>
+
+<END-DIALOG>
+{0B}{E1}{8D}{16}{82}{E1}+{FF}{FF}
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{1B}{16}#{0C}{E1}{00}{00}{3C}{16}{03}{00}{0C}{E1}{00}{00}{1A}{16}<Mr.King-2>
+{0C}{E1}{00}{00}{8D}{16}<Joker>
+{06}{E1}"
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Mi trabajo es expedir
+{A5}{E5}.
+<PUSH>
+Si tienes uno, puedes coger
+el autobús hacia NAZA.
+<PUSH>
+Es algo que la gente normal
+no puede hacer.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Podrías experdime uno?
+<PUSH>
+
+<NEW-DIALOG>
+3Código 003:
+Geo Stelar.
+<PUSH>
+¿El ID es correcto?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+3Entendido. Sin embargo,
+me llevará algún tiempo.
+<PUSH>
+{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{0C}{E1}{00}{00}{00}{16}{05}{00}{0C}{E1}{00}{00}{01}{16}<Solo>
+{06}{E1}{05}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{00}{00}{02}{16}{06}{00}{0C}{E1}{00}{00}{03}{16}<Solo>
+{06}{E1}{06}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{04}{16}{07}{00}{0C}{E1}{00}{00}{05}{16}<Solo>
+{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{0C}{E1}{00}{00}{06}{16}{08}{00}{0C}{E1}{00}{00}{07}{16}<Solo>
+{06}{E1}{08}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{00}{00}{08}{16}{09}{00}{0C}{E1}{00}{00}{09}{16}<Solo>
+{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{0C}{E1}{00}{00}{0A}{16}
+{0C}{E1}{00}{00}{0B}{16}<Solo>
+{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{00}{00}{0C}{16}{0B}{00}{0C}{E1}{00}{00}{0D}{16}<Solo>
+{06}{E1}{0B}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{00}{00}{0E}{16}{0C}{00}{0C}{E1}{00}{00}{0F}{16}<Solo>
+{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{00}{00}{10}{16}{0D}{00}{0C}{E1}{00}{00}{11}{16}<Solo>
+{06}{E1}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}{12}{16}{0E}{00}{0C}{E1}{00}{00}{13}{16}<Solo>
+{06}{E1}{0E}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+{0C}{E1}{00}{00}{14}{16}{0F}{00}{0C}{E1}{00}{00}{15}{16}<Solo>
+{06}{E1}{0F}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{00}{00}{16}{16}{10}{00}{0C}{E1}{00}{00}{17}{16}<Solo>
+{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+{0C}{E1}{00}{00}{18}{16}{11}{00}{0C}{E1}{00}{00}{19}{16}<Solo>
+{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+{0C}{E1}{00}{00}{1C}{16}{12}{00}{0C}{E1}{00}{00}{1D}{16}<Solo>
+{06}{E1}{12}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+{0C}{E1}{00}{00}{1E}{16}{13}{00}{0C}{E1}{00}{00}{1F}{16}<Solo>
+{06}{E1}{13}{00}
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{00}{00}{20}{16}<Geo>
+{0C}{E1}{00}{00}{21}{16}<Solo>
+{06}{E1}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{00}{00}{22}{16}{15}{00}{0C}{E1}{00}{00}{23}{16}<Solo>
+{06}{E1}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{00}{00}{24}{16}<Hope(Mom)>
+{0C}{E1}{00}{00}{25}{16}<Solo>
+{06}{E1}<Hope(Mom)>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0C}{E1}{00}{00}{26}{16}<Prez>
+{0C}{E1}{00}{00}{27}{16}<Solo>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0C}{E1}{00}{00}{28}{16}<Bud>
+{0C}{E1}{00}{00}{29}{16}<Solo>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{0C}{E1}{00}{00}{2A}{16}<Zack>
+{0C}{E1}{00}{00}{2B}{16}<Solo>
+{06}{E1}<Zack>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{00}{00}{2C}{16}<Sonia>
+{0C}{E1}{00}{00}{2D}{16}<Solo>
+{06}{E1}<Sonia>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<NEW-DIALOG>
+<Mega>
+(¿Por qué no ayudamos a esa
+ señorita mientras esperamos
+ a que nos expidan el ID?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+(Parece que te ha llegado la
+ notificación de AYUDA de esa
+ señorita. Ayudarla sería una
+<PUSH>
+ buena forma de hacer tiempo
+ hasta que nos expidan el ID.
+<PUSH>
+ Pero ahora mismo ya estás
+ atendiendo a la petición de
+ otra persona...)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, pero la verdad es que
+me gustaría conseguir ese
+{A5}{E5}
+<PUSH>
+lo antes posible.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bien visto.
+¡Pues cancelemos la otra
+petición!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale, tendremos que hablar
+con la persona que nos hizo
+la petición para cancelarla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+3La verdad es que no, pero...
+<PUSH>
+Amo con todo mi ser mi
+aperitivo de media tarde.
+<PUSH>
+¡Los aperitivos durante el
+trabajo saben mucho mejor
+que en casa!
+<PUSH>
+Pero hoy se me ha olvidado
+traérmelo...
+<PUSH>
+¡La vida sin aperitivos
+es como unas patatas fritas
+sin ketchup!
+<PUSH>
+Bueno, más bien como un pastel
+sin glaseado...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué te apetece hoy?
+<PUSH>
+
+<NEW-DIALOG>
+3¡Un helado, sin duda!
+<PUSH>
+En particular, un helado del
+{BE}{E4}, en <Spica.Mall>.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Comprarle un helado?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}<Jack>
+{11}{EC}{03}{00}<(Queen)Tia>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<NEW-DIALOG>
+3¿Lo harías?
+¡Fantástico!
+<PUSH>
+Mientras estás fuera,
+me encargaré de tu ID.
+<PUSH>
+{0A}{E1}{1A}{16}{0A}{E1}{8C}{16}{20}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 31]
+
+<NEW-DIALOG>
+<Geo>
+Puede que en otro momento...
+
+<PUSH>
+{0B}{E1}{3C}{16}
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Guau, qué rápido.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}<Heartless>
+{11}{EC}{03}{00}!
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<NEW-DIALOG>
+3Jo...
+¡Mi... helado!...
+<PUSH>
+{0B}{E1}{3C}{16}{0B}{E1}{1A}{16}{0B}{E1}{1B}{16}{0B}{E1}{8C}{16}{0B}{E1}{8D}{16}{82}{E1}+{FF}{FF}{21}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 34]
+
+<NEW-DIALOG>
+3Me encargaré de tu ID.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{23}{EC}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Uf, uf...
+¡Tengo tu helado!
+<PUSH>
+
+<NEW-DIALOG>
+3¡Pero si es mi clase favorita
+de {9B}{E5}!
+<PUSH>
+Chico, eres de lo que no hay.
+<PUSH>
+Ten esto como agradecimiento.
+<PUSH>
+{81}{E1}{E8}{03}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«1000 Zennys»!
+<PUSH>
+
+<NEW-DIALOG>
+3Y aquí tienes tu {A5}{E5}
+nuevecito, como prometí.
+<PUSH>
+Con él, podrás ir y venir de
+NAZA en autobús.
+<PUSH>
+{82}{E1}5{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{A5}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}+{FF}{FF}{0A}{E1}{1B}{16}{21}{EC}{DD}{10}
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Ahora podré terminar la
+jornada rebosante de energía.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+

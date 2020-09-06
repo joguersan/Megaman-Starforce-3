@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No puedo irme en mitad
+de una clase...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

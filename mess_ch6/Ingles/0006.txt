@@ -1,0 +1,210 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!
+<PUSH>
+It's the Satella Police!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1This is a message for all
+active members of the
+Satella Police.
+<PUSH>
+The out of control Wizards
+have caused a great deal of
+damage to Electopia.
+<PUSH>
+All out of control Wizards
+must be stopped in order to
+prevent further damage!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It really is a country-wide
+incident!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nice!
+The more bad guys, the more
+butt we get to kick!
+<PUSH>
+
+<NEW-DIALOG>
+1We have confirmed three
+areas of insurrection within
+<Spica.Mall>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Three areas!?
+We better get moving!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Weird...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What is it, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like you've given up
+on always whining about how
+<PUSH>
+you don't like battling and
+how you don't want to stand
+out!
+<PUSH>
+Have you finally realized how
+fun battling is!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No, that's not it.
+<PUSH>
+I still don't like battling, and
+I don't want to stand out.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So what is it then?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I don't really understand it
+completely, myself...
+<PUSH>
+But when I see Ace doing
+what he does, it makes me
+<PUSH>
+feel like I need to be doing
+the same thing.
+<PUSH>
+He's sacrificing his body,
+and risking his life, so that
+<PUSH>
+he can fight for everyone's
+peace and safety.
+<PUSH>
+And he fights to protect the
+people that he loves.
+<PUSH>
+I want to protect the
+people that I love, too!
+<PUSH>
+And I'm willing to fight, if
+that's what it takes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+Humans really are complicated
+creatures, aren't they?
+<PUSH>
+You have people in this
+world who want to protect
+<PUSH>
+the world, but then there
+are others in this world who
+just want to see it burn.
+<PUSH>
+I just get so angry when I
+think about the people who
+want to ruin everything!
+<PUSH>
+We are totally going to kick
+their sorry butts!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Haha!
+You never change, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}???
+<PUSH>
+I-I guess.
+<PUSH>
+I guess it's hard for
+someone who's awesome to
+stop being awesome!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Haha, I suppose you're right!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...Alright!
+It's time to go stop those
+crazy Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'm game!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

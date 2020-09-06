@@ -1,0 +1,150 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+What's going on?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ah, good morning, Geo.
+<PUSH>
+As you can see, the
+school gate is locked and
+we can't get in.
+<PUSH>
+The Wizard that guards the
+school gate said that he
+won't open it without
+<PUSH>
+permission from the teacher
+in charge of the gate.
+<PUSH>
+
+<NEW-DIALOG>
+{92}{00}Can't do what I can't do!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Where's the teacher that's
+in charge?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Apparently, he's not here.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, you!
+What's wrong with opening
+the gate for the kids!?
+<PUSH>
+
+<NEW-DIALOG>
+{92}{00}Oh, great. Another noisy
+young brat. Rules are rules!
+<PUSH>
+If you really want me to
+open it, then bring it on,
+you big blue ball of fuzz!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Mega>
+Why you...
+I'll tear you to pieces!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cut it out, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+He's always starting some
+kind of trouble, isn't he?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+The Wizard is just doing
+his job. There's not much
+that we can do, other
+<PUSH>
+than find out where the
+teacher in charge is and
+have him open it for us.
+<PUSH>
+Even Pedia doesn't have
+any other suggestions.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+There's nothing else!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Well then, I guess I'll go
+home and have my second
+breakfast of the day!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Isn't the teacher in charge
+of the school gate that
+scary teacher from before?
+<PUSH>
+It seems strange that he
+would be late...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's true...
+He doesn't seem like a
+teacher who would be tardy.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll go to his home and
+check on him.
+Maybe something happened.
+<PUSH>
+Where exactly does he live,
+by the way?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+He lives in Room 202 of
+the same apartment building
+that I live in.
+<PUSH>
+If you stand in front of
+the building, a pop-up will
+appear.
+<PUSH>
+Touch the pop-up for his
+room to call the teacher.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Great! Let's go, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

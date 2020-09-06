@@ -1,0 +1,433 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Siento la espera, Dele.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Gracias por venir, Geo.
+<PUSH>
+Deja que te presente.
+Este es Woody, presidente
+del club de ciencias.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Oh.
+Un placer verte de
+nuevo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Oh, ¿ya os conocéis?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, nos hemos visto
+antes en la azotea.
+<PUSH>
+El Propósito de su
+club es "Lanzar un
+cohete".
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Si ya sabes todo eso,
+me puedo ahorrar
+explicaciones.
+<PUSH>
+¡Geo! ¡Bud! ¡Zack!
+<PUSH>
+¡El Equipo "Luna Presidenta"
+va a dirigir la
+construcción del cohete!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Interesante...
+<PUSH>
+Y por «dirigir» quieres
+decir que ayudaremos con
+lo que podamos, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Pero Dele!
+¡Es imposible!
+<PUSH>
+¡No tenemos ni idea de
+todas estas cosas!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Es cierto. la construcción
+de un cohete es muy
+<PUSH>
+complicada, pero este
+está casi terminado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Para completar el
+experimento, necesitamos
+una Carta Gigaenergía.
+<PUSH>
+Podríamos lanzarlo si
+tuviéramos esa carta.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Una Carta Gigaenergía?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Sí.
+Magnes os lo podrá
+explicar mejor.
+<PUSH>
+¡Sal, Magnes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+¡Soy Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Eres un Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+¡Soy un Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Alucinante!
+¡No sabía que hubiera
+Wizards especialistas
+en cohetes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+<PUSH>
+¡Yo seré el cerebro y
+piloto de este cohete
+durante su viaje espacial!
+<PUSH>
+Pero, como ha dicho Woody,
+nos falta un elemento
+para terminar el cohete.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Una carta Gigaenergía, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Para lanzar el cohete
+usaremos combustible
+y fuerzas
+<PUSH>
+magnéticas. Pero con
+eso no basta.
+<PUSH>
+Una carta Gigaenergía
+nos daría la energía
+necesaria para el lanzamiento.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Así que sin eso no
+podéis terminar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Solo la policía y el
+gobierno usan las cartas
+Gigaenergía, prácticamente.
+<PUSH>
+Pocos civiles han
+visto una.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Cuánto cuesta?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+.{15}{E1}.{15}{E1}.{15}{E1}¿Qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Cuánto dinero cuesta
+una de esas cartas?
+<PUSH>
+Recibirás en tu <Hunter>
+el dinero que necesites.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡D-Dele!
+¡No mola!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡La camapaña debe
+ser justa!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué problema hay?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Todos pensarán
+que es un soborno!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Agradezco la intención,
+pero no se puede comprar
+una carta Gigaenergía.
+<PUSH>
+Son demasiado potentes
+para que los civiles
+puedan comprarlas.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y si decimos que va a
+usarla un club de
+ciencias...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Imposible...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Entiendo.
+Pues poco podemos hacer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Tiene que haber algo
+que podamos hacer.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Por desgracia, solo
+hay un 1% de posibilidades
+de conseguir esa carta.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Como no ocurra
+un milagro...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No podemos rendirnos
+ahora que estamos
+tan cerca.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo tiene razón.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip, bip
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué es eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, lo siento.
+Es mi <Hunter>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es una notificación
+de la escuela. Échale
+un vistazo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿Qué pasa, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Dice que alguien
+quiere verme en la
+primera planta.
+<PUSH>
+¿Quién será?
+Voy a ver.
+<PUSH>
+
+[END]
+

@@ -1,0 +1,243 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un mapa de <Alohaha>.
+<Alohaha> es la región más
+al sur de Electopía.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}{E6}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un traje tradicional de
+<Alohaha>, de cuando eran
+un país independiente.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Genial!
+¡Mira qué tenemos aquí!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}{E6}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{09}{E1}{00}{00}{43}{07}{59}{07}
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son criaturas mitológicas
+de <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Menudos bichos más feos
+tiene esta gente.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Enséñame tus te... teras...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Geo, ¿pero qué dices?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la vida marina de
+<Alohaha>.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{55}{07}{0D}{00}{09}{E1}{00}{00}{43}{07}{55}{07}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Desde aquí, Strong controla
+el sistema medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es el ordenador más alucinante
+que he visto en mi vida.
+¡Seguro que es supercomplejo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son criaturas mitológicas
+de <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Desde aquí, Strong controla
+el sistema medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Un error...
+¡Vamos a comprobar
+el Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Desde aquí, Strong controla
+el sistema medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Qué sistema tan fantástico...
+<PUSH>
+Pero si lo usaran para
+lo que no deben...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{92}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un traje tradicional de
+<Alohaha>, de cuando eran
+un país independiente.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

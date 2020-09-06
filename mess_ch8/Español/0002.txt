@@ -1,0 +1,125 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Una puerta nos corta el paso...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No podemos pasar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué hace esta puerta aquí?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}YO TE LO DIRÉ...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}UN TIPO ENORME CON UN BRAZO
+AZUL Y EL OTRO ROJO...
+<PUSH>
+ÉL HA CERRADO LA PUERTA.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Un tipo con un brazo azul
+y otro rojo...
+¿Dirá Spade Magnes?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mmm... Hasta donde sé,
+seguía en el espacio.
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}USÓ ESE APARATO
+Y DESAPARECIÓ.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Registro de transmisión:
+Spade Magnes R...
+Cibernúcleo cuartel NAZA...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Je! ¡Te lo he dicho,
+era Spade Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Pero y esa R?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ni idea, pero ya lo sabremos
+cuando le encontremos!
+<PUSH>
+Si no lo encontramos,
+no podremos seguir.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+El Cibernúcleo del cuartel
+de la NAZA... Eso tampoco
+dice mucho...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tendremos que buscarle
+dentro del Cibernúcleo.
+No queda otra.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+¡Pues volvamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Un ser EM misterioso se
+ha transmitido desde una
+Disonancia a la NAZA, ¿eh?
+<PUSH>
+Sospechoso...
+¡Y divertido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

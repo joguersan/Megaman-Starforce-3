@@ -1,0 +1,37 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tAHHH!
+SOMEBODY HELP ME!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's being attacked by
+a virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We gotta help him!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Try me on for size!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

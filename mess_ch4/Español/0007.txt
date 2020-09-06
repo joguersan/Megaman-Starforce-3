@@ -1,0 +1,649 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Antes de hablar de
+Luna Platz...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Me gustaría explicaros
+qué es lo que
+está pasando.
+<PUSH>
+Geo Stelar...
+y Omega-Xis...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No te vayas por las
+ramas! Di lo que tengas
+que decir.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Sabéis quiénes eran
+esos contra los que
+luchasteis en <Alohaha>?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Eran la Srta. Tia...
+y Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Y ese tal Joker, que
+parecía el peor de todos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Son miembros de una
+organización llamada
+Dealer.
+<PUSH>
+{12}{E2}{15}{00}{01}{00}
+<NEW-DIALOG>
+<Ace>
+Exactamente.
+El Sr. King es quien
+dirige Dealer.
+<PUSH>
+Son un grupo de
+cibercriminales.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿El Sr. King?
+<PUSH>
+¿El famoso filántropo?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí, el mismo.
+<PUSH>
+Sus obras de caridad son
+una tapadera para sus
+actividades delictivas...
+<PUSH>
+Su objetivo es sembrar
+el caos cometiendo
+ciberdelitos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Más escoria de la que
+tenemos que deshacernos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡El Sr. King...!
+<PUSH>
+{13}{EC}(¡El líder de la organización
+ {13}{EC}para la que trabajan Jack,
+ {13}{EC}la Srta. Tia y Joker!)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Últimamente no nos dan
+más que problemas.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Con la tecnología EM nuestra
+vida es mucho más fácil.
+<PUSH>
+Pero, por otro lado...
+<PUSH>
+Los ciberdelitos que hacen
+uso de esta tecnología
+se han disparado.
+<PUSH>
+Dichos ciberdelitos son
+cada vez más grandes
+y complejos,
+<PUSH>
+como si se rieran de
+esta nueva sociedad.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Exacto.
+<PUSH>
+Y en todos ellos,
+las pruebas apuntan
+siempre a Dealer.
+<PUSH>
+Ahora usan tarjetas
+de datos llenas de
+<PUSH>
+Ruido para enloquecer
+a los Wizards{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Los... ¿Naipes Ruido?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Pues vaya capullos!
+<PUSH>
+¡Chico, vamos a dejarlos
+para el arrastre!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡E-Espera, Mega!
+Ahora no...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Tendrás tu oportunidad.
+<PUSH>
+Queen Tia, a la que llamáis
+Srta. Tia, y Jack son
+miembros vitales para Dealer.
+<PUSH>
+Lo hicisteis bien en
+vuestra batalla contra Jack.
+<PUSH>
+Creo que vais por buen
+camino.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bah!
+¡La próxima vez le haré
+morder el polvo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Pero Joker...
+<PUSH>
+Ahora mismo no podréis
+hacerle nada.
+<PUSH>
+Pero Acid y yo...
+<PUSH>
+A lo mejor podríamos
+conseguirlo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Perdona?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Desde que está en Dealer
+no ha parado de
+darnos problemas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, Ace! ¡Acid!
+¡Vamos a decidirlo,
+aquí ahora!
+<PUSH>
+¡¡Os demostraré, que
+ni vosotros ni Joker
+sois nada frente a mí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Corta el rollo, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Oh!
+<PUSH>
+¡Arthur!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿De verdad, Arthur?
+<PUSH>
+¿De verdad...?
+¿De verdad se ha
+unido a Dealer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+Por desgracia...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No puede ser...
+No puedo creer que
+esto esté pasando...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+Lo siento mucho.
+<PUSH>
+Pero ahora mismo...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí, Arthur...
+<PUSH>
+Lo sé{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Lo sé.
+<PUSH>
+Gracias, Arthur.
+<PUSH>
+{11}{E2}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Ejem!
+<PUSH>
+Os presento.
+<PUSH>
+Esta es la Dra. Goodall.
+<PUSH>
+Está al mando del
+Departamento Científico
+de la Policía Satella...
+<PUSH>
+Es una genio.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Es un placer conoceros
+por fin.
+<PUSH>
+Y a ti también, Meguita.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿M{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Meguita?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Ah, ¿no te gusta
+ese mote?
+<PUSH>
+A ver...
+¡¿Y qué tal "Megatón"?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡M-Mire, señora!
+¡Déjese de tonterías!
+<PUSH>
+¡No siga por ahí o tiro
+este edificio abajo!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Tranquilízate, Omega-Xis.
+<PUSH>
+La Dra. Goodall es la persona
+más fuerte que conocerás
+jamás.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh, Acidina...
+Siempre haciéndome
+la pelota, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¡Ja! ¡También le ha
+ puesto un mote ridículo!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Esto...
+Es un placer.
+Me llamo Geo Stelar.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí, Arthur me ha hablado
+mucho de ti.
+<PUSH>
+Tu amiga está metida
+en un buen lío, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sí...
+El Sr. Boreal ya me dijo
+<PUSH>
+que si alguien podía
+ayudar, sería usted...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿También eres amigo
+de Aaron?
+<PUSH>
+Es un buen chico.
+<PUSH>
+¡Y algún día será un
+científico magnífico!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}¡Ejem!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}Vale, vale...
+<PUSH>
+Iremos directos
+al grano, ¿vale?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡P-Por favor!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No estoy segura.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+A lo mejor puedo salvarla
+y a lo mejor no.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+¡¿A-A qué se refiere?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doctor...
+No será...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No pasa nada, Arthur.
+<PUSH>
+Tienen que saber la
+verdad cuanto antes.
+<PUSH>
+Geo, estamos ante un
+caso complicado{14}{E1}.{14}{E1}.{14}{E1}.
+<PUSH>
+Está en juego la vida
+de una persona, no puedo
+prometerte nada.
+<PUSH>
+La ciencia no es perfecta
+ni todopoderosa.
+<PUSH>
+¿Lo entiendes?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Puede que la Dele{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} ¡¿se haya ido para siempre?!)
+<PUSH>
+{13}{EC}(No...
+{13}{EC} ¡¡No me rendiré!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+Tu mirada lo dice todo.
+Dice que no vas a
+<PUSH>
+rendirte. ¡Igual que Kelvin!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿C-{15}{E1}Conoce a mi padre?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿Tanto te sorprende?
+<PUSH>
+Mírame, está claro que he
+vivido bastantes años.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}¡Ejem!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ya hablaremos de tu padre
+en otro momento...
+<PUSH>
+Ahora ya sé que no tengo
+de qué preocuparme.
+<PUSH>
+¡Algún día serás un gran
+científico!
+¡Te lo aseguro!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias... {15}{E1}Creo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Esta señora está{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} ¡Qué rara es!)
+<PUSH>
+{11}{E2}{01}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Volviendo a lo de tu amiga...
+<PUSH>
+Haré todo lo que esté
+en mi mano para salvarla,
+por supuesto.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Primero tengo que saber
+qué ha pasado exactamente.
+<PUSH>
+Ese es el primer paso.
+<PUSH>
+Así que voy a reparar el
+<Hunter> y al Wizard de
+tu amiga.
+<PUSH>
+Me llevará un rato...
+¿Os importa esperar?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡No, claro!
+¡Muchas gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Lo habéis oído?!
+¡La Dra. Goodall va a
+intentar salvar a la Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Sí!
+<PUSH>
+¡Qué buena noticia!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Pero...)
+<PUSH>
+{13}{EC}(¡Ha dicho que no
+{13}{EC} estaba segura, ¿no?!)
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

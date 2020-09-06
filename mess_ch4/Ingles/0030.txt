@@ -1,0 +1,203 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{15}{E1}...Ace.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}x{12}{E2}<Heartless>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace, you really need to take
+it easy for a bit, or...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No... I'm fine.
+<PUSH>
+I feel great.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Y{15}{E1}-You sure...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+...Umm,{15}{E1} Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What are we going to do
+about Ms. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hmm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Even if I'm gone...
+<PUSH>
+He'll make our wish come
+true.
+<PUSH>
+Nothing can stop Jack from
+fulfilling our Purpose.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...Queen Tia.
+<PUSH>
+What is this wish of yours?
+Please tell me...{15}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+What would you do if I told
+you?
+<PUSH>
+Would you make my wish come
+true...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Well then...
+<PUSH>
+Goodbye...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}...Hmm.
+That's something the people
+up top get to decide.
+<PUSH>
+It's not a decision for us to
+make.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+B-{15}{E1}But...!
+Ace...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't worry about it, kid!
+<PUSH>
+Isn't it good enough that we
+stopped them for now?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+M-Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's get to the main
+computer room.
+<PUSH>
+They're going to start
+reconstructing Prez soon,
+aren't they?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah, you're right.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

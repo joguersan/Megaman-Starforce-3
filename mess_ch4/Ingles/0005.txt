@@ -1,0 +1,138 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Passcode confirmed.
+Entrance granted.
+<PUSH>
+Welcome to Natl WAZA HQ!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It worked!
+That was easy enough.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Took you long enough.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Welcome to Natl WAZA HQ!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace!
+<PUSH>
+Umm{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Thanks for offering to
+help us out...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+There's no reason to thank
+me, Geo. I want to help.
+<PUSH>
+Hurry up and come on in!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Yeah?
+<PUSH>
+Ah...
+<PUSH>
+...Ahhh, I'll be in trouble if I
+forget that...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+OK, then...
+<PUSH>
+Everyone please listen up.
+<PUSH>
+There is a "Fingerprint
+Confirmation System"
+attached to this door.
+<PUSH>
+We would like to have you
+all register your fingerprints
+in order to maintain security.
+<PUSH>
+Once you are registered,
+your fingerprints will act as
+proof of your identity.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+F-{15}{E1}Fingerprint...?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+C-{15}{E1}Confirmation...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+S-{15}{E1}System...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+For now, just go up to the
+device and I'll explain in
+detail later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tVueltas y vueltas y vueltas.
+¡Reciclar!
+Vueltas y vueltas y vueltas.
+<PUSH>
+Vueltas y vueltas y
+vueltas y vueltas.
+Ahora me acabo de marear.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

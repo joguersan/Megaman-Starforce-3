@@ -1,0 +1,146 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡¡Los niveles de ruido del
+Meteorito G han aumentado
+de forma exponencial!!
+<PUSH>
+¡¿Qué está pasando
+ahí arriba?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Sr. Boreal!
+<PUSH>
+¡El cohete no aguanta
+los niveles de Ruido del
+Meteorito G!
+<PUSH>
+Todas sus funciones
+han dejado de estar
+operativas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Q-Qué dices?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¡Magnes ha conseguido
+expulsionarse a tiempo,
+pero el cohete
+<PUSH>
+se aleja poco a poco
+del Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡E-Espera un momento!
+<PUSH>
+¡¿Si el cohete se aleja
+demasiado, cómo va a
+volver Geo a casa?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡¡Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yo creo en él{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Conseguirá destruir el
+Meteorito G y traer a su
+padre de vuelta a casa...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Sí!
+<PUSH>
+¡Siempre consigue escapar
+de cualquier situación
+peliaguda!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo no perderá contra el
+Ruido ni el Meteorito G.
+<PUSH>
+¡¡Geo nunca pierde!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Tenéis razón...
+¡¡Chicos, tenéis razón!!
+<PUSH>
+Geo no...
+<PUSH>
+¡¡El invencible Mega Man
+no perderá contra un
+miserable meteorito!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Geo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Eres nuestra última
+esperanza{14}{E1}{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¡Pégales una buena
+paliza, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡Cuida de él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

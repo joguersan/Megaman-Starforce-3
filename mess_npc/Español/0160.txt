@@ -1,0 +1,12 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Eeeeeeeh tú!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

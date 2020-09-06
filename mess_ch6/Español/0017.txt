@@ -1,0 +1,336 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Por fin llegamos a
+la entrada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Je je je, ¡que ganas de
+pelear!
+<PUSH>
+¡¡Entremos ahí y démosles una
+paliza a esos canallas!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿No te dije que no fueseis
+imprudentes?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Acid, estás aquí...
+Genial...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Gran trabajo encontrando
+la base de Dealer, Geo.
+<PUSH>
+¡Sabía que podrías hacerlo!
+<PUSH>
+Bueno...
+<PUSH>
+Eso dijeron el jefe y la
+Dra. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace, ¿estás seguro de esto?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Al 100%!
+<PUSH>
+No te preocupes, he conseguido
+la aprovación de la
+Dra. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Omega-Xis...
+<PUSH>
+El destino del planeta
+dependerá de esta misión.
+<PUSH>
+Ninguna Acción sera permitida
+sin haberla consultado antes
+con el grupo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Venga ya!
+<PUSH>
+¡No necesito el sermón de
+un Wizard inútil que no para
+de parlotear!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+No pretendo regañarte.{15}{E1}
+Pero... puedes ser impulsivo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Te voy a enseñar lo que es
+ser impulsivo!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Geeeo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Quién...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Yo también he venido a ayudar...
+<PUSH>
+¡Jee jee!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Harp Note es una aliada tan
+importante como Mega Man.
+<PUSH>
+Ella es vital para esta
+misión.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Sip!
+<PUSH>
+¡Nosotras tambien podemos
+ayudar, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Let's do our best to work
+together, as well.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Meggers.
+*giggles*
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grr! ¿¡T-tú...!
+<PUSH>
+¡N-no me retrases!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Hagamos un repaso...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Todos aquí somos miembros del
+grupo "Comando de la policía
+Satella"...
+<PUSH>
+Y estamos aquí para frustrar
+los planes de Dealer de
+dominar el mundo.
+<PUSH>
+Somos los más fuertes y
+habilidosos entre toda la
+policía Satella.
+<PUSH>
+Por lo que si fallamos, la
+Tierra podría no tener otra
+oportunidad de escapar de la
+opresión de Dealer.
+<PUSH>
+Pero a partir de este momento,
+ni siquiera reconoceremos esa
+posibilidad.
+<PUSH>
+Porque nuestro nuevo
+propósito es...
+<PUSH>
+¡Aplastar a Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Sí, señor!
+<PUSH>
+
+<NEW-DIALOG>
+1¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}(
+<START-DIALOG>
+{04}{E2}{07}{00}
+<NEW-DIALOG>
+<Game>
+¡El propósito de Geo ha
+cambiado!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Geo...
+<PUSH>
+¿Estás listo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Por supuesto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Esa horrible puerta detrás
+nuestra está totalmente
+cerrada.
+<PUSH>
+Es casi imposible abrirla
+desde el mundo real.
+<PUSH>
+Por lo que...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es el trabajo perfecto para
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Exacto.
+<PUSH>
+¿Podrías buscar el panel de
+control que se encuentra en
+<PUSH>
+el cibernúcleo, y desbloquear
+la puerta?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Tenéis que hacerlo rapido.
+<PUSH>
+No podemos quedarnos aquí
+mucho tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Who do you think you are!?
+You think you can just boss
+him around like that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡D{15}{E1}-de acuerdo, Acid!
+<PUSH>
+¡Volveremos lo antes posible!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

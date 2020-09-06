@@ -1,0 +1,215 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, tu cuerpo...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡¡Alejate!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No puedo aguantar mucho
+más...
+<PUSH>
+Así que... ¡Alejate de mí!
+<PUSH>
+E-En este estado{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Podría...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}Eliminarte{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}Demuestra...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tu valía{AE}{00}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡¡Aaaaaargh!!{30}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Qué dices, Ace!?
+<PUSH>
+¿Qué te pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¡...!!
+<PUSH>
+¡¡Chaval, alejate de el!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+¿¡!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+El...
+<PUSH>
+Me recuerda a lo que pasó en
+el <Studi.WBG>!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+Tiene que ser Acid...
+<PUSH>
+¡¡Debe haberse vuelto a salir
+de control!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh dios, ¡Parece que se
+ha activado!
+<PUSH>
+Ya sabes lo que tenemos que
+hacer, ¿¡verdad, chaval!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí...
+<PUSH>
+{13}{EC}(Ace acaba de impulsionarse...)
+<PUSH>
+{13}{EC}(¡Así que esperar no volverá
+a funcionar de nuevo!)
+<PUSH>
+{13}{EC}(¡Nuestra única oportunidad
+ es luchar contra el con todo
+ lo que tenemos!)
+<PUSH>
+Perdóname, Acid Ace{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Megaman>
+Pero no tengo otra opción.
+<PUSH>
+Combate {16}{E1}de Ondas...
+{15}{E1}¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

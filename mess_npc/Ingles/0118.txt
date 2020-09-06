@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWhen a monitor gets this big,
+the job of the Hertz
+<PUSH>
+working inside gets pretty
+tough!
+<PUSH>
+...I'm not kidding.
+Truth be told, I'd like to
+move to a smaller monitor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

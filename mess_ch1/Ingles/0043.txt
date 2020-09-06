@@ -1,0 +1,271 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*rumble, rumble*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Energy levels are nominal!
+Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+All systems are green!
+Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+At long last... launch time!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+Woody!
+Everyone!
+<PUSH>
+I'm off to space!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Be safe, Magnes!
+<PUSH>
+Make sure you contact us
+once you've made it!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yuuuup!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}"{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+We did it! We did it!
+It's a complete success!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm so happy, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+This is so great, Woody!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow! I can feel the power!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's really amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What a great memory to
+share with everyone!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's like a dream!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Outer space...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hey, Mega...
+You know how Dad is still
+alive up there in space?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, of course.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I was just thinking...
+Maybe Magnes will bump into
+him up there.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Anything is possible...
+I hope he has good news
+for us in his report.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Purpose fulfilled!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+EM Wave Change ID003...
+<PUSH>
+Transcode "Mega Man"...
+<PUSH>
+Just as I expected, it
+was Mega Man.
+<PUSH>
+His power is vital to
+stopping the disaster that
+will strike the Earth...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+You were reckless.
+<PUSH>
+If Mega Man would have
+failed just now, we would
+<PUSH>
+have been swallowed up in
+the explosion.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hmph...
+I believed in him 100%.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+So a large quantity of
+Noise was created from
+<PUSH>
+the Wizard going out of
+control...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+And it looks like some of
+the Noise that crystallized
+was taken by someone...
+<PUSH>
+Maybe it was "them"...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It's up to us to figure
+that out.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Of course...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+We've got to get our
+heads in the game...
+<PUSH>
+But for now, let's have a
+snack in celebration of the
+successful rocket launch!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*munch, munch*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+You don't suppose you're
+eating too many of those,
+do you, Ace?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

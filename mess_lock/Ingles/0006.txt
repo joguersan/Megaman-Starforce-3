@@ -1,0 +1,55 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh yeah...
+I need to take Mega outside
+before I do anything else.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+<PUSH>
+Why would you want to go
+back to the classroom after
+you finally got out!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+G-Good point...
+I need to do what
+needs to be done!
+<PUSH>
+{13}{EC}(I'm sorry, Mr. Shepar...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+The door won't open!
+I guess it's no good.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,75 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A memory belonging to Kelvin
+has surfaced{16}{E1}.{16}{E1}.{16}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}...Where am I?
+<PUSH>
+...I see.
+<PUSH>
+It was close, but I was able
+to escape from the space
+station somehow...
+<PUSH>
+Then, thankfully, Omega-Xis
+was able to turn me into an
+EM being.
+<PUSH>
+He must have made this
+barrier for me too.
+<PUSH>
+I owe him big time.
+<PUSH>
+At least I have a chance to
+make it home this way.
+<PUSH>
+I'm stuck adrift in space at
+the moment...
+<PUSH>
+But{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Geo, Hope...
+<PUSH>
+I'll make it home...
+I promise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Geo...
+You're such a strong kid.
+<PUSH>
+You can overcome anything.
+<PUSH>
+Take care of your mother
+for me...
+Hope...
+<PUSH>
+I won't give up!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,340 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a cactus... no matter
+how strange it may look!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Monitors are lined up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}è{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A blue planet floats in
+space...
+<PUSH>
+It's beautiful.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Nice!
+I didn't expect this!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}è
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Monitors are lined up.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's so much stuff
+on the screen.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's making me dizzy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{F8}{00}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's a big monitor...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sweet!
+Take a look!
+<PUSH>
+{84}{E1}{05}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Sub-Card:
+"{D5}{E5}"!
+<PUSH>
+{0A}{E1}{F8}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a large table.
+<PUSH>
+Night and day, this table is
+surrounded by people who
+are protecting the world.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}é{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Don't touch!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+But...
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Touching it wasn't so bad
+after all!
+<PUSH>
+{0A}{E1}é
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a top secret something.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{09}{E1}{00}{00}{A5}{07}{A9}{07}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is WAZA's pride and joy,
+the main computer!
+<PUSH>
+It may one day be able to
+discover the secrets of the
+universe and life itself.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Special permission is
+required to enter the
+main computer room.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{94}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is WAZA's pride and joy,
+the main computer...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's displaying an error
+thanks to that Shakespeare
+loser hiding in there!
+<PUSH>
+It's time, kid!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A blue planet floats in
+space...
+<PUSH>
+It's beautiful.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Don't touch!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, I guess I shouldn't!
+It's super top secret!
+<PUSH>
+Don't even think about
+touching it, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Fine! Geesh...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There's a big monitor...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,69 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{10}{00}¿Y-yo...?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+¡¿Q-qué...?!
+<PUSH>
+¿No se habrá
+armonizado con él?
+<PUSH>
+
+<NEW-DIALOG>
+{10}{00}El Ruido no duele nada.
+Es más, mi cuerpo
+fluye de energía.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Pi...
+<PUSH>
+Identificación confirmada.
+Acceso de Ruido al Servidor
+Meteorito completo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Esa voz...
+¿Puede que esté conectada
+a la estrella fugaz roja?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Responder al Ruido?
+{05}{EC}{00}{00}{00}{00}  {06}{EC}Sí  {07}{EC}No
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Resonancia cancelada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

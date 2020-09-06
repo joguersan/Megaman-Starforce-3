@@ -1,0 +1,114 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+I'm r-really nervous.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Even if we're only extras,
+it still feels like a really
+big deal!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Come on and act like men!
+I'm totally fine! I'm excited!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'm hungry...
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+By the way...
+Where's Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+He said he didn't care
+about the TV show, so he
+took off somewhere.
+<PUSH>
+The nerve of that guy!
+After I went to all the
+trouble to invite him!
+<PUSH>
+
+<NEW-DIALOG>
+<OK, all the extras, get
+ready to standby!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+St-St-Standby!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Is she alright?
+<PUSH>
+She's by far the most
+nervous out of everyone.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+She's a go-getter, so I'm
+sure she'll be OK.
+<PUSH>
+We should go, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The tree road, that's out
+front.
+<PUSH>
+Just stay calm and
+everything will be fine.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll do my best...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

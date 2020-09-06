@@ -1,0 +1,162 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo, where were you!?
+<PUSH>
+The world has been in a
+panic and I haven't been
+able to get a hold of you...
+<PUSH>
+You have no idea how
+worried I was!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I-I'm really sorry. There was...
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+Never make me worry like
+that ever again...
+<PUSH>
+With your father missing...
+<PUSH>
+I don't have anyone else
+left.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mom...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+What would I do if I were to
+lose you?
+<PUSH>
+My whole world would collapse
+around me if I lost the both
+of you.
+<PUSH>
+And I can't bear to feel the
+same kind of pain as when
+your father disappeared.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+...I'm sorry.
+I'm not usually like this.
+<PUSH>
+It's late, so let's just get
+some sleep...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+OK...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+It's a...
+A message from Ace?
+<PUSH>
+H-How is that possible...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{80}{E1}É{01}{00}{A1}{E1}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo got
+Battle Card:
+"{09}{E8}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{80}{E1}{C4}{00}{01}{00}{A1}{E1}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Geo got
+Battle Card:
+"{04}{E8}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That guy{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Never stopped fighting for
+the people special to him...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(I'm sorry, Mom...)
+<PUSH>
+{13}{EC}(But I can't back
+ out of the fight now...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

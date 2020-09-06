@@ -1,0 +1,117 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's a wall of Noise...
+<PUSH>
+We can't get past it.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kelvin is on the other side
+of this thing.
+<PUSH>
+I think it's time that your
+Dad lent us a hand.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Touch the "Kelvin Key" that
+your mother gave to you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I just saw some spots
+around here in my head...
+<PUSH>
+Is that what you meant by
+my Dad lending a hand?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You got it.
+<PUSH>
+The key you just used
+resonated with your father.
+<PUSH>
+There must be a "memory
+splinter" of your father's
+around that area you saw.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A "memory splinter"...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Staying in such close contact
+to Meteor G's central core
+<PUSH>
+has started to scatter
+Kelvin's memories...
+<PUSH>
+If we collect them all, we
+might be able to bring back
+a special memory of his.
+<PUSH>
+That memory will turn into
+energy, which will then
+smash that wall down for us!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sounds good!!
+<PUSH>
+Let's use the "Kelvin Key"
+to bring back one of Dad's
+memories!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You can't see the "memory
+splinters" with your eyes...
+<PUSH>
+Using the "Kelvin Key" is the
+only way to know how many
+<PUSH>
+there are, as well as where
+they are!
+<PUSH>
+You have to focus, kid!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

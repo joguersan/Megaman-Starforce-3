@@ -1,0 +1,63 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Gracias, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Mmmrrrgggh!
+¡Todo es posible
+trabajando en equipo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+Parece que no has podido
+recuperar la temperatura
+corporal.
+<PUSH>
+No olvides que la barra
+de temperatura no deja
+bajar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¿Eres lo bastante duro
+como para volver a intentarlo?
+<PUSH>
+{05}{EC}{01}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{03}{00}{11}{EC}{01}{00}{04}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{07}{E1}{00}{00}{00}{00}
+[END]
+

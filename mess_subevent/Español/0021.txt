@@ -1,0 +1,200 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0A}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡¿Quién quiere intercambiar
+cartas de combate?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{29}{16}{0D}{00}{0C}{E1}{00}{00}{43}{16}{03}{00}{0C}{E1}{01}{00}{28}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)No paro de intercambiar
+cartas de combate con
+mis amigos.
+<PUSH>
+Siempre quiero intercambiar
+cartas ultrarraras,
+<PUSH>
+pero mis amigos no me ofrecen
+más que cartas comunes de lo
+más sosas.
+<PUSH>
+En japonés, a eso se le llama
+«kechi», que significa «tacaño».
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No me importaría intercambiar
+cartas de combate contigo.
+<PUSH>
+
+<NEW-DIALOG>
+)Parece que tienes cartas de
+todo tipo.
+<PUSH>
+Y tanto.
+Venga, intercambiemos.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Intercambiar?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+)Te cambio una «{D4}{E7}»
+por una «{79}{E7}».
+<PUSH>
+Vuelve a hablarme cuando
+estés listo para intercambiar.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale!
+<PUSH>
+{0A}{E1}{28}{16}{20}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+)Oh...
+Bueno, si cambias de opinión,
+házmelo saber.
+<PUSH>
+{0B}{E1}{43}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¿Listo para intercambiar?
+<PUSH>
+{89}{E1}9{01}{00}{08}{00}{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Game>
+¿Entregar la carta de combate
+«{79}{E7}»?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0C}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar el intercambio?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}
+{11}{EC}{03}{00}{0B}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+)Oh...
+Bueno, si cambias de opinión,
+házmelo saber.
+<PUSH>
+{0B}{E1}{43}{16}{0B}{E1}{28}{16}{0B}{E1}{29}{16}{21}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<NEW-DIALOG>
+)Vuelve cuando tengas
+la carta.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Gracias!
+Hacía tiempo que quería
+una «{79}{E7}».
+<PUSH>
+Aquí tienes la carta que
+te prometí.
+<PUSH>
+{80}{E1}{94}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{D4}{E7}»!
+<PUSH>
+
+<NEW-DIALOG>
+)Gracias por este intercambio
+tan chulo.
+<PUSH>
+{0A}{E1}{29}{16}{80}{E1}9{FF}{FF}{21}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Gracias por este intercambio
+tan chulo.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

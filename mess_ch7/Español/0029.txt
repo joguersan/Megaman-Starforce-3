@@ -1,0 +1,816 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, me alegro de
+que estés bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Pero, Sr. Boreal...
+Si no podemos detener
+el Meteorito G...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Lo sé, lo sé...
+<PUSH>
+No vamos a rendirnos,
+pase lo que pase.
+<PUSH>
+Si no te rindes,
+siempre a esperanza.
+<PUSH>
+¿A que sí, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Por eso he decidido
+crear un nuevo Equipo.
+<PUSH>
+El Propósito del Equipo
+será «Detener el Meteorito G».
+<PUSH>
+Y el nombre del Equipo será
+el del poder otorgado por
+los Administradores Satélite
+<PUSH>
+cuando protegiste la Tierra
+por primera vez.
+<PUSH>
+Ese gran poder se llamaba...
+<PUSH>
+«Star Force».
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Star Force...
+<PUSH>
+
+<NEW-DIALOG>
+4Nos gustaría que fueras
+el líder del Equipo.
+<PUSH>
+Si alguien puede detener
+el Meteorito G eres tú.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pero no tengo ni idea
+de cómo hacerlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Oh, casi lo olvido.
+<PUSH>
+Me ahorraré muchas
+explicaciones si te presento
+al resto de miembros primero.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Resto de miembros?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Podéis venir, por favor?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Woody?!
+¡¿Y Lee too?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+La verdad es que no sabemos
+muy bien por qué nos han
+elegido.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡Pero ha sido increíble
+ver las instalaciones de
+la NAZA y
+<PUSH>
+conocer a la maravillosa
+Dra. Goodall!
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} Pero, Geo.
+¿Por qué te han llamado a ti?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Vale, ahora que estamos
+todos los miembros del
+<PUSH>
+Equipo, podemos hablar de
+la misión y nuestros planes.
+<PUSH>
+Ahora os explicaré por qué
+os hemos elegido a vosotros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Pero antes, debo explicar
+rápidamente nuestra
+situación.
+<PUSH>
+El Meteorito G ya no está
+bajo el control de King y
+se dirige a la Tierra.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¿De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Magnes me envió un informe
+hace poco.
+<PUSH>
+Si no lo detenemos, el Meteorito G
+chocará contra la Tierra,
+<PUSH>
+destruyendo así toda la
+tecnología EM del planeta.
+<PUSH>
+Y lo peor de todo es que
+aniquilará al 80% de la
+humanidad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¿De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Efectivamente.
+<PUSH>
+¡Star Force debe detener
+al Meteorito G cueste
+lo que cueste!
+<PUSH>
+Ahora hablemos de cómo
+vamos a hacerlo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Vamos a hacer uso de la enorme
+estación de ondas de la NAZA,
+la «Estación Dinámica»...
+<PUSH>
+para enviar a Mega Man
+al espacio.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¿Mega Man?!
+<PUSH>
+¡¿El mismo Mega Man que nos
+ha salvado ya dos veces?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Con la Estación Dinámica,
+impulsionaremos a Mega Man
+<PUSH>
+en el cohete de Woody, que
+está orbitando el planeta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+Por mí perfecto,
+¿pero por qué mi cohete?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Bueno...
+<PUSH>
+Como Magnes se volvió loco
+durante un rato,
+<PUSH>
+tu cohete se volvió muy
+resistente al Ruido.
+<PUSH>
+Es tan resistente que el Ruido
+emitido por el Meteorito G
+<PUSH>
+le afectará poco o nada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿Lo habéis entendido?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega Man se impulsionará al
+choete para acercarse lo
+máximo posible al Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Entonces Mega Man se
+impulsionará desde el
+cohete al Meteorito G.
+<PUSH>
+Es así, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Efectivamente.
+<PUSH>
+Sois los dos muy listos.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡¡Dra. Goodall, muchas
+gracias por el cumplido!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Por último, Mega Man destruirá
+el núcleo del Meteorito G.
+<PUSH>
+Mega Man correrá mucho
+peligro, pero no tenemos
+alternativa...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Mmm, entiendo lo que dices...
+<PUSH>
+¿Pero por qué nos
+habéis llamado?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Tenéis un papel muy
+importante en todo
+este plan.
+<PUSH>
+Por eso os he llamado.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¿Un papel muy importante?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Usar la Estación Dinámica
+para enviar a Mega Man
+al cohete de Woody...
+<PUSH>
+Eso implica que saldrá de
+la atmósfera terrestre por
+transmisión dinámica.
+<PUSH>
+La fuerza de este tipo de
+transmisión provocará un
+shock a Mega Man.
+<PUSH>
+Por eso nos gustaría que
+diseñarais y construyerais
+<PUSH>
+una barrera de Ondas Reales
+para que Mega Man llegue al
+cohete sano y salvo.
+<PUSH>
+Deberá ser una barrera
+increíblemente resistente,
+y me estoy quedando corto.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Ya veo...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hemos oído que el escenario
+de Ondas Reales que montasteis
+resistió
+<PUSH>
+incluso contra Wizards
+enloquecidos.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Bueno, la verdad es que se
+congeló.
+<PUSH>
+Lo que hice fue...
+Cuando tomaron el control del
+Cibernúcleo, reescribí
+<PUSH>
+el código para crear
+un cortafuegos.
+<PUSH>
+En resumen, reforcé la
+resistencia del escenario.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+En toda Electopía no hay
+nadie capaz de
+<PUSH>
+hacer algo así en tan poco
+tiempo salvo tú.
+<PUSH>
+Necesitamos tu ayuda.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Haré lo que pueda para
+proteger la Tierra!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Tenemos doce horas hasta
+que el Meteorito G impacte
+contra la Tierra...
+<PUSH>
+No tenemos tiempo para
+andar de cháchara.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Doce horas{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+No va a ser nada fácil.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+No es suficiente tiempo...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+No, tenemos más tiempo
+del que pensáis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Heartless!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¿Quién?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Jo, qué guapa es!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Según mis cálculos, aún quedan
+48 horas para el impacto
+del Meteorito G.
+<PUSH>
+Tenemos dos días.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Dos días...
+¿Cómo puede ser?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin aún no se ha rendido{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No ha dejado de luchar contra
+el Meteorito G, retrasando
+su avance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Papá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Es un hombre increíble,
+¿a que sí?
+<PUSH>
+Increíble...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Con dos días enteros seguro
+que podemos hacerlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No tendré problemas en
+confiugrar el cohete!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Genial! ¡¡Pues al lío,
+Star Force!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El Equipo y Propósito
+de Geo han cambiado!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+.{15}{E1}.{15}{E1}.{15}{E1} Entonces, esto...
+¿Dónde está Mega Man,
+nuestro gran líder?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Jo, jo, jo...
+Qué jolgorio tenéis
+aquí montado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+K{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} ¡¡King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¡No puede ser!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¿De verdad pensabas que
+acabarías conmigo lanzándome
+a una Disonancia?
+<PUSH>
+Heartless, has herido
+mis sentimientos.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Un ser humano no puede
+sobrevivir en una
+Disonancia durante...
+<PUSH>
+{13}{EC}¡¡!!
+<PUSH>
+¡E-Espera!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Por fin lo has entendido, ¿eh?
+Qué chica más lista.
+<PUSH>
+Efectivamente, yo ya
+no soy humano.
+<PUSH>
+Con el poder de Joker,
+me convertí en un ser EM.
+<PUSH>
+¡¡Y ahora, Heartless!!
+¡¡Traidora!!
+¡¡Vas a morir!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Cuidado!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Por qué poco...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¡Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡No puede ser!
+¡¿Geo es Mega Man?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Lo sabía!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Je, es igual.
+<PUSH>
+Mi plan aún no está terminado,
+pero muy pronto...
+<PUSH>
+¡¡Seré el amo y señor
+de este mundo!!
+<PUSH>
+¡¿Tenéis tantas ganas
+como yo?!
+<PUSH>
+¡¡Jo, jo, jo, jo, jo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+King{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+¿Qué estará planeando?
+<PUSH>
+{11}{E2}{02}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+No tengo ni idea.
+Lo único que podemos hacer
+es llevar a cabo nuestro plan
+a la perfección.
+<PUSH>
+Vamos a trabajar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Es verdad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico, te ha llegado
+un mensaje!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Parece que mis amigos
+quieren verme.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ve con ellos, Geo.
+<PUSH>
+Y pásalo bien.
+<PUSH>
+Mañana podremos enviarte
+hasta el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido!
+<PUSH>
+Quiero hablar con ellos
+antes de mañana.
+<PUSH>
+¡Volveré!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

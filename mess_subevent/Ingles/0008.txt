@@ -1,0 +1,258 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0A}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Special mission!
+Discover the true identity
+of the mysterious person!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{0F}{16}{0C}{00}{0C}{E1}{00}{00}{36}{16}{03}{00}{0C}{E1}{01}{00}{73}{16}
+{0C}{E1}{01}{00}{70}{16}{07}{00}{0C}{E1}{01}{00}{0E}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Hmm...
+Something doesn't
+feel right about this.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Is there another problem?
+<PUSH>
+
+<NEW-DIALOG>
+0I just received a report
+about a mysterious person
+in the {19}{E5}.
+<PUSH>
+I need someone to go on a
+reconnaissance mission.
+Are you up to it?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Accept the mission?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+That's in <Echo.Ridge>, right?
+I'll head there immediately!
+<PUSH>
+
+<NEW-DIALOG>
+0I'm counting on you.
+<PUSH>
+{0A}{E1}{70}{16}{0A}{E1}{0E}{16}{20}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+0I see...
+You must have something
+else you need to do instead...
+<PUSH>
+{0B}{E1}{36}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Really? What's wrong?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+0I see...
+You must have something
+else you need to do instead...
+<PUSH>
+{0B}{E1}{36}{16}{0B}{E1}{0E}{16}{0B}{E1}{0F}{16}{0B}{E1}{70}{16}{0B}{E1}{71}{16}{0B}{E1}{72}{16}{0B}{E1}{73}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+0I'm counting on you.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I completed the mission!
+<PUSH>
+
+<NEW-DIALOG>
+0Very nice indeed.
+<PUSH>
+This was a very dangerous
+mission.
+<PUSH>
+The right people will hear of
+your courage and honor.
+<PUSH>
+{22}{EC}{01}{00}{0B}{00}{80}{E1}{C7}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+Battle Card:
+"{07}{E8}"!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{0F}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+{80}{E1}Ì{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+Battle Card:
+"{0C}{E8}"!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{0F}{16}{21}{EC}{D7}{10}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0I'll keep you in mind for
+future missions of this kind.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hey! What are you doing!?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Huh?
+<PUSH>
+Are you one of those stupid
+humans?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Stay frosty, kid!
+He's got an explosive on him!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Huh huh...
+<PUSH>
+I'm helping humans with their
+evolution. The ultimate form
+of evolution is something
+<PUSH>
+humans cannot achieve
+without a little help.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+W-Why would you do that?
+<PUSH>
+You need to stop this
+immediately!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Huhu...
+So it's come to this, has it?
+<PUSH>
+Huhuhu... Huhuhu...
+<PUSH>
+Time to destroy everything!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I don't think he's the kind to
+listen to logic.
+<PUSH>
+Watch out, kid!
+<PUSH>
+{0A}{E1}{71}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That was close...
+Let's go report in.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{73}{16}
+[END]
+

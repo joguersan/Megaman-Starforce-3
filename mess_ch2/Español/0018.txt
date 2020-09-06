@@ -1,0 +1,343 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Es otra carta de esas...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¿Qué ha pasado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+>Te has despertado de
+una buena siesta.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Siento que he
+perdido el control...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Has armado una buena.
+<PUSH>
+¡Y Bud por poco no
+aguanta la tensión a
+la que le has sometido!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tranquilo, Mega...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Ejem, ejem...
+¡Eh! Ni que fuera
+un blandengue...
+<PUSH>
+Si no hubiera aguantado
+tan bien, Taurus
+estaría frito.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Lo siento, Bud.
+<PUSH>
+Siempre acabas metido en
+algún lío por mi culpa.
+<PUSH>
+Prometo que desde ahora
+usaré mi poder para ayudarte.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿Eh? No te entiendo.
+¿Qué dices?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Voy a ser tu Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Quiero devolverte todo
+lo que has hecho por mí.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Vaya, gracias...
+<PUSH>
+¡Por fin voy a tener
+mi propio Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{10}{E2}{CB}{00}{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bud ha obtenido:
+¡Wizard de Batalla, "Taurus"!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Siento mucho todo esto,
+Mega Man. Ahora debería
+ir todo sobre ruedas.
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}¡No, no, no!
+¡Has estado genial!
+<PUSH>
+¡Todo esto ha sido genial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9A}{00}Por cierto...
+Soy el Wizard que dirige
+este programa.
+<PUSH>
+TÚ eres Mega Man, ¿no?
+<PUSH>
+¡Jamás pensé que te
+vería por aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Eh, vale...
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}¡Tengo una idea!
+<PUSH>
+¿Qué te parecería salir
+en el programa? ¡Para mí
+sería un honor!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿De verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}¡Ya lo estoy viendo!
+<PUSH>
+¡Mega Man aparece junto a
+nuestra heroína, que se
+lamenta tocando una canción!
+<PUSH>
+¡Él la anima y se marcha
+sin dejar rastro!...
+<PUSH>
+¡La audiencia va a subir
+como la espuma!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡E-Espera un momento!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Se supone que es
+la escena de Belle!
+<PUSH>
+
+<NEW-DIALOG>
+{9A}{00}Es verdad...
+Pero Mega Man tendrá
+más impacto.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Déjalo, Ice.
+<PUSH>
+No tengo nada que hacer
+contra Mega Man.
+<PUSH>
+Pero bueno, una escena
+con Mega Man y Sonia
+suena genial, ¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡Agh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¿Por qué debería
+cantar, Mega Man?
+<PUSH>
+Dímelo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tienes que creer en tus
+amigos y cantar por ellos...
+<PUSH>
+Si tu corazón es puro
+y sincero,
+<PUSH>
+tu voz alegrará el
+de tus amigos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¿Estás bien, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Estoy algo cansado...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Has tenido un día muy
+duro! Primero la pelea
+y ahora el programa.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Pobrecito...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Yo también he tenido
+un día duro! ¡Qué hambre!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Bueno, tengo que irme.
+¡Tengo que prepararme
+para el concierto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Mucha mierda, Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+Gracias. Pero me gustaría
+pasar más tiempo con
+vosotros...
+<PUSH>
+Puedo sacar un rato antes
+de que empiece el concierto.
+<PUSH>
+¿Os importa venir
+luego al escenario?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿El escenario hecho de
+Ondas Reales? ¡Claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-sexy>
+¡Genial!
+¡Luego nos vemos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

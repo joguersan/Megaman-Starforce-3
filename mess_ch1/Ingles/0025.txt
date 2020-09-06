@@ -1,0 +1,427 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Sorry for the wait, Prez.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Thank you for coming, Geo.
+<PUSH>
+Let me introduce everyone.
+This is the head of the
+Science Club, Woody.
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Hey.
+Nice to see you again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Oh, you know each other?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, we met on the roof
+earlier today.
+<PUSH>
+Their club's Purpose is
+"Launch a Rocket".
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+If you're already familiar,
+then I can explain very
+quickly.
+<PUSH>
+Geo! Bud! Zack!
+<PUSH>
+Team "Luna 4 Prez" is
+going to manage the
+construction of the rocket!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Interesting...
+<PUSH>
+By "manage" you mean
+oversee and help with all
+things in general, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+But Prez!
+That's impossible!
+<PUSH>
+We don't know anything
+about this kind of stuff!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+It's true that construction
+of a rocket is very
+<PUSH>
+complicated, but this rocket
+is just about finished.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+All we need to complete
+the process is a
+Giga Energy Card.
+<PUSH>
+If we just had that we
+could perform the launch.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A Giga Energy Card?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Yes.
+I think we should have
+Magnes explain.
+<PUSH>
+Come on out, Magnes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+I'm Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Are you a Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+I'm a Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Awesome!
+I didn't know there were
+rocket specialist Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+<PUSH>
+I'm going to act as the
+brain and pilot of the
+rocket for its space flight!
+<PUSH>
+But, as Woody said, we
+still need one more item
+to complete the rocket.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A Giga Energy Card, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+We are going to use both
+fuel and my magnetic
+<PUSH>
+abilities to launch the
+rocket. But that's still not
+enough.
+<PUSH>
+A Giga Energy Card would
+give us the power needed
+to successfully launch.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So you can't move on
+without it...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Yup...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Giga Energy Cards are
+used mainly by police and
+the government.
+<PUSH>
+Most civilians have never
+even seen one.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+How much do they cost?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+.{15}{E1}.{15}{E1}.{15}{E1}What?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Tell me how much money
+it would take to buy one.
+<PUSH>
+I'll send you the proper
+amount of EM money right
+to your <Hunter>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+P-Prez!
+That's no good!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We have to run a clean
+campaign!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+What's the matter?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Everyone will see it as
+bribery!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+I'm very thankful, but one
+can't simply buy a
+Giga Energy Card.
+<PUSH>
+They are too powerful to
+be legally sold to civilians.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Saying elementary school
+students are going to use
+it for a school club won't...
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+Totally impossible...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I see.
+Well, that's that, then.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+There has to be some
+other way, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Unfortunately, there is only
+a one percent chance of
+acquiring one.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Unless a miracle occurs...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+We can't just give up
+after they've come so far.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo is right.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What's that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, sorry.
+That's my <Hunter>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's a pop-up from school.
+Take a look at it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+What is it, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It says there's somebody
+here to see me on the
+1st Floor.
+<PUSH>
+Who could it be?
+I'll go and see.
+<PUSH>
+
+[END]
+

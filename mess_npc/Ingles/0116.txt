@@ -1,0 +1,116 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* This is the
+Air Duct's Cyber Core! My
+job is to pipe out bad air.
+<PUSH>
+*cough*
+I'm doing my best!
+*beep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+DrkPhntm"R"!
+Leave Earth now!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What?
+No snarky remark?
+No funny laugh?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Such narcissistic actions
+would only pose an
+<PUSH>
+impediment to one's fighting
+ability, wouldn't you agree?
+<PUSH>
+I assume that the
+Dark Phantom you knew
+<PUSH>
+didn't have the capabilities
+that I possess.
+<PUSH>
+Witness the power of the
+real Dark Phantom!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{AB}{00}
+[END]
+

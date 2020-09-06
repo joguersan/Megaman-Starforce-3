@@ -1,0 +1,284 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0A}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Mi Hunter-VG no funciona
+bien! Me pregunto si será un
+efecto secundario del Ruido...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{2D}{16}{0B}{00}{0C}{E1}{00}{00}{45}{16}{03}{00}{0C}{E1}{01}{00}{A9}{16}
+{0C}{E1}{01}{00}{2C}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Me llamo Gian Luigi!
+<PUSH>
+Exterminar virus es mi mayor
+afición.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Mi Hunter-VG empezó a volverse
+loco mientras exterminaba
+algunos virus.
+<PUSH>
+Creo que se ha roto.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Conozco a alguien muy bueno
+con la electrónica. Podría
+decirle que te lo repara...
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡¿De verdad lo harías?!
+¡Me dejas sin palabras!
+<PUSH>
+Ten, llévate mi Hunter-VG.
+Ten cuidado con él, por favor.
+<PUSH>
+{82}{E1}2{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{A2}{E5}»!
+<PUSH>
+
+{0A}{E1}{2C}{16}{20}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ahora ya no puedo exterminar
+virus...
+<PUSH>
+{0B}{E1}{45}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Oh, ¿mi Hunter-VG ya está
+arreglado?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ahora ya no puedo exterminar
+virus...
+<PUSH>
+{0B}{E1}{45}{16}{0B}{E1}{2C}{16}{0B}{E1}{2D}{16}{0B}{E1}{A8}{16}{82}{E1}2{FF}{FF}{21}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Espero que puedas arreglarlo!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eh, he hecho que te
+lo arreglen.
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+¡Caramba! ¡¡Gracias!!
+<PUSH>
+¡Ahora puedo seguir pateando
+culos víricos!
+<PUSH>
+Entreno todo lo posible.
+¡Algún día, quiero volverme
+muy bueno en ello!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cuanto más fuertes sean los
+virus, más fuerte será el
+efecto Ruido.
+<PUSH>
+Conque no te excedas, ¿vale?
+<PUSH>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Ah, bien visto.
+¡Gracias por el consejo!
+<PUSH>
+Parece que sabes mucho sobre
+combatir.
+<PUSH>
+¿Podríamos ser Hermanos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Y tanto!
+<PUSH>
+{6E}{E1}{00}{00}d
+<NEW-DIALOG>
+<Game>
+¡Geo y {04}{E3}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Cuando podamos, deberíamos
+intercambiar información y
+tácticas de combate!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{2D}{16}{82}{E1}2{FF}{FF}{21}{EC}{E6}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+Me gustaría intentar combatir
+contigo alfgún día.
+<PUSH>
+¡¿Quién ganaría?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{0C}{E1}{01}{00}{A9}{16}{0D}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Quieres que le arregle un
+Hunter-VG roto a uno de tus
+amigos?
+<PUSH>
+¡Creo que puedo encargarme
+de ello!
+<PUSH>
+Mmm...
+<PUSH>
+Los daños parecen haber sido
+causados debido al contacto
+con altos niveles de Ruido.
+<PUSH>
+Luchar contra virus fuertes
+tiene esta clase de efectos.
+<PUSH>
+A veces, huir es la mejor
+estrategia.
+<PUSH>
+¡Aquí lo tienes, como nuevo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Gracias, Sr. Boreal!
+<PUSH>
+Voy a devolvérselo a su dueño.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A9}{16}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Vuelve siempre que quieras
+que te arregle algo, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

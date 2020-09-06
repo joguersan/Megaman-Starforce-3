@@ -1,0 +1,325 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+I love campfires!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+They give off such a great
+atmosphere, don't they?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+You should stop eating so
+much and come have some
+fun, Prez.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+*chomp, chomp*
+*munch, munch*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's not healthy to eat so
+much, so quickly...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Shut your trap, Zack!
+I'm in a bad mood!
+<PUSH>
+I need to just pig out right
+now, so don't interrupt me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Wow, she's angry...
+I'm too scared to look back...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Why did Geo have to pick
+Sonia's bag to save...?
+<PUSH>
+Everyone knows Prez has
+the worst temper out of
+everyone we know...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+There's not enough food!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Isn't it beautiful?
+<PUSH>
+The ocean is beautiful during
+the day, but at night it's...
+<PUSH>
+What's the word?
+<PUSH>
+"Mysterious"?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I guess you're right...
+But it's also kind of scary...
+<PUSH>
+I mean if you fell from here,
+then it'd be all over...
+You can't see at all...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Oh, you're such a scaredy
+cat, Geo...
+<PUSH>
+Luna would be pretty sad to
+hear that her hero, Mega
+Man, is afraid of the ocean.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+She can be kind of scary...
+She was really mad...
+<PUSH>
+She's way scarier than the
+ocean at night...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+...That's Luna for you.
+<PUSH>
+But why don't I hold your
+hand for you, so you don't
+fall.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Do you feel better, now?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Just pull me back if I lose
+my balance and slip toward
+the water.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I will. I promise.
+<PUSH>
+...Oh, yeah.
+I almost forgot to tell you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Tell me what?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Thank you...
+<PUSH>
+Thank you so much.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm, for the bag?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That's part of it.
+It's pretty special to me
+since it was from a fan...
+<PUSH>
+But I also want to thank
+you for everything that you
+have done for me...
+<PUSH>
+{12}{E2}!{01}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Please become my Brother!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+When I was sad and alone,
+you offered to be my
+Brother.
+<PUSH>
+I was so happy when you
+asked me that...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So was I.
+<PUSH>
+You were my first Brother...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I finally found someone to
+fight by my side.
+<PUSH>
+No matter how hard of a
+fight, I have never been
+<PUSH>
+afraid, because I know that
+I'm not alone.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+You've always believed in me,
+no matter what.
+<PUSH>
+Even when I worked
+with an evil organization.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Because we're Brothers...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That Ace guy told me
+something...
+<PUSH>
+That he will need to borrow
+my power sometime...
+<PUSH>
+Is another fight about to
+start...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+The incidents at Echo Ridge
+Elementary and at your
+concert...
+<PUSH>
+Ace was connected to both
+of them...
+<PUSH>
+He also said that there
+were bad guys involved...
+<PUSH>
+The fight may have already
+started without us knowing...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+If you're going to fight, then
+I am, too.
+<PUSH>
+Because we're Brothers!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks...
+Sonia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

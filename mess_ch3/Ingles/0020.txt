@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+So this is the Environmental
+System Cyber Core...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The out of control Strong
+should be up ahead!
+<PUSH>
+Time to go buck wild, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

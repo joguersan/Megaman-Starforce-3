@@ -1,0 +1,30 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Es un cúmulo de Ruido!
+<PUSH>
+¿¡Así que de aquí proceden
+los virus!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡A quien le importa!
+¡Vamos a eliminarlo, chico!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Claro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]

@@ -1,0 +1,107 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+La entrada a la Onda Ruido
+está bloqueando el Camino
+Onda....
+<PUSH>
+¿Qué deberiamos hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+Estás en medio. Muevete.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+C-Claro...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+¿Qué vas a hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+¡Pse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Solo!!
+<PUSH>
+¡No sabes lo que puede pasar
+en esa onda Ruido!
+<PUSH>
+¡Acid tambien lo dijo!
+<PUSH>
+¡Incluso tú estarás en
+peligro si entras ahí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*suspiro*
+¡Dios, este tipo está
+empezando a molestarme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Nos vamos, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡De acuerdo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]

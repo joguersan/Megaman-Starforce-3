@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Bien, hora de irse!
+¡Vamos a la azotea
+de la escuela!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡El lanzamiento
+va a ser genial!
+<PUSH>
+
+[END]
+

@@ -1,0 +1,54 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's all of them!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The Sprinkler should be
+working fine now, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You should go brag to
+everyone!
+<PUSH>
+"I just turned into Mega
+Man and deleted all of the
+viruses!"
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Come on, be serious!
+<PUSH>
+I want to try my best to
+keep the fact that I'm
+Mega Man a secret.
+<PUSH>
+It was crazy enough with
+Prez, Bud and Zack finding
+out.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're too shy, kid!
+<PUSH>
+Anyway, let's {4B}{E2} of
+here!
+<PUSH>
+Press the R Button to
+change back to normal and
+return to the Real World.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

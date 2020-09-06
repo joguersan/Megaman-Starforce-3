@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cancer Noise
+<PUSH>
+Non-dimming Aqua Elemental
+card attacks +30
+<PUSH>
+Bubble enemies with Non-
+dimming Aqua-Elemental cards
+<PUSH>
+Charged attack:
+"Bubble Shot",
+<PUSH>
+traps enemies in a bubble
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cancer Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C2}{10}
+[END]
+

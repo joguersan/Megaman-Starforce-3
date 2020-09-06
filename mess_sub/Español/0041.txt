@@ -1,0 +1,16 @@
+[SENTENCE NUMBER 1]
+Hermano
+[END]
+
+[SENTENCE NUMBER 2]
+PROHIBIDO
+[END]
+
+[SENTENCE NUMBER 3]
+Servidor satelital
+[END]
+
+[SENTENCE NUMBER 4]
+Servidor meteorito
+[END]
+

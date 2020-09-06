@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a darles
+una lección!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

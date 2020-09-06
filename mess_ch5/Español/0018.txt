@@ -1,0 +1,97 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Al mismo tiempo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+El informe, señor.
+<PUSH>
+Parece que...
+<PUSH>
+Jack ha robado el Programa
+de creación de ruido.
+<PUSH>
+¿Qué debería hacer al
+respecto?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+Jack, ¿cómo te atreves?
+<PUSH>
+Sin embargo, saquemos algo
+bueno de este incidente.
+<PUSH>
+Hagamos un experimento.
+<PUSH>
+¡Joker!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Señor...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Vigila a Jack.
+<PUSH>
+Si se pasa de la raya...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Eliminalo.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Como usted diga, señor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

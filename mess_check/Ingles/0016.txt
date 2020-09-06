@@ -1,0 +1,333 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, is this a shopping
+basket?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There are various candies
+on display...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh, that's...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mega Snacks.
+Ace loves them!
+<PUSH>
+This candy shop is great!
+They have every flavor!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Which would you recommend?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I like them all, but...
+Pepperoni pizza is the best.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Taco cheese sounds
+really good to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{1A}{16}{09}{00}{0C}{E1}{01}{00}{1B}{16}{09}{00}{0C}{E1}{01}{00}{8D}{16}{09}{00}{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a game where you can
+win gifts.
+<PUSH>
+The poster of Sonia isn't
+related at all.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There are various candies
+on display...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Jalapeno chocolate...
+California roll...
+Steak sandwich...
+<PUSH>
+There are so many different
+flavors to choose from!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Candy shops are the best
+place to find a wide variety
+of different flavors!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{09}{E1}{00}{00}{0D}{08}{13}{08}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Bubble Gum Lottery
+  Red... Fail
+  Blue... Too Bad
+<PUSH>
+  Yellow... Sorry!"
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Come on, gimme a break!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a strange, yet relaxing
+sight.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a register that's been
+used to death.
+<PUSH>
+There's an abacus by it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The cooler is jam-packed
+with ice cream.
+<PUSH>
+They'll be staying nice and
+cold even if the cooler
+stops working!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{85}{13}{0A}{E1}s
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The entrance to the
+Noise Wave is open.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a bubble gum machine.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's not working right!
+We better check out
+its Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+There're a ton of different
+flavors of ice cream, huh?
+This one looks pretty good.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Buy ice cream? (50 Zennys)
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Buy
+  {09}{EC}Don't buy
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{03}{00}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{8A}{E1}2{13}{00}
+<NEW-DIALOG>
+<Geo>
+*sigh*
+I don't have enough Zennys.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"Ice Cream"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I have to get the ice cream
+to her before it melts!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Time limit: 3 minutes.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{8D}{16}{81}{E1}{CE}{FF}{82}{E1}+{01}{00}{1A}{EC}{B4}{00}
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Geo>
+Maybe I should hold back
+from spending my money.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

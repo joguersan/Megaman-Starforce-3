@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ahhhhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+All of those who oppose
+Dealer shall meet the same
+fate!!
+<PUSH>
+There is no one that can
+take on the combined powers
+of myself and Meteor G!!
+<PUSH>
+So be good children and
+settle down!!
+Ho ho ho ho ho!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

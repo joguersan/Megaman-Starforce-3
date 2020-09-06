@@ -1,0 +1,272 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{90}{00}Q-Q-Qué frío...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Está congelado!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Q-Q-Qué f-f-frío...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Voy a sacarte de aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Máxima potencia!
+¡Fuego!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Imposible!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué mal...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ah, una llamada...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Eh, Mega Man!
+¿Cómo va por ahí?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tengo un problemilla...
+<PUSH>
+Han congelado a un
+Wizard.
+No consigo derretirlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Entiedno...
+<PUSH>
+¡Entonces te presto a
+Taurus un rato!
+<PUSH>
+¡Te lo estoy enviando
+a tu <Hunter>!
+<PUSH>
+{02}{E2}({10}{E2}{46}{05}
+<NEW-DIALOG>
+<Game>
+¡Taurus se ha instalado
+en tu <Hunter>-VG!
+<PUSH>
+{01}{E2}(
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¡Mmmrrrggg!
+¡Aquí estoy!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Bud!
+<PUSH>
+¿Pero no te importa?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No, tranquilo.
+<PUSH>
+Creo que te será más
+útil a ti que a mí
+ahora mismo.
+<PUSH>
+¡Cuídalo bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Claro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Taurus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¡Vamos a divertirnos!
+¡Déjamelo a mí!
+¡Fuego!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ha derretido el hielo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡En lo que a llamas se
+refiere no hay quien
+pueda con él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus>
+¡Dame un toque si
+necesitas derretir
+más hielo!
+<PUSH>
+¡Vendré cuando me necesites
+y haré lo que mejor
+se me da! ¡Fuego!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}¡Gracias por salvarme!
+<PUSH>
+Cuando vine a comprobar esa
+cerradura, me congelaron...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Viste quién lo hizo?
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}No. Me atacaron
+por la espalda...
+<PUSH>
+Pero por cómo andaba,
+diría que era una mujer.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Una mujer...
+<PUSH>
+
+<NEW-DIALOG>
+{90}{00}Voy a abrir la cerradura
+y vuelvo al trabajo.
+<PUSH>
+¡Gracias por ayudarme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Los cuerpos EM femeninos
+no son muy comunes...
+Solo conozco a Lyra...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí...
+Bueno, al menos hemos
+ayudado a ese Wizard.
+<PUSH>
+Sigamos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

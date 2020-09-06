@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "{e127}{3}"
+msgstr ""
+
+msgctxt "1"
+msgid "{e127}{3}{ff0b}{e126}{3}"
+msgstr ""
+
+msgctxt "2"
+msgid "{ff0b}{e127}{3}"
+msgstr ""
+
+msgctxt "3"
+msgid "UltmteBattleMstr"
+msgstr ""
+
+msgctxt "4"
+msgid "UltmteFireMstr"
+msgstr ""
+
+msgctxt "5"
+msgid "UltmteAquaMstr"
+msgstr ""
+
+msgctxt "6"
+msgid "UltmteElecMstr"
+msgstr ""
+
+msgctxt "7"
+msgid "UltmteWoodMstr"
+msgstr ""
+
+msgctxt "8"
+msgid "UltmteSwordMstr"
+msgstr ""
+
+msgctxt "9"
+msgid "UltmteBreakMstr"
+msgstr ""
+
+msgctxt "10"
+msgid "UltmteGuardMstr"
+msgstr ""
+
+msgctxt "11"
+msgid "UltmteParlyzMstr"
+msgstr ""
+
+msgctxt "12"
+msgid "UltmteFinalize"
+msgstr ""
+
+msgctxt "13"
+msgid "SatelliteServer"
+msgstr ""
+
+msgctxt "14"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "15"
+msgid "Break"
+msgstr ""
+
+msgctxt "16"
+msgid "AquaElmntl"
+msgstr ""
+
+msgctxt "17"
+msgid "ElecElmntl"
+msgstr ""
+
+msgctxt "18"
+msgid "WoodElmntl"
+msgstr ""
+
+msgctxt "19"
+msgid "FireElmntl"
+msgstr ""
+
+msgctxt "20"
+msgid "Sword"
+msgstr ""
+
+msgctxt "21"
+msgid "AquaElmntl"
+msgstr ""
+
+msgctxt "22"
+msgid "ElecElmntl"
+msgstr ""
+
+msgctxt "23"
+msgid "WoodElmntl"
+msgstr ""
+
+msgctxt "24"
+msgid "FireElmntl"
+msgstr ""
+
+msgctxt "25"
+msgid "[NULL]"
+msgstr ""
+
+msgctxt "26"
+msgid "Pur:"
+msgstr ""
+
+msgctxt "27"
+msgid "???"
+msgstr ""
+
+msgctxt "28"
+msgid "---"
+msgstr ""

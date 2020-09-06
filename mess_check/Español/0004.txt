@@ -1,0 +1,321 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{1D}{02}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aún es pronto para
+irme a dormir.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una tele.
+<PUSH>
+Hay una consola antigua
+conectada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Me regalarán una
+nueva por mi cumple?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un panel de control.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un escritorio.
+<PUSH>
+Haz tus deberes el triple
+de rápido encima de
+este escritorio.
+<PUSH>
+¡Psicodélico, tío!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una estantería.
+<PUSH>
+Está llena de videojuegos
+y cómics.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un guante y una pelota
+de béisbol.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Me los regaló mi padre.)
+<PUSH>
+{13}{EC}(Los tengo como oro en paño.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un póster de un
+transbordador espacial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El póster del cúmulo
+estelar de las Pléyades.
+<PUSH>
+También se le conoce como
+las «Siete hermanas».
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un globo terráqueo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Mua, ja, ja, ja...
+¡Un día este planeta
+será todo mío!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿En serio?...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un telescopio.
+<PUSH>
+Es un modelo muy popular
+entre los amantes del
+espacio.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Qué buen día hace hoy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un meteorito.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿A que es alucinante?!
+¡Y es de verdad!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¿Vas a presumir
+de eso delante de un
+AM-iano?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una papelera. Está en una
+esquina, así puedo tirar
+basura desde cualquier lado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un póster del famoso
+jugador de béisbol,
+Michael Jordan.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una cómoda.
+¿Habrá algo detrás
+del cajón?
+<PUSH>
+Pues no.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un armario.
+Está lleno de cosas
+inservibles.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Se ha caído un libro
+lleno de garabatos.
+<PUSH>
+Título: «Space Jam:
+¿Ficción o realidad?».
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Pero qué clase de
+libro es este?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Quieres irte a la cama?
+{05}{EC}{00}{00}{02}{00}    {06}{EC}Dormir    {07}{EC}No dormir
+<PUSH>
+
+{11}{EC}{00}{00}{12}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{0A}{E1}{2D}{02}
+[END]
+

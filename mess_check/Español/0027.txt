@@ -1,0 +1,427 @@
+[SENTENCE NUMBER 1]
+{0D}{E1}{00}{00}`{FF}{00}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un extintor muy viejo.
+Y caducó hace mucho
+tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+21XX...
+¡Hace siglos de eso!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{00}{00}`{FF}{00}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una caja de madera
+muy vieja.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0D}{E1}{00}{00}`{FF}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son barriles puestos
+en fila. Están vacíos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0D}{E1}{00}{00}`{FF}{00}<Geo>
+{0C}{E1}{01}{00}{EA}{00}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una machina muy antigua.
+Ya no funciona.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡!!
+¡No puede ser!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}{EA}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0D}{E1}{00}{00}`{FF}{00}{15}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la carta de un rey enorme.
+<PUSH>
+Qué miedo que alguien haya
+mandado hacer esto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0D}{E1}{00}{00}`{FF}{00}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una caja de madera
+muy vieja.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{8B}{E1}6{03}{00}<Zack>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Acceso restringido=
+Se necesitan tres Partes
+Omega para continuar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una escalera...
+<PUSH>
+Parece que no
+termina nunca.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{10}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{95}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{9D}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un extintor muy viejo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Este trasto es viejísimo.
+<PUSH>
+Los de ahora no se parecen
+en nada. ¿Cómo se usa
+esto siquiera?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una caja de madera
+muy vieja. Está destrozada
+y llena de comida podrida.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+¡Puaj! Qué asco.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pues sí...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son barriles puestos
+en fila.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Si los golpeas hacen
+un ruido muy guay.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Pam, parapam, para...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}{EA}{00}<Bud>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina antigua.
+<PUSH>
+Está borrado, pero pone:
+«¡No tocar! ¡Peligro!».
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahora tengo más
+ganas de tocarlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡Ahí hay algo!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué pasada!
+<PUSH>
+{0A}{E1}{EA}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Seguro que la Policía Satella
+ha quitado esa carta
+de rey gigante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una caja de madera
+muy vieja. Está destrozada
+y llena de comida podrida.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+¡Puaj! Qué asco.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Pues sí...
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina antigua.
+Ya no funciona.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina antigua.
+<PUSH>
+Está borrado, pero pone:
+«¡No tocar! ¡Peligro!».
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahora tengo más
+ganas de tocarlo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Acceso restringido=
+Se necesitan tres Partes
+Omega para continuar.
+<PUSH>
+{0B}{E1}{C6}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+

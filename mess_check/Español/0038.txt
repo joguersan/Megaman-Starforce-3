@@ -1,0 +1,50 @@
+[SENTENCE NUMBER 1]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡No te rindas, chico!!
+¡Déjame el Carmesí a mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Me parece bien!
+¡¿Qué haría yo sin ti?!
+<PUSH>
+{0A}{E1}{85}{02}
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,221 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+!?
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Noise...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...It's no good...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's a phone call, kid!
+<PUSH>
+...It looks like it's from Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+From Prez...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What's going on, Prez?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+M-M-M{15}{E1}-Mega Man!!
+<PUSH>
+Th-Th-Th{15}{E1}-This is bad!!
+<PUSH>
+Bad, bad, bad!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Calm down, Prez.!
+<PUSH>
+Take a deep breath!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+*Oooo....*
+<PUSH>
+{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+*Ahhh...*
+<PUSH>
+Th-This is bad!!
+<PUSH>
+There's something terrible
+happening at <Echo.Ridge>!!
+<PUSH>
+There are viruses...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Prez>
+They're everywhere!
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Prez>
+Everywhere!
+<PUSH>
+It's terrible!!
+Come quiiick!{15}{E1}
+<PUSH>
+Mega Maaan!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I have no idea what she
+just said...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like Prez is freaking
+out!
+<PUSH>
+Haha!
+<PUSH>
+Let's get there ASAP!
+I want to see her like that!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+She really is...
+<PUSH>
+{13}{EC}(There must be some
+{13}{EC} reason that viruses
+<PUSH>
+{13}{EC} are appearing in
+{13}{EC} <Echo.Ridge>!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Sonia, Bud! Apparently, more
+viruses have appeared in
+<Echo.Ridge>...!
+<PUSH>
+I'm going to go check it out!
+<PUSH>
+You two keep heading to
+<Studi.WBG>!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+OK!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Got it!
+<PUSH>
+...Be careful, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You too, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...OK, let's get to <Echo.Ridge>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

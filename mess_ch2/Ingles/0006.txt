@@ -1,0 +1,623 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{9D}{00}Uhhhh...
+What happened?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Phew!
+It looks like he's back to
+normal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Dang!
+Looks like a regular Wizard
+won't be enough.
+<PUSH>
+So next I'll...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Geeeooo!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+...Someone's coming.
+<PUSH>
+Looks like it's the end of
+my fun for today.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+Didn't someone call me...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I heard it, too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Maybe it was just my
+imagination.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No.
+I definitely heard it, too.
+<PUSH>
+There's no way we were
+both mistaken.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah... Weird...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Who!? What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+*giggle*
+Don't move, Geo.
+<PUSH>
+Move and you're a goner!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What!? What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Try and guess who this is!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hmm, it has to be {59}{E2}!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Geo>
+So it is you, Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Wrong answer, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Shouldn't you have guessed
+wrong once or twice?
+You know, to be a tease.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I didn't think of that...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That's boys for you.
+<PUSH>
+Anyway!
+It's been a while, so I
+thought I'd come see you!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You came just to see me?
+Wow, thanks!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+It's been what? A month?
+<PUSH>
+It's been so long I thought
+you might forget me. I
+didn't want that to happen!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I could never forget you!
+<PUSH>
+You were my first Brother,
+Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Hehe, that's right!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Hey there, Mega!
+<PUSH>
+You look right at home
+being Geo's Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah whatever...
+<PUSH>
+Don't tell me you brought
+you know who with you...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Oh, do you mean me, dear?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+You don't have to hide
+that you're happy to see
+me. Hehe.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ugh!
+So you are here, <Lyra-color>
+.
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Of course.
+I'm Sonia's Wizard, after all.
+<PUSH>
+But it's not like she leads
+me around.
+<PUSH>
+I'm a strong independent
+female alien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Whoa!
+<PUSH>
+Is that Sonia Strumm!?
+I-I-It really is Sonia Strumm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Sonia!?
+Sonia Strumm!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+The super famous star...
+Sonia Strumm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++She's in <Echo.Ridge>!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Uh oh! I was spotted.
+What should we do...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+This is exactly why I said
+you should come in disguise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+But I had to make sure
+that Geo and the others
+could recognize me.
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+You should really listen to
+me more often, you know.
+<PUSH>
+Good luck getting out of
+this one!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sorry, kid.
+<PUSH>
+But you're on your own
+for this one.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+L-Lyra, don't leave when I
+need your help!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(When we're hanging out I
+ totally forget that Sonia
+ is so famous...)
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ahhh!
+SO{14}{E1}NI{14}{E1}A{14}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Th-This is bad!
+There's going to be a riot!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+We've got to run, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+What? How?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I have an idea!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Sweet, nobody noticed us.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I'm really sorry for showing
+up without thinking, Geo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+There's nothing to be
+sorry about.
+<PUSH>
+You can't help that you're
+so famous.
+<PUSH>
+And it's my job as your
+friend to help you out
+when you're in trouble.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+You're the best, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Let's get out of here
+before we get noticed.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+But, how?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's one thing that only
+we can do.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Ah, EM Wave Change!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Exactly.
+Come on, let's get going.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Let's get to the Wave
+Road.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Got it!
+Are you ready, Lyra!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+I'm ready, Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+EM Wave Change!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+It's been so long since
+we've done an EM Wave
+Change.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+OK, it's Wave Road time!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

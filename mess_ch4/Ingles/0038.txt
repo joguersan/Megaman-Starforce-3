@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3All Satella Police systems
+have given out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

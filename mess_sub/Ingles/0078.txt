@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+Word Edit 
+[END]
+
+[SENTENCE NUMBER 2]
+Fav BtlCrd
+[END]
+
+[SENTENCE NUMBER 3]
+Fav Boss  
+[END]
+
+[SENTENCE NUMBER 4]
+Weakness  
+[END]
+
+[SENTENCE NUMBER 5]
+Hometown  
+[END]
+
+[SENTENCE NUMBER 6]
+Fav Sport 
+[END]
+
+[SENTENCE NUMBER 7]
+One-liner 
+[END]
+
+[SENTENCE NUMBER 8]
+Hated Food
+[END]
+
+[SENTENCE NUMBER 9]
+Fav Game  
+[END]
+
+[SENTENCE NUMBER 10]
+...
+[END]
+
+[SENTENCE NUMBER 11]
+???
+[END]
+

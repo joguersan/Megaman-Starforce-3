@@ -1,0 +1,473 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Parece que has
+introducido la
+carta correctamente.
+<PUSH>
+¿Oh? ¿Pero qué...?
+<PUSH>
+Esa carta contiene
+un Ruido muy
+poderoso.
+<PUSH>
+Diría que has obtenido
+un objeto de gran
+valor.
+<PUSH>
+Piensa bien en cómo
+lo usarás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Ya has introducido
+esta carta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Solo puedes introducir
+una carta con el logo
+de Star Force
+<PUSH>
+automáticamente
+a la vez.
+<PUSH>
+¿Quieres sobreescribir
+los datos de esta carta?
+<PUSH>
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Qué lástima... Solo puedes
+registrar cinco cartas
+a la vez.
+<PUSH>
+Si quieres introducir una
+nueva, tendrás que eliminar
+una existente.
+<PUSH>
+¿Quieres eliminar
+una carta?
+<PUSH>
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¿Quieres introducir
+una carta o cancelar?
+{10}{EC}{00}{00}Introducir
+{10}{EC}{01}{00}Cancelar
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+No puedes introducir cartas
+del mismo número y palo
+a la vez.
+<PUSH>
+¿Quieres sobreescribir
+la otra carta?
+<PUSH>
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Muy bien... Se
+sobreescribirán los
+datos de tu carta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Se ha cancelado la
+modificación de
+los datos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Se sobreescribirán tus
+datos personalizados.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Se han modificado
+correctamente tus
+datos personalizados.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Jo, jo... Esta
+combinación: "Banda
+Ruido" es muy
+<PUSH>
+especial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Doble par. No está mal.
+Se ve que estás
+<PUSH>
+aprendiendo a combinar
+cartas para controlar
+el Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Trío. No está mal.
+Se ve que estás
+<PUSH>
+aprendiendo a combinar
+cartas para
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Jo, jo... Ni más ni
+menos que una escalera.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Menuda sorpresa!
+Color de corazones.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Menuda sorpresa!
+Color de diamantes.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Menuda sorpresa!
+Color de picas.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Menuda sorpresa!
+Color de tréboles.
+
+<PUSH>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Impresionante!
+Un full.
+
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Pero qué sorpresa!
+Un póquer.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¡Pero bueno, una escalera
+de color! Alguien como
+<PUSH>
+tú sería muy valioso
+en mi organización.
+<PUSH>
+{06}{E1}<Bud>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¿Pero y esto? ¡Una
+escalera real
+Es increíble.
+<PUSH>
+Alguien como tú podría
+liderar mi organización.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Oh... Un quinteto,
+bravura es igual a
+la del Meteorito G.
+<PUSH>
+{06}{E1}<Prez>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¿Eh? Parece que has
+obtenido {2C}{E1}
+como bonificación...
+<PUSH>
+¡Eres todo un hacha
+combinando cartas para
+controlar el Ruido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¿Eh? Parece que has
+obtenido {2C}{E1} y {2D}{E1}
+como bonificación...
+<PUSH>
+¡Eres todo un hacha
+combinando cartas para
+controlar el Ruido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Qué lástima... Parece
+que al actualizar
+<PUSH>
+esta carta has perdido
+tu Banda Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Creo que ese Ruido
+está devorando
+tu cuerpo...
+<PUSH>
+Deberías usarlo
+con cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+¿Quieres borrar los
+datos de esta carta?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.King>
+Se han eliminado los
+datos de la carta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,162 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tWeeeeen! *drill*
+<PUSH>
+This is the Dentist's
+Cyber Core!
+<PUSH>
+Be sure to brush after
+every meal!
+<PUSH>
+Because if you get a cavity,
+it's weeeeen *drill*...
+<PUSH>
+And that could hurt
+just a little!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+CygnsWing"R"!
+<PUSH>
+Your boss, Sirius,
+who is he!?
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}My master, Sirius, is the
+magnificent administrator
+<PUSH>
+of the largest server
+in the universe,
+the Black Hole Server.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Black Hole Server!?
+<PUSH>
+You mean that black
+hole is a server!?
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}That is correct.
+<PUSH>
+Sirius uses it to suck in
+EM waves which he fancies,
+<PUSH>
+and uses all of that
+data for his own power.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kid, this guy... He
+reminding you of anything?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, Meteor G...
+Meteor G is a server too.
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}Ho ho ho ho!
+That's laughable!
+<PUSH>
+Compared to the Black Hole
+Server, Meteor G amounts
+<PUSH>
+to nothing more than a
+single folder!
+<PUSH>
+But, unfortunately, you'll
+never be written to that
+server.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You got that right!
+I don't plan on being sucked
+up by any black hole!
+<PUSH>
+
+<NEW-DIALOG>
+{8B}{00}That's not why...
+I'm going to delete you
+<PUSH>
+right here, {14}{E1}right now!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{AD}{00}
+[END]
+

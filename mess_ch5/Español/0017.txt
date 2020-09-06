@@ -1,0 +1,197 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Ya veo.
+<PUSH>
+Así que Jack será el
+siguiente...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{06}{00}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+El...
+<PUSH>
+Sus emociones a menudo sacan
+lo mejor de él, pero acaba
+perdiendo el control de estas.
+<PUSH>
+Puede ser muy despiadado
+cuando está en un estado de
+ánimo negativo.
+<PUSH>
+Solo su hermana mayor, Queen
+Tia, puede hacerle volver en
+si.
+<PUSH>
+Yet, at the moment...{15}{E1}
+Sin embargo, por el momento.... Su querida hermana mayor está un poco preocupada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+En pocas palabras, el chico es
+una bomba de relojería.
+<PUSH>
+Tenemos que atraparlo la
+próxima vez que venga a pelear
+contra Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No puedo creer que sea tan
+peligroso.
+<PUSH>
+Era muy divertido pasar el
+rato con él en la playa.
+<PUSH>
+Geo, ¿No hay nada que podamos
+hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+E-Epero que si.
+<PUSH>
+{13}{EC}(Yo tambien quiero ayudarle
+{13}{EC} Bud, pero...)
+<PUSH>
+{13}{EC}(El ya no es el mismo Jack
+{13}{EC} que conociamos...)
+<PUSH>
+{13}{EC}{08}{FF}Yo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+{13}{EC} Fui el responsable de
+{13}{EC} la captura de su hermana...)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+Por cierto, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+S-Si, ¿¡qué pasa!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Solo...
+<PUSH>
+Solo llamó a Dealer su
+enemigo, ¿correcto?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sí, básicamente....{15}{E1}
+<PUSH>
+Dijo que hay otros que le
+preocupan más...
+<PUSH>
+Y que no tiene intención de
+trabajar con nosotros ni con
+la policía Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+Maldita sea.
+Parece que tendremos que descartarlo.
+<PUSH>
+Tenía tanto potencial...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+<PUSH>
+¿Qué tiene que ver Solo con
+la policía Satella?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ah, ¿no os lo dije?
+<PUSH>
+Solo iba a ser el último
+miembro especial de los
+Comandos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Sonia>
+¿¡En serio!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Pero nos rechazó.
+<PUSH>
+¿Recuerdas al oficial que
+regresó apaleado?
+<PUSH>
+Estaba tratando de reclutarlo,
+pero terminó siendo atacado
+por él.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Así que eso es lo que pasó...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Por lo menos, me alegra saber
+que no ve a la policía Satella
+como enemigos.
+<PUSH>
+Bueno... Está bien.
+<PUSH>
+Gran trabajo el de hoy.
+<PUSH>
+Lo habeis hecho genial
+manejando a Jack y al
+incidente de la ola de Ruido.
+<PUSH>
+¡Dejad el trabajo de
+seguimiento a la NAZA, por
+ahora!
+<PUSH>
+Podéis iros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

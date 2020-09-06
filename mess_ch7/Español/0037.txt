@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Es un Napie!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Chico, se acerca algo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡¡Guaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Club Strong...
+¡¡No te entrometas!!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

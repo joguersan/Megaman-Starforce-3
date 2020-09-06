@@ -1,0 +1,66 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Los atrapé, Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Yo tambien!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bien hecho, chicos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ataquemos a este Ruido a
+la vez!
+¡Lo eliminaremos fácilmente!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Me parece bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡De acuerdo!
+¡¡Hagamoslo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bien....!{15}{E1}
+¡Continuemos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]

@@ -1,0 +1,151 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Hey, look!
+<PUSH>
+Your opponent, {2C}{E1},
+is one of your Brothers.
+<PUSH>
+But it looks like they
+unregistered you as
+as one of their Brothers.
+<PUSH>
+Oh well...
+You'll just have
+to unregister them, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Hey, look!
+<PUSH>
+Your opponent, {2C}{E1},
+is one of your Battle Mates.
+<PUSH>
+But it looks like they
+unregistered you as
+one of their Battle Mates.
+<PUSH>
+Oh well...
+You'll just have
+to unregister them, too!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Your opponent is still
+preparing for the battle.
+Just relax for a bit.
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Awesome battle!
+Ask your opponent
+to become your Brother?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+We've got to wait for a
+response from them.
+Just relax for a bit.
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Geez... Your opponent
+denied your request.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Ask your opponent
+to be your Battle Mate?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+It looks like your opponent
+is one of your Battle Mates.
+<PUSH>
+If you want to register
+them as your Brother, you'll
+<PUSH>
+have to unregister them as
+your Battle Mate first.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+It looks like your opponent
+is one of your Brothers.
+<PUSH>
+If you want to register
+them as your Battle Mate,
+<PUSH>
+you'll have to unregister
+them as your Brother first.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

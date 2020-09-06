@@ -1,0 +1,336 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mmm, ¿es una cesta
+de la compra?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Tienen expuestos
+varios dulces...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh, son...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Megachuches.
+¡A Ace le encantan!
+<PUSH>
+¡Esta tienda de chuches
+es genial! ¡Tienen de
+todos los sabores!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué me recomiendas?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Me gusta todo...
+Pero la pizza de peperoni
+está buenísima.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡A mí me llaman los
+tacos de queso!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{1A}{16}{09}{00}{0C}{E1}{01}{00}{1B}{16}{09}{00}{0C}{E1}{01}{00}{8D}{16}{09}{00}{06}{E1}{11}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En este juego puedes
+ganar regalos.
+<PUSH>
+Ese póster de Sonia no
+tiene nada que ver
+con la realidad.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+There are various candies
+on display...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Paella con chorizo...
+Pizza con piña...
+Bocata de lomo...
+<PUSH>
+¡Cuántos sabores tienen!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡En las tiendas de chuches
+siempre tienen muchos
+sabores para elegir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{09}{E1}{00}{00}{0D}{08}{13}{08}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+"Sorteo de chicle
+  Rojo... Lo siento
+  Azul... Qué lástima
+<PUSH>
+  Amarillo... ¡Perdón!"
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Venga, no fastidies!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una vista extraña,
+pero relajante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este registro está
+desgastado por el uso.
+<PUSH>
+Al lado hay un ábaco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El congelador está
+a reventar de helados.
+<PUSH>
+¡Seguro que si el
+congelador se estropea
+seguirán fresquitos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{85}{13}{0A}{E1}s
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Se ha abierto la entrada
+a la Disonancia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es una máquina de chicles.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Está rota!
+¡Vamos a ver cómo está
+su Cibernúcleo!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Tienen un montón de
+sabores de helado, ¿eh?
+Este parece rico.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¿Comprar helado? (50 Zennys)
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{12}{00}{11}{EC}{03}{00}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{8A}{E1}2{13}{00}
+<NEW-DIALOG>
+<Geo>
+Ay...
+No me queda dinero.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} Ha obtenido:
+«Helado»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Tengo que darle el
+helado antes de que
+se derrita!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Límite: tres minutos.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{8D}{16}{81}{E1}{CE}{FF}{82}{E1}+{01}{00}{1A}{EC}{B4}{00}
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Geo>
+Debería intentar
+ahorrar un poco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,119 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En ese momento,
+en otro lugar...
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{15}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¿La Policía Satella ha
+capturado a Queen Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Correcto.
+<PUSH>
+Pero el asalto ha eliminado
+a la mayoría de personal de
+la NAZA y la Policía Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Entonces podemos decir
+que el asalto ha sido
+un éxito.
+<PUSH>
+¡Está tan cerca!...
+<PUSH>
+¡El día en que pueda usar
+el Meteorito G para
+conquistar el planeta!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+En efecto.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Por cierto, Sr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Sí, ¿qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¿Qué hacemos con Jack?
+<PUSH>
+Digamos que no se está
+portando demasiado bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Ja, ja, ja!
+¡Eso parece, ¿no?!
+<PUSH>
+Deshaceos de él.
+Queen Tia no son más que
+unos peones.
+<PUSH>
+Cuando pierdes a alguien, te
+vuelves estúpido y descuidado.
+<PUSH>
+Y Jack no es capaz de
+funcionar sin su hermana.
+<PUSH>
+No nos sirve de nada...
+por ahora.
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Por ahora.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Aún siento algo por ellos.
+Llamémoslo instinto paternal.
+<PUSH>
+Vamos a dejar que haga
+lo que quiera.
+<PUSH>
+¡Ja, ja, ja!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí, señor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

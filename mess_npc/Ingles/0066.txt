@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tYou can get the mystery
+wave over there when your
+magnetic force turns blue.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

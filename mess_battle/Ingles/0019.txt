@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Rogue Noise
+Non-dimming
+sword attacks +50
+<PUSH>
+Once per turn, can block
+attacks with Mu Barrier
+<PUSH>
+Can destroy enemy's lock-on
+sight even if locked onto
+<PUSH>
+Adds paralyze effect to
+Non-dimming,
+Non-elemental cards
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Rogue Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{CA}{10}
+[END]
+

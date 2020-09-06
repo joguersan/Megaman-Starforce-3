@@ -1,0 +1,401 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{A0}{E1}{03}{00}{0F}{00}
+<NEW-DIALOG>
+<Game>
+¡¡Cucurucuuuu!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{09}{E1}{00}{00}{8F}{06}{99}{06}{15}{00}{09}{E1}{00}{00}{81}{00}{B7}{07}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el huerto de la azotea.
+<PUSH>
+Estamos cultivando
+rábanos y fresas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0D}{E1}{01}{00}<Chery.Blosom>
+o{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una canasta de baloncesto.
+<PUSH>
+La bola siempre acaba
+volviendo aquí, aunque
+se caiga del tejado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Este proyector emite
+Ondas Reales, que forman
+ese árbol de ahí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{09}{E1}{00}{00}{81}{06}{A5}{06}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un árbol de
+Ondas Reales.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un árbol perenne.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El aspersor está
+atacando a Woody con
+una fuerza tremenda!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*crackle, crackle*
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0E}{E1}{01}{00}{06}{00}{19}{E1}{01}{00}{06}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+¡Argh! Cof, cof... Aahh.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son calabazas...
+<PUSH>
+¡¿Se harán muy grandes?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un avión de papel que
+ha aterrizado aquí arriba.
+<PUSH>
+Seguro que llega muy lejos
+si lo tiras al viento.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{8E}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una canasta de baloncesto.
+<PUSH>
+La bola siempre acaba
+volviendo aquí, aunque
+se caiga del tejado.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Es una de las siete
+maravillas de la
+escuela Echo Ridge!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Por un momento, he sentido
+{13}{EC} la presencia de Ruido
+{13}{EC} especialmente fuerte...)
+<PUSH>
+Mmm, habrán sido
+imaginaciones mías...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Parece un árbol...
+Pero hay algo que no
+me acaba de cuadrar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El aspersor se
+ha vuelto loco!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Será cosa de un virus!
+¡Vamos al Cibernúcleo
+del aspersor!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El aspersor no funciona.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Algo raro le pasa.
+Tenemos que ir a su
+Cibernúcleo.
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{00}{00}{18}{16}<Sonia>
+{0C}{E1}{01}{00}{19}{16}<Sonia>
+{0C}{E1}{00}{00}{87}{16}<Sonia>
+{0C}{E1}{01}{00}{88}{16}<Sonia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay algo escrito en la pared.
+«¡La escuela está acabada! ¡Yuju!»
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, aquí está el grafiti!
+Será mejor que lo quite.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ras, ras...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Limpio como una patena.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{88}{16}
+[END]
+
+[SENTENCE NUMBER 27]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+

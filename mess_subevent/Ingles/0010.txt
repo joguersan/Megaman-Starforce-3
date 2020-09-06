@@ -1,0 +1,254 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0A}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0I'd really like to get someone
+to go examine the
+surveillance camera for me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{13}{16}{0B}{00}{0C}{E1}{00}{00}{38}{16}{03}{00}{0C}{E1}{01}{00}{7B}{16}
+{0C}{E1}{01}{00}{12}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0That's strange...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+Is something wrong?
+<PUSH>
+
+<NEW-DIALOG>
+0We have a surveillance
+camera set up in the eye of
+<PUSH>
+the dragon statue at the
+beach in <Alohaha>, however...
+<PUSH>
+It is only taking video of
+girls in bikinis. Maybe it's
+broken or something.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+How about I check out the
+dragon statue for you?
+<PUSH>
+
+<NEW-DIALOG>
+0That would be great.
+Please report to me when
+you have some information.
+<PUSH>
+{0A}{E1}{12}{16}{0A}{E1}{78}{16}{20}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+0I see...
+You must have something
+else you need to do instead...
+<PUSH>
+{0B}{E1}{38}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Really? What's wrong?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+0I see...
+You must have something
+else you need to do instead...
+<PUSH>
+{0B}{E1}{38}{16}{0B}{E1}{12}{16}{0B}{E1}{13}{16}{0B}{E1}{78}{16}{0B}{E1}{79}{16}{0B}{E1}{7A}{16}{0B}{E1}{7B}{16}{21}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+0Be careful on this mission.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I went and checked out the
+surveillance camera.
+Everything is fine now.
+<PUSH>
+
+<NEW-DIALOG>
+0Good work, junior officer.
+<PUSH>
+Now we will be able to watch
+over the whole beach, and
+prevent any tragedies.
+<PUSH>
+Please take this.
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{E1}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{13}{16}{21}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Now we will be able to watch
+over the whole beach, and
+prevent any tragedies.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What are you doing!?
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+{97}{00}Wh-Wh-Who are you!?
+Don't surprise me like that!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We're the ones asking
+questions here, bub! What's
+with your bikini obsession!?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Wh-What...!?
+<PUSH>
+I-I'm just...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Just?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Just...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're "just" what?
+<PUSH>
+{A0}{E1}{04}{00}{96}{00}
+<NEW-DIALOG>
+{97}{00}Shut up!!
+Get out of my face!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Here we go, kid!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{79}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That was tough...
+<PUSH>
+The surveillance camera
+should work properly now.
+<PUSH>
+Let's go report in.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{7B}{16}
+[END]
+

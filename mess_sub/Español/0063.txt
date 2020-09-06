@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+Omega-Xis
+[END]
+
+[SENTENCE NUMBER 2]
+Atacar
+[END]
+
+[SENTENCE NUMBER 3]
+Rápido
+[END]
+
+[SENTENCE NUMBER 4]
+Carga
+[END]
+
+[SENTENCE NUMBER 5]
+{24}{E1}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+({24}{E1}{01}{00}+{25}{E1}{01}{00})
+[END]
+
+[SENTENCE NUMBER 7]
+Equipar arma
+[END]
+
+[SENTENCE NUMBER 8]
+Ver registros
+[END]
+

@@ -1,0 +1,59 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Strong...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Mega Man...
+<PUSH>
+Did you tell the people of 
+the island that they must
+accept me as their king?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+They'll never accept that!
+<PUSH>
+Please wake up, Strong!
+Your duty is to protect
+<Alohaha>!!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Bah!!
+How dare you stand in the
+way of your king!
+<PUSH>
+I do not forgive infidels who
+will not accept me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We've got no choice, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I won't allow you to rule
+<Alohaha> with fear!!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

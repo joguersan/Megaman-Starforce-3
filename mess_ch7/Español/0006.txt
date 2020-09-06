@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡El poder de la estrella
+fugaz que mi Wizard, Joker,
+posee ahora es mío!!
+<PUSH>
+¡¡Contemplad!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Accediendo...
+¡¡al Meteorito G!!
+<PUSH>
+¡¡Temblad de miedo
+ante mi poder!!
+<PUSH>
+Y para los que no me creen...
+¡¿Por qué no les hago
+una pequeña prueba?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡¡Meteorito G!!
+¡¡Objetivo: la NAZA!!
+<PUSH>
+Láser atroz... ¡¡Fuego!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

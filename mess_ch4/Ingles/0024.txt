@@ -1,0 +1,186 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Finally! Modification of the
+program is complete.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Job well done, Acidina.
+<PUSH>
+Will you please go tell Ace
+that it's ready?
+<PUSH>
+Tell everyone it might sting
+a little when activated.
+But it's 100% safe!
+<PUSH>
+It was developed to
+remove all Noise.
+<PUSH>
+So getting it to affect only
+certain EM beings was quite
+difficult.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{15}{E1}...Dr. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}Yeah, yeah.
+Get a move on.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Understood.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Well, here we go.
+<PUSH>
+Activating... Noise Canceller...
+Rather...
+<PUSH>
+Activating...{15}{E1} Copy Canceller!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Are you sure you're OK?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+L{15}{E1}-L{15}{E1}-Leave it to us!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+We're fine!
+Ace needs your help, so get
+a move on!
+<PUSH>
+There's still a ton of copies
+out there!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+See you later!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Those guys might show up
+again, huh...?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+W-W-Who knows...?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+If they do, we'll be ready
+for them, right!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Y-Y-Yeah...
+<PUSH>
+I-I-I can do anything when
+I put my mind to it.
+<PUSH>
+And this is for Prez...!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+What a beautiful scene that
+was!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+I'll have to write a new
+script with you two as the
+stars, someday!
+<PUSH>
+Heh, heh, heh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

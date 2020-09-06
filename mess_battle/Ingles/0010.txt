@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Corvus Noise
+<PUSH>
+Non-dimming Fire Elemental
+card attacks +30
+<PUSH>
+Nullify Poison Panels, HP
+Bugs, and Black Hole attacks
+<PUSH>
+Charged attack:
+"Shocking Flare", fires flames
+that halts enemies
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Corvus Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C1}{10}
+[END]
+

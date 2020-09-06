@@ -1,0 +1,264 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+They just keep coming!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+That's how it looks.
+<PUSH>
+At this rate, there may be
+no end to them.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Deploy the first unit!
+<PUSH>
+All troops and Battle
+Wizards{15}{E1}, move into position!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+I'm sure glad to see you
+guys here!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Thanks for dealing with
+these guys 'til we got here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Bud and Zack, you two will
+be much safer inside.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y-Yeah, OK!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+T-Thanks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Alright.
+Power up the RW Shield!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{11}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+That's a protective barrier
+made from Real Waves, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow! So cool!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You two!
+Dr. Goodall is in the main
+<PUSH>
+computer room. Go there.
+It's the safest place here.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...!!
+<PUSH>
+W-Wait, Ace!
+I can fight with you guys!
+<PUSH>
+Right, Taurus!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrggg!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+And Pedia and I...
+We can cheer everyone on!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Go get 'em! Never give up!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+I see... Thank you.
+<PUSH>
+Hmm, in that case, why don't
+you go protect Dr. Goodall?
+<PUSH>
+There's nothing more
+important at the moment.
+Can you two handle it?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Of course!
+I'll keep her safe!
+<PUSH>
+Just leave it to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We can do this!
+Mission accepted!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Great.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+Hmph...!
+<PUSH>
+You do know that it's rude
+to keep a lady waiting?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+A hero shows up just in the
+nick of time.
+<PUSH>
+It's what we do.
+<PUSH>
+But anyway...
+I didn't know you were this
+powerful.
+<PUSH>
+I'm a little shocked...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Hmph...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Do you mind helping out for
+a bit longer?
+<PUSH>
+We need to give Dr. Goodall
+as much time as possible.
+<PUSH>
+And we're going to need
+your help to do it.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Of course we'll help!
+<PUSH>
+Right, Lyra?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+...I suppose I can't say no
+in a situation like this.
+<PUSH>
+By the way{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Where is our
+other hero friend?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Good point.
+I called Acid back, and he's
+already helping Dr. Goodall...
+<PUSH>
+Hopefully, Geo and his blue
+friend will be back soon.
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+A hero shows up just in the
+nick of time{15}{E1}... Right?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...!
+<PUSH>
+Haha. Exactly.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

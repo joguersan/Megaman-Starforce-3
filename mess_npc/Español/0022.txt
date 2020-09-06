@@ -1,0 +1,2209 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tStart demo030a!
+Temp Message.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0A}{E1}{13}{02}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+Are you having fun, Geo?
+<PUSH>
+School trips like this don't
+happen every day.
+<PUSH>
+We have to make
+this a trip to remember!
+<PUSH>
+The "flag for having
+talked to everyone on the
+<PUSH>
+beach" has been raised!
+Start DM0209!
+<PUSH>
+{0A}{E1}'
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MWow, how beautiful!
+<PUSH>
+
+<NEW-DIALOG>
+OYeah, the ocean here
+really is beautiful.
+<PUSH>
+
+<NEW-DIALOG>
+MI wasn't talking about
+the ocean, I was talking
+about you, Honey!
+<PUSH>
+The way you look in that
+bathing suit sets my
+heart all a flutter!
+<PUSH>
+
+<NEW-DIALOG>
+OOh...
+Darling...
+<PUSH>
+How sweet.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODarling, do you love me?
+<PUSH>
+
+<NEW-DIALOG>
+MOf course, Honey.
+<PUSH>
+
+<NEW-DIALOG>
+OHow much?
+<PUSH>
+
+<NEW-DIALOG>
+MMy love for you is wider
+than the sky, deeper than
+<PUSH>
+the ocean, and hotter than
+the sun!
+<PUSH>
+
+<NEW-DIALOG>
+OOh, Darling!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwimming in water this
+clear is amazing!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+I am going to use this
+harpoon to catch fish!
+<PUSH>
+Now all I have to do is
+stick 'em and eat 'em!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+This is just between me
+and you... But I don't
+know how to swim.
+<PUSH>
+So, I can't let go of this
+inner tube.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+Just so you know, I'm a
+really good swimmer.
+<PUSH>
+And I won't lose to the
+likes of you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+There's a Real Wave net in
+the water to prevent you
+from swimming out to sea.
+<PUSH>
+Be sure you don't go out
+past it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwimming is really good
+exercise! I wanna be a
+macho man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+I've never seen sea water
+this clear in all my
+life!
+<PUSH>
+This is fantastic!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MThey say that thefts
+have been on the rise
+recently, Honey.
+<PUSH>
+
+<NEW-DIALOG>
+OThat's scary, Darling.
+<PUSH>
+
+<NEW-DIALOG>
+MBut there is something
+that no thief can ever
+take away from me...
+<PUSH>
+Do you know what that is?
+<PUSH>
+
+<NEW-DIALOG>
+ONo, what is it?
+<PUSH>
+
+<NEW-DIALOG>
+MMy heart...
+<PUSH>
+Because you have
+already stolen it!
+<PUSH>
+
+<NEW-DIALOG>
+OAww, you are too sweet.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+O<Alohaha>...
+It's like heaven here.
+<PUSH>
+
+<NEW-DIALOG>
+MI'm used to being in
+heaven.
+<PUSH>
+
+<NEW-DIALOG>
+OOh? What do you mean
+by that?
+<PUSH>
+
+<NEW-DIALOG>
+MWith an angel like you
+by my side, I'm in heaven
+wherever I go!
+<PUSH>
+
+<NEW-DIALOG>
+OOh Darling!
+You always make my heart
+flutter with your sweetness!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI'm swimming, swimming,
+just like a fish!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+I'm worried about that
+Wizard that went into the
+Cyber Core.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+I wonder if viruses could
+be the cause of the
+problem?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+...You know a virus is
+behind it. No thanks,
+I'm not interested.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NCheck out my muscles! I
+got them from swimming
+here every day.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+I'm counting on you, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+I'm sorry for making more
+work for you, Geo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MThose clouds don't look
+normal... With the
+environmental system,
+<PUSH>
+that shouldn't be
+happening.
+<PUSH>
+
+<NEW-DIALOG>
+OI wonder why...
+A system malfunction maybe?
+<PUSH>
+
+<NEW-DIALOG>
+MNo matter... Not even a
+typhoon could extinguish
+the flame of our love!
+<PUSH>
+
+<NEW-DIALOG>
+O*giggle* So true!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+OYesterday I ate bitter
+melon pork stir fry.
+<PUSH>
+That stuff could be
+habit forming.
+<PUSH>
+
+<NEW-DIALOG>
+MBitter?
+That's funny, it didn't
+taste bitter at all to me.
+<PUSH>
+
+<NEW-DIALOG>
+OHuh?
+<PUSH>
+It didn't?
+<PUSH>
+
+<NEW-DIALOG>
+MYeah, because my heart is
+so full of sweet honey that
+is you, my love.
+<PUSH>
+You make everything
+taste sweet!
+<PUSH>
+
+<NEW-DIALOG>
+ODarling! Our love is
+strong enough to even
+change our sense of taste!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI love swimming everyday!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+Beautiful sea! Good food!
+I love <Alohaha>!
+<PUSH>
+{0A}{E1}G
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+Today is the day I really
+want to learn how to
+swim!
+<PUSH>
+Geo, Jack, later could you
+teach me how to swim?
+<PUSH>
+{0A}{E1}H
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+It's been a long time
+since I got to relax like
+this... It feels good.
+<PUSH>
+{0A}{E1}I
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's hot.
+<PUSH>
+{0A}{E1}J
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwimming is going to turn
+me into a hunk! I love
+muscles!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+Are you having fun, Geo?
+<PUSH>
+School trips like this
+don't happen every day.
+<PUSH>
+We have to make this a
+trip to remember!
+<PUSH>
+{0A}{E1}E
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+I'm so happy. I didn't
+think that I'd get a
+chance to see all of you!
+<PUSH>
+I'm glad I came!
+<PUSH>
+{0A}{E1}F
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MWhoa! An earthquake!
+What's happening!?
+<PUSH>
+
+<NEW-DIALOG>
+ODarling, I'm scared!
+<PUSH>
+
+<NEW-DIALOG>
+MDon't worry!
+<PUSH>
+I will protect you, even
+if it means laying down
+my own life!
+<PUSH>
+
+<NEW-DIALOG>
+OOur love is even more
+intense than this desperate
+situation we are in!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+OHow could this be!?
+How could there be an
+<PUSH>
+earthquake when we have
+the environmental system!?
+<PUSH>
+
+<NEW-DIALOG>
+MNo matter how much the
+ground shakes, our love
+will never be moved!
+<PUSH>
+
+<NEW-DIALOG>
+OEven an earthquake can't
+shake the essence of our
+love.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NWhat's wrong? You don't
+look happy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+Thieves! They didn't just
+take my stuff, they took
+Prez's and Sonia's stuff too!
+<PUSH>
+Geo, find 'em and punish 'em!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+I would have never imagined
+that any of us would have
+our stuff stolen...
+<PUSH>
+If we're going to fulfill our
+Purpose, Geo, you've got to
+get back what was stolen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+Can it wait? We're having
+a serious discussion here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+There's nothing to see
+here... You can leave us
+alone now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NWhat's wrong!? Why the
+long face? Relieve some
+stress, go for a swim!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+Geo! Be sure to get back
+my handkerchief!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Why would they steal my
+bag?
+<PUSH>
+There wasn't anything
+inside it, but I liked it!
+<PUSH>
+Geo, would you get it
+back for me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{09}{E1}{00}{00}{6D}{07}{89}{07}Z
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwim, swim, swim, swim,
+swim, swim...
+Ahh, this is great...
+<PUSH>
+And no sharks.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+{09}{E1}{00}{00}{6D}{07}{89}{07}[
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI swam so much, my skin
+got all wrinkly, and my
+lips turned purple.
+<PUSH>
+Maybe I should take a break.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+{09}{E1}{00}{00}{6D}{07}{89}{07}\
+<START-DIALOG>
+
+<NEW-DIALOG>
+MThe recent earthquake
+only deepened our love.
+<PUSH>
+I guess that's what you'd
+call a fortunate accident!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{09}{E1}{00}{00}{6D}{07}{89}{07}]
+<START-DIALOG>
+
+<NEW-DIALOG>
+OThat time when my
+boyfriend was about to
+put his life on the line
+<PUSH>
+for me...
+That was divine.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwimming, Swimming!
+Feels so good!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI'm really starting to
+get ripped! Just check
+out these biceps!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MCome earthquake, tidal
+wave, or sneaky villain, I'm
+going to keep my girl safe!
+<PUSH>
+I'll take on anything that
+threatens my love!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+OThat's my boyfriend...
+He's so brave, and
+dreamy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+{0D}{E1}{00}{00}CDy
+<START-DIALOG>
+
+<NEW-DIALOG>
+MLook, Honey! A mangrove!
+<PUSH>
+
+<NEW-DIALOG>
+OWow, a forest of green
+at the water's edge...
+How divine!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MLook, Honey! There's a
+coconut crab on that
+palm tree!
+<PUSH>
+
+<NEW-DIALOG>
+O...
+<PUSH>
+...Divine!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+{0D}{E1}{00}{00}CD{7B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODarling, your poems
+are so romantic!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODarling, it's like you
+said, this moment is
+here to be enjoyed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+{0D}{E1}{00}{00}CD{7D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+NThere's danger beyond
+this point! My inner
+animal is telling me so!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NOne of these days, I'm
+going to go past this
+point!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+{0D}{E1}{00}{00}CD{7F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+NSwimming, swimming!
+My muscles are huge!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI'm going to swim today,
+tomorrow, the day after
+that, and forever!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+{0D}{E1}{00}{00}ST{97}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+MThe warm rays of the sun,
+the refreshing breeze...
+<PUSH>
+I want to tell the resting
+sea, good morning!
+It's time to wake up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MNo matter what incidents
+happen elsewhere, as you
+can see, <Alohaha> will
+<PUSH>
+always be the paradise of
+everlasting summer!
+<PUSH>
+It would be a waste not
+to have fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+{0D}{E1}{00}{00}ST{99}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODarling, your poems
+are so romantic!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODarling, it's like you
+said, this moment is
+here to be enjoyed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+{0D}{E1}{00}{00}ST{9B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+NIf we keep going around
+in a circle like this,
+<PUSH>
+I bet we can make a
+whirlpool! Wouldn't that
+be cool?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NWhoaaa!
+<PUSH>
+We won't give up!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+{0D}{E1}{00}{00}ST{9D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+NCool! A dragon!
+The view from down
+here is awesome!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NAt first glance, you'd think
+that this dragon statue is
+protecting <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}ho{BE}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+MSure, Dealer is scary, but
+worrying about them all the
+<PUSH>
+time isn't going to solve
+anything...
+<PUSH>
+Rather than being constantly
+preoccupied with them,
+it's better to have fun.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+{0D}{E1}{00}{00}ho{BF}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+OIt's useless to run away,
+so I'd rather be together
+with my Darling!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+{0D}{E1}{00}{00}hoÀ
+<START-DIALOG>
+
+<NEW-DIALOG>
+NDealer is scary,
+but I'm going to
+keep on swimming!
+<PUSH>
+WAZA is gone,
+but I'm going to
+keep on swimming!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+MStanding here with my
+girlfriend gazing out at
+the beautiful sea
+<PUSH>
+while waiting for the
+end to come...
+Isn't so bad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+OIf Meteor G hits the
+Earth, it will be the
+end of mankind...
+<PUSH>
+Will this be my last
+look at this beautiful
+sea?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+NI know Mega Man will
+save the Earth!
+<PUSH>
+I'll keep believing that
+as I continue swimming!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+{0C}{E1}{01}{00}Í{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+DHmm!?
+You...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Oh, Mr. {65}{E2}!
+What are you doing here?
+<PUSH>
+
+<NEW-DIALOG>
+DI'm still a Satella Police
+detective. I've been
+<PUSH>
+assigned to patrol <Alohaha>.
+I was surprised to hear
+<PUSH>
+from the Chief that you
+were Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+I-I'm sorry that I kept
+it from you.
+<PUSH>
+
+<NEW-DIALOG>
+DDon't worry about it.
+That's all in the past.
+<PUSH>
+Now, you are an important
+member of the Satella Police
+Force.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}Í
+[END]
+
+[SENTENCE NUMBER 202]
+{0C}{E1}{01}{00}ú{CA}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+DHmm!?
+<PUSH>
+I wanted to give you one
+more Access Point, but it
+looks a little early for that...
+<PUSH>
+When you get two Access
+Points, I'll give you a third
+one!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+{0C}{E1}{01}{00}{FB}{00}{CB}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+DPlease accept this as an
+apology for having put you
+through so much trouble.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+
+<PUSH>
+
+<NEW-DIALOG>
+DThe fate of the world is
+in your hands!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{FB}{00}
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+DThe fate of the world is
+in your hands!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+

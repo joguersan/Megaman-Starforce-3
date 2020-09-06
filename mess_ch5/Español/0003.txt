@@ -1,0 +1,246 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Varios Días Antes...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¡King!
+<PUSH>
+¿¡Qué diablos estás
+tramando!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¿Qué quieres decir, mi
+querido Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡No te hagas el tonto
+conmigo!
+<PUSH>
+¿¡Cuándo vas a salvar a mi
+hermana!?
+<PUSH>
+¡Y será mejor que no digas
+que no tienes nada
+planeado!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Casi está, intenta no
+ponerte tan nervioso,
+Jack...
+<PUSH>
+¡Estoy considerando qué
+hacer con tu hermana!
+<PUSH>
+Después de todo, es mi
+preciosa hija{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡Sería un padre horrible si
+no la rescatara!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Entonces...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Sin embargo! Este no es el
+momento para ello, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¿¡Q-Qué...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Mientras que hemos
+asestado un golpe
+devastador a la NAZA...
+<PUSH>
+Y parece que el mundo ya
+está en nuestras manos,
+<PUSH>
+todavía no hemos hecho
+un jaque mate.
+<PUSH>
+Aún quedan Mega Man y
+Eos...{15}{E1}
+<PUSH>
+Y unos cuantos insectos
+molestos con los que lidiar.
+<PUSH>
+El rumbo cambiará más a
+nuestro favor si el próximo
+movimiento es perfecto.
+<PUSH>
+¿Tal vez deberías pensarlo
+como una estrategia que
+usarias en un videojuego?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡...Agg!
+<PUSH>
+¡Entonces date prisa y
+dame mis próximas
+órdenes!
+<PUSH>
+¡¡Voy a derrotar hasta el
+último de ellos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Oh, Jack...
+<PUSH>
+Siento decepcionarte, pero
+esta vez creo que Joker lo
+hará para mi.
+<PUSH>
+Has sido demasiado
+impulsivo últimamente.
+<PUSH>
+Si este paso no es
+realizado a la perfección
+entonces, Queen Tia
+<PUSH>
+podría estar en gran peligro.
+<PUSH>
+¡Espero que entiendas lo
+que estoy queriendo decir,
+mi querido hijo!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Heartless...
+<PUSH>
+¿Cómo van los
+preparativos?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Señor...
+<PUSH>
+El programa de creación
+de Ruido se completará
+muy pronto.
+<PUSH>
+Pero la puesta a punto del
+controlador de nivel de
+ruido se está demorando.
+<PUSH>
+El proceso de conversión
+de Ruido a Onda Real no
+va muy bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Umm...
+<PUSH>
+Así que el programa ha
+demostrado ser demasiado
+para esos simplones, ¿no?
+<PUSH>
+¡Jo jo jo jo!
+<PUSH>
+Está bien.{15}{E1} ¡Terminaré el
+programa...
+<PUSH>
+con mis propias manos!
+<PUSH>
+¡Jo jo jo jo jo jo!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡Mierda!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Ese idiota...
+<PUSH>
+¡Es imposible que él esté
+realmente preocupado por
+ella!
+<PUSH>
+¡¡Apuesto a que no planea
+salvarla en absoluto!!
+<PUSH>
+Lo que significa que...
+<PUSH>
+¡¡Tendré que hacerlo yo
+solo!!
+<PUSH>
+¡¡Voy a salvarte, hermana!!
+<PUSH>
+Sólo aguanta un poco más.
+<PUSH>
+Primero, tengo una cuenta
+que saldar...
+<PUSH>
+¡¡Mega Man pagará por lo
+que te hizo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

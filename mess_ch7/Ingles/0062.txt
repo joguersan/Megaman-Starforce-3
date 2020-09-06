@@ -1,0 +1,174 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A memory belonging to Kelvin
+has surfaced{16}{E1}.{16}{E1}.{16}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}OK...
+It's time for me to leave.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+AHave a safe trip, Dad!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Hope...
+I wish you would send me
+<PUSH>
+off with a smile, like Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+You're right.
+I'm sorry.
+<PUSH>
+I know going to space has
+always been your dream.
+<PUSH>
+I'm so happy for you.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Thank you, honey.
+<PUSH>
+
+<NEW-DIALOG>
+ADad!
+<PUSH>
+Will you tell me all about
+space once you get back!?
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Of course! But only if you're
+a good boy while I'm gone!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin...
+<PUSH>
+Please...
+Please be careful out there.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}I will, I promise.
+<PUSH>
+I would never leave my
+family all alone.
+<PUSH>
+Geo...
+Take care of your mother
+for me while I'm away, OK!?
+<PUSH>
+
+<NEW-DIALOG>
+AOK!
+Leave it to me!
+<PUSH>
+I'll protect her with my life!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}You're a good boy, Geo.
+You make me so proud.
+<PUSH>
+And don't worry about me.
+I'll be just fine up there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin...
+Be careful...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}I will...
+I love you both.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}{13}{EC}(No matter what happens
+ to me, Geo will be there...)
+<PUSH>
+{13}{EC}(He'll protect her.)
+<PUSH>
+{13}{EC}(I can trust him to continue
+ my dream of spreading
+ the importance of bonds.)
+<PUSH>
+{13}{EC}...
+<PUSH>
+{13}{EC}(.{14}{E1}.{14}{E1}.{14}{E1}Wow, it's not like
+ me to talk like that...)
+<PUSH>
+{13}{EC}(I'll make it home...)
+<PUSH>
+{13}{EC}(And I'll hold my family
+ in my arms, like always.)
+<PUSH>
+{13}{EC}(Then I'll have Hope's special
+ meatloaf and green beans.)
+<PUSH>
+{13}{EC}(While I tell Geo all
+ about my time in space.)
+<PUSH>
+{13}{EC}(Dang, I'm the luckiest
+ man in the world!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

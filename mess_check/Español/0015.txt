@@ -1,0 +1,192 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El escaparate está lleno de
+productos exclusivos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Unos potentes focos para
+iluminar el escenario.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{F0}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Sácate una foto con tus
+amigos! ¡Qué divertido!
+<PUSH>
+¡Después, decórala con
+iconos y cosas brillantes!
+¡Qué pasada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué clase de juego es este?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah!
+¡Mira!
+<PUSH>
+{80}{E1}{0C}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+la Carta de Combate:
+«{4C}{E7}»!
+<PUSH>
+{0A}{E1}{F0}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Es el famoso juego:
+«Locura espacial»!
+<PUSH>
+¡Tu misión es salvar
+el espacio de una crisis,
+de una forma u otra!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«¡Solo personal autorizado!»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{84}{13}{0A}{E1}r
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Sácate una foto con tus
+amigos! ¡Qué divertido!
+<PUSH>
+¡Después decórala con
+iconos y cosas brillantes!
+¡Qué pasada!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Pero qué tontería es esta?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

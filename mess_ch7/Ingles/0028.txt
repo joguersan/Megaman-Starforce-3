@@ -1,0 +1,513 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Mega Man...
+I mean Geo...
+<PUSH>
+Where are Jack and Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I couldn't stop them in time.
+<PUSH>
+They just wouldn't listen to
+anything I said.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I see...
+<PUSH>
+So Meteor G is now 100%
+under their control.
+<PUSH>
+This is not the situation
+that I was hoping for.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey!!
+Something isn't right here!!
+<PUSH>
+You totally know more about
+what's going on than we do!
+<PUSH>
+So start talking!!
+<PUSH>
+Who are you!?
+<PUSH>
+And what are you up to!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Please tell us, Heartless.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+.{14}{E1}.{14}{E1}.{14}{E1}Working for King was only
+a means to achieve my goal.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Your goal?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+There was someone that I
+urgently had to contact.
+<PUSH>
+You actually know him quite
+well, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+.{15}{E1}.{15}{E1}.{15}{E1}Who could it be?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No clue...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin Stelar{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+Your father.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+D-Dad!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What the heck!?
+<PUSH>
+How do you know Kelvin!?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I used to work for a space
+research organization.
+<PUSH>
+My organization worked with
+Kelvin and his team on his
+mission into space.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+I talked to Kelvin quite a bit
+during that time.
+<PUSH>
+He was always talking about
+forming bonds with other
+<PUSH>
+worlds, and exchanging
+our cultures and ideas.
+<PUSH>
+I completely agreed with his
+views and ideas.
+<PUSH>
+He is truly a vital part of
+this planet's future on a
+galactic scale.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+So you tried to contact him
+in order to rescue him from
+space, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes.
+<PUSH>
+And that is when I bumped
+into King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How did you "bump" into King
+while looking for Kelvin?
+<PUSH>
+What the heck could they
+have in common?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Heartless...?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I discovered King while trying
+to contact Kelvin because...
+<PUSH>
+Because Kelvin is inside of{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+.{14}{E1}.{14}{E1}.{14}{E1}D{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Dad{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Is inside of Meteor G...?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Are you sure?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes.
+<PUSH>
+Kelvin was in an accident in
+space, where he became an
+EM being, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, that's right...
+I turned him into an EM
+being so that he could
+<PUSH>
+achieve his dream of
+returning to this family.
+<PUSH>
+{12}{E2}<Heartless>
+{01}{00}
+<NEW-DIALOG>
+<Heartless>
+And since then he has been
+wandering through space as
+an EM being.
+<PUSH>
+He discovered Meteor G on
+his way back.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+He realized that if he let
+it go, then Meteor G would
+strike the planet.
+<PUSH>
+So he transed into the core
+of Meteor G, and began to
+battle with it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dad is fighting it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin has continued to fight
+Meteor G by himself this
+whole time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+I finally know what happened
+to him...
+<PUSH>
+You tried to make contact
+with Dad while King was first
+<PUSH>
+gaining control of Meteor G,
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Exactly.
+<PUSH>
+My plan was to steal control
+of Meteor G away from King,
+<PUSH>
+call Mega Man there, and
+finally have him bring Kelvin
+back.
+<PUSH>
+After that, I would change
+Meteor G's flight path, thus
+saving Kelvin and the world.
+<PUSH>
+My plan was perfect...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+But then Jack and Tia got
+in the way.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes...
+My only miscalculation.
+<PUSH>
+Because of them, Meteor G
+is headed for Earth again.
+<PUSH>
+By now, there's nothing that
+we can do.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That can't be...
+We can't give up!
+We're so close!!
+<PUSH>
+There has to be a way to
+stop them!!
+<PUSH>
+As long as you don't give up
+there is always hope!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Geo...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+There's a call from someone...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's Boreal.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Can you hear me, Geo?
+<PUSH>
+It looks like you are just
+about at the distance limit
+for voice communications...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mr. Boreal, I'm so sorry...
+<PUSH>
+Jack and Ms. Tia took over
+control of Meteor G.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Don't worry, I've heard
+everything through your
+<Hunter>.
+<PUSH>
+Geo, Heartless, please come
+back to WAZA. We've come
+up with a plan.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Go back to WAZA?
+<PUSH>
+Isn't the area completely
+covered by Jamming?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+When King lost control of
+Meteor G, the Jamming
+<PUSH>
+covering both WAZA and
+<Studi.WBG> dissipated.
+<PUSH>
+Please get here quickly.
+We don't have much time.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Understood!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Heartless!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Yes...
+<PUSH>
+Before we leave I want to
+give you this, Geo.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"{F2}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What is this folder?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I found this while searching
+for Kelvin.
+<PUSH>
+It was his folder.
+So I'm giving it to you,
+his son.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dad's... folder...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+I will join you when I have
+finished my preparations.
+<PUSH>
+Please go on ahead.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+OK.
+See you at WAZA!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We've gotta move, kid!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

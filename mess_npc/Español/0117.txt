@@ -1,0 +1,182 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip, pip.
+¡Detecto grandes cantidades
+de Bermellón!
+<PUSH>
+¡No puedo acercarme con tanto
+Ruido!
+<PUSH>
+Pip, pip, pip.
+Pip,pip, pip.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+TaursFire"R"!
+¡Vete de la Tierra!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¿Qué?
+Eh, Geo. Que soy yo.
+¡YO!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Bud?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Sí! Me han dicho que había
+un cuerpo EM extraño por
+la zona.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Vaya...
+¿Y quién te lo ha dicho?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¿Quién?, Luna, ¡por supuesto!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chaval.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+Como pensaba,
+¡no eres Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Te equivocas, Geo!
+¡¿De verdad no confías en tu
+hermano?!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Deja de hacer el tonto!
+¡No nos vas a engañar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Bud jamás llamaría Luna a
+Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Vale, ¡se ha acabado
+el teatro!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Creías que nos ibas
+a engañar?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Basta!
+<PUSH>
+¡No me dejáis más opción que
+volveros pasto para mis
+llamas!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vigila chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}<Sirius>
+
+[END]
+

@@ -1,0 +1,514 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Umph{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I-I never imagined...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ms. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's not...
+over yet!
+<PUSH>
+I'm not giving up after all
+we've been through!
+<PUSH>
+We dulled our emotions and
+did countless terrible things...
+<PUSH>
+We even ignored all the
+times that Ace risked his
+life to save us from Dealer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I can't quit now!!
+I refuse to lose!
+<PUSH>
+There is nothing left for
+us{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Except to make our wish
+come true!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That's not true...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It's just not true, Ms. Tia...
+<PUSH>
+Yes, you did lose so much
+that was special in your life
+through technology...
+<PUSH>
+But{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+You still have Jack. That
+bond hasn't been broken...
+<PUSH>
+And all Ace could think about
+was saving you...
+<PUSH>
+This whole time you have
+had wonderful people in your
+life, right next to you...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+If you really let Meteor G
+crash into the planet...
+<PUSH>
+All the pain and suffering
+that Jack and you went
+<PUSH>
+through would be transferred
+to countless children
+throughout the world.
+<PUSH>
+How is that any different
+than what those other
+countries did to your own!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Be quiet!
+<PUSH>
+Don't you dare talk to me
+like you understand our pain!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I'm not giving up...
+Not ever!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ms. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Sis...
+<PUSH>
+I think we should stop...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I think Geo is right...
+<PUSH>
+We've been wrong all along...
+<PUSH>
+What we've been planning will
+not remake the world...
+<PUSH>
+Our plan would just make a
+whole lot of children like us.
+<PUSH>
+That's "destruction", not
+"construction".
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+The suffering caused by the
+development of technology
+should end with us.
+<PUSH>
+We were caught in the
+middle of other people's hate,
+and lost so much for it...
+<PUSH>
+Ace and Geo have risked
+their lives over and over to
+get us to understand...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ace{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Hey, hey, hey!
+<PUSH>
+What the heck are you
+talking about, Jack!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Just listen to me...
+I've been thinking about this
+for a while now.
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Hold up!!
+That's crazy talk!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+What's with the grim face,
+Tia!?
+<PUSH>
+Don't tell me you're second
+guessing yourself, or some
+ridiculous garbage like that!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+You two are going to
+remake the world, and then
+become its rulers...
+<PUSH>
+I only decided to help you
+guys out because that
+sounded like a lot of fun!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+.{16}{E1}.{16}{E1}.{16}{E1}I'm not fighting anymore...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+You can't mean that!!
+<PUSH>
+Do you think that I'll let you
+get away with that?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+If you do this, then we'll
+destroy you and take
+Meteor G all for ourselves!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+You're finished, Tia!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jack!
+Ms. Tia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Aaarrrgh!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}<Bud>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+.{14}{E1}.{14}{E1}.{14}{E1}Pathetic.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+How did you get here!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Don't be silly.
+<PUSH>
+Breaking into a place like
+this is nothing to me.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Well{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Thanks for saving them...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Save them?
+Give me a break.
+<PUSH>
+I told you this before.
+All members and supporters
+of Dealer will be dealt with.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...So I guess there's nothing
+else for me to do here.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Do whatever you want once
+I'm out of here.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Umm...
+<PUSH>
+Would you please take Jack
+and Ms. Tia back to Earth
+with you?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+They can follow me...
+<PUSH>
+But if they slow me down
+at all, they're on their own.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{13}{E1}.{13}{E1}.{13}{E1}Thanks.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You just might be able to
+make a miracle happen...
+<PUSH>
+You might be able to fix the
+problems we created...
+<PUSH>
+We can probably never make
+up for what we've done, but
+we will do everything we can.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+The future...
+Is in your hands.
+<PUSH>
+Once I've made up for all
+the things that I've done...
+<PUSH>
+Let's go out and play again...
+<PUSH>
+That is... if it's OK with you
+of course. I'd understand if
+you didn't want to...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+That sounds great!
+Wait for me on Earth!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It's time, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's go see Dad and stop
+Meteor G!
+<PUSH>
+Come on, Mega!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,988 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Guardado completo!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 14]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 15]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 16]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 17]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Prez>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 20]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 21]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 22]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 23]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Woody>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 26]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 27]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 28]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 29]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 30]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Lee.Stern>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 32]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 33]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 34]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 35]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 36]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mr.Shepar>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 37]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 38]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 39]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 40]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 41]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 42]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 44]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 45]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 46]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 47]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 48]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 50]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 51]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 52]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 53]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 54]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 55]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 56]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 57]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 58]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 59]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 60]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0C}{00}El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 62]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres sobreescribir
+los datos?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Sí  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 63]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 64]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 65]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 66]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 67]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 68]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres sobreescribir
+los datos?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Sí  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 69]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 70]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 71]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 72]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 74]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres sobreescribir
+los datos?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Sí  {07}{EC}No
+<PUSH>
+
+{11}{EC}{01}{00}Y
+[END]
+
+[SENTENCE NUMBER 75]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 76]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 77]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 78]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 79]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 80]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¿Quieres sobreescribir
+los datos?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 81]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 82]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!{25}{EC}
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 83]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+¡Guardado completado!
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 84]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 85]
+{17}{EC}{00}{00}{00}{EC}{02}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Inicializando datos
+de reserva...
+¡No apagues la consola!
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 86]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 87]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Error al acceder a los datos.
+Apaga la consola y vuelve
+a insertar el cartucho.
+[END]
+
+[SENTENCE NUMBER 88]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Error al acceder a los datos.
+Apaga la consola y vuelve
+a insertar el cartucho.
+[END]
+
+[SENTENCE NUMBER 89]
+
+<END-DIALOG>
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Los datos {28}{E1}{02}{00}
+están corruptos. Recuperando
+datos antiguos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 91]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Los datos {28}{E1}{02}{00}
+están corruptos. Recuperando
+datos antiguos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Eliminando datos corruptos...
+¡No apagues la consola!
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 93]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Se han eliminado
+los datos corruptos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+{17}{EC}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Delete all save data and
+return Game Card to initial
+state?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+{04}{EC}{1B}{EC}{00}{00}^
+[END]
+
+[SENTENCE NUMBER 95]
+{17}{EC}{00}{00}{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Game>
+Do you really want to
+delete all save data?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{01}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+{17}{EC}{00}{00}{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Game>
+All save data has
+been deleted.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+{17}{EC}{00}{00}{00}{EC}{02}{00}{18}{EC}
+<NEW-DIALOG>
+<Game>
+Inicializando datos
+de reserva...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 98]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+
+[SENTENCE NUMBER 99]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡Guardado completado!{01}{E1}
+
+<END-DIALOG>
+{06}{E1}U
+[END]
+

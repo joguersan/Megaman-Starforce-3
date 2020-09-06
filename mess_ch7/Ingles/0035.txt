@@ -1,0 +1,71 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+This card is...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Mehehehehe...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Diamond Ice!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's not the same Diamond
+Ice that you fought before!
+<PUSH>
+The Crimson that was
+released when she was out
+<PUSH>
+of control is now a part of
+Meteor G.
+<PUSH>
+It is not a difficult task to
+reconstruct the data!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Did Jack and Ms. Tia set
+this up...?
+<PUSH>
+Either way, nothing is going
+to stop me from moving on!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We're off the chain!
+We won't even break a
+sweat with this one!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock, Mega!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

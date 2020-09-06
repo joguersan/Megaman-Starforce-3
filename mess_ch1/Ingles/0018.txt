@@ -1,0 +1,166 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Looks like it's set.
+<PUSH>
+Setting your first Team
+and Purpose is kind of
+moving.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Well, it's time to get
+started working as Team
+"Luna 4 Prez"!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+But what can we do to
+help Prez become the
+student body president?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Hmm, good point.
+What should we do, Prez?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+First, we should find kids
+here in the school who
+<PUSH>
+are having trouble and
+then help them out.
+<PUSH>
+Of course, I'll take all of
+the praise.
+<PUSH>
+Then my approval rating
+will skyrocket!
+<PUSH>
+Zack!
+<PUSH>
+You have a Wizard that is
+great with numbers, right?
+<PUSH>
+He's going to keep track
+of my approval rating, OK!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Understood, Prez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+Thank you for calling me
+out, Zack!
+<PUSH>
+Everyone, my name is
+Pedia! You can leave any
+calculating to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We're an even stronger
+Team with Pedia around!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+My database is filled with
+a vast amount of facts!
+<PUSH>
+Plus, I can calculate any
+and all rankings and
+<PUSH>
+percentages possible,
+with ease!
+<PUSH>
+There is truly no figure
+I cannot calculate!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You'll be very useful, Pedia!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*sigh*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Don't be like that, Mega!
+<PUSH>
+This school will be really
+fun with Prez as student
+body president!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're such a sucker, kid...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Alright! Let's go find kids
+that are in trouble!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Yeah!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

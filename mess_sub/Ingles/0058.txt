@@ -1,0 +1,26 @@
+[SENTENCE NUMBER 1]
+{10}{EC}{00}{00}Start tutorial program
+{10}{EC}{01}{00}Quit
+{0F}{EC}{01}{00}{00}{00}{02}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{10}{EC}{00}{00}Start tutorial program
+{10}{EC}{01}{00}Quit
+{0F}{EC}{01}{00}{00}{00}{02}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+This Noise cannot
+be started.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

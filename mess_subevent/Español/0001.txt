@@ -1,0 +1,456 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Busco a gente que quiera
+intercambiar cartas Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{01}{16}{0B}{00}{0C}{E1}{00}{00}{2F}{16}{03}{00}{0C}{E1}{01}{00}{4A}{16}
+{0C}{E1}{01}{00}{49}{16}{07}{00}{0C}{E1}{01}{00}{48}{16}{07}{00}{0C}{E1}{01}{00}{47}{16}{07}{00}{0C}{E1}{01}{00}{00}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Está todo el mundo obsesionado
+con las cartas de combate...
+<PUSH>
+Pero pienso que las cartas
+Sonia molan mucho más.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Sí, sí que pasa!
+Soy superfan de Sonia.
+<PUSH>
+¿Has oído hablar alguna vez
+de las cartas Sonia?
+<PUSH>
+Pues llevo coleccionándolas
+desde el primer gran éxito
+de Sonia.
+<PUSH>
+Pero nunca he sido capaz de
+hacerme con la carta
+«Sonia diablilla».
+<PUSH>
+Ojalá alguien me la
+intercambiara por mi carta
+«Sonia guiñando».
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Si quieres, puedo buscarte a
+alguien que quiera esa carta.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡¿De verdad?!
+¡Eso sería genial!
+<PUSH>
+Dejaré que te lleves la carta
+«Sonia guiñando» contigo.
+<PUSH>
+{0A}{E1}{47}{16}{82}{E1}<Zack>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{89}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Creo que en colegio hay más
+fanáticos de las cartas Sonia.
+<PUSH>
+{0A}{E1}{00}{16}{20}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Creo que debería tirar
+la toalla...
+<PUSH>
+{0B}{E1}{2F}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¿Has encontrado ya la carta
+«Sonia diablilla»?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar la petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ya veo...
+Avísame si cambias de idea.
+<PUSH>
+{0B}{E1}{2F}{16}{0B}{E1}{00}{16}{0B}{E1}{01}{16}{0B}{E1}{47}{16}{0B}{E1}{49}{16}{0B}{E1}{48}{16}{0B}{E1}{4A}{16}{82}{E1}<Zack>
+{FF}{FF}{82}{E1}<Sonia>
+{FF}{FF}{82}{E1}<Solo>
+{FF}{FF}{82}{E1}<Mr.King-2>
+{FF}{FF}{21}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Avísame cuando la tengas!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Increíble!
+<PUSH>
+¡Llevaba buscando la carta
+«Sonia diablilla» desde
+hace un montón!
+<PUSH>
+¡Qué bien, al fin he
+completado la colección!
+¡Gracias!
+<PUSH>
+¿Te importaría ser
+mi Hermano?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Me encantaría!
+<PUSH>
+{6E}{E1}{00}{00}<Chery.Blosom>
+
+<NEW-DIALOG>
+<Game>
+¡Geo y {E0}{E2}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{01}{16}{82}{E1}<Mr.King-2>
+{FF}{FF}{21}{EC}{D0}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Qué bien... Al fin he
+completado la colección.
+¡Gracias, gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{01}{00}{48}{16}{0E}{00}{06}{E1}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Oye...
+¡¿Esa carta Sonia es una
+«Sonia guiñando»?!
+<PUSH>
+¡Llevo mucho tiempo detrás
+de ella!
+<PUSH>
+¡¿Me la cambias por mi carta
+«Sonia con ropa de tenis»?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mmm... ¿Qué debería hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tal vez si intercambias
+cartas con más gente,
+<PUSH>
+acabes encontrando la carta
+que buscas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Buena idea. Eso haré.
+<PUSH>
+{0A}{E1}{48}{16}{82}{E1}<Zack>
+{FF}{FF}{82}{E1}<Sonia>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8A}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Genial!
+<PUSH>
+¿Dices que no conoces a
+más gente que coleccione
+cartas Sonia?
+<PUSH>
+¿Y por qué no echas un
+vistazo por <Echo.Ridge>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{49}{16}{12}{00}{0C}{E1}{01}{00}{48}{16}{11}{00}{06}{E1}{10}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Me encanta coleccionar
+cartas Sonia.
+<PUSH>
+Parece que no tienes la
+carta que necesito.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Espera un momento...
+<PUSH>
+¿Esa carta es la
+«Sonia con ropa de tenis»?
+<PUSH>
+¡Sale monísima en ella!
+¡¿No crees que Sonia es
+la mejor?!
+<PUSH>
+¡¿Me la cambias por mi carta
+«Sonia acróbata»?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Claro!
+<PUSH>
+{0A}{E1}{49}{16}{82}{E1}<Sonia>
+{FF}{FF}{82}{E1}<Solo>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8B}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Es todo un detalle por tu
+parte! ¡Gracias!
+<PUSH>
+¿Quieres saber dónde hay más
+fanáticos de las cartas Sonia?
+<PUSH>
+Lo siento, pero no conozco
+ningún lugar cercano.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+{0C}{E1}{01}{00}{4A}{16}<Hope(Mom)>
+{0C}{E1}{01}{00}{49}{16}{15}{00}{06}{E1}<Geo>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Coleccionar cartas Sonia
+es mi mayor afición!
+<PUSH>
+Es una pena que no tengas
+la carta que quiero.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡Eh, tú!
+<PUSH>
+¡¿Esa carta es una
+«Sonia acróbata»?!
+<PUSH>
+Es una carta muy rara y
+difícil de conseguir.
+<PUSH>
+Si no te importa...
+<PUSH>
+¿Me la cambiarías por una
+«Sonia diablilla»?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Guau! Es justo la carta
+que andaba buscando.
+<PUSH>
+¡Y tanto que te la cambio!
+<PUSH>
+{0A}{E1}{4A}{16}{82}{E1}<Solo>
+{FF}{FF}{82}{E1}<Mr.King-2>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8C}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Entreguemos esta carta a
+su nuevo dueño.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Que intercambio más guay.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

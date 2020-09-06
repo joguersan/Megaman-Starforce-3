@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{92}{03}{05}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a control panel...
+<PUSH>
+The door has been
+unlocked.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}!!
+<PUSH>
+Wh-Who the heck are you!?
+Are you a member of
+Dealer!?
+<PUSH>
+Gwaaarrr!!
+<PUSH>
+{0A}{E1}j
+<END-DIALOG>
+
+[END]
+

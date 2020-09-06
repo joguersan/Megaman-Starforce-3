@@ -1,0 +1,15 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¡¿Dónde te crees
+que vas?! ¡Vamos a
+eliminar a esos virus!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

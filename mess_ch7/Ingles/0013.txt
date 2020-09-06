@@ -1,0 +1,368 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mr. Boreal! Chief!
+I'm so glad to see that you
+two are safe!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+It's all thanks to Dr. Goodall.
+<PUSH>
+Geo, she's OK, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah.
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}Wait.
+She's not here yet?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+I heard that she is having
+an examination at the local
+hospital.
+<PUSH>
+After all, she did spend a
+long time in the Noise Wave.
+<PUSH>
+
+<NEW-DIALOG>
+4But, why did she have
+us take shelter here?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes, yes.
+<PUSH>
+I was just going to explain
+that to you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Dr, Goodall!
+How is your health!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+There's nothing to worry
+about, thank you.
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}That being said...
+About why I had you all
+evacuate to here{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+<PUSH>
+We predicted that Dealer's
+first target using Meteor G
+would be WAZA...
+<PUSH>
+And that after the other
+WAZA locations were
+destroyed, that the main
+<PUSH>
+computer would be our last
+hope...
+<PUSH>
+Dealer would never let that
+remain in our possession.
+<PUSH>
+
+<NEW-DIALOG>
+4So...
+<PUSH>
+So then you stayed behind
+in order to complete certain
+counter-measures, correct?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+But, what counter-measures
+were they?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I was completing the
+transfer of the main
+computer's functions.
+<PUSH>
+They are now in the
+environmental system that
+is here in <Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Brilliant!
+<PUSH>
+The environmental system
+certainly has the specs to
+<PUSH>
+perform the functions of the
+main computer properly.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Chief!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1The analysis of Meteor G
+has been completed!
+<PUSH>
+It is currently resting in
+orbit above Earth!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's just as King said...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's actually able to control
+its movement... Not to
+mention its other functions.
+<PUSH>
+
+<NEW-DIALOG>
+4He truly is in complete
+control of it...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+If Meteor G were to strike
+the planet, every piece of
+<PUSH>
+technology would be wiped
+out.
+<PUSH>
+However, instead of hitting
+Earth with it, he will most
+<PUSH>
+likely use it as a tool of
+fear to control the world.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I won't let that happen!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Well, we have no idea where
+he is now, plus we still have
+<PUSH>
+to come up with a plan to
+stop Meteor G.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hmm...
+<PUSH>
+Let's think about it in the
+opposite way. If we stop
+<PUSH>
+Meteor G, then we also ruin
+King's plans.
+<PUSH>
+We still have a chance...
+This battle is not over, yet.
+<PUSH>
+
+<NEW-DIALOG>
+4Very well!
+<PUSH>
+From here on out, I am
+designating <Castello.Alohaha>
+<PUSH>
+as WAZA's new anti-Meteor G
+headquarters!!
+<PUSH>
+Let's hammer out the plans
+people!! This is our planet!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Yes, sir!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+So, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+The WAZA staff members
+are only doing what they are
+expected to do.
+<PUSH>
+Don't try to do too much on
+your own, Geo. Just do what
+you are capable of doing.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+What I'm capable of doing?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Right now, there is really
+nothing that can be done
+about Meteor G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What are you talking about!?
+"Nothing to be done"!?
+<PUSH>
+We can take out some
+viruses or something!!
+Just let us go buck wild!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Hee hee hee...
+Oh, Meggers...
+<PUSH>
+Would you please save up
+all that energy for just a
+bit longer?
+<PUSH>
+We'll have you do your part
+once we have a plan.
+<PUSH>
+For now, I want you two to
+go back to <Echo.Ridge>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Back to <Echo.Ridge>...?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Yes, your mother must be
+worried sick about you.
+<PUSH>
+Go home and put a smile
+on her face.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+She's got a point...
+You've been so busy that
+you haven't seen her lately.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK, Dr. Goodall.
+I'll go home for a little while.
+<PUSH>
+But if anything happens,
+please let me know!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I promise I will.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alrighty then.
+Let's go see your mom!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

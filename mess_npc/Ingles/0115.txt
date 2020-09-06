@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* This is the AC
+System's Cyber Core!
+<PUSH>
+When you're underground,
+AC is a must!
+<PUSH>
+If I took a rest, the air in
+here would be unbearable
+in no time!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

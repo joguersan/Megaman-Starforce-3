@@ -1,0 +1,204 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0A}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+-I would really appreciate it
+if someone would trade
+Battle Cards with me.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{2B}{16}{0D}{00}{0C}{E1}{00}{00}{44}{16}{03}{00}{0C}{E1}{01}{00}{2A}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-I am a copy writer.
+<PUSH>
+Right now, I'm working on a
+catch copy for Spica Mall.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Is there something that I
+can help you with?
+<PUSH>
+
+<NEW-DIALOG>
+-Why, yes, possibly.
+<PUSH>
+I have been searching for a
+"{8F}{E7}" Battle Card
+for quite some time now.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Help this person?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+I could take a look around
+for a "{8F}{E7}" for you.
+That is, if you would like.
+<PUSH>
+
+<NEW-DIALOG>
+-That would be marvelous!
+<PUSH>
+I would be honored to gain
+your assistance in the hunt.
+<PUSH>
+If you happen to find
+a "{8F}{E7}", please
+come inform me right away.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Alrighty.
+<PUSH>
+{0A}{E1}{2A}{16}{20}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+-How unfortunate...
+<PUSH>
+Please inform me if you
+happen to change your mind.
+<PUSH>
+{0B}{E1}{44}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Did you find the Battle Card
+"{8F}{E7}" that I've been
+searching for?
+<PUSH>
+{89}{E1}O{01}{00}{08}{00}{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Game>
+Hand over the Battle Card
+"{8F}{E7}"?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0C}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel the trade?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Cancel
+  {09}{EC}Don't cancel
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}
+{11}{EC}{03}{00}{0B}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+-How unfortunate...
+<PUSH>
+Please inform me if you
+happen to change your mind.
+<PUSH>
+{0B}{E1}{44}{16}{0B}{E1}{2A}{16}{0B}{E1}{2B}{16}{21}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<NEW-DIALOG>
+-If you happen to find
+a "{8F}{E7}", please
+come inform me right away.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Thank you very much!
+<PUSH>
+My search to find a
+"{8F}{E7}" is finally over.
+<PUSH>
+Please take this as a token
+of my appreciation.
+<PUSH>
+{83}{E1}{0D}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{BD}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{2B}{16}{80}{E1}O{FF}{FF}{21}{EC}{E5}{10}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+-Thank you very much for
+your assistance.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

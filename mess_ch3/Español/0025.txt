@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}M-Me has pillado...
+Toma, te devuelvo lo
+que he robado...
+<PUSH>
+{10}{E2}Ì
+<NEW-DIALOG>
+<Game>
+¡Geo ha recuperado los
+pantalones de Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vamos a buscar el resto
+de cosas!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí! ¡Seguramente estén
+en la Carretera de ondas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

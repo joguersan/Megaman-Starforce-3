@@ -1,0 +1,166 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}<Dark.Phantom>
+{0C}{00}{0A}{E1}<Dark.Phantom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}{8B}{00}{0C}{00}{0A}{E1}{8B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{8C}{00}{0C}{00}{0A}{E1}{8C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}<Apollo.Flame>
+{0C}{00}{0A}{E1}<Apollo.Flame>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{8E}{00}{0C}{00}{0A}{E1}{8E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{01}{00}{8F}{00}{0C}{00}{0A}{E1}{8F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{90}{00}{0C}{00}{0A}{E1}{90}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{0C}{E1}{01}{00}{91}{00}{0C}{00}{0A}{E1}{91}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{01}{00}{92}{00}{0C}{00}{0A}{E1}{92}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{0C}{E1}{01}{00}{93}{00}{0C}{00}{0A}{E1}{93}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}{94}{00}{0C}{00}{0A}{E1}{94}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}{95}{00}{0C}{00}{0A}{E1}{95}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Memory splinter found.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<END-DIALOG>
+
+[END]
+

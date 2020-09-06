@@ -1,0 +1,385 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0A}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Has oído los rumores sobre
+el <Spica.Mall>?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{39}{16}{03}{00}{0C}{E1}{01}{00}{81}{16}
+{0C}{E1}{01}{00}{14}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+¿Qué ocurre en el <Spica.Mall>?
+¿Es algo malo?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Argh...
+ Tan solo hablar sobre ello
+ me pone enfermo.)
+<PUSH>
+Todo el mundo está hablando
+ahora sobre ello.
+<PUSH>
+Si tocas tres veces la puerta
+del baño de chicas y recitas
+un hechizo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Sí?...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Aparecerá un fantasma!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Un fantasma?!
+<PUSH>
+Ja, ja...
+<PUSH>
+¿No te lo habrás creído,
+no, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Pero quién te crees
+que soy?!
+<PUSH>
+¡Jamás me creería esas
+chiquilladas!
+<PUSH>
+{13}{EC}(En realidad, no voy a poder
+ dormir nunca más.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Entonces, supongo que no
+hay motivo para ir a
+comprobarlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡E-e-espera un segundito!
+<PUSH>
+A diferencia de mí, hay
+estudiantes aterrorizados.
+¡Hay que comprobarlo!
+<PUSH>
+Y dado que tú eres un héroe,
+Geo... Ve a comprobarlo por
+mí, por favor.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Aceptar su petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Si tan importante te parece,
+lo haré.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Gracias, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Conque tienes que tocar tres
+veces la puerta del baño de
+chicas y recitar un hechizo...
+<PUSH>
+¿Y cuál es el hechizo?
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+<Prez>
+¡No tengo ni idea!
+<PUSH>
+Y aunque descubras cuál es,
+ni se te ocurra recitarlo
+conmigo delante.
+<PUSH>
+¡Dejaré de ser tu Hermana!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Parece que es la única
+ realmente aterrorizada,
+ ¿no?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Está bien.
+Tendré que preguntárselo
+a alguien de la escuela...
+<PUSH>
+{0A}{E1}{14}{16}{0A}{E1}{7D}{16}{20}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Prez>
+¡Pensaba que eras un hombre!
+<PUSH>
+Ains...
+<PUSH>
+¡Bueno, avísame si cambias
+de opinión!
+<PUSH>
+{0B}{E1}{39}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Descubriste la verdad tras
+el fantasma?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Prez>
+¡Un verdadero hombre jamás se
+retractaría de sus palabras!
+<PUSH>
+{0B}{E1}{39}{16}{0B}{E1}{14}{16}{0B}{E1}{15}{16}{0B}{E1}{7D}{16}{0B}{E1}{7E}{16}{0B}{E1}{7F}{16}{0B}{E1}{80}{16}{0B}{E1}{81}{16}{82}{E1}){FF}{FF}{21}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Prez>
+Gracias, Geo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Fue una broma de los virus?
+<PUSH>
+{13}{EC}(Uf...)
+<PUSH>
+¡Me lo imaginaba!
+<PUSH>
+En cualquier caso, muchas
+gracias por tu ayuda, Geo.
+<PUSH>
+Ten esto por ayudar.
+<PUSH>
+{87}{E1}{4B}{01}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{57}{E6}{D2}{E6}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}(Geo es tan responsable.)
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{15}{16}{21}{EC}{DA}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}{7E}{16}{0D}{00}{06}{E1}{0C}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Sabes algo acerca de los
+rumores del baño de chicas
+del <Spica.Mall>?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡¡...!!
+<PUSH>
+Pues la verdad es que...
+¡Escuché una voz en el baño
+de chicas del <Spica.Mall>!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿U-una voz?
+<PUSH>
+{13}{EC}(Esto se está volviendo
+ espeluznante.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Sentí como si me siguiera!
+¡Menudo miedo pasé!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Si por casualidad conocieras
+el hechizo, ¿te importaría
+enseñármelo, por favor?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+El hechizo es este...
+<PUSH>
+{0A}{E1}{7E}{16}{82}{E1}){01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{99}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡No me hago responsable de
+lo que pueda pasarte!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Parece que los virus se lo
+estaban pasando bien asustando
+a los humanos.
+<PUSH>
+¡Los fantasmas no existen en
+este planeta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Cómo vas a saberlo?
+¡Si no eres de la Tierra!
+<PUSH>
+Volvamos con Luna.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{81}{16}
+[END]
+

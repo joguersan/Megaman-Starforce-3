@@ -1,0 +1,210 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+What's up with you two
+today?
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+We have something we
+want to show you!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+(You're up, Geo!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Got it!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Time to use the Real
+ Wave control pop-up I
+ got from the teacher!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Touch the Real Wave control
+ pop-up!)
+{03}{E2}{03}{00}{04}{EC}
+<NEW-DIALOG>
+<Game>
+Geo used the
+"{E3}{E6}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Now we just need to
+ overwrite the program
+ and that's it!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Oooh! It's so beautiful!!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Happy Birthday, Stey!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Happy Birthday!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Thank you so much!
+What an amazing birthday!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Geo helped us out!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Thank you, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It was nothing, really...
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Prez>
+What a lovely birthday!
+<PUSH>
+I would like to say happy
+birthday to you, as well!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Prez...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo Stelar here is a
+member of my Team,
+"Luna 4 Prez"!
+<PUSH>
+I'm the Team leader, Luna
+Platz!
+<PUSH>
+I'm actually running for
+student body president in
+the upcoming election.
+<PUSH>
+I would be honored to
+have your support for
+student body president!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Thank you very much,
+Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I will definitely vote for
+you in the election!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yay! I won't let you down!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Prez actually took all of
+the praise...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+She's a strong woman, kid...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, let's go look for any
+other kids that are in
+some kind of trouble, Mega.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

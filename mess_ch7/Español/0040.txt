@@ -1,0 +1,47 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Aagh{16}{E1}.{16}{E1}.{16}{E1}.!!
+¡¡No...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Uff{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Uff{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡¡Jack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tranquilo.
+Solo está inconsciente.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Vale, pues sigamos.
+<PUSH>
+¡Cada segundo que pasa,
+papá se debilita!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

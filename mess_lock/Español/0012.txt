@@ -1,0 +1,42 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Si vas por ahí, mañana
+sales en las portadas
+de los periódicos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Solo pueden pasar los
+Hercios autorizados!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Date prisa, o van a empezar
+a grabar sin nosotros!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

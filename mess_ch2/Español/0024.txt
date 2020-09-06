@@ -1,0 +1,539 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Ajajaja...
+<PUSH>
+Prepárate, Sonia Strumm...
+<PUSH>
+¡Está será tu última
+salida a escena!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Hola a todos!
+<PUSH>
+¡Gracias a todos por venir!
+<PUSH>
+{10}{E2}{67}{03}
+<NEW-DIALOG>
+<Game>
+¡¡Sí!!
+<PUSH>
+¡¡Sonia!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Es un placer para mí
+volver a los escenarios
+y cantar para vosotros!
+<PUSH>
+¡¿Estáis listos
+para el rock?!
+<PUSH>
+{10}{E2}{67}{03}
+<NEW-DIALOG>
+<Game>
+¡¡Sí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo, ¿puedo hablar
+contigo un momento?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Eh, Lee.
+Claro, ¿qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Parece que tenemos
+un problema...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Oh. ¿Qué ocurre?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Ven conmigo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qué es eso de que
+tenéis un "problema"?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¿No lo notáis?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{10}{E2}{68}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Fuusshh...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ahora que lo dices...
+<PUSH>
+No es normal que haga
+tanto frío aquí.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Estaba tan emocionada por
+el concierto que no lo
+había notado, pero sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿En serio?
+Yo estoy tan pancho.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Eso es por la grasa
+que tienes, que te
+aísla!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Pues tiene sentido!
+¡Menos mal que soy gordito!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pedia, ¿cuál es la situación?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Estamos a 4ºC de
+temperatura y bajando!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}Brrrr....
+<PUSH>
+¿Qué está pasando?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+El Cibernúcleo del
+proyector del escenario
+está congelado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Que está congelado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sí...
+En principio es imposible
+que el Cibernúcleo de
+una Onda Real
+<PUSH>
+tan grande como esta
+se congele.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Esto me da mala espina,
+chico...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Lo que nos tememos es...
+<PUSH>
+...que el proyector
+se cuelgue.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Entonces...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Los que estén en el escenario
+se quedarán atrapados
+sin posibilidades de bajar.
+<PUSH>
+Y si sigue enfriándose,
+podrían morir por
+congelación...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+E-Es terrible...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Esto, Lee...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Hola, Belle.
+¿Qué tal estás?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Bueno...
+Ice, mi Wizard,
+ha desaparecido hace un rato.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¿Ice?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+El que parece un polo, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Los de personal me han
+hablado de las amenazas
+y los problemas.
+<PUSH>
+Parece que comenzaron justo
+tras su desaparición.
+<PUSH>
+Me preocupa que su rivalidad
+con Sonia haya que hecho
+que...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Es imposible que sea ella.
+<PUSH>
+Ice es un Wizard representante.
+<PUSH>
+No debería tener esa
+clase de poder.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Bueno, sí, pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Creo que no iba mal
+encaminado con ese mal
+presentimiento.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+{13}{EC}¡¡¡!!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¿Qué ha pasado?!
+<PUSH>
+¡¿El escenario se ha congelado?!
+<PUSH>
+Bla, bla, bla...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¿P-Pero qué...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Chicos! ¡Quiero que os
+dejéis la voz en la
+siguiente canción!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Está intentando que
+no cunda el pánico...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Lee...
+<PUSH>
+¿Puedes darme acceso
+al Cibernúcleo del
+escenario?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+{13}{EC}...
+<PUSH>
+Claro, y no te preguntaré
+por qué lo necesitas.
+<PUSH>
+Porque no solo eres miembro
+de mi Equipo. Eres mi
+Hermano.
+<PUSH>
+Si hemos podido hacer
+este concierto ha sido
+gracias a ti.
+<PUSH>
+Sé que podrás arreglar
+este entuerto y salvarnos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{02}{E2}{07}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"{E7}{E6}"!
+<PUSH>
+{01}{E2}{07}{00}
+<NEW-DIALOG>
+<Prez>
+Ten cuidado, Geo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Lo tendré.
+<PUSH>
+Dele, cuida de Sonia
+y los demás mientras
+estoy fuera.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Entendido.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡No te hagas daño, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Vamos a animar a Sonia
+tan fuerte que este sitio
+va a echar a arder!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Cambio de onda EM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

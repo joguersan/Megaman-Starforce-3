@@ -1,0 +1,32 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Another earthquake!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Run, kid!
+Don't get swallowed up!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I know!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

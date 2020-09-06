@@ -1,0 +1,278 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Unos días después...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+-Cuartel General de la NAZA-
+<PUSH>
+
+<NEW-DIALOG>
+4La estrella fugaz conocida
+como "Meteorito G"...
+<PUSH>
+Su velocidad ha aumentado...
+<PUSH>
+
+<NEW-DIALOG>
+3Sí, señor.
+También ha modificado
+su rumbo.
+<PUSH>
+Ahora las probabilidades de
+impacto contra la Tierra
+son de un 67 %.
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<NEW-DIALOG>
+4{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}Jefe sobre el incidente
+de Wizard enloquecido
+en <Echo.Ridge>...
+<PUSH>
+Durante el evento detectamos
+la presencia de "Carmesí".
+<PUSH>
+
+<NEW-DIALOG>
+4Interesante...
+<PUSH>
+¿Recogimos alguna muestra?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}Cuando llegó la Policía
+Satella no quedaba ni
+rastro en la escena.
+<PUSH>
+Parece que alguien
+se lo llevó...
+<PUSH>
+
+<NEW-DIALOG>
+4Cada vez que se produce
+un evento de ondas EM
+donde aparece Carmesí,
+<PUSH>
+las probabilidades de impacto
+del Meteorito G contra la
+Tierra aumentan...
+<PUSH>
+Claro, el Meteorito G no
+es una estrella fugaz
+cualquier, pero...
+<PUSH>
+
+<NEW-DIALOG>
+3Por desgracia, aún no
+conocemos su composición
+exacta...
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}¡Por ahora, debemos
+dar la voz de alarma cuando
+detectemos rastros de Carmesí!
+<PUSH>
+
+<NEW-DIALOG>
+4.{14}{E1}.{14}{E1}.{14}{E1}Cálmate.
+<PUSH>
+ahora mismo...
+<PUSH>
+El cuartel de Netopía lidera
+a otros cuarteles en una
+misión para alterar su curso.
+<PUSH>
+Si lo consiguen...
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3¡¿Q-Qué está pasando?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2¡Jefe, tenemos un problema!
+<PUSH>
+
+<NEW-DIALOG>
+4¿Qué ocurre?
+<PUSH>
+
+<NEW-DIALOG>
+2¡Los cuarteles de Netopía,
+Sharo, NetFrica y el resto
+<PUSH>
+de los cuarteles principales
+de NAZA han sido destruidos!
+<PUSH>
+
+<NEW-DIALOG>
+4¡Será una broma!
+<PUSH>
+
+<NEW-DIALOG>
+3Todos los cuarteles que
+trataban de alterar el
+curso del Meteorito G...
+<PUSH>
+
+<NEW-DIALOG>
+2Parece que dispararon
+misiles al Meteorito G
+para alterar su curso.
+<PUSH>
+¡Pero ninguno impactó
+y una nube de Ruido
+salió del
+<PUSH>
+Meteorito G, destruyendo
+los sistemas y redes
+de esos países!
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}No podrán seguir
+ayudándonos con el
+Meteroito G...
+<PUSH>
+
+<NEW-DIALOG>
+3N-No puedo...
+<PUSH>
+
+<NEW-DIALOG>
+4¿Y Electopía?
+<PUSH>
+
+<NEW-DIALOG>
+2Hemos cortado comunicaciones
+con los sistemas de esos
+países por los pelos.
+<PUSH>
+No hemos sufrido daños.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+4Qué suerte que estuviéramos
+al otro lado del planeta
+justo ahora...
+<PUSH>
+Ahora recae sobre nuestros
+hombros la misión más
+importante de todas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Jefe, ¿quiere decir...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Sí.
+<PUSH>
+Trataremos de detener
+el Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Que los científicos se
+ponga con el análisis
+de su composición!
+<PUSH>
+¡Que el equipo de datos
+recalcule el curso
+del meteorito!
+<PUSH>
+¡Y solicitad que la
+Policía de Satella aumente
+su Equipo de Batalla!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Sí ,señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4{13}{EC}(Durante muchos años
+he sufrido de todo...)
+<PUSH>
+{13}{EC}({15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}Pero puede que
+esta vez nuestra única
+opción sea rezar...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

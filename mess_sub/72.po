@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Purpose Card"
+msgstr "Carta Propósito"
+
+msgctxt "1"
+msgid "HP"
+msgstr "PS"
+
+msgctxt "2"
+msgid "Mega"
+msgstr "Mega"
+
+msgctxt "3"
+msgid "Giga"
+msgstr "Giga"
+
+msgctxt "4"
+msgid "Sword"
+msgstr "Espada"
+
+msgctxt "5"
+msgid "Break"
+msgstr "Rotura"
+
+msgctxt "6"
+msgid "Fire"
+msgstr "Fuego"
+
+msgctxt "7"
+msgid "Aqua"
+msgstr "Agua"
+
+msgctxt "8"
+msgid "Elec"
+msgstr "Elec."
+
+msgctxt "9"
+msgid "Wood"
+msgstr "Madera"
+
+msgctxt "10"
+msgid "NrmlAStr"
+msgstr "AtaqNrml"
+
+msgctxt "11"
+msgid "FireAStr"
+msgstr "AtqFuego"
+
+msgctxt "12"
+msgid "AquaAStr"
+msgstr "AtqAgua"
+
+msgctxt "13"
+msgid "ElecAStr"
+msgstr "AtqElec"
+
+msgctxt "14"
+msgid "NrmlAStr"
+msgstr "AtqNrml"
+
+msgctxt "15"
+msgid "NrmlAStr"
+msgstr "AtqNrml"
+
+msgctxt "16"
+msgid "NrmlAStr"
+msgstr "AtqNrml"
+
+msgctxt "17"
+msgid "Turn"
+msgstr "Turno"
+
+msgctxt "18"
+msgid "Access"
+msgstr "Acceder"

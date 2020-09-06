@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "MEGA MAN SF"
+msgstr "MEGA MAN SF"
+
+msgctxt "1"
+msgid "Omega-Xis"
+msgstr "Omega-Xis"
+
+msgctxt "2"
+msgid "Ability"
+msgstr "Habilidad"
+
+msgctxt "3"
+msgid "SeeRecrds"
+msgstr "Registros"
+
+msgctxt "4"
+msgid "NoiseCard"
+msgstr "CartaRuido"
+
+msgctxt "5"
+msgid "Turn ON"
+msgstr "Activar"
+
+msgctxt "6"
+msgid "Turn OFF"
+msgstr "Desactivar"
+
+msgctxt "7"
+msgid "MAX HP     {e124}{4}"
+msgstr "PV MÁX."
+
+msgctxt "8"
+msgid "Mega       {e124}{4}"
+msgstr "Mega       {e124}{4}"
+
+msgctxt "9"
+msgid "Giga       {e124}{4}"
+msgstr "Giga       {e124}{4}"
+
+msgctxt "10"
+msgid "Supt           "
+msgstr "Apoyo           "
+
+msgctxt "11"
+msgid "+{e120}{3}"
+msgstr "+{e120}{3}"
+
+msgctxt "12"
+msgid "Normal         "
+msgstr "Normal         "
+
+msgctxt "13"
+msgid "Sword          "
+msgstr "Espada          "
+
+msgctxt "14"
+msgid "Break          "
+msgstr "Rotura         "
+
+msgctxt "15"
+msgid "Fire           "
+msgstr "Fuego         "
+
+msgctxt "16"
+msgid "Aqua           "
+msgstr "Agua           "
+
+msgctxt "17"
+msgid "Elec           "
+msgstr "Elec.          "
+
+msgctxt "18"
+msgid "Wood           "
+msgstr "Madera         "
+
+msgctxt "19"
+msgid "Abilty         "
+msgstr "Hab.         "
+
+msgctxt "20"
+msgid "Noise"
+msgstr "Ruido"

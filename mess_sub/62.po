@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Omega-Xis"
+msgstr "Omega-Xis"
+
+msgctxt "1"
+msgid "Attack"
+msgstr "Ataque"
+
+msgctxt "2"
+msgid "Rapid"
+msgstr "Cadencia"
+
+msgctxt "3"
+msgid "Charge"
+msgstr "Carga"
+
+msgctxt "4"
+msgid "{e124}{1}"
+msgstr "{e124}{1}"
+
+msgctxt "5"
+msgid "({e124}{1}+{e125}{1})"
+msgstr "({e124}{1}+{e125}{1})"
+
+msgctxt "6"
+msgid "Equip Weapon"
+msgstr "Equipar arma"
+
+msgctxt "7"
+msgid "See Records"
+msgstr "Ver registros"

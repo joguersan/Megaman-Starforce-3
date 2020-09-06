@@ -1,0 +1,116 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The roof is up ahead...
+And Jack is there!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid.
+<PUSH>
+Are you really ready for
+this?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ready?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ready to kick Jack's butt!
+<PUSH>
+If you're really going out
+there, then you have to be
+fully prepared to fight.
+<PUSH>
+You won't stand a chance
+if your mind isn't 100% into
+this fight.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...I guess you're right...
+<PUSH>
+But, I still want to talk to
+Jack and give him a chance
+to stop, first...
+<PUSH>
+If I can just get him to
+listen to me, I know he'll...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+...Hmph!
+<PUSH>
+What do you think you could
+say to convince him?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Bud>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+You're so naive it makes me
+sick!
+<PUSH>
+It will be me who will take
+him down.
+<PUSH>
+But before that{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+You're going down, first!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What are you talking about!?
+This is not the time for...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+You really are naive!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Wake up, kid!!
+<PUSH>
+Here he comes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

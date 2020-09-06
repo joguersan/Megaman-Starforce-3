@@ -1,0 +1,40 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+¡Bienvenido al Centro
+Comercial Spica!
+<PUSH>
+¡No te pierdas el torneo
+de combate de ondas
+en la zona de eventos!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}á
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+<Mr.Boreal>
+Próximamente:
+¡La confitería!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{E3}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+<Prez-swim>
+¿Tienes hambre? ¿Por qué
+no comes en la zona
+de restauración?
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{E2}{00}
+[END]
+

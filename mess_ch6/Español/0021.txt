@@ -1,0 +1,144 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Está bien, chaval!
+<PUSH>
+¡Vamos a patearle el culo
+a esta maldita máquina!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Es una trampa!
+<PUSH>
+¡¡Aah!!
+¡No puedo moverme!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No puede ser!
+<PUSH>
+¿¡Ahora, qué narices hacemos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No lo se...
+<PUSH>
+¡Pero tenemos que salir de
+aquí como sea!
+<PUSH>
+U{16}{E1}-Uuuuumph!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Yo me encargo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Me las puedo apañar sola!
+<PUSH>
+¡Continua, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Está bien!
+<PUSH>
+¡Gracias por salvarme, Sonia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+¡El Ruido aquí es demasiado
+intenso!
+<PUSH>
+Pero ellas parecen estar
+bien...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Me alegra que hayamos podido
+ayudarles sin causarles más
+problemas...
+<PUSH>
+Geo se preocuparía mucho si
+nos viera así.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+basta de charla...
+¡Tenemos que irnos!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Eres la mejor, Sonia...
+<PUSH>
+¡Cada día me sorprendes más!
+<PUSH>
+{13}{EC}(Como se te ocurra hacerla
+llorar...)
+<PUSH>
+{13}{EC}(¡Haré que lo lamentes,
+Mega Man!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]

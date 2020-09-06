@@ -1,0 +1,52 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Road is back
+together again!
+<PUSH>
+I wonder where it leads to...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What do you want to do?
+Do you want to go back and
+report to everyone?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}No, we're moving on.
+<PUSH>
+There's nothing more
+important than that at the
+moment!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Haha, that's my boy!
+<PUSH>
+Sweet! It looks like we're
+going to get that chance to
+whoop some Dealer butt!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No doubt! Let's rock, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+

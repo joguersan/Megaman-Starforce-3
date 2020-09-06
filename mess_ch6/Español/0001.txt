@@ -1,0 +1,91 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Al mismo tiempo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Hemos destruido todos los
+cuarteles generales de NAZA
+<PUSH>
+del mundo, y ahora también
+podemos controlar el
+Meteorito G!
+<PUSH>
+¡Sin embargo...!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡No tenemos control al 100%!
+Necesitamos una gran cantidad
+<PUSH>
+de Carmesí para poder
+controlarlo completamente!
+<PUSH>
+¡Nunca me hubiera imaginado
+que el Meteorito G fuera tan
+gigantesco!
+<PUSH>
+Necesitamos conseguir
+más Carmesí,
+¿no es así, Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Jack y Queen Tia eran los
+encargados de la recolección
+de Carmesí...
+<PUSH>
+¿Piensa rescatarlos?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Eso no será necesario,
+Sr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Tengo una idea...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]

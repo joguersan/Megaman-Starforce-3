@@ -1,0 +1,22 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip ¡Este es el
+centro del sistema de
+aire acondicionado!
+<PUSH>
+¡Cuando estás bajo tierra,
+el aire acondicionado es una
+obligación!
+<PUSH>
+Si me tomase un descanso,
+el aire aquí se volvería
+irrespirable en un pispás.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

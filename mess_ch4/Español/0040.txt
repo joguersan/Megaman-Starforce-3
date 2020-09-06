@@ -1,0 +1,62 @@
+[SENTENCE NUMBER 1]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Roooaaarrr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No me lo puedo creer!
+¡¿Pero cuántas copias hay?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q{15}{E1}-Qué...?!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Parece que han destruido
+el muro exterior.
+<PUSH>
+Las copias están
+entrando desde ahí...
+<PUSH>
+¡Vuelve al <Centro.Comando>
+de la NAZA cuanto antes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Recibido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

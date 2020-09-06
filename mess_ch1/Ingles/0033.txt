@@ -1,0 +1,31 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{16}{EC}{10}{E2}{3C}{03}
+<NEW-DIALOG>
+{99}{00}Ergaaaaaah!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+H-He's really out of control!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Time to go buck wild on
+him, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I don't like the idea of
+battling a Wizard, but it's
+our only option.
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+[END]
+

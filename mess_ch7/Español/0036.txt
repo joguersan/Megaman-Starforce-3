@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+¡¡Aaaargh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Se nos acaba el tiempo...
+¡¡Tenemos que seguir!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Sonia Strumm! Pip, pip.
+De todos los Hercios, ¡soy el
+mayor fan de Sonia Strumm!
+<PUSH>
+Hasta estoy en su club de
+fans.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

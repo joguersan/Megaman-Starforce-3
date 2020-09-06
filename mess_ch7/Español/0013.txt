@@ -1,0 +1,369 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Sr. Boreal! ¡Jefe!
+¡Me alegro de que
+estéis los dos a salvo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Todo gracias a la
+Dra. Goodall.
+<PUSH>
+Geo, ella está bien,
+¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí.
+<PUSH>
+Espera.{14}{E1}.{14}{E1}.{14}{E1}
+¿Aún no ha llegado?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Parece que la están examinando
+en el hospital local.
+<PUSH>
+Ha pasado mucho tiempo
+dentro de la onda de Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+4Pero, ¿por qué nos
+hizo refugiarnos aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí, sí.
+<PUSH>
+Os lo iba a explicar
+justo ahora.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Dra. Goodall!
+¡¿Cómo se encuentra?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No tienes de qué
+preocuparte, gracias.
+<PUSH>
+Ahora.{14}{E1}.{14}{E1}.{14}{E1}
+¿Por qué os hice evacuar
+aquí?{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+<PUSH>
+Calculamos que el primer
+objeto de Dealer con el
+Meteorito G sería la NAZA...
+<PUSH>
+Con el resto de instalaciones
+de la NAZA destruidas,
+el ordenador central
+<PUSH>
+era nuestras única esperanza...
+<PUSH>
+Por eso Dealer no tardaría
+en hacerlo desaparecer.
+<PUSH>
+
+<NEW-DIALOG>
+4Entonces...
+<PUSH>
+Entonces se quedó atrás para
+llevar a cabo contramedidas,
+¿no es así?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿Pero de qué se tratan?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Estaba completando la
+transferencia de las
+funciones del ordenador.
+<PUSH>
+Ahora están integradas
+en el sistema medioambiental
+del <Castello.Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡Brillante!
+<PUSH>
+El sistema medioambiental
+posee las características
+<PUSH>
+para soportar las funciones
+del ordenador central.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Jefe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Hemos completado el
+análisis del Meteorito G!
+<PUSH>
+¡¡Ahora mismo se encuentra
+orbitando la Tierra!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tal y como dijo King...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es capaz de controlar sus
+movimientos... Por no
+hablar del resto de funciones.
+<PUSH>
+
+<NEW-DIALOG>
+4Tiene el control total
+del meteorito...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Si el Meteorito G chocara
+contra la Tierra, eliminaría
+<PUSH>
+cualquier rastro de
+tecnología.
+<PUSH>
+No obstante, en lugar de
+hacerlo chocar, va a usarlo
+<PUSH>
+para controlar el mundo
+gracias al terror.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Eso no va a pasar!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+No tenemos ni idea de dónde
+se encuentra y además
+<PUSH>
+necesitamos un plan para
+detener el Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Mmm...
+<PUSH>
+¿Por qué no lo pensamos
+de otro modo? Si detenemos
+<PUSH>
+el Meteorito G, los planes
+de King se irán al traste.
+<PUSH>
+Aún hay esperanza...
+Esto aún no ha terminado.
+<PUSH>
+
+<NEW-DIALOG>
+4¡Muy bien!
+<PUSH>
+¡Desde ahora, el
+<Castello.Alohaha>
+será el nuevo
+<PUSH>
+cuartel general de la
+NAZA para combatir
+el Meteorito G!!
+<PUSH>
+¡¡Chicos, vamos a elaborar
+un plan!! ¡¡Este es nuestro
+planeta!!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡¡Sí, señor!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bien, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+El personal de la NAZA
+está haciendo lo que se
+espera de ellos.
+<PUSH>
+Geo, no intentes hacerlo
+todo tú solo. Haz solo
+lo que seas capaz.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Lo que sea capaz?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ahora mismo, no podemos
+hacer nada con el
+Meteorito G.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué estás diciendo?!
+¡¿«No podemos hacer nada»?!
+<PUSH>
+¡¡Podemos acabar con unos
+virus o algo!!
+¡¡Déjanos a nuestro aire!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ji, ji, ji...
+Oh, Meguita...
+<PUSH>
+¿Podrías guardar esa
+energía solo un poquito más?
+<PUSH>
+Cuando se nos ocurra un
+plan, podrás participar.
+<PUSH>
+Por ahora, quiero que
+volváis a <Echo.Ridge>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Que volvamos a <Echo.Ridge>?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí, seguro que tu madre
+está preocupadísima por
+vosotros.
+<PUSH>
+Ve a casa y hazla feliz.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tiene razón...
+Han pasado tantas cosas,
+que apenas la has visto.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vale, Dra. Goodall.
+Me iré a casa un tiempo.
+<PUSH>
+¡Pero si ocurre cualquier
+cosa, dígamelo!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Te lo prometo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hecho.
+¡¡Vamos a ver tu madre!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

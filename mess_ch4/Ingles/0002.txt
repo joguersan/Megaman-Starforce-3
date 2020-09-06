@@ -1,0 +1,579 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+...So, both of them?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+They've been like this since
+Luna...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I see...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Hey...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+What is it, Bud...?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Prez... is really gone...
+Isn't she?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I'll never hear her yell at me
+when I'm late, ever again...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Late!{15}{E1} Late!{15}{E1} Late!{16}{E1}
+You're{16}{E1} laaaaaate!
+<PUSH>
+You've got guts to make
+me wait for you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Zack!
+<PUSH>
+Make sure Bud isn't late
+next time...
+<PUSH>
+Can you do that!?
+<PUSH>
+...Don't you dare talk back.
+<PUSH>
+You guys are friends, so
+you're partially responsible!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Do you guys understand!?
+<PUSH>
+If you make me wait just
+one more time...
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+*whimper*
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+*sob*{15}{E1}
+P-P-P{15}{E1}-Prez!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Waaaaaa!
+Prez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+B-Bud!{15}{E1} Zack...!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Why are you crying!?
+<PUSH>
+L-Luna can't really be gone
+for good...!
+<PUSH>
+There's just...
+There's just no way...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+It's not... It's not...
+<PUSH>
+*whimper*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud! Zack!
+<PUSH>
+Do you really believe that
+Prez is gone!?
+<PUSH>
+...I'm not giving up!
+<PUSH>
+I refuse to believe that
+she's gone!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+G-Geo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+B-But, Geo...
+<PUSH>
+You saw it, right?
+<PUSH>
+R-{15}{E1}Right in front of you...
+<PUSH>
+P-{15}{E1}Prez...
+<PUSH>
+I-{15}{E1}It's so terrible!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+That's right, Geo!
+I mean... Mega Man!
+<PUSH>
+Why couldn't you save her!?
+<PUSH>
+You've never let us down
+before!
+<PUSH>
+So...{15}{E1} why...
+<PUSH>
+Why couldn't you save her
+this time!?
+Waaaaaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Zack, you little...!
+Are you blaming Geo!?
+<PUSH>
+What's wrong with you!?
+Do you know how much he's...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It's fine, Mega!
+<PUSH>
+It's fine...
+It's true that I couldn't do
+anything...
+<PUSH>
+But...{15}{E1}
+That's exactly why....!
+<PUSH>
+That's why I'm not giving up!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud! Zack!
+Look at your <Hunter>s!
+<PUSH>
+Prez's data signature isn't
+completely gone...
+<PUSH>
+Our Brother Bands, Team,
+and Purpose haven't been
+affected either!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+T-That means...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Mine is the same, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That's proof that she isn't
+gone, isn't it!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+That's right!
+<PUSH>
+Geo is right!
+<PUSH>
+Luna isn't really gone!
+<PUSH>
+And I'm not giving up, either!
+<PUSH>
+There's no way...{16}{E1} that I'm
+giving up!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+S-Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+B-But...
+Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We want to believe what
+Geo is saying, too...!
+<PUSH>
+B-{15}{E1}But...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Z-Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(Zack, Bud...
+{13}{EC} You can't give up...)
+<PUSH>
+{13}{EC}(If we give up...
+{13}{EC} Then she will definitely
+{13}{EC} disappear... for good.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+For cryin' out loud!
+<PUSH>
+You're a bunch of depressing
+cry-babies!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+...Bud and Zack have known
+Prez for much longer than
+Sonia and I...
+<PUSH>
+So they have been hit
+harder by the news...
+<PUSH>
+They're doing the best
+they can...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...Hmph!
+<PUSH>
+So then what are you going
+to do?
+<PUSH>
+Do you have a plan?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Actually, I do...!
+<PUSH>
+I was thinking we could ask
+the Satella Police...{15}{E1}
+Or rather, Ace to help us...
+<PUSH>
+But I don't know how to
+get ahold of him...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hmm...
+<PUSH>
+So that means we need to
+ask someone who does
+know how...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!!
+<PUSH>
+That's a great idea!
+<PUSH>
+Thanks, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So, do you know who
+we should ask?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah!
+<PUSH>
+Mr. {5B}{E2}!
+<PUSH>
+Remember, he used to work
+at NAZA!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ah, Boreal, huh?
+<PUSH>
+He can probably figure
+something out about what
+happened to Luna, too.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Good point!
+<PUSH>
+There's no doubt he'll be
+able to figure something out!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Then it's settled!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, let's go see Mr. Boreal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

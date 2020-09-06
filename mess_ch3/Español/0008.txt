@@ -1,0 +1,153 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¡Nadie perturbará la paz de
+<Alohaha> si estoy yo aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es él...
+El Wizard grande del que
+hablaba Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¡Desapareced, malditos virus!
+<PUSH>
+¡LLuvia de puñetazos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vaya, es fuerte!...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No está mal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Ja...
+Parece no haber fin para
+estas viles criaturas...
+<PUSH>
+Ya he eliminado a 100...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿100?!
+<PUSH>
+¡¿Pero cuánto lleva luchando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Y no parece nada cansado.
+Es impresionante.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Deja que te ayude!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¿Eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¿Quieres luchar?
+<PUSH>
+Tu apariencia no me inspira
+mucha confianza, pero
+no te dentendré.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ja!¡No nos subestimes!
+¡Presta mucha atención y
+verás de lo que somos capaces!
+<PUSH>
+¡Ahora verás el auténtico
+poder de Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Strong>
+¿Mega Man?
+<PUSH>
+¿El mismo Mega Man que ha
+salvado a la Tierra del
+desastre dos veces?
+<PUSH>
+Qué interesante...
+<PUSH>
+Será un honor que me
+muestres tu poder.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡A por ellos, chico!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Vale!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

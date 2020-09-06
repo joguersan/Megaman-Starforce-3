@@ -1,0 +1,248 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a map of <Alohaha>.
+<Alohaha> is the most
+southern region of Electopia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{01}{00}{E6}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's an outfit the people of
+<Alohaha> used to wear when
+it was a separate country.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sweet!
+Look what's here!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{E6}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{09}{E1}{00}{00}{43}{07}{59}{07}
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The mythological creatures
+of <Alohaha> are on display.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Those guys sure have some
+pretty ugly mugs.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Hello pot, meet kettle...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Whatchu talkin' bout, Geo!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The sea life of <Alohaha> is
+on display.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{55}{07}{0D}{00}{09}{E1}{00}{00}{43}{07}{55}{07}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is where Strong
+controls the environmental
+system from.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+This is the most awesome
+computer I've ever seen.
+It must be super complicated!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The mythological creatures
+of <Alohaha> are on display.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is where Strong
+controls the environmental
+system from.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's an error...
+We better check out
+its Cyber Core!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+This is where Strong
+controls the environmental
+system from.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+This is a really wonderful
+system to have...
+<PUSH>
+But if it were used for the
+wrong purposes...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The <Hunter>-VG is reacting!
+<PUSH>
+NOISE WAVE DETECTED.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACCESSED!
+<PUSH>
+{0A}{E1}{92}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's an outfit the people of
+<Alohaha> used to wear when
+it was a separate country.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

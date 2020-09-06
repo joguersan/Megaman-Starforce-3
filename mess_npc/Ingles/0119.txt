@@ -1,0 +1,61 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* This is the
+School Gate Cyber Core!
+<PUSH>
+Our salutation policy is
+in full effect!
+<PUSH>
+In the morning, we say
+"good morning"
+<PUSH>
+and when people go home
+we say "goodbye"!
+<PUSH>
+Always with a smile! By the
+way *beep* is how we
+Hertzes greet each other.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{92}{00}What is it youngin'!?
+<PUSH>
+I'm the Wizard in charge
+of this here School Gate
+Cyber Core!
+<PUSH>
+I make sure that suspicious
+characters don't get through.
+<PUSH>
+Now that's a man's job!
+You got that, youngin'!?
+<PUSH>
+So many kids nowadays
+lack character!
+<PUSH>
+First comes love, next
+comes character,
+then comes...
+<PUSH>
+...What!? Are you
+leaving already!?
+<PUSH>
+Kids! Always in a hurry...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

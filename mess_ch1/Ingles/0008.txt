@@ -1,0 +1,90 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Alright!
+We're all set!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Weird...
+<PUSH>
+Don't I look a little
+different to you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Now that you mention it...
+<PUSH>
+Maybe it's because your
+mobile terminal turned into
+a <Hunter>-VG?
+<PUSH>
+Don't worry about the little
+things, kid!
+<PUSH>
+Let's go delete those
+viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You got it!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+The Cyber Cores of many
+things are connected to
+the Wave Road.
+<PUSH>
+You didn't forget, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We can enter a Cyber
+Core by traveling to it on
+the Wave Road, right!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You can get to the
+Sprinkler System CC
+from over there!
+<PUSH>
+When the "ACCESS" pop-up
+appears, touch it to trans
+in to the Cyber Core!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK, let's rock!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,94 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+E-Eso es...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Carmesí...
+<PUSH>
+El Meteorito G está
+lleno de esta cosa.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Seguro que no es
+nada bueno.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Je!!
+<PUSH>
+¡No hay problema, puedo
+con un puñado de Carmesí!
+<PUSH>
+¡Chico! ¡Igual que cuando
+luchamos contra esas copias
+baratas de la NAZA!
+<PUSH>
+¡¡Pulsa el botón B para
+que pueda hacer pedazos
+el Carmesí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido, Mega!
+¡¡Tú puedes!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Pero recuerda que si fallas
+el Carmesí irá directo
+a por ti!
+<PUSH>
+¡El Carmesí no te va a
+sacar los colmillos, pero
+llamará a los virus!
+<PUSH>
+¡¡Ándate con ojo, chico!!
+<PUSH>
+Ah, una cosa más...
+Cuando el Carmesí te
+ataque no podrás organizar
+<PUSH>
+tus carpetas o guardar
+la partida.
+<PUSH>
+¡Así que tendrás que
+entrar al menú mientras
+esquivas esas cosas!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale! ¡Estoy listo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

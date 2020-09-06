@@ -1,0 +1,1070 @@
+[SENTENCE NUMBER 1]
+Libra Noise
+[END]
+
+[SENTENCE NUMBER 2]
+Met Server
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Libra Noise
+-Detailed Information-
+<PUSH>
+Body: Non-elemental
+Weakness: Break attacks
+<PUSH>
+Noise Form Capabilities:
+Fire and Aqua elemental
+card attacks +10
+<PUSH>
+Vibrant Noise Capabilities:
+Non-dimming, non-elemental
+cards restore HP
+<PUSH>
+Charged attack:
+"Side Spread" spreads damage
+left and right when it hits
+<PUSH>
+NFB: Non-elemental attack
+"Meteor Light Barrage"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+Corvus Noise
+[END]
+
+[SENTENCE NUMBER 5]
+Met Server
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Corvus Noise
+-Detailed Information-
+<PUSH>
+Body: Fire elemental
+Weakness: Aqua elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Non-dimming Fire elemental
+card attacks +30
+<PUSH>
+Vibrant Noise Capabilities:
+Nullifies Poison Panels, HP
+Bugs, and Black hole attacks
+<PUSH>
+Charged attack:
+"Shocking Flare", fires flames
+that stop enemies dead
+<PUSH>
+NFB: Fire elemental attack
+"Atomic Blazer"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+Cancer Noise
+[END]
+
+[SENTENCE NUMBER 8]
+Met Server
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cancer Noise
+-Detailed Information-
+<PUSH>
+Body: Aqua elemental
+Weakness: Elec elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Non-dimming Aqua elemental
+card attacks +30
+<PUSH>
+Vibrant Noise Capabilities:
+Bubble enemies with non-
+dimming Aqua elemental cards
+<PUSH>
+Charged attack:
+"Bubble Shot",
+traps enemies in a bubble
+<PUSH>
+NFB: Aqua elemental attack
+"Dyna Wave"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Gemini Noise
+[END]
+
+[SENTENCE NUMBER 11]
+Met Server
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Gemini Noise
+-Detailed Information-
+<PUSH>
+Body: Elec elemental
+Weakness: Wood elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Non-dimming Elec Elemental
+card attacks +30
+<PUSH>
+Tag Cards are cards you
+set on the Custom Screen
+to make them more likely
+<PUSH>
+to appear in battle. You can
+designate Tag Cards by
+<PUSH>
+pressing the Y Button on
+the Folder Edit Screen
+<PUSH>
+Vibrant Noise Capabilities:
+Adds paralyze effect to
+sword attacks
+<PUSH>
+Charged attack:
+"Rocket Knuckle",
+paralyzes enemies
+<PUSH>
+NFB: Elec elemental attack
+"Thunder Bolt Blade"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+OphiucaNoise
+[END]
+
+[SENTENCE NUMBER 14]
+Met Server
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ophiuca Noise
+-Detailed Information-
+<PUSH>
+Body: Wood elemental
+Weakness: Fire elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Wood elemental
+card attacks +20
+<PUSH>
+Vibrant Noise Capabilities:
+Land hit with non-dimming,
+non-elemental card to
+<PUSH>
+confuse enemies. You will
+not get blinded or confused
+<PUSH>
+Charged attack:
+"Wood Shot", turns
+adjacent panels to grass
+<PUSH>
+NFB: Wood elemental attack
+"Elemental Cyclone"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+Cygnus Noise
+[END]
+
+[SENTENCE NUMBER 17]
+Met Server
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Cygnus Noise
+-Detailed Information-
+<PUSH>
+Body: Non-elemental
+Weakness: Sword attacks
+<PUSH>
+Noise Form Capabilities:
+Equips AirShoes, FlotShoe
+<PUSH>
+Non-elemental card
+attacks +10
+<PUSH>
+Vibrant Noise Capabilities:
+Non-dimming wind attack
+card attacks +30
+<PUSH>
+Charged attack:
+"Feather Vulcan",
+ignites rear panels
+<PUSH>
+NFB: Non-elemental attack
+"Meteor Light Barrage"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+Taurus Noise
+[END]
+
+[SENTENCE NUMBER 20]
+Met Server
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Taurus Noise
+-Detailed Information-
+<PUSH>
+Body: Fire elemental
+Weakness: Aqua elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Equips SprArmr
+<PUSH>
+Vibrant Noise Capabilities:
+Non-dimming, Fire Elemental
+card attacks +50
+<PUSH>
+Charged attack:
+"Heat Cannon", ignites
+3 back panels when it hits
+<PUSH>
+NFB: Fire elemental attack
+"Atomic Blazer"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+Virgo Noise
+[END]
+
+[SENTENCE NUMBER 23]
+Met Server
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Virgo Noise
+-Detailed Information-
+<PUSH>
+Body: Aqua elemental
+Weakness: Elec elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Non-dimming, Aqua elemental
+card attacks +30
+<PUSH>
+Vibrant Noise Capabilities:
+Nullifies effects of freezing
+or bubbling
+<PUSH>
+Charged attack:
+"Aqua Wave", washes
+<PUSH>
+over the entire row
+NFB: Aqua elemental attack
+"Dyna Wave"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+Crown Noise
+[END]
+
+[SENTENCE NUMBER 26]
+Met Server
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Crown Noise
+-Detailed Information-
+<PUSH>
+Body: Elec elemental
+Weakness: Wood elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Increases probability of a
+Mega class card appearing
+<PUSH>
+first on Custom Screen,
+Elec elemental
+card attacks +20
+<PUSH>
+Vibrant Noise Capabilities:
+Land hit with non-dimming,
+<PUSH>
+non-elemental card to
+blind enemies
+<PUSH>
+Charged attack:
+"Plasma Shot",
+paralyzes enemies
+<PUSH>
+NFB: Elec elemental attack
+Thunder Bolt Blade
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+Wolf Noise
+[END]
+
+[SENTENCE NUMBER 29]
+Met Server
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wolf Noise
+-Detailed Information-
+<PUSH>
+Body: Wood elemental
+Weakness: Fire elemental
+attacks
+<PUSH>
+Noise Form Capabilities:
+Equips Quick Gauge,
+<PUSH>
+Non-dimming
+sword attacks +30
+<PUSH>
+Vibrant Noise Capabilities:
+Wood elemental card attacks
++10 and auto lock-on
+<PUSH>
+Charged attack:
+"Shock Claw", a 3 panel wide
+attack on the front 2 rows
+<PUSH>
+NFB: Wood elemental attack
+"Elemental Cyclone"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+Rogue Noise
+[END]
+
+[SENTENCE NUMBER 32]
+Met Server
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Rogue Noise
+-Detailed Information-
+<PUSH>
+Body: Non-elemental
+Weakness: None
+<PUSH>
+Noise Form Capabilities:
+Non-dimming
+sword attacks +50
+<PUSH>
+Once per turn, can block
+attacks with "MuBarrier"
+<PUSH>
+Vibrant Noise Capabilities:
+Can destroy enemy's lock-on
+sight even if locked onto,
+<PUSH>
+adds paralyze effect to
+non-dimming, non-elemental
+cards
+<PUSH>
+Charged attack: Unchanged
+<PUSH>
+NFB: None
+This Noise breaks all
+of his bonds
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+Finalization
+[END]
+
+[SENTENCE NUMBER 35]
+A.C. Eos
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Finalization explanation
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7B}{00}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Sonia Card
+[END]
+
+[SENTENCE NUMBER 50]
+Don McCard
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I'm a big big big big fan
+of Sonia Strumm!
+<PUSH>
+Do you know about
+her trading cards?
+<PUSH>
+I've been collecting them
+since back when she
+debuted.
+<PUSH>
+But there's this one I
+just can't get my hands on
+no matter how hard I try.
+<PUSH>
+It's called the Sonia
+Little Devil card!
+<PUSH>
+I wonder if there's anyone
+out there who would want
+<PUSH>
+to trade me that one for
+a Sonia "Wink" card.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Paper Plane
+[END]
+
+[SENTENCE NUMBER 53]
+Raida Briz
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I got a bad grade on my
+test and I didn't want to
+show my mommy,
+<PUSH>
+so I made a paper
+airplane out of it and
+threw it from the roof.
+<PUSH>
+But my mommy found
+out about my test, and
+now she wants to see it.
+<PUSH>
+But I don't know where it
+went after I threw it.
+Can you help me find it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Autograph
+[END]
+
+[SENTENCE NUMBER 56]
+Fany Chase
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Could you do me a favor!?
+<PUSH>
+Could you please get
+Belle's autograph for me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+Filming
+[END]
+
+[SENTENCE NUMBER 59]
+Onda Sette
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=I need to find a filming
+location for a new drama
+<PUSH>
+we're making, but it just
+takes so much time.
+<PUSH>
+I know it's kind of like
+cheating, but could you
+take a nice photo of a
+<PUSH>
+beautiful beach with some
+nice buildings and bring
+it back to me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+Great Game
+[END]
+
+[SENTENCE NUMBER 62]
+Kaz Nova
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)I'm looking for these two
+games called "{93}{E5}" 
+and "{94}{E5}",
+<PUSH>
+but they're so popular
+that they've sold out
+everywhere.
+<PUSH>
+The more I can't have
+them the more
+I want them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+Energy Drink
+[END]
+
+[SENTENCE NUMBER 65]
+Angel Wise
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I'm worried about Woody.
+<PUSH>
+He's been working awfully
+hard lately, and I think
+he needs a pick-me-up...
+<PUSH>
+You know, I'd really like
+to get one of those special
+<Alohaha> energy drinks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+Mission1
+[END]
+
+[SENTENCE NUMBER 68]
+Rob Sidkic
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Eradicate the 3 viruses
+spotted in <Spica.Mall>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+Mission2
+[END]
+
+[SENTENCE NUMBER 71]
+Rob Sidkic
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0There have been reports of
+a suspicious looking person
+having been sighted in
+<PUSH>
+{19}{E5}. Could you
+go and investigate?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+Find Me!
+[END]
+
+[SENTENCE NUMBER 74]
+Hide Seek
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Candy.Bar>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+Camera
+[END]
+
+[SENTENCE NUMBER 77]
+Vidy Otaku
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0There's a security camera
+in the eye of the dragon
+statue in <Alohaha>.
+<PUSH>
+But for some reason,
+the only thing being filmed
+is girls in bathing suits.
+<PUSH>
+Could it be a malfunction?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+Scary Rumor
+[END]
+
+[SENTENCE NUMBER 80]
+Luna Platz
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Lately there's been a rumor
+going around at school
+<PUSH>
+that is frightening the
+students.
+<PUSH>
+They say that if you
+knock on the door
+of the girls restroom at
+<PUSH>
+<Spica.Mall> and say some
+special chant...
+<PUSH>
+A ghost will appear!
+<PUSH>
+Of course I don't believe
+in things like that, but,
+as class president,
+<PUSH>
+I can't ignore the fact
+that something is scaring
+students at our school.
+<PUSH>
+Geo, since you are our
+resident hero,
+<PUSH>
+I want you to go and get
+to the bottom of
+this rumor for me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+Meltdown
+[END]
+
+[SENTENCE NUMBER 83]
+Zack
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+All of the electronics in
+my room, like my computer
+<PUSH>
+and my game systems are
+on the fritz!
+<PUSH>
+Could you come over and
+have a look!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+Graffiti
+[END]
+
+[SENTENCE NUMBER 86]
+Hamer Nayl
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++When I was young I was
+a carpenter. I actually
+<PUSH>
+helped build the Echo Ridge
+Elementary school building.
+<PUSH>
+I was so happy that the
+construction was complete,
+<PUSH>
+that I wrote graffiti on a
+certain part of the building.
+<PUSH>
+The thing is, now that I'm
+old, I'm having trouble
+remembering where it is.
+<PUSH>
+But I want to remove it.
+<PUSH>
+These days, my legs hurt,
+and I just don't have it in
+me to look for it.
+<PUSH>
+Could you find where it is
+and remove it for me?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+Ice Cream!
+[END]
+
+[SENTENCE NUMBER 89]
+Sugar Suet
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Could I get you to go and
+buy some ice cream for me
+to eat on my break?
+<PUSH>
+An ice cream cone from
+that {BE}{E4} that just
+opened up would be great!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+Take Out
+[END]
+
+[SENTENCE NUMBER 92]
+Sanc Quatr
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<I just ordered lunch for
+the staff, but I don't have
+time to go and pick it up.
+<PUSH>
+If you could pick up the
+order and make sure the
+<PUSH>
+staff gets their lunches,
+I'd really appreciate it.
+<PUSH>
+By the way, the place I
+ordered from is
+<PUSH>
+Echo Ridge Elementary's
+school store.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+Card Trade
+[END]
+
+[SENTENCE NUMBER 95]
+Boreal
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, you wouldn't happen
+to have a Battle Card
+called "{6A}{E7}", would you?
+<PUSH>
+Would you mind trading it for
+my "{28}{E8}"?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

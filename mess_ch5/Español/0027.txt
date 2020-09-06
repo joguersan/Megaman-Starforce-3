@@ -1,0 +1,780 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+¡¡Aaah!!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¡Auuu!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Chi...
+<PUSH>
+Chico...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+N-Nuestro...
+Deseo...
+No se ha vuelto{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Realidad, aun{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ja!
+¿¡Qué te pareció eso, Corvus!?
+<PUSH>
+¿Quién es el más fuerte
+después de todo?
+<PUSH>
+{13}{EC}(¡Por un momento casi no
+{13}{EC}lo contamos!)
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Bien hecho, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Ha sido una batalla
+increíble!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Le he contado a Ace lo
+ocurrido!
+<PUSH>
+¡Está en camino!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Eh...
+¿Qué hay de Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Está bien.
+Sólo se ha desmayado.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Oh, ¡menos mal!
+<PUSH>
+Una vez más, ¡megaman al
+rescate!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Jaja. ¡Gracias Bud!
+<PUSH>
+{13}{EC}(Se...
+{13}{EC} Se llevó todo lo que tenía.
+{13}{EC} Un poco más y...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Sr. King.
+<PUSH>
+Jack ha sido vencido por
+Mega Man.
+<PUSH>
+¿Cuáles son sus órdenes?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Así que se fue por su cuenta y
+se metió en un lío, ¿eh?
+<PUSH>
+¡¡Jo jo jo!!
+¡Su insensatez es infinita!
+<PUSH>
+Es peor que su hermana.
+¡Ni siquiera puede hacer el
+trabajo de un peón inútil!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+De todas formas...
+Regresa tan rápido como
+puedas, Joker.
+<PUSH>
+Debemos decidir nuestro
+próximo movimiento.
+<PUSH>
+Movimiento que nos traerá una
+victoria definitiva!
+<PUSH>
+¡Jo jo jo jo jo!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡Si, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Uno, dos, probando,
+probando...
+<PUSH>
+¡Ejem!
+<PUSH>
+Gracias por vuestra espera.
+<PUSH>
+¡Ahora anunciaré los
+resultados de las elecciones!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+El nuevo presidente del
+consejo estudiantil es...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Aah, qué nerviooos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Por qué diablos estás tan
+nervioso?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+*glup*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Dele.
+Dele.
+Dele...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Luna Platz de la clase 5ºA!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}"{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Bieeeeen!
+<PUSH>
+Woo hoo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Siii!
+¡¡Lo has conseguido, Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+En-En...
+<PUSH>
+Enhorabuena, Dele.
+<PUSH>
+*Snif *
+<PUSH>
+{A0}{E1}{04}{00}<{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*Fiuuufí*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*clap* *clap* *clap*
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Que la nueva presidenta del
+consejo estudiantil suba al
+podio!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Por supuesto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡A todos los estudiantes de la
+escuela primaria de Eco Ridge!
+<PUSH>
+¡Quiero expresar mi más
+profunda gratitud por vuestro
+arduo trabajo y apoyo!
+<PUSH>
+Como prometí, me esforzaré por
+mejorar la escuela de todas
+las maneras posibles, para que
+<PUSH>
+todos vosotros podáis
+disfrutar de una mejor
+educación, así como de
+<PUSH>
+las actividades
+extracurriculares.
+activities.
+<PUSH>
+¡El cambio ha llegado a la
+escuela primaria de Echo
+Ridge!
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*clap* *clap* *clap*
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Sin embargo...
+<PUSH>
+¡Eso no es algo que pueda
+hacer yo sola!
+<PUSH>
+Con tu ayuda y la de la gente
+que está a vuestro lado...
+<PUSH>
+Hay una cosa en especial que
+me gustaría hacer como mi
+<PUSH>
+primer acto como presidenta
+del consejo estudiantil.
+<PUSH>
+Me gustaría que todos los
+profesores y alumnos formaran
+<PUSH>
+Bandas Hermano entre sí, crear
+un gran Equipo y luego apuntar
+<PUSH>
+como Objetivo de «Crear una
+escuela donde todos sean
+felices».
+<PUSH>
+¡Me sentiría orgullosa y
+emocionada si todos pudiéramos
+hacer que eso ocurriera!
+<PUSH>
+¡Podemos hacerlo!
+<PUSH>
+{12}{E2}<Joker>
+{00}{00}{A0}{E1}{04}{00}x{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*Fiuuufí*
+<PUSH>
+{16}{EC}{10}{E2}{39}{04}
+<NEW-DIALOG>
+<Game>
+*clap* *clap* *clap*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡¡Contad conmigo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡¡Conmigo tambien!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Eres increíble, Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Quiere formar un gran grupo
+con todos los de la escuela,
+¿eh?
+<PUSH>
+¿¡Es siquiera posible!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ni siquiera se me había ocurrido....
+Podría ser dificil.
+<PUSH>
+Pero...
+¡Eso hace que valga la pena
+intentarlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Buen punto...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Eso es lo que pensaba!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+Eh, Geo...
+<PUSH>
+Necesito hablar contigo más
+tarde, si te parece bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Claro, pero... ¿Por qué estás
+tan inquieto?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ya lo sabrás.
+<PUSH>
+Voy a pedirles a Ace y Sonia
+que vengan con nosotros
+también.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+De acuerdo.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡Qué!?
+<PUSH>
+¿Vas a dejar a los Comandos?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡N-No puedo creerlo!
+¿¡Qué pasa, Bud!?
+<PUSH>
+Has aportado tanto al equipo,
+y ahora...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Geo, Sonia, Ace...
+<PUSH>
+Siento ser tan egoísta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Pero yo...
+Me he dado cuenta de lo que
+realmente quiero proteger...
+<PUSH>
+¡Y esa es Dele!
+<PUSH>
+Por supuesto, ¡me parece
+genial luchar por la paz y
+seguridad del mundo!
+<PUSH>
+¡Pero no siento que eso sea
+lo correcto!
+<PUSH>
+No es por mí, o mejor dicho...
+<PUSH>
+Supongo que... ¡No soy feliz
+si no estoy cerca de Dele!
+<PUSH>
+¡Y de Zack también!
+<PUSH>
+Cuando los tres no estamos
+juntos, entonces yo no soy el
+verdadero Bud.
+<PUSH>
+Así que...
+<PUSH>
+Voy a dejar a los comandos.
+<PUSH>
+La policía Satella no quiere a
+un fracasado como yo a su
+lado, de todas formas...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bud...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+En lugar de disgustaros,
+¡sed felices!
+<PUSH>
+¡Alegraos de que mantenga a
+Dele a salvo!
+<PUSH>
+¡Nunca más estará en peligro!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Buena observación!
+<PUSH>
+¡Cuida de ella, Bud!
+<PUSH>
+¡Y de Zack también!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No te preocupes.
+¡Lo haré!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Pobre Zack!
+<PUSH>
+¡No sé cómo puede aguantaros
+a los dos todo el tiempo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Jajajaja!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm, Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+¡Bud Bison!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¿¡S-Si!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Te voy a asignar una función
+especial!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¿¡D-De acuerdo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Protege a Luna con tu vida!
+<PUSH>
+¡Eso es todo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ace...!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Así que...
+<PUSH>
+{12}{E2}<Joker>
+{00}{00}
+<NEW-DIALOG>
+<Ace>
+El trabajo de la policía
+Satella es proteger a la
+gente.
+<PUSH>
+Por lo tanto, Bud es un claro
+ejemplo de cómo debe actuar un
+oficial de la policía Satella.
+<PUSH>
+¡Siempre y cuando no deje de
+proteger a Luna!
+<PUSH>
+Sin embargo, mantener a
+alguien a salvo no es una
+tarea fácil, Bud.
+<PUSH>
+En algunos casos, es aún más
+difícil que defender al mundo
+entero.
+<PUSH>
+¡Asegúrate de estar preparado
+para esto, y hazlo lo mejor
+que puedas!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡P-Por supuesto!
+<PUSH>
+Quiero decir...
+¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Estoy seguro de que lo harás
+genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Jejejejeje!
+¡No nos decepciones!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Gracias por entenderlo!
+¡Muuuuu!
+<PUSH>
+¡Estoy aquí para ti, Dele!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}{00}{E1}<
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{E1}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Dele se convirtió en la
+presidenta del consejo
+estudiantil.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡¡Objetivo alcanzado!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,21 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is just a rumor...
+<PUSH>
+But I have heard that
+in the middle of the night...
+<PUSH>
+This human model walks
+around...
+<PUSH>
+That's so scary! But I'm
+inside, so I guess I'm OK.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

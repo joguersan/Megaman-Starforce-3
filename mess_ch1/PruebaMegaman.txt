@@ -1,0 +1,204 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It is the year 22XX.
+<PUSH>
+Humans have improved their
+way of living with EM
+wave technology.
+<PUSH>
+However, the world has
+recently fallen into great
+peril twice.
+<PUSH>
+The first time...
+Earth was infiltrated by
+aliens from Planet FM.
+<PUSH>
+The second time...
+The evil scientist Vega
+tried to take over the
+<PUSH>
+Earth with the power of 
+the ancient civilization
+known as Mu.
+<PUSH>
+But twice, a hero came
+forth to confront the evil.
+<PUSH>
+That hero, or shall we say
+heroes, are the human boy
+Geo Stelar and the FM-ian
+<PUSH>
+Omega-Xis, who together form
+...Mega Man!
+<PUSH>
+Thanks to Mega Man, the
+people of Earth have been
+<PUSH>
+able to live safely in
+peace and happiness.
+<PUSH>
+
+<END-DIALOG>
+{11}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*chatter, chatter*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahh, I'm so excited!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Hey, kid...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+(What's up, Mega?)
+<PUSH>
+(People will hear you, so
+ you better keep it down.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Don't worry!)
+<PUSH>
+(Everyone's too
+ excited to hear me!)
+<PUSH>
+(What's goin' on anyway?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Heh, heh, you'll see soon!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(...?)
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Does everyone have their
+mobile terminal ready?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Reeeeady!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Kids, today we'll be
+upgrading our operating
+system, known as our OS.
+<PUSH>
+Altering such a vital
+program is quite a big deal.
+<PUSH>
+OK, I'm sending the upgrade
+program to everyone now!
+Here we go!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}!!
+<PUSH>
+(W-Wait a second!)
+<PUSH>
+(Upgrade!? What's going to
+ happen to me!? I'm inside
+ the OS!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Hmm, I wonder...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Hey, kid!!)
+<PUSH>
+(Grrr! There's a ton of
+ of data coming in!)
+<PUSH>
+{06}{E2}{00}{00}{10}{E2}{B4}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+Upgrading.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{10}{E2}{B4}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+20%.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{10}{E2}{B4}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+60%.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{10}{E2}{B4}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+100%.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Upgrade complete!
+<PUSH>
+{06}{E2}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wow!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A-Awesome!

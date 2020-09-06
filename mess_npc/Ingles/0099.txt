@@ -1,0 +1,35 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tThis is the information kiosk
+Cyber Core.
+<PUSH>
+If there's anything you want
+to know about <Echo.Ridge>,
+leave it to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}I'm Echo Ridge Eddie!
+Welcome to the
+information kiosk!
+<PUSH>
+I'm touched that you would
+come all this way just
+to greet me *woof*!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

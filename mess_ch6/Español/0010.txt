@@ -1,0 +1,47 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+bip, bip
+<PUSH>
+
+<NEW-DIALOG>
+0¿Cómo te va por ahí, Mega Man?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Acabo de terminar mi parte!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Estupendo!
+<PUSH>
+¡Por favor, ven cuartel
+General de policía Satella
+inmediatamente!
+<PUSH>
+Tenemos algo que debemos
+decirte en persona.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<NEW-DIALOG>
+0¡Recibido!
+<PUSH>
+¡Cambio y corto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,61 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+It looks like the shutter
+has been opened.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What a pain in the butt
+that was.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Anyway, let's get back and
+tell Prez.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, let's get moving!
+<PUSH>
+I bet the tournament's
+already started!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I'm getting all worked up
+now! Lemme at 'em!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, yeah...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

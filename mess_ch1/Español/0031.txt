@@ -1,0 +1,280 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*¡Bieeeen!
+<PUSH>
+El ganador del Torneo de
+Combate de ondas de este
+<PUSH>
+año es A.C. Eos y su
+Wizard de batalla, Acid!
+<PUSH>
+¡Ha barrido a los veteranos
+del torneo!
+¡Menudo despliegue de poder!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Pan comido!
+<PUSH>
+¡Nadie puede con Acid
+y conmigo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Ya se ha acabado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Solo llegamos diez minutos
+tarde! ¡¿Qué ha pasado?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Esperad que consulte
+los resultados con Pedia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+¡Claro que sí!
+¡Dame un momento!
+<PUSH>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡No me lo puedo creer!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿Qué pasa, Pedia?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+El Wizard de ese
+tal Eos...
+<PUSH>
+¡Ha derrotado a 60
+Wizards seguidos!
+<PUSH>
+Además...
+<PUSH>
+¡Realizó un Incremento de
+poder: clase S y además
+<PUSH>
+cada combate lo ganó en
+menos de cinco segundos!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+P-Pero qué...
+¿Cómo es posible?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+No es un Wizard ordinario...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Han dicho que el Wizard
+se llama Acid, ¿no?
+<PUSH>
+¡¿Quién se cree que es?!
+¡¡Que diga la hora y el
+lugar y le tumbo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Señoras y señores...
+¡Ha llegado la hora del
+evento principal!
+<PUSH>
+El campeón de este año
+se enfrentará al mayor
+héroe de nuestro planeta...
+<PUSH>
+¡Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¿El mismo Mega Man
+que ha salvado la Tierra
+dos veces?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Calla! ¿Está aquí?
+<PUSH>
+{16}{EC}{10}{E2}{3B}{03}
+<NEW-DIALOG>
+<Game>
+¡Vamos, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Eehh...
+Va a venir, ¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Oh, ya lo creo que vendrá...
+<PUSH>
+Con un público tan
+entregado no puede
+<PUSH>
+echarse atrás.
+¿No es así, Geo Stelar?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Ñam, ñam, ñam
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No nos ha dejado
+ninguna salida...
+¡Es bueno!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Tú qué piensas, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pues no tengo muchas
+más opciones.
+<PUSH>
+Para conseguir la carta
+Gigaenergía tengo que
+luchar contra él
+<PUSH>
+da igual si gano
+o pierdo.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Si crees que puedes perder,
+no luches contra él.
+<PUSH>
+Necesitamos esa carta
+Gigaenergía, pero...
+<PUSH>
+No merece la pena
+conseguirla si tú
+acabas herido...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No te preocupes,
+no me pasará nada...
+Probablemente.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Que ni se te pase por la
+cabeza que vamos a
+perder contra ese tipo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{07}{E1}{00}{00}<Geo>
+{07}{E1}{01}{00}
+{17}{EC}{01}{00}
+<NEW-DIALOG>
+<Game>
+¡Transcodificación!{01}{E1}
+¡Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

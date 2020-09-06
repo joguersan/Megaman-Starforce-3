@@ -1,0 +1,2109 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿A dónde vas con tanta prisa?
+¡Ya sabes lo que nos tienen
+<PUSH>
+dicho sobre correr por
+los pasillos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Yiiijaaa! ¡Ya han acabado
+las clases de hoy!
+<PUSH>
+Todos los días al salir del
+cole voy a la tienda de al
+lado y compro una megachuche.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Eh tú, nada de correr por
+los pasillos. ¿Quieres
+ir al azotea, no?
+<PUSH>
+Esta es la primera planta.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{0A}{E1}{03}{02}
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Man you're really late,
+Geo! Prez is going to
+have a cow!
+¡Geo, tío, eres un tardón!
+¡Prez va a pillar un buen
+cabreo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Geo! ¡Prez te está
+esperando!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Los Wizards son lo mejor!
+¡No podría imaginarme cómo
+sería volver a vivir sin uno!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Por ahora no tengo ningún
+Propósito. Si tuviese uno
+<PUSH>
+y lo compartiese con mis
+Hermanos, y hiciésemos
+<PUSH>
+un Equipo, ¡seguro que nos lo
+pasaríamos siempre genial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Me gustaría decirte que
+no corrieses por los
+pasillos, pero esto es
+<PUSH>
+la entrada principal, así que
+no voy a decirte nada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo, vamos a  darlo todo
+para completar nuestro
+Propósito.
+<PUSH>
+Como soy la líder, me
+quedaré aquí vigilándote, no
+te quitaré el ojo de encima.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Esa persona en la entrada
+principal...
+<PUSH>
+¡Parece muy guay! ¡Me
+gustaría saber a quien
+ha venido a ver!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¿Habéis creado un Equipo?
+¿Y el nombre es "Luna
+Presidenta"?
+<PUSH>
+Es un nombre... peculiar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Ya te he dicho varias veces
+que no corras por los
+pasillos, ¿por qué sigues?
+<PUSH>
+¿Que estás intentando
+completar el Propósito de
+tu equipo?
+<PUSH>
+¡No me cuentes milongas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Debe ser duro cambiar tanto
+entre el mundo real y los
+cibernúcleos. Bueno,
+<PUSH>
+intenta no excederte.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Cómo te encuentras, Geo?
+¡No te esfuerces más de lo
+necesario!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+{0C}{E1}{01}{00}{AD}{06}&{0C}{E1}{01}{00}{A9}{06}%{0C}{E1}{00}{00}{A9}{06}$
+[END]
+
+[SENTENCE NUMBER 37]
+{0A}{E1}{06}{02}
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Le he enviado un correo
+a una amiga con la que me
+había peleado,
+<PUSH>
+pero no me responde.
+<PUSH>
+¿Dónde estará?
+Seguramente en el Parque
+<Echo.Ridge>...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+{0A}{E1}{07}{02}
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Antes, cuando estaba
+comprando, me acabé
+perdiendo.
+<PUSH>
+¡Pero un Wizard muy
+majo me indicó el
+camino!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ahora mismo estoy
+editando mi carpeta.
+<PUSH>
+No me decido por
+que carta va a ser
+mi carta favorita.
+<PUSH>
+Quizá debería escoger
+como favorita a <Cannone>...
+<PUSH>
+Aunque también podría
+escoger a {BE}{E7}.
+Agh, no puedo decidirme...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Los miembros del club de
+ciencias trabajan muy duro
+para completar su Propósito.
+<PUSH>
+Es genial verles trabajar
+con tanto ahínco.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Mañana vamos al
+<Spica.Mall>!
+<PUSH>
+¡Quedamos en la
+parada del surcaondas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Me voy a casa a pillar
+papeo! ¡Yuju!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Como veo que todos os vais
+a casa yo no seré menos,
+aprovecharé para descansar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{0D}{E1}{00}{00}{07}{00}{07}{00}4
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿Cómo es <Spica.Mall>?
+Me gustaría ir allí algún
+día.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+{0D}{E1}{00}{00}{07}{00}{07}{00}5
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+<Spica.Mall>...
+<PUSH>
+No he vuelto allí desde que
+cerraron la tienda de dulces
+para remodelarla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{0C}{E1}{01}{00}{C9}{06}6
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿Qué tal por <Spica.Mall>?
+¿Os lo habéis pasado bien?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Mañana el club de ciencias
+hace despegar su cohete, ¿no?
+<PUSH>
+¡Iré a verlo sí o sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Parece que el club de
+ciencias ya ha acabado de
+construir su cohete!
+<PUSH>
+¡Genial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Eh, ¿te has enterado de
+que los del club de ciencias
+van a hacer despegar un
+<PUSH>
+cohete en la azotea del cole?
+¡Seguro que será divertido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¿Tú también has venido
+a ver el despegue del cohete
+del club de ciencias?
+<PUSH>
+¡Qué ganas que tengo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Bueno, Bud y Zack, quiero
+que forméis una Banda Hermano
+entre vosotros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+{0C}{E1}{01}{00}{02}{00}B
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Venga, me apunto.
+<PUSH>
+Formemos una Banda Hermano.
+¡Trabajemos juntos como
+<PUSH>
+dos amigos con un mismo
+propósito!
+<PUSH>
+{6E}{E1}{00}{00}{04}{00}
+<NEW-DIALOG>
+<Game>
+¡Geo y Bud han formado
+una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 60 puntos.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Muchas gracias,
+Geo!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 66]
+{0C}{E1}{01}{00}{03}{00}C
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+No es la primera vez que
+tú y yo formamos una
+Banda Hermano,
+<PUSH>
+aun así me estoy
+emocionado.
+<PUSH>
+¡La Banda Hermano es una
+prueba de nuestra amistad!
+<PUSH>
+{6E}{E1}{00}{00}{05}{00}
+<NEW-DIALOG>
+<Game>
+¡Geo y Zack han formado
+una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 60 puntos.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Muchas gracias,
+Geo!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Gracias, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡estoy muy contento de
+ser tu amigo, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Llego tarde, llego
+tarde!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+No me acaba de hacer gracia
+la nueva profesora,
+Srta. Tia.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 77]
+{08}{E1}{00}{00}{13}{00}P{0D}{E1}{00}{00}<Geo>
+<Solo>
+U
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Si buscas a Jack, se ha
+ido corriendo hacia
+<Echo.Ridge>. Tendrías
+<PUSH>
+que intentar hacerte
+amigo suyo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¿Necesitas algo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Geo, es hora de volver
+a casa! Por favor ve
+directo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Geo, ¿tienes pensado hacer
+algo estos días que no hay
+cole? Dudo mucho que
+<PUSH
+ninguno de los del club de
+ciencias estemos por aquí
+durante las vacaciones.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Como todo el mundo se ha
+ido de viaje escolar está
+todo muy callado.
+<PUSH>
+¡Eh! ¿No deberías estar
+tú también de viaje?
+<PUSH>
+¿Qué haces aquí?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Ojalá encuentren pronto
+a Luna...
+Brrr, prrr...
+<PUSH>
+
+<END-DIALOG>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)La desaparición de Luna
+ha hecho mella en los
+corazones de los alumnos.
+<PUSH>
+Espero que la encuentren
+pronto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+{0C}{E1}{01}{00}{7E}{00}{83}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¡Fiiiuu!
+<PUSH>
+¡Nada mejor que un vaso de
+leche después de trabajar!
+¿Eh?... ¿Puedo ayudarte?
+<PUSH>
+Ah, ya veo. Estás haciendo
+una ronda de saludos
+<PUSH>
+para las elecciones de
+mañana.
+<PUSH>
+¿Y tú apoyas a Luna Platz?
+<PUSH>
+Sí, ¡cuanto me alegro de que
+la encontrasen san y salva!
+<PUSH>
+¡Llegué a estar muy
+preocupado por ella!
+<PUSH>
+Por cierto, ¿cómo está?
+¿le va bien?
+<PUSH>
+Ya veo...
+Le está yendo hasta
+demasiado bien, ¿no?
+<PUSH>
+Je, je, je.
+Bien, bien.
+Me gusta escuchar eso.
+<PUSH>
+¡Estaré esperando su victoria
+en las elecciones de mañana!
+<PUSH>
+¡Dile esto a Luna de
+mi parte!
+Je, je, je.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¡Bien! ¡Creo que
+ha salido bien!)
+<PUSH>
+{0A}{E1}{7E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Mmm...
+Por cierto...
+<PUSH>
+¿Has dicho que el nombre de
+vuestro Equipo es Luna
+Presidenta?
+<PUSH>
+Luna Presidenta...
+<PUSH>
+Que originales...
+<PUSH>
+Nunca se me hubiese ocurrido
+un nombre tan original.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+{0C}{E1}{01}{00}<Cepheus>
+<Taurus>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+D-Dele, siento llegar
+tarde, no tengo ninguna
+excusa que contarte.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Más te vale! ¡No puedo creer
+que te hayas quedado dormido
+en un día tan importante!
+<PUSH>
+¡Ya se que vives la vida de
+una manera muy despreocupada
+<PUSH>
+pero de tanto en tanto no
+iría mal que dejases de
+ser tú!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ya lo he dicho, lo siento
+mucho...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Vale. ¿Estás preparado?
+¡La batalla ya ha empezado!
+<PUSH>
+¡Pon cara de poker!
+¡Y la espalda recta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡V-vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Tampoco tienes que estar como
+si saludases a la bandera...
+<PUSH>
+Da igual, ¡las elecciones
+van a tener lugar en la
+azotea!
+<PUSH>
+
+¡Así que antes convocaré
+una reunión del Equipo
+Luna Presidenta!
+<PUSH>
+Voy tirando, os espero
+en el azotea. Mientras tanto,
+<PUSH>
+quiero que vayas a nuestra
+clase y te juntes con Bud
+<PUSH>
+y Zack, luego traelos
+contigo. ¿Vale?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Recibido!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Ya basta! ¡Que no estás
+saludando a la bandera!
+<PUSH>
+¡Para! ¡La gente nos
+está mirando raro!
+<PUSH>
+{0A}{E1}<Cepheus>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡El Equipo Luna Presidenta
+va a reunirse un momento en
+la azotea! Bud y Zack deben
+<PUSH>
+estar ahora mismo en clase.
+Encuéntralos y traelos a
+la azotea, ¿lo harás?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Mega Man! ¡Deprisa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Por favor, ¡vótame!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Buenos días mis estimados
+estudiantes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Las elecciones tendrán
+lugar en la azotea en unos
+instantes!... Grrr
+<PUSH>
+M-me duele un poco el
+estomago...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Chery.Blosom>
+Parece que la mayoría de
+alumnos ya se han ido
+a casa.
+<PUSH>
+Hoy me encargo yo de regar
+las plantas.
+<PUSH>
+Y parece que también me
+han encasquetado la
+<PUSH>
+limpieza de la clase.
+<PUSH>
+Y es por eso que
+he llegado tarde.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¡Buenos días a todos!
+<PUSH>
+¡Hoy es otro día de trabajo
+duro y de diversión!
+¡Esforcémonos al máximo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Este último incidente
+ha provocado que se cancelen
+las clases hasta que
+<PUSH>
+se pueda garantizar
+otra vez la seguridad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+(¡Shhh! no hagas ruido, Geo.
+ No puedo escuchar lo que
+ dicen.)
+<PUSH>
+(¡Los profes están hablando
+de algo serio!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Por lo tanto creo que quizá
+es necesario cerrar la
+escuela un tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+)Estoy de acuerdo... No vale
+la pena poner en riesgo la
+seguridad de los alumnos.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+(¡Esto es una exclusiva
+Geo!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)¡B-buenos d-días!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Buenos días, Geo! Estoy
+contento de que pudieseis
+arreglar ese agujero
+<PUSH>
+en la clase!
+¡No fue nada fácil!
+¡Ja, ja, ja!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}ho{BE}{00}{0D}{E1}{00}{00}``È
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Normalmente estaría contento
+de que cancelasen las clases,
+pero por una razón como
+<PUSH>
+esta... ¿Me pregunto cuando
+volverán a abrir?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+{0D}{E1}{00}{00}ho{BF}{00}{0D}{E1}{00}{00}``É
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Por primera vez en la
+historia de este colegio
+se han cancelado las clases.
+<PUSH>
+Aunque claro, supongo que en
+estos momentos no tendríamos
+que estar en clase.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ese meteorito cada vez se
+acerca más a la Tierra...
+¿Qué pasará si colisiona?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Siempre estoy aquí de pie
+porque me gusta mucho esta
+escuela, pero quizá es
+<PUSH>
+mejor que me vaya yendo a
+casa para no preocupar
+a mi familia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 201]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¿Qué está pasando últimamente
+con todos estos incidentes?
+<PUSH>
+Espero de verdad que no pase
+nada raro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 202]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.No perderemos mientras no
+nos rindamos.
+<PUSH>
+Da igual lo duras, o
+difícil que se pongan las
+cosas, mientras
+<PUSH>
+todos sigamos avanzando,
+alcanzaremos nuestra meta.
+<PUSH>
+Guau... no es propio de
+mí decir estas cosas.
+<PUSH>
+Pero al veros me
+he inspirado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 203]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 204]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 205]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 206]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 207]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 208]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 209]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 210]
+
+<START-DIALOG>
+
+[END]
+

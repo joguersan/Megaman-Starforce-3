@@ -1,0 +1,110 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+¡Arrrrrrgh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Cómo...
+¿Cómo he podido perder
+con mis poderes?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Otro Naipe Ruido...
+<PUSH>
+¿Quién estará detrás
+de todo esto?
+<PUSH>
+.{16}{E1}.{16}{E1}.{16}{E1}¡Ugh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué pasa, chico?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Se me está... durmiendo
+el cuerpo...!
+¡¿Qué me pasa?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿¿Será cosa del ruido?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Se ha... vuelto... Carmesí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+El Ruido emitido por
+Ice al enloquecer se
+ha cristalizado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Se aleja volando!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que algo lo
+está absorbiendo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

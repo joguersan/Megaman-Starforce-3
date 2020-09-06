@@ -1,0 +1,223 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Este debe ser el panel de 
+control que estamos buscando!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Eso de ahí...{16}{E1}
+¡Es el simbolo de Mu!
+<PUSH>
+Tal como dijo Solo...
+<PUSH>
+¡Dealer está usando el poder 
+de Mu para sus propios fines!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ya sabes entonces lo que 
+tenemos que hacer.
+<PUSH>
+¡Hacer pedazos esa cosa, para 
+que no vuelva a funcionar 
+jamás!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¿¡{13}{EC}!?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Arg!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ugh...
+<PUSH>
+Nosotros...
+¡¡Tendríamos que haber 
+estado más alerta!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Uf...
+<PUSH>
+Mi poder está siendo 
+absorbido...
+<PUSH>
+¿Qué demonios está pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Nuestro cambio de onda EM...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¡¡Tenemos un problema!!)
+<PUSH>
+{13}{EC}(Si sigues en el cibernucleo
+{13}{EC} cuando vuelvas a ser humano...)
+<PUSH>
+{13}{EC}(¡Mejor no quieras saberlo!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Chico!
+¡Expulsionate!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-no puedo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+No me quedan fuerzas...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+He encontrado tu juguete, 
+Dealer...
+<PUSH>
+¡Qué aparato tan penoso!
+<PUSH>
+¡Che{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+N{16}{E1}-no puedo moverme...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Oye, chico!
+¡Baja de las nubes!
+<PUSH>
+{11}{E2}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡¡No se que narices ha pasado, 
+pero debemos destruir esa 
+cosa rápìdo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+¡De acuerdo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Uf!
+<PUSH>
+Por poco no lo contamos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Al menos esta cosa no 
+volverá a funcionar!
+<PUSH>
+No hay nada más que hacer 
+por aquí...
+¡Es hora de expulsionarse!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+[END]
+

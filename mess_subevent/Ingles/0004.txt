@@ -1,0 +1,370 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0A}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+=I wonder if anyone knows
+a beautiful beach location
+to film the show?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{07}{16}{0B}{00}{0C}{E1}{00}{00}{32}{16}{03}{00}{0C}{E1}{00}{00}{06}{16}{04}{00}{0C}{E1}{00}{00}{56}{16}{07}{00}{0C}{E1}{00}{00}{55}{16}{07}{00}{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=I've been up for two nights
+in a row with overtime work.
+I'm so exhausted...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+<PUSH>
+I know a nice place or two.
+<PUSH>
+
+<NEW-DIALOG>
+=Really!?
+<PUSH>
+I absolutely must find a
+fantastic spot to film the
+new TV show.
+<PUSH>
+But I just haven't had the
+time to look thoroughly.
+<PUSH>
+I know I shouldn't expect
+this of you...
+<PUSH>
+But would you please go
+take a picture of a beautiful
+beach area that you know?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Accept her request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+=Really!? Honestly!?
+In that case...
+<PUSH>
+While you're doing that,
+could you take a picture of
+<PUSH>
+a building that would make
+a good setting, too?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sure thing!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(If you're looking for the
+ perfect beach area, then
+<PUSH>
+ over there is the only
+ place worth going, huh?)
+<PUSH>
+{0A}{E1}{54}{16}{82}{E1}<Heartless>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{90}{E5}"!
+<PUSH>
+{0A}{E1}{06}{16}{20}{EC}{D3}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+=I'm so sorry to bother you!
+<PUSH>
+{0B}{E1}{32}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=Oh, did you get the picture
+already?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel this request?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+=Oh, I see.
+I'll just have to get it done
+myself...
+<PUSH>
+{0B}{E1}{32}{16}{0B}{E1}{06}{16}{0B}{E1}{07}{16}{0B}{E1}{54}{16}{0B}{E1}{55}{16}{0B}{E1}{56}{16}{82}{E1}<Heartless>
+{FF}{FF}{82}{E1}!{FF}{FF}{82}{E1}"{FF}{FF}{21}{EC}{D3}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+=The picture needs to be of
+the perfect spot!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I took the pictures for you!
+<PUSH>
+
+<NEW-DIALOG>
+=Really!?
+Thank you!
+<PUSH>
+Let me see, let me see.
+<PUSH>
+It's beautiful!
+Kid, you've got what it takes
+to be a professional!
+<PUSH>
+I'm definitely going to have
+the TV show filmed here!
+<PUSH>
+I'd be in so much trouble
+without your help. Thank you.
+<PUSH>
+Would you mind being my
+Brother?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Is that OK with you?
+<PUSH>
+
+<NEW-DIALOG>
+=Definitely. You're one of the
+staff members, now.
+<PUSH>
+{6E}{E1}{00}{00}z
+<NEW-DIALOG>
+<Game>
+Geo and {1A}{E3}
+formed a Brother Band!
+<PUSH>
+Geo's Link Power went
+up by 40.
+<PUSH>
+
+<NEW-DIALOG>
+=Don't miss even one episode!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{07}{16}{82}{E1}<Heartless>
+{FF}{FF}{82}{E1}!{FF}{FF}{82}{E1}"{FF}{FF}{21}{EC}{D3}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=The next TV series is going
+to be filmed in <Alohaha>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{8B}{E1}!{01}{00}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODoesn't the ocean look so
+beautiful from here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(This is the place to take
+ a picture, kid! Press the
+ A Button to snap a shot!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+ODoesn't the ocean look so
+beautiful from here!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Alright, let's take the picture
+from here!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*snap*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I think I got a good shot.
+The water is so clear, huh?
+<PUSH>
+Once we have a picture of
+both the beach and a building,
+let's go back to <Studi.WBG>.
+<PUSH>
+{82}{E1}!{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{91}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{8B}{E1}"{01}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
++Isn't the sight of
+<Castello.Alohaha> from here
+just amazing?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(That's the perfect building,
+ kid! Press the A Button
+ to take a picture!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
++Isn't the sight of
+<Castello.Alohaha> from
+here just amazing?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+OK! Let's take the
+picture from here!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*snap*
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's a sweet shot!
+That was the perfect angle
+to take of <Castello.Alohaha>.
+<PUSH>
+Once we have a picture of
+both the beach and a building,
+let's go back to <Studi.WBG>.
+<PUSH>
+{82}{E1}"{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{92}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,103 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+Eh, ¿y Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+Creo que se ha ido
+con la Srta. Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+¿Has podido recuperar
+nuestras cosas?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Bueno...
+<PUSH>
+He recuperado tus
+pantalones, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡Geo!
+¡¿Y mi pañuelo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Y mi bolsa...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡Yo no puedo irme
+sin camiseta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Sí, sobre eso...
+<PUSH>
+Se las llevó el viento
+y solo me dio tiempo
+a coger una...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡¿Y qué has cogido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡Mi bolsa, ¿no?!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡No, mi camiseta, seguro!
+¡Los chicos nos apoyamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Bueno...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

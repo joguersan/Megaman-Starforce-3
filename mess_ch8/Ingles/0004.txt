@@ -1,0 +1,372 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa... Where are we?
+<PUSH>
+There're stars everywhere...
+I've never seen a place like
+this before.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I'm sensing that we've
+left the solar system, and
+<PUSH>
+are actually in the center of
+our galaxy.
+<PUSH>
+Your scientists would call
+it "deep space".
+<PUSH>
+Strangely enough, something
+here seems familiar to me.
+<PUSH>
+...Huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I remember now!
+<PUSH>
+This is where Kelvin and his
+team built the communications
+Wave Road to <Pianeta.FM-color>!
+<PUSH>
+This EM wave tower has
+seen better days, but there
+is no doubt about it.
+<PUSH>
+This Wave Road leads to
+Planet FM!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Mega! That's terrible!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Huh? What is?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Think about it.
+<PUSH>
+We got here by following the
+path the "R" guys traveled...
+<PUSH>
+That means that the planet
+that they and their leader
+are invading is Planet FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+So you've finally made it
+this far...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Whoever is speaking has a
+very strong presence, kid!
+<PUSH>
+It could be an "R" guy...
+<PUSH>
+Or maybe their leader!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You guys!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're the <3.Saggi.di.AM-color>!
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Omega-Xis...
+We don't appreciate you
+treating us like enemies.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I can't help it when you look
+like you guys do!
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Moving on...
+Geo Stelar... Mega Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yes?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}It's just as you guessed.
+<PUSH>
+Planet FM is currently on
+the brink of destruction.
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Your Brother, <Cepheus-color>
+the FM King, is fighting for
+<PUSH>
+his life along with the other
+FM-ians.
+<PUSH>
+Things are not looking good.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Cepheus...
+<PUSH>
+So that means that the
+Astro Hertz who came to
+Earth was sent to find us...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And you guys must be on
+your way to help, right?
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}If we could help, we would
+of course do so...
+<PUSH>
+However, the enemy has
+placed an EM barrier around
+the whole planet.
+<PUSH>
+We can't get through to
+join the battle.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I can't believe that there's
+a barrier that the 3 Sages
+of <Pianeta.AM-color> can't get past.
+<PUSH>
+Do you know who the
+leader of those "R" guys is?
+<PUSH>
+Please tell us if you do!
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}His name is "Sirius".
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+"Sirius"...
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}The data on him is very
+scarce.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We heard something about
+him wanting to destroy
+everything...
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Yes...
+<PUSH>
+Sirius has the ability to
+control black holes.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Black holes!?
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Any planet that is targeted
+by Sirius will be swallowed up
+<PUSH>
+by a black hole, completely
+disappearing from existence.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+A black hole isn't something
+that is normally controllable,
+is it?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}No, however, Sirius is capable
+of doing so. We have no idea
+how he does it though.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What can we do to stop
+a black hole?
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Unfortunately...
+We have no idea.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I see...
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}Yet, there is one thing that
+we can tell you.
+<PUSH>
+A very powerful EM being
+that is not of the title "R"
+was spotted near Planet FM.
+<PUSH>
+Currently, its whereabouts
+are unknown.
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}It may have been carried
+away by a Noise stream...
+<PUSH>
+That being was more
+powerful than anything you
+have fought in the past.
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Be careful to not be taken
+by surprise while focusing
+on Sirius and the "R"s.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thank you!
+I'll be careful!
+<PUSH>
+
+<NEW-DIALOG>
+{81}{00}The FM King... Cepheus is
+fighting, expecting you to
+come to his aid.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I understand.
+I'll do whatever it takes to
+help a Brother!
+<PUSH>
+
+<NEW-DIALOG>
+{82}{00}Omega-Xis...
+Geo Stelar is in your hands...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I already know that!
+<PUSH>
+And I'm going to go extra
+buck wild to make up for
+you guys not coming!
+<PUSH>
+
+<NEW-DIALOG>
+{83}{00}Good...
+We are counting on you,
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So this guy can control
+black holes, huh?
+<PUSH>
+We can't let a guy like that
+get away!
+<PUSH>
+Come on, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+We'll rescue you Cepheus...
+And Planet FM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

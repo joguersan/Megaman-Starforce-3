@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Taurus Noise
+<PUSH>
+Equips SprArmr
+<PUSH>
+Non-dimming, Fire Elemental
+card attacks +50
+<PUSH>
+Charged attack:
+"Heat Cannon", ignites
+3 back panels when it hits
+<PUSH>
+Check your mail for
+further details
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Taurus Noise
+Change Complete
+<PUSH>
+
+<END-DIALOG>
+{20}{EC}{C6}{10}
+[END]
+

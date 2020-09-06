@@ -1,0 +1,209 @@
+[SENTENCE NUMBER 1]
+{09}{E1}{00}{00}{A9}{07}{B1}{07}{02}{00}{09}{E1}{00}{00}{A5}{07}{A9}{07}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Hm-hm-hm!
+<PUSH>
+The WAZA main computer is
+the best in the world!
+<PUSH>
+It's the handiwork of one
+Dr. Goodall, the most revered
+<PUSH>
+scientist of our time!
+Hm-hm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Hm-hm!
+<PUSH>
+Dark Phantom, one of the
+most wanted criminals in
+<PUSH>
+the world, has hacked into
+the main computer!
+<PUSH>
+Emergency!
+Emergency! Hm-hm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Hm-hm!
+<PUSH>
+Impressive.
+Transcode 003
+Mega Man! Hm-hm!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{09}{E1}{00}{00}{A9}{07}{B1}{07}{05}{00}{09}{E1}{00}{00}{A5}{07}{A9}{07}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Um-hm-hm...
+<PUSH>
+3.14159265358979
+3238462643383279
+5028841971693...
+<PUSH>
+It goes on forever...
+pi... Um-hm-hm...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Um-hm-hm...
+<PUSH>
+Dark Phantom went ahead
+that way...
+<PUSH>
+Danger... The computer's
+hub is in there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Um-hm-hm...
+<PUSH>
+Thank you...
+The main computer
+is safe.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+JackCorvs"R"!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey you! Are you Corvus!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Heh, heh, heh, heeeeh!
+<PUSH>
+Good guess,
+Little Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Little huh? I'd recommend
+keeping your trap shut, or
+I'll shut it for you!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Stop bawling, Little Mega!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I-I'm gonna let you have it!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Ohohohohoho!
+What are his special moves!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nnrooooar!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega! Calm down!
+What are his special moves!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This guy's only good at
+running his mouth. That crow
+idiot doesn't scare me!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{B7}{00}
+[END]
+

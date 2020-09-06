@@ -1,0 +1,173 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Aaah!
+<PUSH>
+¿¡Qu-Qué son estas cosas!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡S{15}{E1}-Solo estabamos practicando
+El discurso de las elecciones
+de mañana!
+<PUSH>
+¿¡Tienes algún problema!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+D-Dele...
+<PUSH>
+No creo que debamos estar
+hablando con virus...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Callate!
+<PUSH>
+¡Eso ya lo se!
+<PUSH>
+¿¡Per que más podemos hacer!?
+<PUSH>
+N{15}{E1}-No te preocupes!
+<PUSH>
+Cierta persona vendrá.
+¡El siempre lo hace...!
+<PUSH>
+El vendrá...
+<PUSH>
+Mega Man vendrá...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡¡Deleee!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¡...!!
+<PUSH>
+¡¡Ves!!
+¡¡ha llegado!!
+<PUSH>
+¡¡Mega Man ha venido de
+verdad...!!
+<PUSH>
+¡¡Mega Maaan!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Muuuuuuu!
+¡¡Deleee!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿¡E{15}{E1}-Esa voz...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿¡B{16}{E1}-Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿¡B-B-Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¿¡Os encontrais bien!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿¡Geo y Sonia tambien!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿¡Qué narices esta ocurriendo
+aquí!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Dejemos las explicaciones
+para despues!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Primero tenemos que
+encargarnos de estos virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos a patear culos!
+<PUSH>
+¡Combate de ondas, {15}{E1}adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

@@ -1,0 +1,16 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tSonia Strumm! *beep, beep*
+Among Hertzes, I'm Sonia
+Strumm's biggest fan!
+<PUSH>
+I'm even in her fan club.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

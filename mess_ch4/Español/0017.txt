@@ -1,0 +1,234 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Pero qué...
+<PUSH>
+Ahí fuera hay{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+un enjambre de Omega-Xis.
+<PUSH>
+
+<NEW-DIALOG>
+0E-En realidad...
+<PUSH>
+No son Omega-Xis.
+<PUSH>
+Según la Dra. Goodall,
+no son más que copias...
+<PUSH>
+¡Puede que sean un
+arma de Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Un arma de Dealer...
+<PUSH>
+Tendría sentido. Sería
+mucho más fácil copiar
+algo que crearlo
+<PUSH>
+desde cero.
+Pero tantas copias...
+No es moco de pavo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1¡Ha aumentado el número
+de Wizards enemigos!
+<PUSH>
+Pero no capto la
+frecuencia del enemigo...
+<PUSH>
+¡Todos emiten la misma
+frecuencia que Omega-Xis!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Es posible que su poder
+sea similar entonces.
+<PUSH>
+Pues menuda gracia.
+<PUSH>
+
+<NEW-DIALOG>
+0¡Por ahora solo podemos
+evitar que entren!
+<PUSH>
+¡Adelante, primera unidad!
+<PUSH>
+¡Evacuad a los civiles
+de la NAZA!
+<PUSH>
+
+<NEW-DIALOG>
+1¡Sí, señor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}(Si Acid hubiera estado
+{13}{EC} los habríamos
+{13}{EC} detectado.)
+<PUSH>
+No tiene sentido
+lamentarse ahora.
+<PUSH>
+{10}{E2}{36}{03}
+<NEW-DIALOG>
+<Game>
+Bip, bip, bip...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur.
+<PUSH>
+Parece que estamos
+en un buen lío.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Sí.
+<PUSH>
+{15}{E1}¿No podemos hacer nada?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Pues sí, la verdad...
+<PUSH>
+{13}{EC}...
+<PUSH>
+Los enemigos son seres EM,
+podemos usar "eso"...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No se referirá{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¿El inhibidor de Ruido?
+<PUSH>
+¿No estaba añun en pruebas?
+<PUSH>
+Además... ¿No se supone
+que es alto secreto?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Si entran en el cuartel y
+destruyen el artefacto,
+no podremos probarlo jamás.
+<PUSH>
+Merece la pena arriesgarse,
+¿no te parece?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sí... Recibido.
+<PUSH>
+¿Cuánto tiempo necesita
+para prepararlo?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Siglos como no venga Acid
+y nos eche una mano...
+<PUSH>
+Cuando vuelva...
+<PUSH>
+Puede analizar los datos
+de las copias Megger,
+<PUSH>
+y modificar el inhibidor
+de Ruido para que solo
+les afecte a ellas.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Dónde está, Doc?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+En la sala del ordenador
+central de NAZA.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Vale, procure no
+moverse de ahí.
+<PUSH>
+Conseguiré algo de tiempo
+mientras prepara el
+inhibidor de Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Vale.
+Pero, Arthur, ten cuidado.
+<PUSH>
+{10}{E2}{95}{03}
+<NEW-DIALOG>
+<Game>
+Bip...
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Bueno...
+<PUSH>
+¡Ha llegado el momento de
+que el héroe justiciero
+demuestre de qué está hecho!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

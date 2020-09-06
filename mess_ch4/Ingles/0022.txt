@@ -1,0 +1,201 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+How do you like this!?
+Was this in your precious
+script!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Heh, heh, heh!
+<PUSH>
+Muwa{14}{E1}hahaha!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's so funny!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+What's funny?
+<PUSH>
+It's you that's funny.
+<PUSH>
+You're sticking to my script
+just as I wrote it!
+<PUSH>
+I'm just too pleased to
+contain my joy!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+W-What...!?
+<PUSH>
+Just what are you planning,
+Dark Phantom!?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Heh, heh, heh!
+<PUSH>
+An actor of your status
+doesn't need to know...
+<PUSH>
+Just keep following my
+script and everything will
+be fine!
+<PUSH>
+So, gentlemen!{15}{E1}
+That marks the end of the
+first act!
+<PUSH>
+I bet you can't wait for the
+start of the second act!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Come back when you want
+some more of this!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Noise Changing was
+{13}{EC} part of Dark Phantom's
+{13}{EC} script all along?)
+<PUSH>
+{13}{EC}(What for...?{15}{E1}
+{13}{EC} He couldn't have just
+{13}{EC} wanted to show off.)
+<PUSH>
+{13}{EC}(There must be a
+{13}{EC} connection to Dealer...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+Quit daydreaming!
+<PUSH>
+I know there's a lot to
+think about right now, but
+we're in a hurry, remember?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+Oh, yeah!
+We've got to hurry and get
+to everyone else!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Stay alert, kid!
+<PUSH>
+That Shakespeare wannabe
+could show up at any time,
+and any place!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+Let's move out, Mega!
+<PUSH>
+
+<END-DIALOG>
+{A2}{E1}{00}{00}{00}{00}<{22}{EC}{00}{00}{02}{00}{22}{EC}{01}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man...
+<PUSH>
+You are now able to utilize
+the power of Noise.
+<PUSH>
+From now on, the use of
+the "<AcePrgm>" will be yours
+to decide.
+<PUSH>
+You can un-equip it if you
+choose not to use it.
+<PUSH>
+Noise Changing is very
+complicated, yet it is also
+very powerful.
+<PUSH>
+If you handle it properly...
+<PUSH>
+Your battling abilities and
+strength will improve greatly.
+<PUSH>
+I'm expecting great things
+from you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Mega Man...
+<PUSH>
+You are now able to utilize
+the power of Noise.
+<PUSH>
+From now on, the use of
+the "{C2}{E6}" will be yours
+to decide.
+<PUSH>
+You can un-equip it if you
+choose not to use it.
+<PUSH>
+Noise Changing is very
+complicated, yet it is also
+very powerful.
+<PUSH>
+If you handle it properly...
+<PUSH>
+Your battling abilities and
+strength will improve greatly.
+<PUSH>
+I'm expecting great things
+from you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

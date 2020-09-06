@@ -1,0 +1,267 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Cada vez hay más!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Eso parece.
+<PUSH>
+No parece que vayan
+a acabarse nunca.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Adelante, primera unidad!
+<PUSH>
+¡Todas las tropas y Wizards
+de batalla{15}{E1} a sus
+puestos!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Qué alegría me da veros!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Gracias por aguantar
+hasta ahora.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Bud, Zack, estaréis
+mucho más seguros dentro.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡S-Sí, vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡G-Gracias!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Muy bien.
+¡Cargad el escudo OR!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{11}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Eso no es una barrera
+hecha con Ondas Reales?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala! ¡Qué pasada!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Vosotros dos!
+La Dra. Goodall está en la
+sala del ordenador central
+<PUSH>
+Id con ella.
+Es el lugar más seguro.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}¡¡!!
+<PUSH>
+¡E-Espera, Ace!
+¡Yo también puedo luchar!
+<PUSH>
+¡¿A que sí, Taurus?!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡¡Mmmrrrggg!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Y Pedia y yo...
+¡Os estaremos animando!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡A por ellos! ¡Vosotros podéis!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+Chicos... Gracias.
+<PUSH>
+Mmm, en ese caso, ¿podríais
+proteger a la Dra. Goodall?
+<PUSH>
+Es la máxima prioridad
+ahora mismo.
+¿Podréis hacerlo?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Claro!
+¡Yo la protegeré!
+<PUSH>
+¡Déjamelo a mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Podemos hacerlo!
+¡Misión aceptada!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Genial.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lyra>
+¡Ja!
+<PUSH>
+¿Sabes que es de mala
+educación hacer esperar
+a una dama?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+El hérore llega en el
+momento oportuno.
+<PUSH>
+Es nuestro rollo.
+<PUSH>
+Pero bueno...
+No sabía que fueras
+tan fuerte.
+<PUSH>
+Menuda sorpresa...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Je!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Podéis ayudarnos un poco más?
+<PUSH>
+Tenemos que conseguir tanto
+tiempo como podamos a
+la Dra. Goodall.
+<PUSH>
+Y vamos a necesitar
+vuestra ayuda.
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Claro que os ayudaremos!
+<PUSH>
+¿A que sí, Lyra?
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+No creo que pueda negarme,
+vista la situación.
+<PUSH>
+Por cierto{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¿Dónde está
+el otro héroe?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Buena pregunta
+He hecho volver a Acid y ya
+está ayudando a la
+Dra. Goodall...
+<PUSH>
+Con suerte, Geo y su amigo
+azulito volverán pronto.
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+El hérore llega en el
+momento oportuno{15}{E1}... ¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡!
+<PUSH>
+Ja, ja. Exacto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

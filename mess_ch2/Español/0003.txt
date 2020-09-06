@@ -1,0 +1,148 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Eh?
+¿Qué pasa aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ah, buenos días, Geo.
+<PUSH>
+Pues ya ves. La puerta
+está cerrada y no
+podemos entrar.
+<PUSH>
+El Wizard que abre la
+puerta ha dicho que no
+la abrirá sin el
+<PUSH>
+permiso del profesor
+encargado de la puerta.
+<PUSH>
+
+<NEW-DIALOG>
+{92}{00}¡Si no puedo, no puedo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Dónde está el profesor
+encargado?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Parece que aquí no.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh, tú!
+¡¿Por qué no le abres
+la puerta a los críos?!
+<PUSH>
+
+<NEW-DIALOG>
+{92}{00}Oh, genial. Otro mocoso
+gritón. ¡Son las normas!
+<PUSH>
+¡Si tanto quieres que la
+abra, ven aquí, bola
+de pelo azul!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Mega>
+Serás...
+¡Voy a destrozarte!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Déjalo, Mega...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Siempre tiene que meterse
+en problemas, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+El Wizard solo hace su
+trabajo. No podemos
+hacer nada, salvo
+<PUSH>
+encontrar al profesor
+encargado y que nos
+la abra.
+<PUSH>
+Ni siquiera a Pedia se
+le ocurre otra cosa.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Es la única opción!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Pues creo que voy a
+casa a a tomarme el
+segundo desayuno!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿El encargado no es ese
+profesor que daba miedo
+del otro día?
+<PUSH>
+Qué raro que llegue
+tarde...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Es cierto...
+No parece de los que
+llegan tarde.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Iré a su casa por si
+acaso. A lo mejor
+le ha pasado algo.
+<PUSH>
+¿Dónde vive, por cierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Vive en la Habitación 202,
+en el mismo edificio que yo.
+<PUSH>
+Al llegar a la puerta del
+edificio, te aparecerá
+una notificación.
+<PUSH>
+Toca la de su habitación
+para llamar al profesor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Genial! ¡Vamos, Mega!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

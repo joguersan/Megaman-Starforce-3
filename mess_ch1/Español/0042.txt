@@ -1,0 +1,138 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+¡¡R{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Ah, qué he...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué pasa, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-Nada... Se me ha puesto
+mal cuerpo un momento,
+pero ya estoy bien.
+<PUSH>
+Pero mira...
+Se le ha caído uno
+de esos naipes.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Se llama «Naipe Ruido».
+<PUSH>
+Así lo llamaron los dos
+que hicieron que
+perdiera el control.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Conque dos, ¿eh?
+Seguro que es la «gente
+peligrosa » que decía Ace.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Napies Ruido...
+Gente peligrosa...
+<PUSH>
+No podemos bajar
+la guardia, chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Da igual!
+¡En serio, muchas gracias
+por salvarme!
+<PUSH>
+¡Ahora tengo que arreglar
+este estropicio!
+<PUSH>
+¡Cumpliré el sueño
+del club de ciencias!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Eres el mejor, Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+¡Sí!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Hora de volver, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+¡Si vas a hacer algo,
+que sea fabuloso!
+<PUSH>
+¡S{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í{13}{E1}í!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

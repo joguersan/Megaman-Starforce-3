@@ -1,0 +1,60 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+w¡Soy un maquina
+cogiendo las olas!
+<PUSH>
+¡Dale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+v¡Aloha!
+¡Este es el Cibernúcleo del
+muro de piedra de la playa!
+<PUSH>
+Cuando recibo solicitudes,
+¡las decoro con flores de
+hibisco y mangos!
+<PUSH>
+¡Olas de verdad,
+por supuesto!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Prueba!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡Prueba!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

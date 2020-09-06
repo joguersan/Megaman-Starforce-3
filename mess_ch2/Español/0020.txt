@@ -1,0 +1,647 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Bien. Aquí van a montar
+el escenario de Ondas Reales.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Según mis registros, el
+escenario se ha diseñado
+basándose en Sonia.
+<PUSH>
+Por tanto, el color
+principal será el rosa palo.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Qué mono!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Muy interesante.
+<PUSH>
+¡Tengo curiosidad por
+conocer la complejidad
+y el diseño del proyector!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Hola, chicos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué tal estás, Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Bien, bien.
+<PUSH>
+Un poco nerviosa solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No sabía que los
+profesionales os
+pusierais nerviosos.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Claro que sí, hombre...
+<PUSH>
+¡Da igual, yo voy a
+pasármelo bien y a
+hacerlo lo mejor que pueda!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Lo harás genial!
+<PUSH>
+¡Te estaremos animando
+entre el público!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Eres la mejor, Sonia!
+¡Lo harás bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Y si cometes algún
+error, tú pasa y sigue
+a lo tuyo!
+<PUSH>
+¡Esa es mi filosofía de vida!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Porque no paras de
+cometer errores...
+<PUSH>
+Sonia es una profesional.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Gracias, chicos...
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}¡¡Ahora me siento mucho mejor!!
+¡Ya no estoy nerviosa!
+<PUSH>
+¡Animadme todo lo que
+podáis, ¿vale?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí!
+¡Qué emoción!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡Madre mía!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¡¿Quién ha hecho esto?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eh, es Lee.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Quién es?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es el jefe de personal
+del estudio.
+<PUSH>
+¡Hola, Lee!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Oh, ¿qué tal, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+De todo...
+<PUSH>
+Alguien ha enviado un
+virus a mi <Hunter>.
+<PUSH>
+¡Lo he eliminado con
+mis Cartas de Batalla,
+<PUSH>
+pero ahora he recibido
+una amenaza!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Una amenaza?!
+<PUSH>
+¡¿Qué dice?!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+"Voy a arruinar el
+concierto de Sonia Strumm."
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+El concierto de Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Me han enviado el correo
+directamente a mi <Hunter>,
+así que el emisario debe
+<PUSH>
+de tener alguna relación
+con el estudio.
+<PUSH>
+No tengo ni idea de qué
+planea, pero no parece
+nada bueno.
+<PUSH>
+Aun así, los Soniamaníacos
+haremos un concierto
+inolvidable. Pase lo que pase.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Soniamaníacos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es el nombre del Equipo
+de Lee.
+<PUSH>
+Su Propósito es hacer un
+concierto inolvidable
+para Sonia.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+La verdad es que hemos
+actualizado nuestro
+Propósito hace nada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Actualizado?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sí, el nuevo Propósito de
+los Soniamaníacos es
+"Salvar el concierto".
+<PUSH>
+No sabemos quién quiere
+arruinar el concierto,
+<PUSH>
+¡pero no vamos a dejar
+que se salga con la suya!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Lee!
+¡Deja que os ayude!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Geo...
+Te lo agradezco, pero
+puede ser peligroso.
+<PUSH>
+Si entrara un virus
+en el Escenario,
+<PUSH>
+todo el público estaría
+en peligro.
+<PUSH>
+Si te ves envuelto en
+todo esto, ¿quién sabe
+lo que podría pasarte?
+<PUSH>
+Sonia no lo soportaría,
+¿entiendes?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Pero...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Prez>
+Lee...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Sonia fue la primera
+Hermana de Geo.
+Y es su mejor amiga.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Sí, ya lo sé.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Al contrario de lo que
+pueda parecer, Geo ya
+ha resuelto
+<PUSH>
+numerosos problemas
+provocados por virus.
+<PUSH>
+Geo ha salvado a Sonia
+y a muchos más en
+numerosas ocasiones.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Por favor, ¿podríais aceptar
+a Geo en los Soniamaníacos?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Estás segura?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Geo tendrá que salirse
+de "Luna Presidenta"!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Idiota! ¡¿Te crees que
+no lo sé?!
+<PUSH>
+¡Pero no se trata solo
+del concierto! ¡La vida
+de Sonia está en peligro!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Tiene razón...
+<PUSH>
+¡Se trata de alguien capaz
+de enviar virus y
+amenazas!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Si la amenaza va en serio,
+estamos ante algo gordo.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Exacto.
+<PUSH>
+Cuando acabe el concierto
+podrá volver a
+"Luna Presidenta".
+<PUSH>
+Geo, ahora mismo debes
+proteger a Sonia...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Bueno...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Si de verdad Geo ha resuelto
+tantos problemas de virus,
+<PUSH>
+¿quién soy yo para no
+dejarle entrar en nuestro
+Equipo?
+<PUSH>
+Además, sea quien sea
+esta persona, ya está
+<PUSH>
+causando problemas 
+en el estudio.
+<PUSH>
+Necesito toda la ayuda
+posible. Únete a mi
+Equipo, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Gracias...
+<PUSH>
+¡Confía en mí, Lee!
+<PUSH>
+{04}{E2}{03}{00}
+<NEW-DIALOG>
+<Game>
+¡El Equipo y Propósito
+de Geo han cambiado!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala! ¡Yo también quiero
+ayudar!
+<PUSH>
+¡Taurus!
+¡Vamos a comprobar la zona
+en busca de sospechosos!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Recibido!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Pedia y yo buscaremos
+indicios de modificación
+en los Cibernúcleos!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Vamos, Zack!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Parece que yo solo
+seré un estorbo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué has dicho, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Nada, nada.
+<PUSH>
+Vogue, ayuda tú también.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Entendido, Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Qué bueons amigos
+tiene Sonia...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Vale, Geo. Esta es tu
+primera tarea como
+Soniamaníaco.
+<PUSH>
+Entra en el estudio
+y comprueba cosas que
+te parezcan raras.
+<PUSH>
+Te llamaré si
+ocurre algo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Vamos allá, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Grrr!
+I'm gonna go buck wild!
+<PUSH>
+Me da igual que sean virus
+o lo que sean. ¡Si se meten
+con Sonia, los destrozaré!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Creo que te has emocionado
+demasiado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+

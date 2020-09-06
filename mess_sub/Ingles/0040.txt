@@ -1,0 +1,1127 @@
+[SENTENCE NUMBER 1]
+{10}{EC}{00}{00}View My Page
+{10}{EC}{01}{00}Delete Brother
+{10}{EC}{02}{00}Go Back
+{0F}{EC}{02}{00}{00}{00}{03}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you really want to
+delete this Brother?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Deleted...{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{10}{EC}{00}{00}Delete READY icon?
+{10}{EC}{01}{00}Go Back
+{0F}{EC}{01}{00}{00}{00}{02}{00}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you really want to
+delete READY icon?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Deleted...{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Codename: {2D}{E1}
+{20}{EA}-power infused
+Opponent Noise.
+{10}{EC}{00}{00}Remove
+{10}{EC}{01}{00}Quit
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Opponent Noise removed.{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{2C}{E1}
+Access Port to
+LV {21}{E1}{02}{00} {2E}{E1}.
+{10}{EC}{00}{00}Overwrite
+{10}{EC}{01}{00}Delete
+{10}{EC}{02}{00}Go Back
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Do you really want
+to delete?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Deleted...{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Input data to the
+Satellite Server?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{2D}{E1}
+LV{22}{E1}{02}{00} {2F}{E1}
+has been registered!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{2D}{E1}
+LV{22}{E1}{02}{00} {2F}{E1} has already
+been registered!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+{2D}{E1}
+You're not yet authorized
+to register LV{22}{E1}{02}{00} {2F}{E1}!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+This isn't a Satellite Server
+code!
+You can't register it here!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+My friend code is
+{2C}{E1}
+Please make a note of it.
+<PUSH>
+You can view your own
+friend code by touching
+<PUSH>
+your avatar located in the
+center of the screen.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+The friend code that you
+have entered is invalid.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+This friend code has
+already been entered.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You don't have a
+friend code. Do you
+want to connect to
+<PUSH>
+Nintendo Wi-Fi
+Connection and
+obtain a friend code?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You have some Friends on
+standby.
+<PUSH>
+Do you want to connect
+to Nintendo Wi-Fi
+Connection and check to
+<PUSH>
+see if they are all set?
+<PUSH>
+{10}{EC}{00}{00}{10}{EC}{01}{00}{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Choose where to
+register your Brother.
+<PUSH>
+By the way...
+You can see your own
+friend code by
+<PUSH>
+selecting your own
+Avatar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Nintendo Wi-Fi
+Connection User
+Information from the
+<PUSH>
+Nintendo DS and the
+Game Card do not match.
+Do you wanna connect
+<PUSH>
+to Nintendo Wi-Fi
+Connection and
+obtain a friend code?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{00}{EC}{02}{00}{17}{EC}{00}{00}{18}{EC}
+<NEW-DIALOG>
+<Geo>
+Exchanging data...
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like the
+update failed.
+Let's try again later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Yeah!
+A new Brother
+is born!{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Data has been updated!
+Friends on standby who
+have already
+<PUSH>
+been registered were
+removed from standby.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this
+Friend isn't ready yet.
+Let's try again later.
+<PUSH>
+Choose the option to
+become Brothers via the
+friend code, and then
+<PUSH>
+select READY to connect
+to Nintendo Wi-Fi Connection.{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this
+Friend isn't ready yet.
+Let's try again later.{01}{E1}
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+My friend code is
+{2C}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this person
+has cut our Brother Band.
+<PUSH>
+Oh, well. I went ahead and
+deleted them, too.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this person
+has deleted us as their
+Battle Mate.
+<PUSH>
+Oh, well. I went ahead and
+deleted them.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+It looks like this person
+has cut our Brother Band
+and deleted us as their
+<PUSH>
+Battle Mate.
+Oh, well. I went ahead and
+deleted them as well.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0This is the Satella Police.
+Access to the
+Satella Police Server from{12}{EC}{04}{E1}{04}{EC}Codename: {2C}{E1}
+has been verified.
+Data transfer authorized.{12}{EC}{04}{E1}
+[END]
+
+[SENTENCE NUMBER 35]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+1Sending data...
+[END]
+
+[SENTENCE NUMBER 36]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Transfer complete.{12}{EC}{04}{E1}
+[END]
+
+[SENTENCE NUMBER 37]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Update from
+Codename: {2C}{E1}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 38]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+1It looks like the
+update failed.
+Let's try again later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+1Friends on standby who
+have already been
+registered were removed
+<PUSH>
+from standby.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Codename: {2C}{E1}
+has been changed.
+<PUSH>
+The new Codename is
+{2D}{E1}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Luna for SBPrez
+has been fulfilled!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 42]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Launch Rocket
+has been fulfilled!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Save the Concert
+has been fulfilled!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 44]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Trip to Remember
+has not yet been fulfilled
+due to difficulties!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 45]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Get Luna Back
+has been fulfilled!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 46]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Entering the next stage
+towards the fulfillment of
+Purpose: Foil Dealer Plan!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 47]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Entering the next stage
+towards the fulfillment of
+Purpose: Crush Dealer
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 48]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Purpose: Stop Meteor G
+has been fulfilled!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0{20}{E1}{03}{00} types of Battle
+Cards have been obtained.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 50]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0{2C}{E1}
+Finalization to Acid Ace
+has been confirmed!
+<PUSH>
+Your Brother's tremendous
+power is immeasurable!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0{2C}{E1}
+Finalization to Red Joker
+has been confirmed!
+<PUSH>
+Your Brother's awesome
+might is off the charts!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 52]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Standard Class collection
+complete! Good job!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Mega Class collection
+complete! Nice work!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 54]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Giga Class collection
+complete! Wowzers!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 55]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0The complete set of
+Standard, Mega, and Giga
+Class Cards achieved!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Oh my goodness! Your
+Brother's using the Satellite
+file, a prize usually reserved
+<PUSH>
+for the best of the best
+Satella Police officers, to
+access the Satellite Server!
+<PUSH>
+Access granted!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 57]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Cygnus Wing, who dances like
+a swan, has been deleted!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 58]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Deleted the razor-sharp
+claw-brandishing, fang-
+gnashing Wolf Woods!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 59]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Deleted the white-hot
+burning-down-the-house
+Apollo Flame!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 60]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1Deleted the powerful,
+so bright-you-have-wear-
+shades hidden boss!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1All R Bosses have been
+deleted! Good golly!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 62]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Competed in a
+DS Wireless Play Battle
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0DS Wireless Play Results
+Battles {20}{E1}{04}{00} Wins {21}{E1}{04}{00}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 64]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Competed in Wi-Fi Battle
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 65]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0= Wi-Fi Battle Results =
+Battles {20}{E1}{04}{00} Wins {21}{E1}{04}{00}
+Null Matches {22}{E1}{02}{00}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 66]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0An honest to goodness
+tournament contestant!
+<PUSH>
+And here's a badge
+to prove it!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 67]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0This is a new record!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 68]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0As of this update, your
+Brother's Link Power is
+{20}{E1}{04}{00}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 69]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0It looks like you have
+a Brother on your Team.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 70]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Codename:
+{2C}{E1}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 71]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0The person listed
+above is now a member
+of Team {2C}{E1}!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 72]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Purpose card has been
+verified!
+Th-This is some power!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 73]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0Data update complete.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 74]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0As a member of the
+Satella Police force, I
+pledge to work with you
+<PUSH>
+and back you 100 percent!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 75]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0We going to be faced with
+many difficulties, but with
+our combined strength,
+<PUSH>
+we'll be able to overcome
+anything!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 76]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1We won't be able to fight
+along side you, but we'll be
+<PUSH>
+right behind you every
+step of the way.
+<PUSH>
+Do your best!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 77]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1It is clear to us that
+you are maturing quickly,
+right before our eyes!
+<PUSH>
+We expect great things from
+you in the future.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 78]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0We are proud of your
+strength! You are our
+hope for the future!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 79]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+0As long as you don't give
+up, you will have our full
+support!
+<PUSH>
+Keep up the good work!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 80]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+1We are always watching
+the wonderful things
+you do!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Choose where to
+register this
+Opponent Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Cancel registration?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Opponent Noise
+has been registered!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+{2C}{E1}?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+Brothers on standby?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+Meteor Server
+LV {20}{E1}{02}{00} {2D}{E1}?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+Satellite Server
+LV {20}{E1}{02}{00} {2D}{E1}?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Codename: {2D}{E1}
+Overwrite {20}{EA}-power
+infused Opponent Noise?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to delete
+Rogue Noise?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Register here?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+

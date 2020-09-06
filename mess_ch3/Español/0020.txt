@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Estamos en el Cibernúcleo
+del sistema medioambiental.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Strong tiene que
+estar más adelante!
+<PUSH>
+Time to go buck wild, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

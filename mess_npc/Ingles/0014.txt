@@ -1,0 +1,2265 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Welcome to the cutting
+edge of shopping malls,
+<Spica.Mall>!
+<PUSH>
+The future is now!
+I'm the general manager, and
+<PUSH>
+I'd like to inform you of a
+Battle Wizard Wave Battle
+tournament going on in the
+<PUSH>
+{BD}{E4}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,They said this shopping
+mall was really popular,
+<PUSH>
+so I brought my
+granddaughter out with me.
+<PUSH>
+It definitely isn't for
+old people like me.
+<PUSH>
+But, as long as she's
+happy I'm happy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Grandma, can we go to the
+video arcade next!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+The candy shop isn't open
+yet. Please hurry and open.
+I want candy so bad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)So honey, what do you think
+of this popular date spot
+in <Spica.Mall>?
+<PUSH>
+Don't you think
+it's perfect for two
+hipsters like us?
+<PUSH>
+Hmmm... Honey, I don't know
+if you've noticed, but there's
+<PUSH>
+something strange going
+on with my Wizard...
+I wonder what's up...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Darling, I want to eat
+something sweet, you
+know?
+<PUSH>
+By the way, what's up
+with your Wizard?
+<PUSH>
+He's acting kind of
+strange.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+There're even more people
+down there! <Spica.Mall> IS a
+popular spot!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Wow they're selling tofu!
+That stuff is good!
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}You're right, that stuff is
+totally delish!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}...Um I hate to break it to
+you, but that isn't tofu.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...Ugh.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{0C}{E1}{01}{00}{09}{00}
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.The Security System has
+been activated. But for
+no apparent reason...
+<PUSH>
+This can't be!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{01}{00}{09}{00}{0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+,Oh my, what in heaven's
+name is going on?
+The shutters are closing!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+{0C}{E1}{01}{00}{09}{00}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Oh no!
+What's happening?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{0C}{E1}{01}{00}{09}{00}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I panicked because the
+shutters started coming
+down all of a sudden.
+<PUSH>
+What? The Security System
+was activated, but there
+is no emergency.
+<PUSH>
+Do you think it was a
+malfunction?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+{0C}{E1}{01}{00}{09}{00}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Oh my gosh!
+Are we trapped!?
+<PUSH>
+Honey, this doesn't look
+good!
+<PUSH>
+What are we going to do!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+{0C}{E1}{01}{00}{09}{00}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Wh-What?
+Are we in trouble!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+{0C}{E1}{01}{00}{09}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+The shutters are down,
+and we are trapped!
+<PUSH>
+How are we going to get
+out of here!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+There's so much drama
+here lately.
+Are we going to be OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+{0C}{E1}{01}{00}{09}{00}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Wow they're selling tofu!
+That stuff is good!
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}You're right, that stuff is
+totally delish!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}...Um I hate to break it to
+you, but that isn't tofu.
+<PUSH>
+There is a lot of
+commotion going on
+over that way.
+<PUSH>
+You should be careful.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Waaaagh!
+<PUSH>
+My Wizard is out of control!?
+That's ridiculous!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*What should we do?
+What should we do?
+<PUSH>
+I have never heard of a
+Wizard going out of
+control before.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Wow they're selling tofu!
+That stuff is good!
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}You're right, that stuff
+is totally delish!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}...Um I hate to break it to
+you, but that isn't tofu.
+But nevermind that...
+<PUSH>
+A Wizard has gone out of
+control.
+Don't move from this spot.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Since the first Wizard
+was invented, I had
+<PUSH>
+never heard of one going
+out of control.
+<PUSH>
+This is really
+unfathomable!
+Why is this happening?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+,This is the first time I've
+ever seen an
+out of control Wizard.
+<PUSH>
+I'm in shock!
+*gasp*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Grandma, are you OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+There was a Wizard out of
+control!
+I was so scared!
+<PUSH>
+But Mega Man and that
+one Wizard from the
+Wave Battle were here!
+<PUSH>
+So, I knew it'd be over
+quick!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Who would've thought
+my Wizard would go out
+of control,
+<PUSH>
+and cause such a
+commotion here!?
+I'm totally in shock...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I'd better have some
+sweets to regain my
+composure!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+I was hiding because of
+that out of control
+Wizard.
+<PUSH>
+I've never heard
+of anything like that
+happening before.
+<PUSH>
+That was some pretty
+scary stuff.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I was terrified. I mean
+a Wizard just went
+<PUSH>
+out of control all of a
+sudden.
+<PUSH>
+By the way, who won
+that Wave Battle tournament
+that was going on?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Just as we suspected, that
+out of control Wizard
+<PUSH>
+produced a huge amount of
+Noise...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Wow they're selling tofu!
+That stuff is good!
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}You're right, that stuff
+is totally delish!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}...Um I hate to break it
+to you, but that isn't
+tofu. But nevermind that,
+<PUSH>
+I'm starting to get the
+feeling that something
+bad is going to happen.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Welcome to <Spica.Mall>!
+<PUSH>
+Yesterday we had some
+trouble, but everything
+seems to be back to normal!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Today I came here on an
+errand... But my older
+brother...
+<PUSH>
+Boy, he really burns me up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I'm really looking
+forward to this candy
+shop opening,
+<PUSH>
+but it looks like there's
+still a while to go.
+<PUSH>
+So for now I guess
+I'll just look around!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+The Wizard that won
+yesterday was really
+cool!
+<PUSH>
+And that operator,
+Ace... WOW!
+<PUSH>
+That guy totally makes my
+heart go pitter patter!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+That one Wizard, Acid,
+clobbered everybody!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0A Wizard going out of
+control is not something
+that can just happen,
+<PUSH>
+it must be the work of
+somebody.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+{0C}{E1}{01}{00}{09}{00}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Wait a minute! What's going
+on here! We're trapped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+{0C}{E1}{01}{00}{09}{00}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+What!? I can't get home
+to eat dinner!? Aww man!
+<PUSH>
+I can already feel my
+stomach growling...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+{0C}{E1}{01}{00}{09}{00}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+This is a pickle!
+Not even my Wizard
+can do anything!
+<PUSH>
+So Geo, it's up
+to you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Nice work Geo! Though
+that ate up some time.
+<PUSH>
+We should hurry to
+{BD}{E4}!
+<PUSH>
+{0A}{E1}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+So, did that turn out to
+be a Security System
+malfunction?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+The Security System
+activated for no apparent
+<PUSH>
+reason... I sure hope
+nothing bad happens.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Welcome to <Spica.Mall>! I
+<PUSH>
+sincerely regret you got
+mixed up in all that
+trouble the other day.
+<PUSH>
+Please just relax and
+enjoy yourself today!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Even after all of that
+out of control Wizard
+trouble,
+<PUSH>
+I'm here again on a
+date with my honey!
+<PUSH>
+This place is the perfect
+date spot for a hip
+couple like us!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Actually, my darling
+and I wanted to go
+Sonia Strumm's
+<PUSH>
+concert together,
+but we weren't
+able to get tickets.
+<PUSH>
+So we decided to come here.
+But it's OK, we both love
+this place.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+The other day some Wizard
+went out of control here.
+Scary stuff!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+This candy shop still
+isn't open?
+<PUSH>
+My little sister is so
+looking forward to
+coming here.
+<PUSH>
+Me? I don't care so much.
+But she sure does!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I'm starving!
+I need something to eat.
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}What about tacos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Now you're talking!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}Young man, if you eat now
+you'll ruin your appetite
+for dinner later.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+...You're right.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Welcome to the cutting
+edge of shopping malls
+<Spica.Mall>!
+<PUSH>
+Where the future is now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)The new Hunter-VGs are on
+sale! Say honey,
+<PUSH>
+what do you say we get a
+matching pair?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Darling, a new Hunter-VG
+would be nice but,
+<PUSH>
+why don't we just go out
+for a nice dinner?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I came here to shop with
+my big brother!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+My little sis said she
+just had to come here so
+I brought her.
+<PUSH>
+You know, sometimes I
+have to act like a big
+brother.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Look at all these computers
+and peripherals!
+<PUSH>
+{0A}{E1}{0B}{00}
+<NEW-DIALOG>
+{93}{00}Cool!
+Let's upgrade to a new
+one!
+<PUSH>
+{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}Don't waste all of your
+money.
+Your father will get angry.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+You're right! My dad is
+really scary when he gets
+angry.
+<PUSH>
+I'd better not
+waste my money.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Hello, and welcome to
+<Spica.Mall>!
+<PUSH>
+What's wrong?
+Why the long face?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)My honey is addicted to
+candy shops now.
+<PUSH>
+Now all she does is drag me
+around from candy shop to
+candy shop.
+<PUSH>
+I think she's really got her
+sights on this place.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Our candy shops are like
+a national treasure.
+<PUSH>
+I'm going to travel the
+nation and visit all the
+candy shops I can.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I like the new and shiny
+feel of <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I heard a rumor that one
+of the students on the
+<PUSH>
+Echo Ridge elementary
+school trip went missing.
+<PUSH>
+That's really frightening!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Every time I come here I
+see something that I've
+just got to have!
+<PUSH>
+
+<NEW-DIALOG>
+{9D}{00}Now! Now!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I know, I know. As long
+as I have my Wizard to
+watch over me,
+<PUSH>
+I won't go over budget.
+*sniffle*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Hello, and welcome to
+<Spica.Mall>!
+<PUSH>
+We hope you have a
+pleasant shopping
+experience.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I want to take some
+pictures in the photo
+booth but...
+<PUSH>
+My money, it's all gone.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+I want to go see the
+shops downstairs.
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Oh OK, we might as well.
+Let's go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I just love going to the
+dentist.
+<PUSH>
+There's just something
+about that dentist office
+smell.
+<PUSH>
+And I've never ever had a
+cavity.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+My little sister is
+starting to make a habit
+of coming here.
+<PUSH>
+Well, what am I going to do?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+{0D}{E1}{00}{00}CD{88}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)My honey went into the
+candy store and won't
+come out.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+).....
+<PUSH>
+Heeeeeeeeeey
+Honeeeeeeeey!
+<PUSH>
+Which is it going to be?
+Me or the candy store!?
+Honeeeeeeeey!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{99}{00}Ugyaaa!
+<PUSH>
+{0A}{E1}a
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Hello, and welcome to
+<Spica.Mall>!
+<PUSH>
+But we're still not quite
+open at the moment.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Normally I would tell you
+hello, and welcome to
+<Spica.Mall>!
+<PUSH>
+At the moment, however,
+the Satella Police are
+<PUSH>
+investigating an incident
+that happened.
+<PUSH>
+We ask that members of
+the general public do not
+enter at this time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0There is no question that
+the Wizard went out of
+control.
+<PUSH>
+And the clues that'll tell us
+why it went out of control
+are definitely on the scene.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 172]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 173]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 174]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 175]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 176]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 177]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 178]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 179]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 180]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 181]
+{0D}{E1}{00}{00}ho{BE}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Hello, and welcome to
+<Spica.Mall>!
+<PUSH>
+Things are a little crazy
+right now, but we won't
+shut our doors!
+<PUSH>
+We thought it would be
+better to try to put a
+smile on our customers'
+<PUSH>
+faces by allowing them to
+continue shopping.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 182]
+{0D}{E1}{00}{00}ho{BF}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)I know things are a mess
+right now,
+<PUSH>
+but that's exactly why I'm
+here shopping with my
+honey.
+<PUSH>
+To try to relieve some of
+my anxiety.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 183]
+{0D}{E1}{00}{00}ho¿
+<START-DIALOG>
+
+<NEW-DIALOG>
+*I'm afraid of Dealer, but
+it's not like we can run
+away from them.
+<PUSH>
+I'd rather just spend my
+time going about my
+daily activities.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 184]
+{0D}{E1}{00}{00}ho¡
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+There are more people
+here than I expected.
+<PUSH>
+With everything that's
+going on, I thought no one
+would be here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 185]
+{0D}{E1}{00}{00}ho{C2}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I wonder what's going to
+happen to the Earth.
+<PUSH>
+I'm scared.
+<PUSH>
+{0A}{E1}{0B}{00}{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}Don't worry, we'll be here
+with you.
+<PUSH>
+
+<NEW-DIALOG>
+{93}{00}We will protect you no
+matter what happens.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Thank you!
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 186]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 187]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 188]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 189]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 190]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 191]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Is there anything
+I can do?
+<PUSH>
+As the owner of <Spica.Mall>,
+there must be something I
+can do to save the Earth.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 192]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)I know, I know! Just being
+here shopping is like
+trying to escape reality.
+<PUSH>
+But let's be real, what else
+can I do?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 193]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Let's not give up darling!
+<PUSH>
+With the two of us together
+there hasn't been anything
+we couldn't get through!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 194]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Meteor G is headed
+straight for the Earth.
+<PUSH>
+I wonder if this is the
+end?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 195]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+That meteor is getting
+closer, isn't it?
+<PUSH>
+Is this the end?
+<PUSH>
+{0A}{E1}{0B}{00}{0A}{E1}{0E}{00}
+<NEW-DIALOG>
+{9D}{00}We can't give up.
+<PUSH>
+
+<NEW-DIALOG>
+{93}{00}Our hero Mega Man will do
+something, I know it!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Yeah that's right. Mega
+Man will save the Earth.
+<PUSH>
+{0B}{E1}{0B}{00}{0B}{E1}{0E}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 196]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 197]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 198]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 199]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 200]
+
+<START-DIALOG>
+
+[END]
+

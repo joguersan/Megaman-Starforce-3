@@ -1,0 +1,393 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Viva!
+<PUSH>
+¡No hay nada como
+hacer una hoguera
+en la playa!
+<PUSH>
+¡¿No te parece?!
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Son preciosas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+Dele, Sonia...
+¿Por qué no venís a ver
+<PUSH>
+el fuego con nosotros?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Crunch, crunch...
+Ñam, ñam...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Crunch, crunch...
+Ñam, ñam...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+No comáis tanto, que
+os va a sentar mal...
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+¡Menuda ingesta de calorías!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡A callar los dos!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡No me creo que Geo...
+<PUSH>
+...haya elegido a su amigo
+antes que a dos bombones!
+<PUSH>
+Pero él es así, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Como mujer, me siento
+ofendidísima!!
+<PUSH>
+Sonia...
+¡¡Vamos a comer hasta
+reventar!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Sí!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+Será mejor que las
+dejemos solas, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Tienes razón...
+<PUSH>
+Pero Geo ha hecho lo
+que debía...
+<PUSH>
+Imagina qué habría pasado
+si hubiera elegido a una
+de las dos.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+La otra se habría puesto
+hecha una furia...
+<PUSH>
+El corazón de una mujer es
+un millón de veces más
+complejo que una fórmula...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Solo de pensarlo ya
+me abruma...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Necesito más comida!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Traed más!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Bud, ¿no quieres nada de
+la barbacoa? No parabas
+de hablar de ello...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Ya he comido mucho!
+<PUSH>
+¡He parado un rato,
+porque estoy llenísimo!
+<PUSH>
+¡¡En 10 minutos o así
+volveré a tener hambre!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Eso ya es más propio
+de ti, Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Ah, sí...
+<PUSH>
+Quería darte las gracias.
+<PUSH>
+Gracias, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Por lo de tu camiseta?
+<PUSH>
+No ha sido nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Pero, Geo...
+La Dele y Sonia están
+que echan chispas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ya...
+Dan miedo, ¿eh?...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Jajajaja!!
+<PUSH>
+¡Eres un buen amigo, Geo!
+¡Elegiste a tu amigo antes
+que a dos chicas tontas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Bud?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡Cambio de onda EM!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿B-Bud?!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Ugh...
+<PUSH>
+N-No puedo más...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Fiu...
+<PUSH>
+No puedo mantener la
+forma EM durante mucho
+tiempo.
+<PUSH>
+Acabo destrozado.
+<PUSH>
+La Policía Satella me asignó
+el código de Transcodificación
+"005", pero...
+<PUSH>
+Aún me falta mucha práctica...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Es alucinante, Bud!
+<PUSH>
+¡¡Ahora puedes convertirte
+en Taurus Fire siempre
+que quieras!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Bueno, de vez en cuando
+me sale.
+<PUSH>
+Pero no es lo normal.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Entiendo...
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Bud>
+Me estoy esforzando al máximo.
+<PUSH>
+Siempre te has encargado tú
+de arreglar todos nuestros
+problemas.
+<PUSH>
+Y yo me sentía fatal...
+<PUSH>
+Siempre he sido un perdedor
+patético.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bud...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Pero ahora...
+¡Tengo a Taurus y puedo
+hacer el Cambio de onda
+EM!
+<PUSH>
+Aún tengo mucho que aprender.
+¡Pero podré con ello si 
+le echo todas las ganas!
+<PUSH>
+Soon...
+<PUSH>
+¡¡Haré el Cambio de onda EM
+como si nada y lucharé
+a tu lado!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Tú puedes, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Oh, tío...
+¡Qué hambre me ha entrado
+con lo del Cambio de onda!
+<PUSH>
+¡Vamos a la barbacoa!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

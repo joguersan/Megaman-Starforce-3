@@ -1,0 +1,150 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vale,ahora toca el
+Contraataque y las
+cartas de bonificación.
+<PUSH>
+En un Contraataque,
+golpeas a un enemigo con
+una carta en el mismo
+<PUSH>
+momento en que está a
+punto de atacarte.
+<PUSH>
+Eso les pillará por
+sorpresa, y estarán
+un rato paralizados.
+<PUSH>
+Además, recibirás una
+carta de bonificación.
+<PUSH>
+Normalmente, solo puedes
+usar cartas que tengas
+en la pantalla de cartas.
+<PUSH>
+Pero si haces un
+contraataque, recibirás
+una carta de bonificación.
+<PUSH>
+Son cartas elegidas de
+forma aleatoria de
+tu carpeta.
+<PUSH>
+¡Pero son la bomba, así
+no tienes que esperar a
+que se llene la carga
+<PUSH>
+de cartas para acabar
+cuanto antes con el
+enemigo!
+<PUSH>
+Un contraataque con una
+carta de bonificación no
+te dará otra carta.
+<PUSH>
+Los contraataques son
+difíciles, fíjate bien
+en los tiempos.
+<PUSH>
+¡Usa una carta de
+bonificación para acabar
+con todos en un turno!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Me gustaría decir "entendido",
+pero hace mucho que
+no combato...
+<PUSH>
+Puede que tarde un poco
+en pillarle el truco.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Acabo de tener un deja vu...
+<PUSH>
+¡En fin! ¡Solo por esta
+vez te ayudaré a hacerlo
+en el momento justo!
+<PUSH>
+¡Si tengo que decirte todo
+el rato qué hacer, no puedo
+centrarme en el combate!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Gracias, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí, sí, sí.
+A ver, atento a cómo te
+voy a ayudar a contraatacar.
+<PUSH>
+Voy a mostrar una flecha
+sobre la cabeza del
+enemigo a contraatacar.
+<PUSH>
+Si atacas al enemigo cuando
+tenga la flecha, lanzarás
+un contraataque.
+<PUSH>
+Hay cartas de combate que
+golpean al enemigo al
+<PUSH>
+instante, pero otras
+necesitan más tiempo.
+<PUSH>
+Así que calcula el tiempo
+para golpear al enemigo
+<PUSH>
+cuando el enemigo tenga
+la flecha en la cabeza.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entendido! ¡Voy a
+intentarlo ahora mismo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No has cogido ninguna
+carta de combate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡No pasa nada, chico,
+no huyas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,116 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tPip, pip. ¡Este es el
+Cibernúcleo del conducto del
+aire! Yo echo el aire malo.
+<PUSH>
+Cof, cof.
+¡Lo estoy dando todo!
+Pip, pip.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+DrkPhntm"R"!
+¡Abandona la Tierra!
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué?
+¿Ningún sarcasmo?
+¿Ni una risa?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Unas acciones tan narcisistas
+solo serían un impedimento
+<PUSH>
+para las habilidades en
+combate de uno, ¿no crees?
+<PUSH>
+Supongo que el Dark Phantom
+que conocíais
+<PUSH>
+no tenía las mismas
+aptitudes que yo.
+<PUSH>
+¡Observad la verdadera
+fuerza de Dark Phantom!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{AB}{00}
+[END]
+

@@ -1,0 +1,87 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+M-Magnes...?
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez! He's more than just
+out of control!
+He's gone bonkers!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A-Are you really Magnes!?
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrrrrrrr!
+<PUSH>
+Yu {16}{E1}yu {16}{E1}yu {16}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Yup!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It is Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I don't know what the
+heck is going on, but if
+we don't stop him...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The rocket will explode and
+then the school will be...!
+<PUSH>
+{10}{E2}{44}{03}{16}{EC}{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Spade-Magnes>
+Raaaaaarrrrrrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We have to take him out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Everyone believes in us!
+And they're waiting for us!
+We can't let them down!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+[END]
+

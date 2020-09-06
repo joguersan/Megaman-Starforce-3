@@ -1,0 +1,368 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Maldita sea.
+¡Esto no es bueno!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡No se abre!
+¿¡Qué demonios está pasando!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Esta tampoco!
+<PUSH>
+¿Qué dem...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Puede ser debido al Ruido?
+<PUSH>
+Este se ha estado volviendo
+más denso ultimamente...
+<PUSH>
+Este lugar probablemente esté
+lleno de Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ruido...
+¡Esto tiene que ser cosa de
+Jack!
+<PUSH>
+¡Tenemos que llegar al tejado
+rápido!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No veo el problema!
+<PUSH>
+¡echemos abajo esta estupida
+puerta!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡En serio!?
+No es un poco...
+<PUSH>
+E-Está bien...
+Supongo que no tenemos elección...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+Eh, tu.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿¡Y-Y-Y{15}{E1}-Yo!?
+<PUSH>
+¿¡S-S-S{15}{E1}-Si!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¿Sonde está la Estación de Ondas?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¿¡L-L{15}{E1}-La Estación de Ondas!?
+<PUSH>
+¡E-E-E{15}{E1}-En el primer piso!
+¡¡Está en el primer piso!!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+¿Debajo, eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+¡Haced hueco!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¡Aaa{15}{E1}h!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Guau...
+<PUSH>
+Qué agujero más grande...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡C-Caray...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿¡S-Solo...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+¡Pse!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Argh...
+¿Qué deberíamos hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Umm.
+No tenemos muchas opciones.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+si...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Creo...
+<PUSH>
+Que deberíamos usar este
+agujero para llegar al techo.
+<PUSH>
+Cambio de onda EM-
+¡Geo Stelar, en el Aire!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Está bien, continuemos!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+¡Vale!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Muuu!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Espera aquí, Zack!
+<PUSH>
+¡Volveremos más tarde!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+V-Vale...
+<PUSH>
+Creo que Solo se dirige a la
+Estación de Ondas del primer
+piso.
+<PUSH>
+Me preguntó sobre eso hace
+un minuto.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+La Estación de Ondas...
+¡Así que se dirige al techo
+por el Camino Onda!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Probablemente el Ascensor
+tampoco funcione debido al
+Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Cierto.
+¡Está bien, Sigamos a Solo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡Guau!
+<PUSH>
+Esta habitación es...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+La sala de profesores....
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Geo
+Parece que Solo se fue por
+ahí....
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+S-Sí...
+<PUSH>
+Es un buen agujero el que ha
+hecho en esa pared....
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+V-Vamos.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Está bien.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

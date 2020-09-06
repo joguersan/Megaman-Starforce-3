@@ -1,0 +1,95 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That's all of them!
+<PUSH>
+The Noise clusters are gone,
+too!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The sprinkler should be
+working now!
+<PUSH>
+Let's go let Mr. Wolfe know!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's wrong, kid?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Hmm...
+<PUSH>
+Nothing feels strange to
+you, Mega...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+...Why did such dangerous
+Noise clusters appear all
+of a sudden...?
+<PUSH>
+There isn't that much Noise
+around the school...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+There's not that much, but
+there still is Noise, right?
+<PUSH>
+It was probably just a
+random occurrence!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I{15}{E1}-I guess...
+<PUSH>
+But still...
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+[END]
+

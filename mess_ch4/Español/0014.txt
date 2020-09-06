@@ -1,0 +1,55 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{97}{00}...
+<PUSH>
+¡¡Ah!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Te toca, Acid!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡Recibido!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{0A}{E1}/{82}{E1}{07}{00}{01}{00}{02}{E2}L{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Mega Man ha obtenido:
+"<Luna.FragF>"!
+<PUSH>
+{01}{E2}L
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Datos obtenidos...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Dele...)
+<PUSH>
+{13}{EC}(¡Aguanta, Dele!
+{13}{EC} ¡Voy a salvarte!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

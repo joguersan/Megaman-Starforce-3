@@ -1,0 +1,1193 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+A Few Days Later...
+<PUSH>
+
+<END-DIALOG>
+{11}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+...It appears that most of
+WAZA is in a state of ruin...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah...
+<PUSH>
+Not much other than the
+main computer is left...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+And now that the Satella
+Police can't rely on WAZA
+for support at all, I don't
+<PUSH>
+really know what else they
+can do...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Yeah, they're not in a very
+strong position, right now...
+<PUSH>
+...H{16}{E1}-Huh?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+W-What's up with you two!?
+<PUSH>
+Why are you so quiet!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+W-Well... You know...
+<PUSH>
+Right, Zack...?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Y-Yes...
+<PUSH>
+This must be a so-called
+"once in a lifetime event"!
+<PUSH>
+It's unbelievable!
+<PUSH>
+Bud{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+You haven't mentioned food
+at all...!!
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+<Bud>
+Gee,{15}{E1} that is a pretty
+rare event...!
+<PUSH>
+I can hardly believe this!
+<PUSH>
+Actually, I haven't been all
+that hungry, lately...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Mr.King-2>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+...So...{16}{E1}
+What about that is such a
+big deal!?
+<PUSH>
+Are you saying that all I
+ever do is talk about food!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...Are you saying you don't?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+...I mean, I do, but...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+B-But...!
+<PUSH>
+There comes a time in every
+man's life where priorities
+have to change!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmmrrrggg!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Now that Taurus is with me...
+<PUSH>
+I've been thinking about a
+lot of different things...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+W-We were just joking, Bud...
+Don't take it so seriously.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Actually, Geo...
+I was being serious!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Z-Zack...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+On top of that, I do believe
+that there is a secret
+brewing in our midst.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+...Eep.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}Aha!
+<PUSH>
+Bud just cringed a bit when
+I mentioned something
+about a secret.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+T-T-That{15}{E1} must be just your
+imagination!
+<PUSH>
+I'm not really someone who
+cringes very often.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+He's as easy to read as
+a pop-up book...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bud...
+You do seem like you're
+trying to hide something...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+Tell us the truth!
+<PUSH>
+Are you really hiding
+something from us, Bud!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+There is a 96% chance that
+he is hiding something.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Ack!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+So it is true!
+<PUSH>
+That's really not cool that
+you are lying to us.
+<PUSH>
+But, what could you possibly
+be hiding?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Teeheehee...
+<PUSH>
+I think I already know...
+<PUSH>
+We have known each other
+for a long time, after all.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+*cringe*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Aha!
+<PUSH>
+What Bud is hiding is...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+...Is...?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+That he's on a diet!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+And that he is aiming for
+20% body fat!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}....
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}....
+<PUSH>
+On a{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+diet...?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Precisely!
+<PUSH>
+If one talks about food,
+then they think about it and
+grow hungry.
+<PUSH>
+And if you try to think
+about other things, especially
+<PUSH>
+things that are hard to
+grasp, then food will never
+come to mind!
+<PUSH>
+That's what you've been
+doing, Bud... Right!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+R-Really, Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}....
+<PUSH>
+Yeah...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+You got me!
+<PUSH>
+I've been on a diet for a
+few days now!
+<PUSH>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud>
+I guess you caught me.
+I thought I could get away
+with it, for a bit there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Way to go, Zack!
+<PUSH>
+You must have been working
+on your detective skills,
+lately!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Teeheehee...{15}{E1}
+Sherlock Zack is always
+first on the scene!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+{13}{EC}(...Phew! 
+{13}{EC} Got out of that one safe!)
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+...Guys...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What are you all worked up
+about?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Prez!
+Listen to this!
+<PUSH>
+It turns out that...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...I know already, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+...Really?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Bud has been doing something
+very sneaky, lately.
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+E-Exactly!
+<PUSH>
+But...
+How do you know about it!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hehehe...
+<PUSH>
+Didn't you know that I can
+see right through all of you!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+A-Amazing, Prez...{15}{E1}
+You're full of surprises!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+So...!
+<PUSH>
+Let's hear what it is that
+you've been up to, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You...{14}{E1} You don't know!?
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Uhhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+S-Sorry, Prez!
+<PUSH>
+I just remembered I have an
+appointment!
+Really sorry!
+<PUSH>
+Later, guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...He took off...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Y-Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Hmph!
+He's so shy sometimes!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{15}{E1}...Shy?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Well... Dieting can be
+embarrassing...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What did you say?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+...Dieting?
+<PUSH>
+Why are you talking about
+dieting?
+<PUSH>
+What does that have to do
+with anything?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well...{15}{E1}
+I mean...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Bud has been secretly dieting
+for a bit now...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+...What?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+You morons!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Whoa!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Egads!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geez...
+<PUSH>
+What part about Bud would
+lead you to the conclusion
+that he is on a diet!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+W-Well, you see...
+<PUSH>
+Sherlock Zack used his
+peerless skills to figure
+everything out.
+<PUSH>
+...Well, he was supposed to...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+My reputation is ruined...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+But if Bud isn't on a diet,
+then what is he doing that
+<PUSH>
+he feels he has to keep
+a secret from us?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Duh!{15}{E1} It's pretty easy to
+figure out once you think
+about what day tomorrow is!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Tomorrow!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+(What's tomorrow, Zack?)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(I-I don't know...)
+<PUSH>
+(But it appears that
+ there is some kind of
+ very important event.{14}{E1}.{14}{E1}.{14}{E1})
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(...Grrr!
+ Sometimes these guys...!)
+<PUSH>
+(Hey, boys!
+ Why don't you try
+ looking at your Purpose!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Huh? Our Purpose?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ahhhhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+"Luna for SBPrez"!
+<PUSH>
+Oh no!
+Tomorrow is the student
+body election!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+T-That's right!
+<PUSH>
+I completely forgot about it
+with all the commotion lately.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+M-Me too...
+<PUSH>
+Especially with what happened
+to her...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Huh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+I hope I didn't just hear
+what I think I did...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(This is no good!
+ What should we do, Zack!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(For...{14}{E1} For now, let's
+ just apologize to her!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(O-OK...!)
+<PUSH>
+Sorry...{14}{E1} Sorry, Prez!
+<PUSH>
+I can't believe that we
+forgot such an important
+day...
+<PUSH>
+We are so stupid...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'm so sorry, Prez!!
+<PUSH>
+I've never made such a big
+mistake in my life!
+<PUSH>
+I trust you to judge how I
+should be punished!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I think you guys are going
+a little overboard here...
+<PUSH>
+I think I'll let this mistake
+slide for now...
+<PUSH>
+I did cause a lot of trouble
+for you guys, lately...
+<PUSH>
+I still don't really remember
+exactly what happened...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(...Phew!)
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+(...Thank goodness!.)
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Anyway...
+<PUSH>
+I want you guys to go
+on one last campaign run
+for me!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Campaign run?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yeah!
+Go around one last time and
+secure votes for me!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Ah... I see.
+<PUSH>
+It's the final chance to
+appeal to the public, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+That's right!
+<PUSH>
+And if we work very hard
+today, then I'm sure to win...
+<PUSH>
+And we will also fulfill our
+Team's Purpose!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+T{14}{E1}-That's true!{15}{E1}
+Right, Zack!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+R{14}{E1}-Right, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Alright, it's time for Team
+"Luna 4 Prez" to get down
+to business!
+<PUSH>
+...I'll do what a leader does,
+and wait here looking good!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 31]
+{11}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Nice.
+We escaped with our lives...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Yeah, we were in rough
+waters there for a minute...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+But, actually...
+<PUSH>
+We never found out what
+Bud is really hiding from us.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+You still don't know, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+N-Nope...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Boy, Geo...
+<PUSH>
+It's quite amazing that a
+person as simple as you has
+come this far in the world!
+<PUSH>
+I don't know how else to
+say it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, but you don't have...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(He's not
+{13}{EC} complimenting you, kid!)
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+Aha! I figured it out!
+<PUSH>
+Bud has been acquiring votes
+for Prez, secretly behind our
+backs!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...You think?
+Acquiring votes?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Definitely...
+<PUSH>
+You see, Bud didn't forget
+the fact that tomorrow is
+election day...
+<PUSH>
+And he realized that we had
+both forgotten about it...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+*gulp*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+There is no doubt that Bud
+has been doing campaign runs
+all by himself!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+You think!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We have been completely
+hoodwinked, Geo...
+<PUSH>
+Prez probably knows what he
+has been up to.
+<PUSH>
+Prez is going to appreciate
+him more than us...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+However!
+<PUSH>
+We are still in the game!
+<PUSH>
+Let's give it our best shot!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y-Yeah...{15}{E1}
+Sounds good...
+<PUSH>
+{13}{EC}(I'm not so sure if that's
+{13}{EC} the true story with Bud...)
+<PUSH>
+{13}{EC}(But either way, we
+{13}{EC} better do a good job
+{13}{EC} on the campaign run!)
+<PUSH>
+Alright, let's do this!
+<PUSH>
+Let's talk to the students
+and teachers that are still
+at school!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+We'll cover more ground if
+we split up!
+<PUSH>
+Leave the students to me!
+<PUSH>
+And you take care of the
+teachers!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Roger!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(...For cryin' out loud!)
+<PUSH>
+{13}{EC}(You guys sure are
+{13}{EC} feeling energetic, even
+<PUSH>
+{13}{EC} after everything we've
+{13}{EC} been through lately...!)
+<PUSH>
+{13}{EC}(But I guess that's what
+ makes you guys so fun!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

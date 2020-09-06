@@ -1,0 +1,72 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Mr. King...
+<PUSH>
+Currently...
+<PUSH>
+The "orbital base" is in the
+mesosphere, 50 miles above
+the planet's surface.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+I see...
+And how is accessing
+Meteor G going?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Everything is going perfectly.
+<PUSH>
+Thanks to the Crimson that
+Joker left behind, we were
+<PUSH>
+able to put Meteor G under
+control of the orbital base.
+<PUSH>
+That is to say, Meteor G is
+completely under your control.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho...
+<PUSH>
+Finally, Dealer will...
+Rather, I will rule the world!
+<PUSH>
+Heartless...
+It's time for us to declare
+our victory to the world.
+<PUSH>
+They will all learn to fear
+me!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Understood, Mr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

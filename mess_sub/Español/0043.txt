@@ -1,0 +1,44 @@
+[SENTENCE NUMBER 1]
+Logo equipo
+[END]
+
+[SENTENCE NUMBER 2]
+Luna Presi
+[END]
+
+[SENTENCE NUMBER 3]
+Cohete
+[END]
+
+[SENTENCE NUMBER 4]
+Concierto
+[END]
+
+[SENTENCE NUMBER 5]
+Viaje
+[END]
+
+[SENTENCE NUMBER 6]
+Busca Dele
+[END]
+
+[SENTENCE NUMBER 7]
+ACE
+[END]
+
+[SENTENCE NUMBER 8]
+AplastaDlr
+[END]
+
+[SENTENCE NUMBER 9]
+Star Force
+[END]
+
+[SENTENCE NUMBER 10]
+Black Ace
+[END]
+
+[SENTENCE NUMBER 11]
+Red Joker
+[END]
+

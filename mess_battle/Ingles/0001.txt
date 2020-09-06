@@ -1,0 +1,513 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Run away?
+{05}{EC}{00}{00}{02}{00}  {06}{EC}Run away  {07}{EC}Don't run away
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+.{16}{E1}.{16}{E1}.{16}{E1}Sweet, we got away!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+.{16}{E1}.{16}{E1}.{16}{E1}Darn it! We can't get away!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+This isn't something you
+can just run away from!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2C}{E1}{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+It's {2E}{E1}'s
+{20}{EA}Noise Data.
+Change to Multi-Noise Form?
+{10}{EC}{00}{00}Multi-Noise Form
+{10}{EC}{01}{00}Roulette
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+{0D}{00}Hey, it's {2E}{E1}!
+Use {20}{EA}'s power to
+change to Multi-Noise Form?
+{10}{EC}{00}{00}Multi-Noise Form
+{10}{EC}{01}{00}Roulette
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Multi-Noise Form is already
+activated.
+Use the roulette function?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Non-elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Single Use
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Fire Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Single Use
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Aqua Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Single Use
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Elec Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Single Use
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Wood Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Single Use
+{0F}{EC}{00}{00}{00}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Non-elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Don't use
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Fire Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Don't use
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Aqua Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Don't use
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Elec Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Don't use
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Wood Elemental Card
+Support Use is {2C}{E1}.
+What will you do?
+{10}{EC}{00}{00}Support Use
+{10}{EC}{01}{00}Don't use
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+NEXT TURN
+[END]
+
+[SENTENCE NUMBER 20]
+BATTLE START
+[END]
+
+[SENTENCE NUMBER 21]
+DOUBLE DELETE!
+[END]
+
+[SENTENCE NUMBER 22]
+TRIPLE DELETE!
+[END]
+
+[SENTENCE NUMBER 23]
+ COUNTER HIT! 
+[END]
+
+[SENTENCE NUMBER 24]
+    TIME UP    
+[END]
+
+[SENTENCE NUMBER 25]
+GOT 
+[END]
+
+[SENTENCE NUMBER 26]
+CAMERA NORMAL
+[END]
+
+[SENTENCE NUMBER 27]
+CAMERA SIDE
+[END]
+
+[SENTENCE NUMBER 28]
+CAMERA OFF
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Communication error.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+Opponent Noise
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Access Meteor Server
+Level {20}{E1}{02}{00}?
+{10}{EC}{00}{00}Yes
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Satellite Server
+Level {20}{E1}{02}{00} accessed!
+Please select a folder.
+{10}{EC}{00}{00}A
+{10}{EC}{01}{00}B
+{10}{EC}{02}{00}C
+{0F}{EC}{05}{00}{01}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Meteor Server
+Level {21}{E1}{02}{00} accessed!
+Please select a folder.
+{10}{EC}{00}{00}A
+{10}{EC}{01}{00}B
+{10}{EC}{02}{00}C
+{0F}{EC}{05}{00}{01}{00}{0D}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Satellite Server
+Level {20}{E1}{02}{00}. Access gate
+to {24}{EC} detected!
+{00}{E1}<
+<NEW-DIALOG>
+<Ace>
+
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The access code is {2D}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Ace>
+Meteor Server
+Level {22}{E1}{02}{00}. Access gate
+to {24}{EC} detected!
+{00}{E1}<
+<NEW-DIALOG>
+<Ace>
+
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+The access code is {2D}{E1}.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+MORE TURNS
+[END]
+
+[SENTENCE NUMBER 37]
+0
+[END]
+
+[SENTENCE NUMBER 38]
+1
+[END]
+
+[SENTENCE NUMBER 39]
+2
+[END]
+
+[SENTENCE NUMBER 40]
+3
+[END]
+
+[SENTENCE NUMBER 41]
+4
+[END]
+
+[SENTENCE NUMBER 42]
+5
+[END]
+
+[SENTENCE NUMBER 43]
+6
+[END]
+
+[SENTENCE NUMBER 44]
+7
+[END]
+
+[SENTENCE NUMBER 45]
+8
+[END]
+
+[SENTENCE NUMBER 46]
+9
+[END]
+
+[SENTENCE NUMBER 47]
+FINAL TURN
+[END]
+
+[SENTENCE NUMBER 48]
+VS
+[END]
+
+[SENTENCE NUMBER 49]
+{A8}{03}
+[END]
+
+[SENTENCE NUMBER 50]
+HP + 
+[END]
+
+[SENTENCE NUMBER 51]
+HP MAX
+[END]
+
+[SENTENCE NUMBER 52]
+NO DATA
+[END]
+
+[SENTENCE NUMBER 53]
+BLANK OPP.
+[END]
+
+[SENTENCE NUMBER 54]
+S SRVR LVL
+[END]
+
+[SENTENCE NUMBER 55]
+M SRVR LVL
+[END]
+
+[SENTENCE NUMBER 56]
+Download tutorial-like data
+from blank opp. Noise!
+[END]
+

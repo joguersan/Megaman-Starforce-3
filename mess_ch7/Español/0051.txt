@@ -1,0 +1,289 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡¡Geo!!
+Geo, responde, por favor!!
+<PUSH>
+¡¡Maldita sea!!
+¡¡No me oye!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Ahora que nos hemos
+librado del Meteorito G...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡¡Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Vamos, Geo...
+<PUSH>
+Me prometiste que
+volverías...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Sr. Boreal, ¿no podemos
+hacer nada?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡Sr. Boreal!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Por el amor de Dios!!
+<PUSH>
+¡¿Es que nadie puede
+ayudarle?!
+<PUSH>
+¡¡Haré lo que sea si
+le salvan!!
+<PUSH>
+No me pegaré más atracones,
+estudiaré más, lo que sea...
+<PUSH>
+Por favor...
+<PUSH>
+¡¡Que alguien le ayude!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{01}{00}{16}{EC}{10}{E2}{73}{04}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bzzzz...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}.{15}{E1}.{15}{E1}.{15}{E1}?
+<PUSH>
+¿Y ese ruido?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Viene de mi <Hunter>.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Parece que todos tenemos
+un mensaje en nuestro
+<Hunter>.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+Y no solo nosotros.
+<PUSH>
+Todas las personas del
+planeta han recibido una
+retransmisión en sus <Hunter>.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¿Qué está pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{16}{EC}{10}{E2}{73}{04}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Bzzzzz{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} Gentes de la Tierra{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1} ¿Me recibís?{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+E-Esa voz...
+¿No será{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡¡Kelvin!!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}El Meteorito G ha sido
+destruido...
+<PUSH>
+Por un joven...
+<PUSH>
+que quería proteger a
+aquellos a los que quería...
+<PUSH>
+Él siempre creyó en nosotros,
+y jamás se rindió...
+Él... nos ha salvado a todos...
+<PUSH>
+Sin embargo...
+En estos momentos, ese joven
+está solo y perdido en el espacio.
+<PUSH>
+Ese chico es{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Mi hijo, y para mí es lo
+más importante del mundo...
+Quiero{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Que vuelva con sus amigos{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Con su madre...
+Geo{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¡¡Kelvin!!
+<PUSH>
+¡¡N-No me lo puedo creer!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Hope...
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Geo ha luchado él solo,
+arriesgando su vida para
+<PUSH>
+que nosotros podamos vivir
+las nuestras al máximo.
+<PUSH>
+Necesito{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+que todos vosotros{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Recéis, deseéis u os
+imaginéis que Geo volverá
+sano y salvo a casa.
+<PUSH>
+Como ser humano...
+<PUSH>
+Como padre...
+<PUSH>
+Os lo suplico a todos{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+Por favor{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+{16}{EC}{10}{E2}{79}{04}
+<NEW-DIALOG>
+<Game>
+Bzzzzz...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Se ha cortado la transmisión{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+.{15}{E1}.{15}{E1}.{15}{E1} Kelvin tiene razón.
+¡Geo aún nos necesita!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Chicos, ya le habéis oído!
+<PUSH>
+¡¡Vamos a hacer lo que
+podamos para traer a Geo
+de vuelta a la Tierra!!
+<PUSH>
+
+<NEW-DIALOG>
+4¡¡A todo el personal de
+la Naza y oficiales de la
+Policía Satella!!
+<PUSH>
+¡¡Tenéis que hacer lo que
+esté en vuestra mano para
+rescatar a Geo Stelar!!
+<PUSH>
+¡Quiero ideas, estrategias!
+¡¡Ya!!
+<PUSH>
+¡¡Solo tengo una condición!!
+<PUSH>
+¡¡No os rindáis!!
+<PUSH>
+¡¡Venga, a trabajar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

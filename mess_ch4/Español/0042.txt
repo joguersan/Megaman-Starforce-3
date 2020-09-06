@@ -1,0 +1,232 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Las copias entrarán de
+un momento a otro...
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Si no conseguimos detenerlas
+y llegan al ordenador central...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+D-Dele{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡N-No digas eso!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Eso no va a pasar!
+<PUSH>
+¡Megay yo nos ocupamos
+de esta zona!
+<PUSH>
+¡Vosotros id con la
+Dra. Goodall a proteger
+el ordenador central!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+Entendido...
+<PUSH>
+¡Bud, Zack!
+¡Vamos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Uuuoo!
+¡Dele, yo te protegeré!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Bud>
+¡Mmmrrrggg!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡¿Eh?!
+¡¿Pero qué acabo de...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ha vuelto a hacer un
+Cambio de Onda EM!
+<PUSH>
+¡Parece que nos vamos
+a llevar bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No se va a poner como
+loco otra vez...{15}{E1} ¿No?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+No lo sé...
+<PUSH>
+Pero creo que Bud
+sabrá controlarse.
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Taurus.Fire>
+¡¡Uuuoo!!
+¡Mi poder es increíble!
+<PUSH>
+¡Mega Man!
+¡¡Déjame a mí estazona!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Deberías ir con los demás!
+<PUSH>
+¡Un novato del Cambio de
+Ondas EM nos causaría más
+problemas que otra cosa!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¡¿Q-Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡U-Un momento, Bud!
+<PUSH>
+Tú eres nuestra{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+¡Nuestra{15}{E1} última defensa!
+<PUSH>
+¡Eres{15}{E1} nuestra última defensa!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Bfff, bfff...
+<PUSH>
+La última...{16}{E1} ¿defensa?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+<PUSH>
+¿Si nos pasa algo a nosotros,
+quién defenderá el
+ordenador central?
+<PUSH>
+Harp Note no podrá con todos
+y Zack no puede transformarse.
+<PUSH>
+¡Necesitamos tu fuerza en
+esta batalla!
+<PUSH>
+¡Por favor! ¡¡Protege
+el ordenador central!!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+V-Vale...
+<PUSH>
+Si me lo pides así,
+no puedo negarme...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ja. Qué simple es el chico.
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+¿Eh? ¿Has dicho algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡N-No, qué va!
+¡Vale, chicos! ¡En marcha!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Así se hace, chaval!
+¡Sabía que eras listo, pero
+ahí te he visto rápido!
+<PUSH>
+¡Si se pusiera en plan rodeo
+con nosotros en una sala
+tan pequeña...!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, bueno, pero...
+<PUSH>
+No quiero que hagan daño
+a mis amigos...
+<PUSH>
+¡De aquí no va a pasar
+nadie!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien dicho!
+<PUSH>
+¡¿Estás listo?!
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{01}{00}{03}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<NEW-DIALOG>
+<Mega>
+¡Chaval, date prisa!
+¡Cuando estés listo, dímelo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

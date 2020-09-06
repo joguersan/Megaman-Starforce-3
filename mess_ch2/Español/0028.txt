@@ -1,0 +1,210 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Hemos recolectado bastante
+Carmesí...
+<PUSH>
+El Sr. King estará
+contento.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Buen trabajo, Geo.
+<PUSH>
+El proycetor ha vuelto a
+la normalidad gracias a ti.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Cómo va el concierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Va como la seda.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Genial...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Ice...
+¿Por qué has hecho
+algo así?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}!{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+Por ti, Belle...
+<PUSH>
+Con Sonia fuera de juego,
+podrías llegar a la cima.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡¡Yo no te lo he pedido!!
+<PUSH>
+¡¿Crees que alguien que
+hace daño a los demás
+será popular y querido?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡Eres demasiado buena!
+¡No puedes entenderlo!
+<PUSH>
+No llegarás a nada en
+el mundo del espectáculo
+sin mancharte las manos.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡No es verdad!
+<PUSH>
+¡Eres tú la que no lo
+entiende!
+<PUSH>
+¡¿Dices que Sonia
+ha llegado a donde está
+<PUSH>
+pasando por encima de
+todo el mundo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡¡Pero...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Sonia jamás ha hecho
+algo así!
+<PUSH>
+¡Se esfuerza al máximo para
+hacer feliz a la gente!
+<PUSH>
+¡Y por eso la admiran tanto
+y tiene millones de fans!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Ella no haría daño
+a una mosca.
+<PUSH>
+Sonia no es solo nuestra
+rival, sino nuestro
+modelo a seguir...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Belle...
+Lo siento mucho...
+<PUSH>
+He perdido el rumbo.
+<PUSH>
+No soy digna de ser
+tu representante.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Eso no es verdad...
+<PUSH>
+Nadie se preocupa por
+mí tanto como tú.
+<PUSH>
+Ice...
+<PUSH>
+Seguramente solo te dé
+problemas, pero, ¿seguirás
+siendo mi representante?
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¡Belle!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Solo tú puedes ser
+mi representante...
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+Lo siento mucho, Belle...
+Gracias...
+<PUSH>
+Soy muy feliz de poder
+ser tu Wizard.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Parece que todo
+se ha arreglado.
+<PUSH>
+Por un momento me había
+preocupado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Ya me ocupo yo del resto,
+Geo. Ve al concierto.
+<PUSH>
+Está a punto de acabar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

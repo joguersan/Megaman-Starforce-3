@@ -1,0 +1,18 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tRound and round and round.
+Recycle!
+Round and round and round.
+<PUSH>
+Round and round and
+round and round and round.
+I'm a little dizzy now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

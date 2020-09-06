@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "1"
+msgid ""
+"Time    \n"
+"Library \n"
+"BtlCards\n"
+"Credits "
+msgstr ""
+"Tiempo    \n"
+"Colección \n"
+"Cartas\n"
+"Créditos "
+
+msgctxt "2"
+msgid "     {e128}{3}:{e129}{2}"
+msgstr "     {e128}{3}:{e129}{2}"
+
+msgctxt "3"
+msgid " {e124}{3}  {e125}{2}  {e126}{1}"
+msgstr " {e124}{3}  {e125}{2}  {e126}{1}"
+
+msgctxt "4"
+msgid "     {e124}{5}"
+msgstr "     {e124}{5}"
+
+msgctxt "5"
+msgid "    {e124}{6}{3a8}"
+msgstr "    {e124}{6}{3a8}"
+
+msgctxt "6"
+msgid "x{e122}{2}"
+msgstr "x{e122}{2}"
+
+msgctxt "7"
+msgid "{e127}{4}"
+msgstr "{e127}{4}"
+
+msgctxt "8"
+msgid " "
+msgstr " "
+
+msgctxt "9"
+msgid "."
+msgstr "."
+
+msgctxt "10"
+msgid "Luna"
+msgstr "Luna"
+
+msgctxt "11"
+msgid "Sonia"
+msgstr "Sonia"
+
+msgctxt "12"
+msgid "Bud"
+msgstr "Bud"
+
+msgctxt "13"
+msgid "Zack"
+msgstr "Zack"
+
+msgctxt "14"
+msgid "Ace"
+msgstr "Ace"
+
+msgctxt "15"
+msgid "Woody"
+msgstr "Woody"
+
+msgctxt "16"
+msgid "Lee"
+msgstr "Lee"
+
+msgctxt "17"
+msgid "Dr. G"
+msgstr "Dra. G"
+
+msgctxt "18"
+msgid "Don"
+msgstr "Don"
+
+msgctxt "19"
+msgid "Fany"
+msgstr "Fany"
+
+msgctxt "20"
+msgid "Onda"
+msgstr "Onda"
+
+msgctxt "21"
+msgid "Hamer"
+msgstr "Hamer"
+
+msgctxt "22"
+msgid "Jax"
+msgstr "Jax"
+
+msgctxt "23"
+msgid "Trish"
+msgstr "Trish"
+
+msgctxt "24"
+msgid "Gian"
+msgstr "Gian"

@@ -1,0 +1,393 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien!
+¡Hemos llegado!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+¡Por aquí podremos entrar
+al servidor del agujero negro!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Seguro que Sirio está dentro...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ya le tenemos!
+<PUSH>
+¡Vamos allá!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Solo!
+¡¿Qué haces tú aquí?!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+He venido a por Sirio.
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Gzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No tengo ni idea de
+por qué le conoces,
+pero vamos juntos!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+No...
+<PUSH>
+Tú y yo vamos a luchar...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué? ¿Por qué?{16}{E1} Si yo también
+quiero para a Sirio.
+<PUSH>
+Con nuestros poderes
+combinados...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Ja... No me hables otra
+vez de vínculos...
+<PUSH>
+Tal vez lo entiendas
+cuando escuches esto.
+<PUSH>
+Estoy esperando para detener
+a Sirio...
+{16}{E1}En dos días.
+<PUSH>
+{13}{E2}{03}{00}
+<NEW-DIALOG>
+<Megaman>
+¿Eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chaval, para entonces ya
+será tarde! ¡El Planeta FM
+será destruido!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Rogue, ¿qué estás tramando?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Voy a recuperar el metal
+de Mu que robó Sirio.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y por qué vas a
+esperar dos días?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Porque Sirio ha absorbido
+el metal de Mu.
+<PUSH>
+Y cada cierto tiempo,
+sale de su cuerpo en forma
+de blasón.
+<PUSH>
+El ciclo actual
+terminará en dos días...
+<PUSH>
+Voy a derrotarlo y
+recuperar el metal de Mu.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Y si lo eliminas antes?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+El metal de Mu se perdería
+para siempre junto con él.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ese metal de Mu es muy
+importante para ti, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Sí. Y debo recuperarlo
+yo mismo...
+<PUSH>
+Por mi pueblo...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Si fusionara el metal de Mu
+con el filo de la Hoja
+de Laplace.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿?
+¿Qué ocurriría?
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Brzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Bien dicho, Laplace.
+<PUSH>
+No es de tu incumbencia.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Da igual...
+Si intentas pasar
+de aquí...
+<PUSH>
+Tendré que detenerte.
+<PUSH>
+¿Qué me dices?
+<PUSH>
+¿Crees que puedes derrotarme
+para ir a por Sirio?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+El Planeta FM o Mu...
+¿Cuál de los dos
+se salvará?
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Rzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1} Rogue...
+<PUSH>
+Voy a derrotarte...{14}{E1}
+Y cumplir mi...{16}{E1}
+promesa con Cefeo.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Je...
+<PUSH>
+Parece que por fin tomas
+decisiones como un hombre.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+A veces las palabras no
+bastan para mantener la
+paz y la seguridad.
+<PUSH>
+A veces tienes que arriesgar
+tu vida por ellas...
+<PUSH>
+He aprendido eso de
+mi padre, Ace y Mega...
+<PUSH>
+Y de ti también, Solo.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¿De mí?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No reconoces ni formas
+vínculos con las
+personas del presente.
+<PUSH>
+Pero guardas tu vínculo
+con Mu en lo más profundo
+de tu corazón.
+<PUSH>
+No importa lo que se interponga
+en tu camino, arriesgarás
+tu vida por ese vínculo.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Las personas de esta época
+no entienden nada de Mu,
+<PUSH>
+por eso has tenido que proteger
+ese vínculo por medios no
+demasiado éticos...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+No te atrevas a hacer
+como si me entendieras.
+<PUSH>
+Voy a eliminarte porque
+será divertido.
+<PUSH>
+
+<NEW-DIALOG>
+{B1}{00}Dzzzt...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Cállate, Laplace.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+.{15}{E1}.{15}{E1}.{15}{E1}Rogue{15}{E1}... Entiendo.
+<PUSH>
+Jamás estaremos de acuerdo
+con nuestra visión de
+los sentimientos.
+<PUSH>
+Pero si los dos respetamos
+nuestros vínculos con
+los demás...
+<PUSH>
+debemos luchar para
+protegerlos.
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Exacto...
+<PUSH>
+Lo mejor sería proteger
+nuestros vínculos sin
+hacer daño a nadie.
+<PUSH>
+Pero la vida no es
+tan sencilla.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Por eso debo proteger
+mi vínculo con Cefeo!
+<PUSH>
+Solo, entiendo cómo
+te sientes. ¡Pero Cefeo
+<PUSH>
+me ha confiado el
+destino de su pueblo!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Entonces, comencemos...{15}{E1} Mega Man.
+<PUSH>
+Esta es...{15}{E1}
+Un duelo de honor...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Solo, no pienso perder!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

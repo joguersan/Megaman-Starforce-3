@@ -1,0 +1,557 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0A}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡¡Me encantaría tener el
+autógrafo de Belle!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{05}{16}{0B}{00}{0C}{E1}{00}{00}{31}{16}{03}{00}{0C}{E1}{01}{00}{52}{16}
+{0C}{E1}{01}{00}{51}{16}{07}{00}{0C}{E1}{01}{00}{50}{16}{07}{00}{0C}{E1}{01}{00}{4F}{16}{07}{00}{0C}{E1}{01}{00}{04}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿Eres fan de Sonia?
+¿O tal vez de Belle?
+<PUSH>
+¡Yo soy un gran fan de Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mmm...
+¿De verdad que eres tan fan
+de Belle?
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Seguramente sea la mayor
+fan de Belle del mundo!
+<PUSH>
+Sonia está siempre en boca
+de todos, pero Belle
+<PUSH>
+tiene un carácter especial
+y un encanto único.
+<PUSH>
+Por cierto, ¿de verdad
+conoces a Belle? ¡He oído
+que has hablado con ella!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+En ese caso, ¡¡te lo suplico!!
+<PUSH>
+¿Podrías pedirle que me
+dedicara un autógrafo?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Conseguirle su autógrafo?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡¿De verdad?!
+<PUSH>
+¡Genial!
+¡No me lo puedo creer!
+<PUSH>
+¡Estoy que no quepo en mí!
+<PUSH>
+{0A}{E1}{04}{16}{0A}{E1}{4F}{16}{20}{EC}{D2}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Angel.Wise>
+Supongo que era pedirte
+demasiado...
+<PUSH>
+{0B}{E1}{31}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+El autógrafo de Belle...
+¡Qué emoción!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar la petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡¿Cómo?!
+¿Que no puedes conseguirlo?
+Pues qué mal...
+<PUSH>
+{0B}{E1}{31}{16}{0B}{E1}{04}{16}{0B}{E1}{05}{16}{0B}{E1}{4F}{16}{0B}{E1}{50}{16}{0B}{E1}{51}{16}{0B}{E1}{52}{16}{82}{E1}<(Queen)Tia>
+{FF}{FF}{82}{E1}<Joker>
+{FF}{FF}{21}{EC}{D2}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Te estaré esperando!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+He vuelto.
+<PUSH>
+Y tengo el autógrafo de
+Belle.
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Oh.{16}{E1} Dios.{16}{E1} ¡Mío!{16}{E1}
+<PUSH>
+¡¡Es el autógrafo de Belle
+de verdad!!
+¡Qué pasada!
+<PUSH>
+¡Muchísimas gracias, Geo!
+¡Sé mi Hermano, porfi!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Claro, sin problema.
+<PUSH>
+{6E}{E1}{00}{00}:
+<NEW-DIALOG>
+<Game>
+¡Geo y {DA}{E2}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿Pero qué...?
+Em, encima de su firma pone
+«Para Geo»...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Maldita sea!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{05}{16}{82}{E1}<Joker>
+{FF}{FF}{21}{EC}{D2}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Jamás dejaré de ser la mayor
+fan de Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{0C}{E1}{01}{00}{52}{16}{10}{00}{0C}{E1}{01}{00}{51}{16}{0F}{00}{0C}{E1}{01}{00}{50}{16}{0E}{00}{06}{E1}{0D}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+¡Oh!...
+<PUSH>
+Eres amigo de Sonia,
+¡¿verdad?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí! ¡Encantado!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Encantada yo también!
+Te llamas Geo, ¿verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Guau!
+¿Sabes cómo me llamo?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+S-sí.
+<PUSH>
+{13}{EC}(Sonia siempre está hablando
+ sobre ti, por lo que es difícil
+ olvidarme de tu nombre.)
+<PUSH>
+Por cierto, ¿qué haces hoy
+por aquí?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, verás...
+Mmm, no sé cómo decirte
+esto, pero...
+<PUSH>
+Necesito tu autógrafo.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Corazón a mil.)
+{13}{EC}(¿Habré sido muy
+ repentino?)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Claro, sin problema!
+<PUSH>
+¡Me alegra poder ayudar a
+un amigo de Sonia!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Genial.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Sin embargo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Me gustaría pedirte algo
+también.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Esto no me lo esperaba.)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Hace poco, Mega Man salvó a
+Ice de una desgracia.
+<PUSH>
+¡Y ahora soy una gran fan
+suya!
+<PUSH>
+Así que esperaba que me
+consiguieras su autógrafo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(Mmm...
+ ¡¿Sabrá que soy
+ Mega Man?!)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+Sonia me insinuó que tal
+vez podrías ayudarme.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ja, ja...
+Ya veo.
+{13}{EC}(¡Sonia!...)
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¿Te importaría hacer eso
+por mí?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+En absoluto...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Solo tienes que firmar un
+ papel o algo así, ¿no?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Quédate aquí sentada un rato.
+Hablaré con Mega Man, pero
+podría tardar un poquito.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Genial!
+<PUSH>
+Se me está pegando la actitud
+de Ice. No puedo creer que se
+lo haya pedido sin rodeos.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¿Qué debería hacer?)
+<PUSH>
+{13}{EC}(Si se lo firmo en mi
+ estado actual, solo será el
+ autógrafo de Geo Stelar...)
+<PUSH>
+{0A}{E1}{50}{16}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Siento mucho haberte pedido
+tanto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí lo tienes.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+¡Hala!
+<PUSH>
+¡Al final conseguiste el
+autógrafo de Mega Man!
+<PUSH>
+¡Déjame darte el mío a cambio!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ras, ras.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Debe estar harta de
+ firmar cosas...)
+<PUSH>
+{82}{E1}<Joker>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8F}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Muchas gracias. ¡Sé que estás
+muy ocupada!
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+No te preocupes. ¡Por un amigo
+de Sonia, lo que sea!
+<PUSH>
+{0A}{E1}{52}{16}{82}{E1}<(Queen)Tia>
+{FF}{FF}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Belle>
+Estemos siempre ahí para
+ayudar a Sonia cuando nos
+necesite.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Nunca antes había firmado un
+autógrafo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, je...
+¡Déjamelo a mí!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ni hablar.
+<PUSH>
+Hasta a mí me quedaría algo
+más bonito.
+<PUSH>
+
+<END-DIALOG>
+{78}{E1}{04}{00}{01}{00}{79}{E1}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Bien, ya está!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Te ha salido un poco chungo,
+¿no te parece?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Lo he hecho lo mejor que he
+podido! Vamos a llevárselo
+a Belle.
+<PUSH>
+{0A}{E1}{51}{16}{82}{E1}<(Queen)Tia>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8E}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Una foto hubiera estado mejor
+que una simple hoja...
+<PUSH>
+
+<END-DIALOG>
+
+[END]

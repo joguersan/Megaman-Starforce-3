@@ -1,0 +1,275 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Alriiiiight!
+<PUSH>
+The winner of this year's
+Wave Battle Tournament
+<PUSH>
+is A.C. Eos and his battle
+wizard, Acid!
+<PUSH>
+I've never seen so many
+veterans beat so easily!
+What a performance!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+It wasn't anything at all!
+<PUSH>
+No one can take on Acid
+and I!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I-It's over already!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+We were only ten minutes
+late! What's up with that!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Let me check with Pedia
+on the results!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+You can count on me!
+Just give me a second!
+<PUSH>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+I don't believe it!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+What is it, Pedia?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+That Eos guy's Wizard...
+<PUSH>
+He defeated 60 Wizards in
+a row!
+<PUSH>
+On top of that...
+<PUSH>
+Not only did he receive an
+S Busting Level, but he
+<PUSH>
+won each match in less
+than five seconds!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+N-No way...
+How is that possible?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That's no normal Wizard...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+They said the Wizard's name
+was "Acid", right?
+<PUSH>
+Who the heck does he
+think he is!? I'll take him
+any time, any place!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Ladies and gentlemen...
+It's now time for the main
+event!
+<PUSH>
+This year's champion will go
+up against the planet's
+greatest hero...
+<PUSH>
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+The same Mega Man who
+has saved the Earth twice
+now?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+No way! He's here?
+<PUSH>
+{16}{EC}{10}{E2}{3B}{03}
+<NEW-DIALOG>
+<Game>
+Go Go Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Umm...
+He's really coming, right?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Oh, he'll show up...
+<PUSH>
+And with the crowd this
+excited there's no way he
+<PUSH>
+can back down. Isn't that
+right, Geo Stelar?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+*munch, munch*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+He hasn't given us any
+way out of this one...
+He's pretty good!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+What do you think, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I have no choice really.
+<PUSH>
+Whether I win or lose, if
+this is what it takes to
+<PUSH>
+get the Giga Energy Card,
+then I'll do it.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+If you think you're going
+to lose, get out of here.
+<PUSH>
+We really need that Giga
+Energy Card but...
+<PUSH>
+It's not worth you getting
+hurt over it...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Don't worry, I'll be fine...
+Probably.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Don't even think for a
+second that we can lose
+to that guy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+{07}{E1}{00}{00}<Geo>
+{07}{E1}{01}{00}
+{17}{EC}{01}{00}
+<NEW-DIALOG>
+<Game>
+Transcode!{01}{E1}
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

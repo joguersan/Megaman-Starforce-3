@@ -1,0 +1,14 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{10}{E2}{CB}{00}
+<NEW-DIALOG>
+<Game>
+You got Key Item
+"{88}{E5}"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

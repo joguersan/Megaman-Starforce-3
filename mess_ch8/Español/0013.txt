@@ -1,0 +1,187 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sirius>
+Jajaja...
+<PUSH>
+Bienvenido, Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Eres Sirio!{15}{E1}
+Cómo te atreves...
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Hacía mucho tiempo que
+no tenía invitados.
+<PUSH>
+Oh, puede que... cien años o más.{15}{E1}
+Sí, creo que sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¡¡Déjate de murmullos
+y no nos ignores!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+...
+<PUSH>
+En mi colección no hay
+hueco para un ser EM
+tan maleducado.
+<PUSH>
+Mega Man quedará mucho
+mejor en mi estantería.
+<PUSH>
+Bueno, Mega Man...
+No te muevas, por favor.
+Voy a quebrar tu voluntad.
+<PUSH>
+Después te haré luchar
+contra todo tipo de
+seres EM...{16}{E1}
+<PUSH>
+¡Siempre es un placer
+presenciar tus combates!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Quiere convertirnos
+en sus juguetes...
+<PUSH>
+Este tipo... {15}{E1}está loco.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No dejaré que te
+acerques a mí!
+<PUSH>
+¡Sirio, te haré pagar por
+todo lo que has hecho!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+¡Oh! {14}{E1}¡Fantástico!{15}{E1}
+¡Se me ha ocurrido una cosa!
+<PUSH>
+¡El Planeta FM será tu
+primer campo de batalla!
+<PUSH>
+Hazme un favor y «desfógate»
+todo lo que quieras.
+<PUSH>
+Me hubiera encantado ver
+a los habitantes del planeta
+caer presa del pánico...
+<PUSH>
+Pero supongo que destruirlo
+por completo también
+será divertido.
+<PUSH>
+Tnego muchos planetas
+para jugar.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Las vidas de las personas...
+Los planetas...
+No son juguetes.
+<PUSH>
+¿Nunca te has parado a
+pensar en el dolor que
+<PUSH>
+estás causando a toda
+esa gente?
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Toda la vida de este planeta
+dejará de existir.
+<PUSH>
+Un agujero no necesita
+algo tan fútil como las
+emociones.
+<PUSH>
+Deberías... estar contento.
+<PUSH>
+Vivirás en la oscuridad
+por toda la eternidad.
+<PUSH>
+Serás mío.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Y a eso le llamas vivir?!
+<PUSH>
+¡Para eso mejor no existir!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+.{15}{E1}.{15}{E1}.{15}{E1} Ya veo.
+¿No puedo hacerte cambiar
+de opinión?
+<PUSH>
+No quiero tener que detenerte
+sin hacerte daño. Sería
+bastante molesto.
+<PUSH>
+No será fácil jugar
+contigo si estás herido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Es que nunca te callas?!
+¡No tienes nada que
+hacer contra nosotros!
+<PUSH>
+
+<NEW-DIALOG>
+<Sirius>
+Tengo control total
+sobre servidor.
+<PUSH>
+¿Te das cuenta de eso?
+<PUSH>
+No tienes ninguna
+oportunidad de detenerme.
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1} Pero algunos niños
+necesitan una reprimenda
+para aprender.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Chaval, aquí viene!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Estoy listo!
+Nosotros...{16}{E1}
+¡¡venceremos!!
+<PUSH>
+¡Último combate!{14}{E1}
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

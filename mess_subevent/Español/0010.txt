@@ -1,0 +1,253 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0A}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Me encantaría encontrar a
+alguien que examinara una
+cámara de vigilancia por mí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{13}{16}{0B}{00}{0C}{E1}{00}{00}{38}{16}{03}{00}{0C}{E1}{01}{00}{7B}{16}
+{0C}{E1}{01}{00}{12}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+Qué raro...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+Tenemos una cámara de
+vigilancia en el ojo de la
+<PUSH>
+estatua del dragón de la
+playa de <Alohaha>, pero...
+<PUSH>
+Solo graba a las chicas
+en bikini. Al igual se
+ha roto o algo así.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+¿Qué te parece si le echo un
+vistazo a la estatua por ti?
+<PUSH>
+
+<NEW-DIALOG>
+0Sería genial. Infórmame
+en cuanto sepas algo,
+por favor.
+<PUSH>
+{0A}{E1}{12}{16}{0A}{E1}{78}{16}{20}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+0Ya veo...
+Debes tener algo más
+importante que hacer...
+<PUSH>
+{0B}{E1}{38}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿En serio? ¿Por qué?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+0Ya veo...
+Debes tener algo más
+importante que hacer...
+<PUSH>
+{0B}{E1}{38}{16}{0B}{E1}{12}{16}{0B}{E1}{13}{16}{0B}{E1}{78}{16}{0B}{E1}{79}{16}{0B}{E1}{7A}{16}{0B}{E1}{7B}{16}{21}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+0Sé cuidadoso en esta misión.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Le he echado un vistazo a la
+cámara de vigilancia. Ya
+funciona correctamente.
+<PUSH>
+
+<NEW-DIALOG>
+0Buen trabajo, joven agente.
+<PUSH>
+Ahora podremos vigilar toda
+la playa y prevenir cualquier
+tragedia.
+<PUSH>
+Acepta esto, por favor.
+<PUSH>
+{85}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{E1}{E5}»!
+<PUSH>
+¡Han aumentado tus PV
+máximos!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{13}{16}{21}{EC}{D9}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Ahora podremos vigilar toda
+la playa y prevenir cualquier
+tragedia.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Se puede saber qué haces?!
+<PUSH>
+{A0}{E1}{04}{00}
+
+<NEW-DIALOG>
+{97}{00}¡¿Y-y-y tú quién eres?!
+¡No me des esos sustos!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Aquí las preguntas las hacemos
+nosotros! ¡¿A qué viene esa
+obsesión con los bikinis?!
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}¡¿C-cómo?!
+<PUSH>
+P-pero si tan solo estoy...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Tan solo estás...?
+<PUSH>
+
+<NEW-DIALOG>
+{97}{00}Tan solo estoy...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿«Tan solo estás» qué?
+<PUSH>
+{A0}{E1}{04}{00}{96}{00}
+<NEW-DIALOG>
+{97}{00}¡¡Cállate!!
+¡Fuera de mi vista!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Allá vamos, chaval!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{79}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Menudo combate...
+<PUSH>
+La cámara de vigilancia ya
+debería funcionar bien.
+<PUSH>
+Vayamos a informar sobre ello.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{7B}{16}
+[END]

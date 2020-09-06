@@ -1,0 +1,242 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Several Days Earlier...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Hey, King!
+<PUSH>
+What the heck are you
+up to!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Why, whatever do you mean,
+my dear Jack?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Don't play dumb with me!
+<PUSH>
+When are you going to save
+Sis!?
+<PUSH>
+And you better not say you
+don't have anything planned!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Now now, try not to get all
+flustered, Jack...
+<PUSH>
+I am currently considering
+what to do about your
+sister...!
+<PUSH>
+After all, she is my precious
+daughter{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+I would be a horrible father
+if I didn't rescue her!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+So then...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mr.King-2>
+However!! I have determined
+that this is not the proper
+time to do so, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+W-What...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+While we have struck WAZA
+a devastating blow...
+<PUSH>
+And it appears that the
+world is already in our hands,
+<PUSH>
+we have not scored a
+checkmate just yet.
+<PUSH>
+There's still Mega Man and
+Eos...{15}{E1}
+<PUSH>
+And a few other annoying
+little insects to deal with.
+<PUSH>
+The tide will turn even
+more in our favor if our
+next move is the right one.
+<PUSH>
+Maybe you should think about
+it like a strategy you use in
+a video game...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Argh!
+<PUSH>
+Then hurry up and give me
+my next orders!
+<PUSH>
+I'll take down every last one
+of them!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Oh, Jack...
+<PUSH>
+I am sorry to let you down,
+but this time I think I will
+have Joker go for me.
+<PUSH>
+You have just been too
+hot-headed, as of late.
+<PUSH>
+If this move is not perfectly
+followed through, then Queen
+<PUSH>
+Tia could fall into great
+danger.
+<PUSH>
+I hope you understand what
+I am saying, my dear son!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Heartless...
+<PUSH>
+How are the preparations
+going?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sir...
+<PUSH>
+The Noise creation program
+will be completed very soon.
+<PUSH>
+But the tuning of the Noise
+Level controller is taking
+some time.
+<PUSH>
+The Noise to Real Wave
+process is not going very
+smoothly.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hmm...
+<PUSH>
+So the program has proven
+too much for those
+simpletons to handle, has it?
+<PUSH>
+Ho ho ho ho!
+<PUSH>
+That is fine.{15}{E1}
+I will complete the program...!
+<PUSH>
+With these very hands!
+<PUSH>
+Ho ho ho ho ho ho!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...Man!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+That jerk...
+<PUSH>
+There's no way that he is
+really worried about Sis!
+<PUSH>
+I bet that he isn't planning
+on saving her at all!!
+<PUSH>
+So that means...
+<PUSH>
+I'll just have to do it all by
+myself!!
+<PUSH>
+I'm going to save you, Sis!!
+<PUSH>
+...Just hang in there a little
+while longer for me.
+<PUSH>
+First, I have a score to
+settle...
+<PUSH>
+Mega Man will pay for what
+he did to you!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

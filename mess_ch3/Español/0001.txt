@@ -1,0 +1,416 @@
+[SENTENCE NUMBER 1]
+{12}{E2}{15}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+La estrella fugaz roja que
+hará realidad nuestros
+deseos...
+<PUSH>
+Como siempre, brilla de
+forma majestuosa...
+<PUSH>
+Pronto, nos concederá a mí
+y a nuestra organización,
+Dealer, un gran poder...
+<PUSH>
+¿No crees, Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Es tal y como usted
+dice, Sr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+Queen Tia, Jack...
+<PUSH>
+Habéis hecho un buen
+trabajo en el <Studi.WBG>.
+<PUSH>
+Estoy complacido.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Muchas gracias...
+Sr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+El Sr. King está complacido
+porque la cantidad de
+Carmesí generada por
+<PUSH>
+Diamond Ice fue mayor
+de la esperada.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Cuando mi gran intelecto
+se una al Carmesí, la
+estrella fugaz roja,
+<PUSH>
+el Meteorito G, estará
+bajo nuestro control...
+<PUSH>
+Y todas las gentes de
+este planeta se arrodillarán
+ante Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Cuando descubran lo que
+pasará si el Meteorito G
+impacta contra la Tierra
+<PUSH>
+nadie se opondrá a
+nuestros deseos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Incluso los humanos, pese a
+su estupidez, guardarán
+silencio.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Y ya ha recibido incontables
+correos de niños
+<PUSH>
+mostrándole su gratitud.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ja, ja, ja...
+Estoy complacido.
+<PUSH>
+Todos mis planes están
+yendo a la perfección...
+<PUSH>
+Nadie duda de mí...
+<PUSH>
+Y ahora poseo un
+antiguo poder...
+<PUSH>
+Jajaja...
+<PUSH>
+Se acerca el día
+del juicio...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Me abuuurrooo...
+<PUSH>
+What I really want to hear
+is you telling me I'm allowed
+to go take out Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Bueno, bueno.
+¿Te has pillado una
+pataleta?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Pfft!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Tranquilízate, Jack.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Estás siendo grosero
+con el Sr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Tú cierra el pico.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack, ¿qué has dicho?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Menuda perdida de tiempo
+lo de investigar a Mega Man.
+<PUSH>
+Vamos a cargárnoslo
+y punto.
+<PUSH>
+Será fácil ahora que no
+se lo espera. Si descubre
+nuestros planes...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+¡Jack, no sigas!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Argh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Me disculpo por las
+groserías de Jack,
+Sr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Je...
+Jack...
+<PUSH>
+¿Pasar tanto tiempo entre
+niños en esa escuela
+<PUSH>
+te ha vuelto débil?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¿Qué dices?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Mis plantes son perfectos.
+<PUSH>
+Si no te vas de la lengua,
+no habrá ningún problema.
+<PUSH>
+Y cuando tenga esa estrella
+fugaz en mis manos,
+<PUSH>
+esos apestosos humanos se
+arrodillarán ante Dealer.
+<PUSH>
+Sí... Los humanos son
+criaturas débiles, frágiles
+y estúpidas.
+<PUSH>
+Por eso siempre están
+haciéndose
+<PUSH>
+"Hermanos" y completando
+"Propósitos".
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Los humanos necesitan que
+yo gobiernes sobre ellos...
+<PUSH>
+Yo otorgaré una nueva
+vida a este planeta...
+<PUSH>
+Les mostraré el auténtico
+propósito de la vida...
+<PUSH>
+Los estúpidos humanos
+estarán bajo el control
+de Dealer
+<PUSH>
+cuando consiga el
+Meteorito G...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Heartless, mis órdenes...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Sí, señor.
+Estas son las órdenes
+del Sr. King.
+<PUSH>
+Queen Tia y Jack,
+seguiréis obteniendo
+información de Mega Man.
+<PUSH>
+Así como consiguiendo
+Carmesí.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Entendido.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Pft...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Joker...
+El Sr. King te dará una
+orden directa más tarde.
+<PUSH>
+Mantente a la espera.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Entendido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Estamos consiguiendo
+Carmesí sin parar!
+<PUSH>
+¡Pronto, el Meteorito G
+será todo nuestro!
+<PUSH>
+Now onto the first priority
+in our plans...
+<PUSH>
+¡Destruiremos el cuartel
+general de la NAZA y a la
+Policía Satella!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}La Policía Satella...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Cuando tengamos suficientes
+datos de Mega Man,
+completaremos nuestra
+<PUSH>
+arma definitiva... ¡Con su
+poder, aplastaremos a la
+NAZA y a la Policía Satella!
+<PUSH>
+No me decepciones,
+Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Sí, señor...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,378 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Satella Police Commandos...!?
+<PUSH>
+What the heck is that...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I-It's...
+<PUSH>
+Well, we were selected by
+Ace to fight along with the
+Satella Police...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Fight against{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Dealer!?
+<PUSH>
+I can understand Geo and
+Sonia, but you too, Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I told you this before, Zack!
+<PUSH>
+I'm not the same Bud that I
+used to be!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Ahem... Um...
+<PUSH>
+Sorry, Prez!
+<PUSH>
+We didn't mean to skip your
+speech practice...
+<PUSH>
+We know that tomorrow is a
+very big day for you...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Idiots...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+I mean, come on...
+<PUSH>
+You think that I don't
+understand that your work
+is more important!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Well...
+<PUSH>
+I suppose there really is no
+comparing a student body
+election to saving the world.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+E-Exactly...!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Umm...
+<PUSH>
+I'm sorry that I didn't tell
+you two earlier.
+<PUSH>
+I...{16}{E1} Well...{16}{E1} I...
+<PUSH>
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Prez>
+Just shut it, Bud!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+!?
+<PUSH>
+I-I'm sorry, Prez!
+Forgive me!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Don't. You. Get. It!?
+<PUSH>
+You don't have to apologize!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Huh...!?
+<PUSH>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Prez>
+I'm not mad at all...!
+<PUSH>
+Bud...
+<PUSH>
+You decided to work with the
+Satella Police all by yourself,
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y-Yeah...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Then be the best Satella
+Police Commando that you
+can be!
+<PUSH>
+Be the best Team member
+that you can be!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+P-Prez...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+And I mean that also as a
+member of "Luna 4 Prez".
+<PUSH>
+I expect you to be a heavily
+contributing member of both
+teams!
+<PUSH>
+There will be no slacking on
+your part! No excuses!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Prez...!
+You... You can count on me!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+Boosh!{16}{E1}
+"Luna 4 Prez" forever!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Haha!
+Good ol' Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+What about you, Geo!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Of course!{15}{E1}
+You can count on me!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Good!
+<PUSH>
+But...
+Sonia, can I count on you
+to look after these two?
+<PUSH>
+They're always getting in
+over their heads!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Hehe!
+They won't even blink without
+me knowing!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+It's from the Satella Police!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}{11}{00}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+1This communication is going
+out to all Commandos who
+are currently on active duty.
+<PUSH>
+We have confirmed that a
+number of viruses have
+appeared at <Studi.WBG>!
+<PUSH>
+Please head there immediately!
+<PUSH>
+We have commandeered the
+Wave Liner that runs from
+<Alohaha> to <Studi.WBG>!
+<PUSH>
+Unfortunately, that is the
+only Wave Liner we currently
+have access to...
+<PUSH>
+Noise has rendered all the
+others useless.
+<PUSH>
+Please get to <Alohaha> via
+the Astro Wave, and take
+the Wave Liner from there!
+<PUSH>
+And be careful...!
+<PUSH>
+Over and out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+They're attacking
+<Studi.WBG> now!?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Let's head out, Commandos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...We'll be back, guys!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Come back safe!
+<PUSH>
+I'll make sure Luna's speech
+practice goes smoothly...!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+You better come back in one
+piece!
+<PUSH>
+Do anything stupid and you'll
+have to deal with me!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Got it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Alright!
+Our first stop is the
+Astro Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

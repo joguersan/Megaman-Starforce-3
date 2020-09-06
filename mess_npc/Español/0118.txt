@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tCon las pantallas más grandes,
+<PUSH>
+¡ni te imaginas el trabajo que
+tenemos los Hercios!
+<PUSH>
+No, en serio.
+Ojalá estuviera en
+una pantalla más pequeña.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

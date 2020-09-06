@@ -1,0 +1,359 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Done!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Is everyone finished?
+<PUSH>
+OK, now I'll explain the
+pop-up system to everyone.
+<PUSH>
+Please get into small
+groups.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Is everyone ready?
+<PUSH>
+OK, I'm going to start the
+explanation now.
+<PUSH>
+As I'm sure everyone
+already knows...
+<PUSH>
+There is a massive amount
+of information in the world.
+<PUSH>
+Actually, there is too much
+information for people to
+handle.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I so understand that!
+<PUSH>
+My room is so messy that
+I can't find my pants in
+the morning!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's because your room looks
+like it got hit by a tornado,
+<Bud-color>!
+<PUSH>
+You really need to clean it
+up big time!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Watch it, <Zack-color>!
+It's MY room!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Haha, actually Bud gave a
+good example.
+<PUSH>
+In short...
+<PUSH>
+When you need to find
+something quickly, there is
+no time to waste.
+<PUSH>
+And it's very hard to find
+what you need in a huge
+pile of data.
+<PUSH>
+The new pop-up system
+makes finding things much
+easier.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A-Awesome!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Mr. Shepar!
+<PUSH>
+When is the pop-up system
+accessible?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Why don't you try talking
+to the people in your
+group?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+OK! Geo, can you try saying
+something to me, please?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sure.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What's up?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo>
+Whoa!
+Something popped up on
+the bottom screen!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+What just appeared on
+everyone's <Hunter>-VG is
+called a pop-up.
+<PUSH>
+As I said earlier, a pop-up
+shows you important
+information.
+<PUSH>
+This pop-up is showing who
+you're talking to.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Their school emblem even
+pops up above.
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Touching the pop-up will
+make more information
+about the person appear.
+<PUSH>
+Why don't you try touching
+the pop-up?
+{0A}{E1}{84}{02}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Cool!
+Even if we just met for
+the first time, I would
+<PUSH>
+know she is Mary McLovin
+from Echo Ridge Elementary.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+There are also many other
+pop-up types.
+<PUSH>
+For example, standing in
+front of an elevator will
+make choices appear.
+<PUSH>
+Touch the desired destination
+to go there automatically.
+<PUSH>
+The more you try it, the
+quicker you will get used
+to it.
+<PUSH>
+OK, that's everything for
+now! If you have questions
+<PUSH>
+about your <Hunter>-VG or
+EM waves, please feel
+free to ask.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Oh! Before class ends
+I have one last thing
+I have to mention.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+The upgrade deleted your
+Brother Bands.
+<PUSH>
+Don't forget to re-form
+Brother Bands with your
+close friends!
+<PUSH>
+Everyone be safe on the
+way home!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+So my Brother Bands have
+been deleted...
+<PUSH>
+I better go re-form them
+with Bud, Zack and <Prez-color>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Hey{13}{E1}.{13}{E1}.{13}{E1}. Kid{13}{E1}.{13}{E1}.{13}{E1}.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...?
+<PUSH>
+(What's up, <Mega-color>?)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Is it OK if I come out
+ for a bit?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(What? No way!)
+<PUSH>
+(People will notice if you
+ come out here!)
+<PUSH>
+(It's different now that
+ people can see you!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Well, then get us to a
+ place where it won't be
+ a problem!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Hmph! What's the big hurry
+ all of a sudden, anyway?)
+<PUSH>
+(I have some questions
+ that I want to ask
+ Mr. Shepar...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Go ahead, but let's get
+ outta here ASAP!)
+<PUSH>
+(If you forget anything,
+ just press the L Button
+ and I'll help you out!)
+<PUSH>
+(I'll make sure you know
+ what you need to do!
+ Got it!?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, I got it...
+<PUSH>
+(So where's a place I can
+ go that Mega won't be
+ noticed...?)
+<PUSH>
+(Hmm, how about the roof?)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

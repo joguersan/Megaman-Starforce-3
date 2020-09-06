@@ -1,0 +1,99 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+At The Same Time...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+The report, sir.
+<PUSH>
+It appears...
+<PUSH>
+That Jack has stolen the
+Noise creation program.
+<PUSH>
+What should be done?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+Jack{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+How dare you...
+<PUSH>
+Yet, let us make something
+good out of this incident.
+<PUSH>
+Let us have an experiment.
+<PUSH>
+Joker!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Sir...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Watch Jack.
+<PUSH>
+If he goes even the
+slightest bit over board...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Eliminate him.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+...As you say, Mr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

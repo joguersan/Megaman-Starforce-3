@@ -1,0 +1,167 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Dónde estamos?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Jamás había visto
+esta Disonancia.
+<PUSH>
+¿Pero qué...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{7F}{00}Ugh... Uff...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}¿D-Dónde estoy?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pues estás en...
+No tengo ni idea, la verdad.
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}Ya veo...
+<PUSH>
+Necesito que este mensaje
+llegue a la Tierra.
+<PUSH>
+Es una llamada de emergencia
+de mi planeta natal...
+<PUSH>
+Pronto destruirá a todos
+y a todo. Es demasiado
+poderoso...
+<PUSH>
+Y su servidor.{14}{E1}.{14}{E1}.{16}{E1}
+¡Ugh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¡Despierta!
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}N-No puedo más...
+<PUSH>
+Nuestra última esperanza es
+nuestro Hermano de la Tierra.
+<PUSH>
+Nuestro rey nos dijo que
+había alguien en la Tierra
+con el poder para salvarnos...
+<PUSH>
+Ugh...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh!
+¡¿Quién es ese «alguien»?!
+<PUSH>
+¡¿Y de qué planeta vienes?!
+<PUSH>
+
+<NEW-DIALOG>
+{7F}{00}V{14}{E1}-Vengo... de...{15}{E1}
+<PUSH>
+Umph...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Maldición...
+La ha palmado...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Es una pena, pero...
+al menos ha cumplido
+con su misión.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Oh!
+¿No querrás decir...?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Sigamos.
+Seguro que su planeta está
+vinculado a la Disonancia.
+<PUSH>
+¡Y su gente necesita al
+Hermano de la Tierra que
+les salve!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Parece divertido!
+No sé qué narices
+está pasando...
+<PUSH>
+¡¡Pero nunca digo que no
+a darles una paliza
+a los malos!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+[END]
+

@@ -1,0 +1,514 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+¡¡Ah{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+N-No me hubiera imaginado...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Aun no...
+¡se ha terminado!
+<PUSH>
+¡No voy a rendirme después
+de todo lo que hemos pasado!
+<PUSH>
+Endurecimos nuestros corazones e
+hicimos cosas innombrables...
+<PUSH>
+¡Incluso ignoramos todas las
+veces que Ace arriesgó su
+vida para salvarnos de Dealer!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡¡No puedo rendirme ahora!!
+¡Me niego a perder!
+<PUSH>
+Ya no nos queda nada{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+¡¡Salvo hacer realidad
+nuestro deseo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Eso no es cierto...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡¿?!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia, eso no es cierto...
+<PUSH>
+Sí, la tecnología te arrebató
+cosas muy importantes
+en tu vida...
+<PUSH>
+Pero{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Aún tienes a Jack.
+Ese vínculo sigue ahí...
+<PUSH>
+Y Ace solo pensaba en
+salvaros a los dos...
+<PUSH>
+Todo este tiempo has tenido
+a personas maravillosas
+a tu lado...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Si haces que el Meteorito G
+caiga sobre la Tierra...
+<PUSH>
+Incontables niños de todo
+el mundo vivirán
+<PUSH>
+todo el dolor y sufrimiento
+por el que pasasteis
+Jack y tú.
+<PUSH>
+¡¿No es lo mismo que os
+hicieron esos países?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+¡Silencio!
+<PUSH>
+¡¡No te atrevas a hablarme
+como si entendieras mi dolor!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+No voy a rendirme...
+¡¡Jamás!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Srta. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Tia...
+<PUSH>
+Vamos a dejarlo...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Creo que Geo tiene razón...
+<PUSH>
+Lo hemos hecho todo mal...
+<PUSH>
+Nuestro plan no reconstruirá
+el mundo...
+<PUSH>
+Solo hará que muchísimos
+niños acaben como nosotros.
+<PUSH>
+Es "destrucción", no
+"construcción".
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+El sufrimiento de la
+tecnología debe acabar
+con nosotros.
+<PUSH>
+Nos vimos envueltos en
+una espiral de odio
+y perdimos demasiado...
+<PUSH>
+Ace y Geo han arriesgado
+sus vidas una y otra vez
+para que entremos en razón...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ace{14}{E1}.{14}{E1}.{14}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡Eh, eh, eh!
+<PUSH>
+¡¿Qué me estás contando, Jack?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Escúchame...
+Llevo un tiempo pensándolo.
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡No le escuches!!
+¡No son más que chorradas!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Virgo>
+¡Tia, ¿a qué viene esa cara?!
+<PUSH>
+¡¿No me irás a decir que
+estás dudando o alguna
+tontería similar?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+Vosotros dos vais a
+reconstruir el mundo y
+convertiros en sus amos...
+<PUSH>
+¡Si decidí ayudaros fue
+porque me parecía
+tremendamente divertido!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+.{16}{E1}.{16}{E1}.{16}{E1}
+No voy a seguir luchando...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡No lo dices en serio!!
+<PUSH>
+¿Crees que voy a dejarte
+irte de rositas sin más?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¡Si esas tenemos, os
+destruiremos y nos quedaremos
+con el Meteorito G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡Tia, este es tu fin!!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Jack!
+¡Srta. Tia!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+¡¡Aaarrrgh!!
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+¡¡Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}<Bud>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Patético.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Solo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Cómo has llegado
+hasta aquí?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+No digas tonterías.
+<PUSH>
+Entrar en un sitio así
+es pan comido para mí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Bueno{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Pues gracias por
+salvarlos...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+¿Salvarlos?
+Por favor...
+<PUSH>
+Ya te lo he dicho. Hay que
+ocuparse de los miembros de
+Dealer y sus simpatizantes.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Así que supongo que aquí
+ya no tengon nada
+que hacer.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Solo...
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Haced lo que queráis
+cuando yo me haya ido.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mmm...
+<PUSH>
+¿Te importaría llevarte a
+Jack y a la Srta. Tia
+a la Tierra contigo?
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Pueden seguirme...
+<PUSH>
+Pero si me retrasan lo más
+mínimo, los dejaré atrás.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Gracias.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Puede que tú seas capaz
+de obrar un milagro...
+<PUSH>
+Puede que seas capaz de
+arreglar todos los problemas
+que hemos causado...
+<PUSH>
+Nunca podremos compensar todo
+el daño que hemos hecho, pero
+haremos lo que podamos.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+El futuro...
+Está en tus manos.
+<PUSH>
+Cuando haya enmendado
+todos mis errores...
+<PUSH>
+tenemos que jugar de nuevo...
+<PUSH>
+Bueno... solo si tú quieres,
+claro. Si no quieres,
+lo entiendo...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Pues estaría genial!
+¡¡Espérame en la Tierra!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Chico, es la hora.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos a ver a papá y
+detener el Meteorito G!
+<PUSH>
+¡¡Vamos, Mega!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

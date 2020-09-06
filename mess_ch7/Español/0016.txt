@@ -1,0 +1,205 @@
+[SENTENCE NUMBER 1]
+{12}{E2}<Heartless>
+{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Pero qué puedo hacer yo?
+<PUSH>
+Dije que lucharía por Ace,
+pero...
+<PUSH>
+King tiene el Meteorito G
+bajo su control y no sabemos
+dónde están Jack y la Srta. Tia.
+<PUSH>
+¿Habrá algo que pueda hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Eres patético{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dread.Joker>
+Una criatura débil como tú
+no tiene derecho a existir...
+<PUSH>
+Y quien no reconoce su propia
+debilidad es igual de
+inútil.
+<PUSH>
+El primer paso para conseguir
+verdadero poder es aceptar
+tu debilidad.
+<PUSH>
+Será entonces{13}{E1}.{13}{E1}.{13}{E1}.{15}{E1}
+<PUSH>
+cuando puedas unirte a la
+batalla como un guerrero
+fiero y orgulloso.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Y tú qué sabes?
+<PUSH>
+¡¿Tú qué vas a saber el
+valor de una persona?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Al principio todo el mundo
+es débil.
+<PUSH>
+Lo sabes, ¿verdad, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+La vida es lcuha.
+<PUSH>
+Luchar con valor y no rendirse
+ante las dificultades...
+<PUSH>
+Cuando en mitad de una batalla
+un humano conoce la fuerza
+y la debilidad,
+<PUSH>
+obtiene así la auténtica
+fuerza.
+<PUSH>
+Geo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Has pasado por mucho...
+<PUSH>
+No eres débil ni mucho menos...
+<PUSH>
+De hecho, tu habilidad para
+luchar y no rendirte no
+tiene rival.
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Da igual lo difícil que sea,
+nunca rendirse, nunca temer,
+seguir luchando siempre...
+<PUSH>
+Esa es la fuerza...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Papá!
+<PUSH>
+
+<NEW-DIALOG>
+{15}{00}Jovencito, en tu corta vida
+te has enfrentado a
+numerosos peligros.
+<PUSH>
+Y eso te ha permitido entender
+el dolor de los demás como
+si fuera el tuyo propio.
+<PUSH>
+"Justicia"...
+<PUSH>
+Cuando crees desde el fondo
+de tu corazón que debes
+ayudar a los demás.
+<PUSH>
+«Fuerza» y
+«Justicia»{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+No existe una combinación
+más poderosa para un
+guerrero... Para un héroe.
+<PUSH>
+Geo...
+Eres un auténtico héroe.
+<PUSH>
+Eres un joven virtuoso y
+fuerte. ¡¡Estoy muy
+orgulloso de ti!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Ha sido{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} un sueño{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ah, un mensaje.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Es de Boreal!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¿La tele?
+¿Qué estará pasando?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

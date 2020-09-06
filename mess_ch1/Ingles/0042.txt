@@ -1,0 +1,138 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Spade-Magnes>
+R{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r{13}{E1}r!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Ugh, what did I...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+What's wrong, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+N-Nothing... I had a strange
+feeling in my body for a
+second, but I'm fine now.
+<PUSH>
+But more importantly...
+One of those cards fell
+off again.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+It's called a "Noise Card".
+<PUSH>
+The two people that made
+me go out of control
+called it that.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Two people, huh...
+That might be who Ace
+called "dangerous people".
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Noise cards...
+Dangerous people...
+<PUSH>
+Looks like we should
+stay frosty, kid.
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+At any rate!
+Thanks so much for saving
+me!
+<PUSH>
+Now it's time to fix things!
+<PUSH>
+I'm going to make sure
+the Science Club's dream
+comes true!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+You're the best, Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Yup!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Time to trans out, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+The only way to go is in
+style!
+<PUSH>
+Y{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}u{13}{E1}p!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

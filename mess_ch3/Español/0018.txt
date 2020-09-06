@@ -1,0 +1,110 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Al día siguiente...
+<PUSH>
+
+<END-DIALOG>
+{11}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Bien!
+¡Vamos a ver el
+sistema medioambiental!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Es el sistema más
+potente de Electopía...
+¡Qué ganas!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Me voy a desmayar
+de la emoción!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Seguro que es una risa!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Vamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¿Eh?
+<PUSH>
+Hey, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué pasa, Mega?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Es cosa mía o el suelo
+acaba de temblar?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿En serio?
+Yo no he notado nada, pero...
+<PUSH>
+Seguro que un terremoto
+no ha sido.
+<PUSH>
+El sistema medioambiental
+protege la isla de los
+desastre naturales.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sí... Es verdad.
+<PUSH>
+Perdona por entretenerte.
+En marcha, chico.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

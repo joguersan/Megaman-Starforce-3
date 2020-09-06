@@ -1,0 +1,78 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Q-Qué pasa?!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Una especie de Ruido extraño?!
+<PUSH>
+¡Ugh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Agh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}Aa{15}{E1}ar{15}{E1}rr{15}{E1}g!
+<PUSH>
+¡¿Qué está pasando?!...
+¡No puedo respirar!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Uuu{15}{E1}rrrg...!
+<PUSH>
+¡Seguro que es por culpa
+de todo este Ruido!
+<PUSH>
+¡Parece que el programa
+no funciona!
+<PUSH>
+¡Chaval, tenemos que
+irnos de aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Uff, puff...
+<PUSH>
+{13}{EC}(¡Se me duerme
+{13}{EC}  el cuerpo!)
+<PUSH>
+¡L-Lo tengo{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!
+¡Ungh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

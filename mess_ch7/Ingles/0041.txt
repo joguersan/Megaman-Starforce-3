@@ -1,0 +1,156 @@
+[SENTENCE NUMBER 1]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+I see you've defeated Jack...
+<PUSH>
+It's time then{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+For your little journey
+to come to an end.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There you are, Queen Virgo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ms. Tia...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Meteor G's central core is
+up ahead...
+<PUSH>
+I can't let you get to him...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+"Him"{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+You must mean Dad.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+So he really is your father
+after all...
+<PUSH>
+
+<NEW-DIALOG>
+<Virgo>
+See!
+That's what I said isn't it?
+<PUSH>
+The old man and this little
+twerp have the same exact
+frequency!
+<PUSH>
+But the old man is on his
+way out!!
+<PUSH>
+He'll be nothing but a memory
+soon!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+W-What do you mean!?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+It's like she said...
+<PUSH>
+That man is using his
+incredible energy to keep us
+from reaching the core...
+<PUSH>
+But he has been fighting with
+Meteor G for so long now.
+<PUSH>
+He will reach his limit very,
+very soon...
+<PUSH>
+And then he'll be out of the
+way without me even having
+to lift a finger....
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You're full of it!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Either way...
+<PUSH>
+I have no idea what would
+happen if you two were to
+meet...
+<PUSH>
+At the very least, you would
+continue to interfere with
+our plans...
+<PUSH>
+So...
+I must stop you right here...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+I can't afford to be
+stopped either.
+<PUSH>
+I'm going to ruin your plans!!
+And I'm doing it for Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+Foolish child{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+You definitely have guts!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, give me strength!!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,171 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...What!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Sonia!?
+<PUSH>
+Why is Sonia at school...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Oh, you're here, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+G-Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Geo...
+<PUSH>
+I came to support Luna...
+<PUSH>
+But we have a bigger
+problem than the election...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What do you mean!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+S-Solo...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Umm...
+<PUSH>
+So that means...
+That Jack is coming here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...Hmph.
+<PUSH>
+It makes sense that he
+would attack where all of
+<PUSH>
+you are assembled in the
+same place.
+<PUSH>
+Three birds with one stone.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+So then...
+<PUSH>
+You're just going to wait in
+this class room until he
+shows up...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+{13}{EC}...
+<PUSH>
+...Of course.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+!!
+<PUSH>
+Th-That's no good...!
+<PUSH>
+If something like yesterday
+happened here...!
+<PUSH>
+
+<NEW-DIALOG>
+<Solo>
+...If you guys want to cause
+a scene, then go for it.
+<PUSH>
+But leave me out of it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+B-But...
+<PUSH>
+We can't let the teachers
+and students get caught up
+in this....!
+<PUSH>
+At the very least, we should
+go somewhere else...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Solo>
+...!
+<PUSH>
+Hmph...
+He's finally here.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

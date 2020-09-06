@@ -1,0 +1,333 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Huh?
+Strong isn't here...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Didn't he tell us yesterday
+that he would be waiting for
+us?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+This is very strange...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Ahh!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Is it an earthquake?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+It can't be!!
+The environmental system
+prevents stuff like that...
+<PUSH>
+{13}{EC}...!!
+<PUSH>
+T-There's no way!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Is this some kind of prank?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+I am this island's new king!!
+<PUSH>
+Worship me!! Praise me!!
+<PUSH>
+All of <Alohaha> will be as I
+want it to be!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+That voice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Zack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Holy crab cakes!
+W-Who are you!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+He's like a colossus!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+There's no way, but...
+Are you Strong?
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+My name is Club Strong!!
+<PUSH>
+All of <Alohaha> is under my
+control!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+That's Strong!?
+<PUSH>
+H-He looks completely
+different from before!!
+<PUSH>
+
+<NEW-DIALOG>
+<Lyra>
+Sonia...
+Strong is out of control.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's like Lyra just said, kid.
+<PUSH>
+He's changed just like the
+previous out of control
+Wizards have.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I can't believe that the most
+powerful Wizard in Electopia
+could go out of control...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+The people of this island
+shall follow my rules!!
+<PUSH>
+They must pledge their
+allegiance to me, and worship
+me as their king!!
+<PUSH>
+If they disobey me...
+Then they will pay!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+P-P-Please!!
+Stop it!!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+The castle will be destroyed!!
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Ho ho ho ho ho ho!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+Club Strong is in full control
+of the environmental system!
+<PUSH>
+According to my readings...
+<PUSH>
+The earthquakes will continue
+at level 6 and 7 with no
+interruption!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Damage assessment?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+If the earthquakes are not
+stopped soon, <Alohaha> will
+sink into the ocean!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+T-This is bad...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kid...
+We've got to do something!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I'm going, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I need you guys to help the
+people of the island get to
+safety!
+<PUSH>
+It may take some time to
+stop the earthquakes...
+They need to take shelter!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+OK...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Come back safe, Geo!
+<PUSH>
+Remember that our Purpose
+is... a "Trip to Remember"!
+<PUSH>
+If you get hurt, then we
+can't fulfill our Purpose!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I'll come back safe. I promise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Everything is shaking again!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Let's hurry and help
+everyone get to safety!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+If we don't hurry up and
+stop Strong, <Alohaha> will
+sink into the ocean!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's trans in to the
+Environmental System CC!!
+<PUSH>
+We can get there from the
+Wave Road.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Let's do it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

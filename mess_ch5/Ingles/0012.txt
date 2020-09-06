@@ -1,0 +1,111 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Mmmrrrggg!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Moohaha!
+Who do they think they are!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Darn it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Take this!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+Yeah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+N-No way...
+Again!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+How can there be viruses all
+over the place, even though
+this is the Real World!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+And with the way they're
+showing up...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+The Noise must be creating
+them...!
+<PUSH>
+We should check out all the
+places where viruses are
+appearing...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

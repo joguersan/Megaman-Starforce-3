@@ -1,0 +1,255 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{AF}{03}{11}{00}{0C}{E1}{01}{00}{A7}{18}{08}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Restricted by:
+CrXXsXX XraXXn SP
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{00}{00}{B0}{03}{11}{00}{1C}{EC}{0C}{00}{09}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+<PUSH>
+All "R" bosses must be
+deleted within 12 seconds
+to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{B1}{03}{11}{00}{1D}{EC}
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+All HELP pop-ups must be
+resolved to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{B2}{03}{11}{00}{0C}{E1}{01}{00}{C1}{15}{0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of all Mega Class
+Cards required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{00}{00}{B3}{03}{11}{00}{1E}{EC}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of all Battle
+Cards required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{0C}{E1}{00}{00}{B4}{03}{11}{00}{0C}{E1}{01}{00}{BB}{08}{0D}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Restricted by:
+XXXXXs
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{00}{00}{B5}{03}{11}{00}{0C}{E1}{01}{00}{C0}{15}{0E}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of all Standard
+Cards required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{0C}{E1}{00}{00}{C3}{03}{11}{00}{8B}{E1}6{06}{00}{0F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of six Omega
+Pieces is required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions set
+by Crimson Dragon SP...
+Access granted.
+<PUSH>
+{0B}{E1}{AF}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Deletion of all "R" bosses
+within 12 seconds confirmed.
+Access granted.
+<PUSH>
+{0B}{E1}{B0}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Resolution of all HELP
+pop-ups confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{B1}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of all Mega Class
+Cards confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{B2}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of all Battle
+Cards confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{B3}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions set
+by Sirius...
+Access granted.
+<PUSH>
+{0B}{E1}{B4}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of all Standard
+Cards confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{B5}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of six Omega
+Pieces confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{C3}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<END-DIALOG>
+
+[END]
+

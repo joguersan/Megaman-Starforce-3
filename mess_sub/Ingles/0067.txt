@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+Record
+[END]
+
+[SENTENCE NUMBER 2]
+{24}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{28}{E1}{01}{00}:{29}{E1}{02}{00}:{2A}{E1}{02}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+-:--:--
+[END]
+
+[SENTENCE NUMBER 5]
+GA Card Atk pwr
+[END]
+
+[SENTENCE NUMBER 6]
+Your bst Records
+[END]
+
+[SENTENCE NUMBER 7]
+Bst Bro. Records
+including yours 
+[END]
+
+[SENTENCE NUMBER 8]
+Brother Rankings
+[END]
+
+[SENTENCE NUMBER 9]
+{20}{E1}{01}{00}:{2D}{E1}
+[END]
+
+[SENTENCE NUMBER 10]
+-:----------
+[END]
+
+[SENTENCE NUMBER 11]
+{2C}{E1}
+[END]
+
+[SENTENCE NUMBER 12]
+Fav Boss
+[END]
+

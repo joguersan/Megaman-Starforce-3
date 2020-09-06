@@ -1,0 +1,305 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{EB}{00}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a measuring device. It's
+old, but looks like it works.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Awesome!
+Look what I found!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got
+Power Up Item:
+"{E0}{E5}"!
+<PUSH>
+HP capacity has been
+increased!
+<PUSH>
+{0A}{E1}{EB}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{00}{00}`{FF}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Countless Crimson tanks are
+lined up.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+I can't believe they've saved
+up so much Crimson...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We better move, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0D}{E1}{00}{00}`{FF}{00}{11}{00}{09}{E1}{00}{00}{35}{08}{3F}{08}{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Crimson Machine.
+A high-tension current is
+flowing around it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+We really have to stop
+these guys!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{01}{00}ù<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+I can't get by...
+The pipe is blocking the way.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+There's something there!
+<PUSH>
+{84}{E1}{03}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got
+Sub-Card:
+"{D3}{E5}"!
+<PUSH>
+{0A}{E1}ù
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The Wave Road is cut off...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+There's no way to get past...
+What should we do?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That defense system over
+there might have something
+<PUSH>
+to do with it. Why don't we
+trans in and check it out?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The Wave Road is cut off...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's trans in to the Cyber
+Core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The Wave Road is cut off...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We need to destroy the
+power core!
+Trans in, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Countless Crimson tanks are
+lined up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Crimson machine.
+It looks like it doesn't work
+anymore...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a Crimson machine.
+It looks like it doesn't work
+anymore...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha!
+That serves them right!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+It's a measuring device.
+It's old, but it still works.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+I can't get by...
+The pipe is blocking the way.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

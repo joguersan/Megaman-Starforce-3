@@ -1,0 +1,1176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "Mettenna"
+msgstr ""
+
+msgctxt "1"
+msgid "Mettenna2"
+msgstr ""
+
+msgctxt "2"
+msgid "Mettenna3"
+msgstr ""
+
+msgctxt "3"
+msgid "MettennaG"
+msgstr ""
+
+msgctxt "4"
+msgid "Mettenna2G"
+msgstr ""
+
+msgctxt "5"
+msgid "Mettenna3G"
+msgstr ""
+
+msgctxt "6"
+msgid "Crowcar"
+msgstr ""
+
+msgctxt "7"
+msgid "Crowket"
+msgstr ""
+
+msgctxt "8"
+msgid "Crowbus"
+msgstr ""
+
+msgctxt "9"
+msgid "CrowcarG"
+msgstr ""
+
+msgctxt "10"
+msgid "CrowketG"
+msgstr ""
+
+msgctxt "11"
+msgid "CrowbusG"
+msgstr ""
+
+msgctxt "12"
+msgid "Smiles"
+msgstr ""
+
+msgctxt "13"
+msgid "Smiling"
+msgstr ""
+
+msgctxt "14"
+msgid "Smiley"
+msgstr ""
+
+msgctxt "15"
+msgid "SmilesG"
+msgstr ""
+
+msgctxt "16"
+msgid "SmilingG"
+msgstr ""
+
+msgctxt "17"
+msgid "SmileyG"
+msgstr ""
+
+msgctxt "18"
+msgid "Ku'i"
+msgstr ""
+
+msgctxt "19"
+msgid "Ku'i-ga"
+msgstr ""
+
+msgctxt "20"
+msgid "Ku'i-guru"
+msgstr ""
+
+msgctxt "21"
+msgid "Ku'iG"
+msgstr ""
+
+msgctxt "22"
+msgid "Ku'i-gaG"
+msgstr ""
+
+msgctxt "23"
+msgid "Ku'i-guruG"
+msgstr ""
+
+msgctxt "24"
+msgid "DoomCount"
+msgstr ""
+
+msgctxt "25"
+msgid "DoomBomber"
+msgstr ""
+
+msgctxt "26"
+msgid "DoomPlosion"
+msgstr ""
+
+msgctxt "27"
+msgid "DoomCountG"
+msgstr ""
+
+msgctxt "28"
+msgid "DoomBomberG"
+msgstr ""
+
+msgctxt "29"
+msgid "DoomPlosionG"
+msgstr ""
+
+msgctxt "30"
+msgid "Boom"
+msgstr ""
+
+msgctxt "31"
+msgid "Bang"
+msgstr ""
+
+msgctxt "32"
+msgid "Ka-Boom"
+msgstr ""
+
+msgctxt "33"
+msgid "BoomG"
+msgstr ""
+
+msgctxt "34"
+msgid "BangG"
+msgstr ""
+
+msgctxt "35"
+msgid "Ka-BoomG"
+msgstr ""
+
+msgctxt "36"
+msgid "Scorcher"
+msgstr ""
+
+msgctxt "37"
+msgid "DlxScorcher"
+msgstr ""
+
+msgctxt "38"
+msgid "NeoScorcher"
+msgstr ""
+
+msgctxt "39"
+msgid "ScorcherG"
+msgstr ""
+
+msgctxt "40"
+msgid "DlxScorcherG"
+msgstr ""
+
+msgctxt "41"
+msgid "NeoScorcherG"
+msgstr ""
+
+msgctxt "42"
+msgid "Koma"
+msgstr ""
+
+msgctxt "43"
+msgid "Shishi"
+msgstr ""
+
+msgctxt "44"
+msgid "Shisa"
+msgstr ""
+
+msgctxt "45"
+msgid "KomaG"
+msgstr ""
+
+msgctxt "46"
+msgid "ShishiG"
+msgstr ""
+
+msgctxt "47"
+msgid "ShisaG"
+msgstr ""
+
+msgctxt "48"
+msgid "Wibbledee"
+msgstr ""
+
+msgctxt "49"
+msgid "Wibbledoo"
+msgstr ""
+
+msgctxt "50"
+msgid "Wibbledum"
+msgstr ""
+
+msgctxt "51"
+msgid "WibbledeeG"
+msgstr ""
+
+msgctxt "52"
+msgid "WibbledooG"
+msgstr ""
+
+msgctxt "53"
+msgid "WibbledumG"
+msgstr ""
+
+msgctxt "54"
+msgid "StremCancro"
+msgstr ""
+
+msgctxt "55"
+msgid "RiverCancro"
+msgstr ""
+
+msgctxt "56"
+msgid "SeaCancro"
+msgstr ""
+
+msgctxt "57"
+msgid "StremCancroG"
+msgstr ""
+
+msgctxt "58"
+msgid "RiverCancroG"
+msgstr ""
+
+msgctxt "59"
+msgid "SeaCancroG"
+msgstr ""
+
+msgctxt "60"
+msgid "BlueShark"
+msgstr ""
+
+msgctxt "61"
+msgid "SandShark"
+msgstr ""
+
+msgctxt "62"
+msgid "GoblinShark"
+msgstr ""
+
+msgctxt "63"
+msgid "BlueSharkG"
+msgstr ""
+
+msgctxt "64"
+msgid "SandSharkG"
+msgstr ""
+
+msgctxt "65"
+msgid "GoblinSharkG"
+msgstr ""
+
+msgctxt "66"
+msgid "Spinguin"
+msgstr ""
+
+msgctxt "67"
+msgid "MidSpinguin"
+msgstr ""
+
+msgctxt "68"
+msgid "TopSpinguin"
+msgstr ""
+
+msgctxt "69"
+msgid "SpinguinG"
+msgstr ""
+
+msgctxt "70"
+msgid "MidSpinguinG"
+msgstr ""
+
+msgctxt "71"
+msgid "TopSpinguinG"
+msgstr ""
+
+msgctxt "72"
+msgid "Stealth"
+msgstr ""
+
+msgctxt "73"
+msgid "MegaStealth"
+msgstr ""
+
+msgctxt "74"
+msgid "GigaStealth"
+msgstr ""
+
+msgctxt "75"
+msgid "StealthG"
+msgstr ""
+
+msgctxt "76"
+msgid "MegaStealthG"
+msgstr ""
+
+msgctxt "77"
+msgid "GigaStealthG"
+msgstr ""
+
+msgctxt "78"
+msgid "ShockMummy"
+msgstr ""
+
+msgctxt "79"
+msgid "ShockTut"
+msgstr ""
+
+msgctxt "80"
+msgid "ShockSeti"
+msgstr ""
+
+msgctxt "81"
+msgid "ShockMummyG"
+msgstr ""
+
+msgctxt "82"
+msgid "ShockTutG"
+msgstr ""
+
+msgctxt "83"
+msgid "ShockSetiG"
+msgstr ""
+
+msgctxt "84"
+msgid "Voltragon"
+msgstr ""
+
+msgctxt "85"
+msgid "Wattragon"
+msgstr ""
+
+msgctxt "86"
+msgid "Ampragon"
+msgstr ""
+
+msgctxt "87"
+msgid "VoltragonG"
+msgstr ""
+
+msgctxt "88"
+msgid "WattragonG"
+msgstr ""
+
+msgctxt "89"
+msgid "AmpragonG"
+msgstr ""
+
+msgctxt "90"
+msgid "Zapper"
+msgstr ""
+
+msgctxt "91"
+msgid "Zappster"
+msgstr ""
+
+msgctxt "92"
+msgid "Zappattack"
+msgstr ""
+
+msgctxt "93"
+msgid "ZapperG"
+msgstr ""
+
+msgctxt "94"
+msgid "ZappsterG"
+msgstr ""
+
+msgctxt "95"
+msgid "ZappattackG"
+msgstr ""
+
+msgctxt "96"
+msgid "Arachnid"
+msgstr ""
+
+msgctxt "97"
+msgid "Arachnod"
+msgstr ""
+
+msgctxt "98"
+msgid "Arachnoid"
+msgstr ""
+
+msgctxt "99"
+msgid "ArachnidG"
+msgstr ""
+
+msgctxt "100"
+msgid "ArachnodG"
+msgstr ""
+
+msgctxt "101"
+msgid "ArachnoidG"
+msgstr ""
+
+msgctxt "102"
+msgid "ShuriKen"
+msgstr ""
+
+msgctxt "103"
+msgid "ShuriKen-2"
+msgstr ""
+
+msgctxt "104"
+msgid "ShuriKen-3"
+msgstr ""
+
+msgctxt "105"
+msgid "ShuriKenG"
+msgstr ""
+
+msgctxt "106"
+msgid "ShuriKen-2G"
+msgstr ""
+
+msgctxt "107"
+msgid "ShuriKen-3G"
+msgstr ""
+
+msgctxt "108"
+msgid "GrassPollen"
+msgstr ""
+
+msgctxt "109"
+msgid "WeedPollen"
+msgstr ""
+
+msgctxt "110"
+msgid "TreePollen"
+msgstr ""
+
+msgctxt "111"
+msgid "GrassPollenG"
+msgstr ""
+
+msgctxt "112"
+msgid "WeedPollenG"
+msgstr ""
+
+msgctxt "113"
+msgid "TreePollenG"
+msgstr ""
+
+msgctxt "114"
+msgid "Nutty"
+msgstr ""
+
+msgctxt "115"
+msgid "Nutsy"
+msgstr ""
+
+msgctxt "116"
+msgid "Nutso"
+msgstr ""
+
+msgctxt "117"
+msgid "NuttyG"
+msgstr ""
+
+msgctxt "118"
+msgid "NutsyG"
+msgstr ""
+
+msgctxt "119"
+msgid "NutsoG"
+msgstr ""
+
+msgctxt "120"
+msgid "Raid"
+msgstr ""
+
+msgctxt "121"
+msgid "Ravage"
+msgstr ""
+
+msgctxt "122"
+msgid "Ransack"
+msgstr ""
+
+msgctxt "123"
+msgid "RaidG"
+msgstr ""
+
+msgctxt "124"
+msgid "RavageG"
+msgstr ""
+
+msgctxt "125"
+msgid "RansackG"
+msgstr ""
+
+msgctxt "126"
+msgid "Chakram"
+msgstr ""
+
+msgctxt "127"
+msgid "BlueChakram"
+msgstr ""
+
+msgctxt "128"
+msgid "OnyxChakram"
+msgstr ""
+
+msgctxt "129"
+msgid "ChakramG"
+msgstr ""
+
+msgctxt "130"
+msgid "BlueChakramG"
+msgstr ""
+
+msgctxt "131"
+msgid "OnyxChakramG"
+msgstr ""
+
+msgctxt "132"
+msgid "Musashi"
+msgstr ""
+
+msgctxt "133"
+msgid "Kotetsu"
+msgstr ""
+
+msgctxt "134"
+msgid "Masamune"
+msgstr ""
+
+msgctxt "135"
+msgid "MusashiG"
+msgstr ""
+
+msgctxt "136"
+msgid "KotetsuG"
+msgstr ""
+
+msgctxt "137"
+msgid "MasamuneG"
+msgstr ""
+
+msgctxt "138"
+msgid "BoneArcher"
+msgstr ""
+
+msgctxt "139"
+msgid "SkeleArcher"
+msgstr ""
+
+msgctxt "140"
+msgid "GhoulArcher"
+msgstr ""
+
+msgctxt "141"
+msgid "BoneArcherG"
+msgstr ""
+
+msgctxt "142"
+msgid "SkeleArcherG"
+msgstr ""
+
+msgctxt "143"
+msgid "GhoulArcherG"
+msgstr ""
+
+msgctxt "144"
+msgid "BaseMortar"
+msgstr ""
+
+msgctxt "145"
+msgid "BaseGunner"
+msgstr ""
+
+msgctxt "146"
+msgid "BaseSniper"
+msgstr ""
+
+msgctxt "147"
+msgid "BaseMortarG"
+msgstr ""
+
+msgctxt "148"
+msgid "BaseGunnerG"
+msgstr ""
+
+msgctxt "149"
+msgid "BaseSniperG"
+msgstr ""
+
+msgctxt "150"
+msgid "MuDefender"
+msgstr ""
+
+msgctxt "151"
+msgid "MuProtector"
+msgstr ""
+
+msgctxt "152"
+msgid "MuGuardian"
+msgstr ""
+
+msgctxt "153"
+msgid "MuDefenderG"
+msgstr ""
+
+msgctxt "154"
+msgid "MuProtectorG"
+msgstr ""
+
+msgctxt "155"
+msgid "MuGuardianG"
+msgstr ""
+
+msgctxt "156"
+msgid "NoiseWzrdB1"
+msgstr ""
+
+msgctxt "157"
+msgid "NoiseWzrdB2"
+msgstr ""
+
+msgctxt "158"
+msgid "NoiseWzrdR1"
+msgstr ""
+
+msgctxt "159"
+msgid "NoiseWzrdR2"
+msgstr ""
+
+msgctxt "160"
+msgid "NoiseWzrdS1"
+msgstr ""
+
+msgctxt "161"
+msgid "NoiseWzrdS2"
+msgstr ""
+
+msgctxt "162"
+msgid "MalWizard"
+msgstr ""
+
+msgctxt "163"
+msgid "MalWizard2"
+msgstr ""
+
+msgctxt "164"
+msgid "MalWizard3"
+msgstr ""
+
+msgctxt "165"
+msgid "MalWizardG"
+msgstr ""
+
+msgctxt "166"
+msgid "MalWizard2G"
+msgstr ""
+
+msgctxt "167"
+msgid "MalWizard3G"
+msgstr ""
+
+msgctxt "168"
+msgid "Grabity"
+msgstr ""
+
+msgctxt "169"
+msgid "Grabotron"
+msgstr ""
+
+msgctxt "170"
+msgid "Grabaklone"
+msgstr ""
+
+msgctxt "171"
+msgid "GrabityG"
+msgstr ""
+
+msgctxt "172"
+msgid "GrabotronG"
+msgstr ""
+
+msgctxt "173"
+msgid "GrabakloneG"
+msgstr ""
+
+msgctxt "174"
+msgid "OmegaXCopyG"
+msgstr ""
+
+msgctxt "175"
+msgid "OmegaXCopyY"
+msgstr ""
+
+msgctxt "176"
+msgid "OmegaXCopyR"
+msgstr ""
+
+msgctxt "177"
+msgid "OmegaXCopyW"
+msgstr ""
+
+msgctxt "178"
+msgid "OmegaXCopyP"
+msgstr ""
+
+msgctxt "179"
+msgid "OmegaXCopyB"
+msgstr ""
+
+msgctxt "180"
+msgid "Blank"
+msgstr ""
+
+msgctxt "181"
+msgid "Blank"
+msgstr ""
+
+msgctxt "182"
+msgid "Blank"
+msgstr ""
+
+msgctxt "183"
+msgid "Blank"
+msgstr ""
+
+msgctxt "184"
+msgid "Blank"
+msgstr ""
+
+msgctxt "185"
+msgid "Blank"
+msgstr ""
+
+msgctxt "186"
+msgid "Blank"
+msgstr ""
+
+msgctxt "187"
+msgid "Mr. Hertz"
+msgstr ""
+
+msgctxt "188"
+msgid "Mega Man"
+msgstr ""
+
+msgctxt "189"
+msgid "SpadMgnes"
+msgstr ""
+
+msgctxt "190"
+msgid "SpadMgnes{5d50}"
+msgstr ""
+
+msgctxt "191"
+msgid "SpadMgnes{25c7}"
+msgstr ""
+
+msgctxt "192"
+msgid "SpadMgnes{ff32}"
+msgstr ""
+
+msgctxt "193"
+msgid "SpadMgnes{3a9}"
+msgstr ""
+
+msgctxt "194"
+msgid "Blank"
+msgstr ""
+
+msgctxt "195"
+msgid "DiamndIce"
+msgstr ""
+
+msgctxt "196"
+msgid "DiamndIce{5d50}"
+msgstr ""
+
+msgctxt "197"
+msgid "DiamndIce{25c7}"
+msgstr ""
+
+msgctxt "198"
+msgid "DiamndIce{ff32}"
+msgstr ""
+
+msgctxt "199"
+msgid "DiamndIce{3a9}"
+msgstr ""
+
+msgctxt "200"
+msgid "Blank"
+msgstr ""
+
+msgctxt "201"
+msgid "ClubStrng"
+msgstr ""
+
+msgctxt "202"
+msgid "ClubStrng{5d50}"
+msgstr ""
+
+msgctxt "203"
+msgid "ClubStrng{25c7}"
+msgstr ""
+
+msgctxt "204"
+msgid "ClubStrng{ff32}"
+msgstr ""
+
+msgctxt "205"
+msgid "ClubStrng{3a9}"
+msgstr ""
+
+msgctxt "206"
+msgid "Blank"
+msgstr ""
+
+msgctxt "207"
+msgid "QueenVrgo"
+msgstr ""
+
+msgctxt "208"
+msgid "QueenVrgo{5d50}"
+msgstr ""
+
+msgctxt "209"
+msgid "QueenVrgo{25c7}"
+msgstr ""
+
+msgctxt "210"
+msgid "QueenVrgo{ff32}"
+msgstr ""
+
+msgctxt "211"
+msgid "QueenVrgo{3a9}"
+msgstr ""
+
+msgctxt "212"
+msgid "Blank"
+msgstr ""
+
+msgctxt "213"
+msgid "JackCorvs"
+msgstr ""
+
+msgctxt "214"
+msgid "JackCorvs{5d50}"
+msgstr ""
+
+msgctxt "215"
+msgid "JackCorvs{25c7}"
+msgstr ""
+
+msgctxt "216"
+msgid "JackCorvs{ff32}"
+msgstr ""
+
+msgctxt "217"
+msgid "JackCorvs{3a9}"
+msgstr ""
+
+msgctxt "218"
+msgid "Blank"
+msgstr ""
+
+msgctxt "219"
+msgid "DreadJokr"
+msgstr ""
+
+msgctxt "220"
+msgid "DreadJokr{5d50}"
+msgstr ""
+
+msgctxt "221"
+msgid "DreadJokr{25c7}"
+msgstr ""
+
+msgctxt "222"
+msgid "DreadJokr{ff32}"
+msgstr ""
+
+msgctxt "223"
+msgid "DreadJokr{2161}"
+msgstr ""
+
+msgctxt "224"
+msgid "Blank"
+msgstr ""
+
+msgctxt "225"
+msgid "CrimsnDragn"
+msgstr ""
+
+msgctxt "226"
+msgid "CrimsnDragn"
+msgstr ""
+
+msgctxt "227"
+msgid "CrimsnDragn{2162}"
+msgstr ""
+
+msgctxt "228"
+msgid "CrimsnDragn{2162}"
+msgstr ""
+
+msgctxt "229"
+msgid "CrimsnDragn{3a3}"
+msgstr ""
+
+msgctxt "230"
+msgid "Blank"
+msgstr ""
+
+msgctxt "231"
+msgid "TaursFire"
+msgstr ""
+
+msgctxt "232"
+msgid "TaursFire{5d50}"
+msgstr ""
+
+msgctxt "233"
+msgid "TaursFire{25c7}"
+msgstr ""
+
+msgctxt "234"
+msgid "TaursFire{ff32}"
+msgstr ""
+
+msgctxt "235"
+msgid "TaursFire{3a9}"
+msgstr ""
+
+msgctxt "236"
+msgid "Blank"
+msgstr ""
+
+msgctxt "237"
+msgid "Rogue"
+msgstr ""
+
+msgctxt "238"
+msgid "Rogue{5d50}"
+msgstr ""
+
+msgctxt "239"
+msgid "Rogue{25c7}"
+msgstr ""
+
+msgctxt "240"
+msgid "Rogue{ff3a}"
+msgstr ""
+
+msgctxt "241"
+msgid "Rogue{2166}"
+msgstr ""
+
+msgctxt "242"
+msgid "Blank"
+msgstr ""
+
+msgctxt "243"
+msgid "AcidAce"
+msgstr ""
+
+msgctxt "244"
+msgid "AcidAceB"
+msgstr ""
+
+msgctxt "245"
+msgid "AcidAce{25c7}"
+msgstr ""
+
+msgctxt "246"
+msgid "AcidAce{ff32}"
+msgstr ""
+
+msgctxt "247"
+msgid "AcidAce{2164}"
+msgstr ""
+
+msgctxt "248"
+msgid "Blank"
+msgstr ""
+
+msgctxt "249"
+msgid "DrkPhntm"
+msgstr ""
+
+msgctxt "250"
+msgid "DrkPhntm{5d50}"
+msgstr ""
+
+msgctxt "251"
+msgid "DrkPhntm{25c7}"
+msgstr ""
+
+msgctxt "252"
+msgid "DrkPhntm{ff32}"
+msgstr ""
+
+msgctxt "253"
+msgid "DrkPhntm{3a9}"
+msgstr ""
+
+msgctxt "254"
+msgid "Blank"
+msgstr ""
+
+msgctxt "255"
+msgid "CygnsWing"
+msgstr ""
+
+msgctxt "256"
+msgid "CygnsWing{5d50}"
+msgstr ""
+
+msgctxt "257"
+msgid "CygnsWing{25c7}"
+msgstr ""
+
+msgctxt "258"
+msgid "CygnsWing{ff32}"
+msgstr ""
+
+msgctxt "259"
+msgid "CygnsWing{3a9}"
+msgstr ""
+
+msgctxt "260"
+msgid "Blank"
+msgstr ""
+
+msgctxt "261"
+msgid "WolfWoods"
+msgstr ""
+
+msgctxt "262"
+msgid "WolfWoods{5d50}"
+msgstr ""
+
+msgctxt "263"
+msgid "WolfWoods{25c7}"
+msgstr ""
+
+msgctxt "264"
+msgid "WolfWoods{ff32}"
+msgstr ""
+
+msgctxt "265"
+msgid "WolfWoods{3a9}"
+msgstr ""
+
+msgctxt "266"
+msgid "Blank"
+msgstr ""
+
+msgctxt "267"
+msgid "MoonDstry"
+msgstr ""
+
+msgctxt "268"
+msgid "MoonDstry{5d50}"
+msgstr ""
+
+msgctxt "269"
+msgid "MoonDstry{25c7}"
+msgstr ""
+
+msgctxt "270"
+msgid "MoonDstry{ff32}"
+msgstr ""
+
+msgctxt "271"
+msgid "MoonDstry{3a3}"
+msgstr ""
+
+msgctxt "272"
+msgid "Blank"
+msgstr ""
+
+msgctxt "273"
+msgid "ApolloFlm"
+msgstr ""
+
+msgctxt "274"
+msgid "ApolloFlm{5d50}"
+msgstr ""
+
+msgctxt "275"
+msgid "ApolloFlm{25c7}"
+msgstr ""
+
+msgctxt "276"
+msgid "ApolloFlm{ff32}"
+msgstr ""
+
+msgctxt "277"
+msgid "ApolloFlm{3a3}"
+msgstr ""
+
+msgctxt "278"
+msgid "Blank"
+msgstr ""
+
+msgctxt "279"
+msgid "Sirius"
+msgstr ""
+
+msgctxt "280"
+msgid "Sirius{5d50}"
+msgstr ""
+
+msgctxt "281"
+msgid "Sirius{25c7}"
+msgstr ""
+
+msgctxt "282"
+msgid "Sirius{ff32}"
+msgstr ""
+
+msgctxt "283"
+msgid "Sirius{3a3}"
+msgstr ""
+
+msgctxt "284"
+msgid "Blank"
+msgstr ""
+
+msgctxt "285"
+msgid "Omega-Xis"
+msgstr ""
+
+msgctxt "286"
+msgid "Omega-Xis{5d50}"
+msgstr ""
+
+msgctxt "287"
+msgid "Omega-Xis{25c7}"
+msgstr ""
+
+msgctxt "288"
+msgid "Omega-Xis{ff32}"
+msgstr ""
+
+msgctxt "289"
+msgid "Omega-Xis{5d50}"
+msgstr ""
+
+msgctxt "290"
+msgid "Blank"
+msgstr ""

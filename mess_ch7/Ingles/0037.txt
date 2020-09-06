@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+That's a Noise card!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Something's coming, kid!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<Solo>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+Gwaaarrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Club Strong...
+Get out of our way!!
+<PUSH>
+Wave Battle!
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

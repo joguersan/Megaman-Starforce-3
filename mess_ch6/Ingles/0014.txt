@@ -1,0 +1,500 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dr. Goodall...
+<PUSH>
+How are Ace and Acid doing?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+As far as Acid goes...
+<PUSH>
+I've reinstalled his main
+program, and he is in the
+middle of restarting, now.
+<PUSH>
+Arthur is...
+<PUSH>
+Not doing well.
+<PUSH>
+Deep sections of his
+consciousness were torn to
+<PUSH>
+pieces by Acid when he was
+out of control...
+<PUSH>
+And also staying EM Wave
+Changed for so long pushed
+<PUSH>
+him to his physical limits,
+and strained him mentally.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I'm surprised that he even
+made it back here alive.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+Umm... Dr. Goodall...
+<PUSH>
+What happened to Acid?
+<PUSH>
+Normally Acid would never
+hurt Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+That is true.
+<PUSH>
+I suppose that it's best for
+you to know.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Dr. Goodall...
+<PUSH>
+It won't make any difference
+whether he knows or not.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Arthur!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace!
+<PUSH>
+Are you alright!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+...About as "alright" as I look.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+What...
+<PUSH>
+What are you doing out
+of bed!?
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Dr.Goodall>
+You shouldn't be up and
+about yet.
+<PUSH>
+Don't push yourself too
+hard so soon.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doc... I'm sorry.
+<PUSH>
+But, I can't just sit around
+and do nothing.
+<PUSH>
+Even now, Dealer is busy
+enacting their plans...
+<PUSH>
+At this rate, we will lose
+the world to them.
+<PUSH>
+I'll do anything it takes to
+stop that from happening!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+A-Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+How does this sound, Geo...
+<PUSH>
+We're going to go find
+Dealer's base...
+<PUSH>
+And then bring them down
+with our own hands!
+<PUSH>
+We'll make...!
+<PUSH>
+The world...!
+<PUSH>
+And the future...!
+Safe... again...!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4If we continue to keep
+only reacting to Dealer's
+<PUSH>
+actions, we will never be
+successful in stopping them.
+<PUSH>
+So our next mission is...
+<PUSH>
+{12}{E2}{11}{00}{01}{00}
+<NEW-DIALOG>
+4To directly attack Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+0{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+1{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+4All WAZA staff will now focus
+on locating Dealer's base!
+<PUSH>
+We will need every lead
+and every scrap of
+information to locate them!
+<PUSH>
+Leave no stone unturned!
+<PUSH>
+
+<NEW-DIALOG>
+2Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+3Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4All Satella Police officers will
+perform investigations at all
+<PUSH>
+areas that have had recent
+Dealer related incidents!
+<PUSH>
+Dealer's leader, as well as
+Joker have appeared at
+some of these areas.
+<PUSH>
+There could be some traces
+of Dealer at any of these
+incident sites.
+<PUSH>
+We're all counting on you!
+<PUSH>
+
+<NEW-DIALOG>
+0Yes, sir!
+<PUSH>
+
+<NEW-DIALOG>
+1Yes, sir!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4...{16}{E1}Geo Stelar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{A0}{E1}{03}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Y-Yes, sir!!
+<PUSH>
+
+<NEW-DIALOG>
+4The Commandos...
+<PUSH>
+You will remain on reserve
+duty until Team leader Ace
+has recovered.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+...!
+<PUSH>
+Wait just a second, Chief!
+<PUSH>
+Please at least let me help
+with something!
+<PUSH>
+
+<NEW-DIALOG>
+4G-Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+As Ace pointed out earlier...
+Dealer is still going ahead
+with their plans.
+<PUSH>
+We don't have a lot of time...
+<PUSH>
+Dealer is getting closer to
+their goal of taking over the
+world...
+<PUSH>
+Ace said we can't give them
+that chance!
+<PUSH>
+S-So...
+I can't just stand around...
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo?
+<PUSH>
+Don't you know that
+reserve duty can be very
+important, as well?
+<PUSH>
+
+<NEW-DIALOG>
+4!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dr. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You've already done so much
+for us today.
+<PUSH>
+That's why you have to
+take it easy for the rest
+of the day.
+<PUSH>
+There will be a lot for you
+to do, tomorrow.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tomorrow!?{15}{E1}
+So then I actually can help?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Of course!
+<PUSH>
+There are a lot of things
+that no one else can handle
+but you!
+<PUSH>
+Right, Chief?
+<PUSH>
+
+<NEW-DIALOG>
+4Y-Yes, of course...
+<PUSH>
+It's just as Dr. Goodall has
+said, Geo.
+<PUSH>
+Today you are to go home
+and get some rest.
+<PUSH>
+One rests when they can.
+It's the most vital of duties!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+U-Understood!
+<PUSH>
+Well then, I'll be off for now!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo>
+Alright, time for some sleep!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+4...Are we not able to protect
+the world without sending
+that young boy into danger?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I see things differently.
+<PUSH>
+
+<NEW-DIALOG>
+4{13}{EC}!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Wanting to protect the world
+has nothing to do with being
+an adult or a child.
+<PUSH>
+In fact, children surely want
+to do so based on more
+<PUSH>
+pure and innocent beliefs
+and motives.
+<PUSH>
+That young boy is doing all
+he possibly can to protect
+the planet...
+<PUSH>
+But I bet he doesn't even
+realize how much he has
+already done for all of us.
+<PUSH>
+
+<NEW-DIALOG>
+4When this is all over, we will
+have to make sure he does.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Now let us begin our part of
+the plan.
+<PUSH>
+There are many things that
+only adults can do, too...
+<PUSH>
+Isn't that right, Dr. Goodall?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You said it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]

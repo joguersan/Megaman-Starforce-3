@@ -1,0 +1,115 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Tú eres...
+¡Apollo Flame!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿No te eliminamos en
+el mundo alternativo?
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+Mis datos acabaron en el
+servidor Agujero Negro y
+Sirio me recuperó.
+<PUSH>
+Me pidió ayuda, asombrado
+por mi gran poder.
+<PUSH>
+¡Guiándome por mi código moral,
+accedí a eliminar a todo aquel
+que intentara superarme!
+<PUSH>
+Sin embargo...
+Al final, seré yo quien
+reine sobre todos y todo.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Seguro que este nos va
+a dar problemas...
+¡Agh!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí, la última vez nos costó
+mucho derrotarlo...
+<PUSH>
+Pero...
+<PUSH>
+¡Apollo Flame!
+¡Respóndeme una cosa!
+<PUSH>
+¿Qué hay más adelante?
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+El Planeta FM, claro.
+Y Sirio está conquistándolo
+ahora mismo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Entonces tengo que
+derrotarte para
+salvar a mi Hermano!
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+¿Aún no lo entiendes?
+¿Tan estúpido eres?
+<PUSH>
+¡La naturaleza te ha
+traído aquí para ser
+eliminado!
+<PUSH>
+¡Toda existencia debe
+seguir las leyes de la
+naturaleza!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡A mí me gusta hacer las
+cosas a mi manera!
+¡Yo sigo mi propio camino!
+<PUSH>
+
+<NEW-DIALOG>
+<Apollo.Flame>
+¡Ya veo que no entiendes
+cómo funciona la galaxia!
+<PUSH>
+¡Tendré que hacértelo
+ver a la fuerza!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos allá, Mega!
+<PUSH>
+¡Combate de Ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,97 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Así que esta es la
+madre de todos los
+Cibernúcleos...
+Una onda de Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ah, Dra. Goodall!
+¡Menos mal que está bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur luchaba en
+Cibernúcleos como este...
+<PUSH>
+Si una anciana como yo
+es feliz y goza de buena
+salud con mi edad...
+<PUSH>
+Por qué{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Por qué un chico tan bueno
+cómo él ha tenido que...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Dra. Goodall...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No pude hacer nada
+para ayudarle...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Un virus!!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Hemos venido a rescatarla!
+<PUSH>
+¡El sacrificio de Ace habrá
+sido en vano si usted
+muere aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Tienes...
+<PUSH>
+¡Tienes razón!
+<PUSH>
+¡Aún puedo ayudar de
+muchas formas a la lucha!
+<PUSH>
+¡¡Mega Man, más te
+vale sacarme de aquí!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡De aquí no me voy
+sin usted!
+<PUSH>
+¡Combate de ondas!
+¡¡Adelante!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,33 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+The Wave Road re-connected,
+again!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nice.
+<PUSH>
+The EM waves around here
+have also grown a bit
+stronger!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...
+<PUSH>
+{13}{EC}(It's as if everyone is
+{13}{EC} telling us to keep going...)
+<PUSH>
+I won't let them down!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

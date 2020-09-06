@@ -1,0 +1,571 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{01}{00}{F6}{00})
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un mapa del autobús.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial!
+¡Es algo bueno!
+<PUSH>
+{84}{E1}{02}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got
+¡Sub-carta:
+«{D2}{E5}»!
+<PUSH>
+{0A}{E1}{F6}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es la mascota del
+<Spica.Mall>, «el gato Spimo».
+Casi parece que vaya
+<PUSH>
+a hablar... Como: «¡¿Qué hay?!
+¡Esto es el famoso <Spica.Mall>!
+¡¿Cómo lo ves?!"
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un anuncio de «<Hunter>-VGs».
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}<Geo>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{08}{16}{0C}{00}{0C}{E1}{01}{00}{09}{16}{0C}{00}{0C}{E1}{01}{00}{59}{16}{0C}{00}{06}{E1}<Joker>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una consulta de dentista...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...
+<PUSH>
+{13}{EC}(El molar no me duele
+{13}{EC} nada de nada.)
+<PUSH>
+{13}{EC}(¡¡Pero nada de nada, ¿eh?!!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+«¡Estamos siempre cerrados!
+   ¡Menuda birria de
+      restaurante!»
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Vaya eslogan tienen estos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}{EE}{00}(
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un poster del gato Spimo,
+la mascota del
+<Spica.Mall>.
+<PUSH>
+Si pudiera hablar,
+seguro que diría...
+<PUSH>
+«¡¿Qué hay?! ¡En el
+Centro Spica compra
+todo lo que quieras!»
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial!
+¡Mira lo que he encontrando!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+el objeto de mejora:
+"{E0}{E5}"!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}{EE}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el baño de chicos.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{0C}{E1}{00}{00}{14}{16}{10}{00}{0C}{E1}{01}{00}{15}{16}{10}{00}{0C}{E1}{01}{00}{81}{16}{10}{00}{06}{E1}%
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El panel de control del
+sistema de seguridad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Nada!
+¡No se mueve!
+<PUSH>
+¡Vamos al Cibernúcleo del
+sistema de seguridad!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un proyector.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+En el escaparate
+hay varios <Hunter>-VGs.
+<PUSH>
+Hoy en día no puedes
+vivir sin uno de estos.
+<PUSH>
+Somos una sociedad
+basada en las ondas EM.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+{0C}{E1}{00}{00}{18}{16}#{0C}{E1}{01}{00}{19}{16}#{0C}{E1}{00}{00}{88}{16}#{0C}{E1}{01}{00}{89}{16}#{06}{E1}$
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{8F}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es el baño de chicas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{83}{13}{0A}{E1}q
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, es «{93}{E5}»!
+<PUSH>
+¡¿5 000 Zennys?!
+¡Eso es mucho dinero!
+¿Qué hago? ¿Lo compro?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¿Quieres comprarlo?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{11}{EC}{00}{00}<Heartless>
+{11}{EC}{03}{00}"
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{8A}{E1}{88}{13}!
+<NEW-DIALOG>
+<Geo>
+Ay...
+No tengo tanto dinero.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+{0A}{E1}{59}{16}{82}{E1}#{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{93}{E5}»!
+<PUSH>
+{81}{E1}{78}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<NEW-DIALOG>
+<Geo>
+Ahora no me hace falta.
+<PUSH>
+
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay algo escrito en la pared.
+«¡El centro comercial
+está perdido! ¡Yuju!»
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ah, aquí está el grafiti!
+Será mejor que lo quite.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Ras, ras...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Limpio como una patena.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{89}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+A ver...
+Si llamo tres veces y
+recito el hechizo...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Toc... {15}{E1}toc... {15}{E1}toc...
+<PUSH>
+
+<END-DIALOG>
+{7A}{E1}&'
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Así, ¿no?
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+No pasa nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Shhh...
+Chaval, oigo algo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿?
+<PUSH>
+...
+<PUSH>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Juega {16}{E1}conmigo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Aaahhh!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Ahí está!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{7F}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 39]
+¡vamosajugar!
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+No pasa nada.
+El hechizo estará mal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un póster del gato Spimo,
+la mascota del
+centro comercial Spica.
+<PUSH>
+Si pudiera hablar,
+seguro que diría...
+<PUSH>
+«¡¿Qué hay?! ¡En el
+Centro Spika compra
+todo lo que quieras!»
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un mapa del autobús.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

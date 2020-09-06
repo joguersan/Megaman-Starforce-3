@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Team Logo"
+msgstr "Logo Equipo"
+
+msgctxt "1"
+msgid "Luna4Prez"
+msgstr "Luna Presi"
+
+msgctxt "2"
+msgid "Rocket"
+msgstr "Cohete"
+
+msgctxt "3"
+msgid "Concert"
+msgstr "Concierto"
+
+msgctxt "4"
+msgid "Trip"
+msgstr "Excursión"
+
+msgctxt "5"
+msgid "Find Prez"
+msgstr "Busca Dele"
+
+msgctxt "6"
+msgid "ACE"
+msgstr "ACE"
+
+msgctxt "7"
+msgid "CrushDealr"
+msgstr "AplastaDlr"
+
+msgctxt "8"
+msgid "Star Force"
+msgstr "Star Force"
+
+msgctxt "9"
+msgid "Black Ace"
+msgstr "Black Ace"
+
+msgctxt "10"
+msgid "Red Joker"
+msgstr "Red Joker"

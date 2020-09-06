@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+Stnd Class
+[END]
+
+[SENTENCE NUMBER 2]
+Mega Class
+[END]
+
+[SENTENCE NUMBER 3]
+Giga Class
+[END]
+
+[SENTENCE NUMBER 4]
+{2B}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+Full Scale
+[END]
+

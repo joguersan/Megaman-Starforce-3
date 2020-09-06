@@ -1,0 +1,340 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es un cactus...
+¡por muy raro que parezca!
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son unos monitores
+puestos en fila.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}è{12}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un planeta azul flotando
+en el espacio...
+<PUSH>
+Es precioso.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Genial!
+¡Menuda sorpresa!
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+{0A}{E1}è
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Son unos monitores
+puestos en fila.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+En la pantalla salen
+un montón de cosas.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Qué mareo...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{0C}{E1}{01}{00}{F8}{00}<Geo>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un monitor enorme...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Qué guay!
+¡Mira esto!
+<PUSH>
+{84}{E1}{05}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+la Carta de Combate:
+«{D5}{E5}»!
+<PUSH>
+{0A}{E1}{F8}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una mesa muy grande.
+<PUSH>
+Día y noche, esta en esta
+mesa se reúnen personas
+que protegen el mundo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{0C}{E1}{01}{00}é{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡No tocar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+Pero...
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido
+el objeto de mejora:
+«{E0}{E5}»!
+<PUSH>
+¡Capacidad PS aumentada!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Pues ha sido buena
+idea tocarlo!
+<PUSH>
+{0A}{E1}é
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es algo de alto secreto.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{09}{E1}{00}{00}{A5}{07}{A9}{07}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Es el ordenador central,
+el orgullo de la NAZA!
+<PUSH>
+Puede que algún día
+descubra los secretos del
+universo y la vida.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{98}{00}Se necesita un permiso
+especial para entrar a la
+sala del ordenador central.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+DISONANCIA DETECTADA.
+{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} ¡ACCESO CONCEDIDO!
+<PUSH>
+{0A}{E1}{94}{13}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{00}{E2}<Solo>
+{00}{00}{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Es el ordenador central,
+el orgullo de la NAZA!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Sale un error por culpa
+del Shakespeare de tres
+al cuarto ese!
+<PUSH>
+¡Vamos, chico!
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}<Solo>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un planeta azul flotando
+en el espacio...
+<PUSH>
+Es precioso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡No tocar!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Sí, mejor no lo toco!
+¡Seguro que es alto secreto!
+<PUSH>
+¡Mega, ni se te ocurra
+tocarlo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vale! Madre mía...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un monitor enorme...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

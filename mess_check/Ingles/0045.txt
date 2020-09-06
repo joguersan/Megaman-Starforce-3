@@ -1,0 +1,46 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Wh-What is that?
+Is it Noise...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's Noise that's solidified
+together!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Like a Noise... cluster?
+<PUSH>
+That doesn't sound like a
+good thing to me.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's definitely not!
+<PUSH>
+The problem with the
+sprinkler is definitely
+being caused by this!
+<PUSH>
+I think it's deletin' time!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I think you're right!
+<PUSH>
+I'll give it a shot!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{96}{00}
+[END]
+

@@ -1,0 +1,509 @@
+[SENTENCE NUMBER 1]
+{0D}{E1}{00}{00}<Heartless>
+/{09}{00}{0D}{E1}{00}{00}0?{13}{00}{0D}{E1}{00}{00}<Chery.Blosom>
+O<Jack>
+{0D}{E1}{00}{00}P '{0D}{E1}{00}{00}`o1
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Oh, Geo, hello!
+<PUSH>
+I came for my favorite
+store's re-opening
+today!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0D}{E1}{00}{00}<Heartless>
+/
+{0D}{E1}{00}{00}0?<Geo>
+{0D}{E1}{00}{00}<Chery.Blosom>
+O<(Queen)Tia>
+{0D}{E1}{00}{00}P ({0D}{E1}{00}{00}`o2
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+They say that the
+<Hunter>-VG can
+detect the presence of
+<PUSH>
+dangerous viruses,
+and will display a
+"WARNING" pop-up
+<PUSH>
+when a dangerous virus
+is nearby.
+<PUSH>
+I've never actually seen
+it. But that's probably
+<PUSH>
+because I don't have
+a Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I just got this Battle
+Card called "BubblHook".
+<PUSH>
+It can trap enemies in
+a bubble!
+<PUSH>
+Not just that, but did you
+know that if you hit the
+enemy you've trapped
+<PUSH>
+in a bubble with an Elec
+attack, you'll inflict
+twice the damage!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+They say that the
+<Hunter>-VG can
+detect the presence of
+<PUSH>
+dangerous viruses,
+and will display a
+"WARNING" pop-up
+<PUSH>
+when a dangerous virus
+is nearby.
+<PUSH>
+I've never actually seen
+it. But that's probably
+<PUSH>
+because I don't have
+a Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+I just got this Battle
+Card called "BubblHook".
+It can trap enemies in
+<PUSH>
+a bubble.
+Not just that,
+but if you hit the
+<PUSH>
+enemy you've trapped
+<PUSH>
+in a bubble with an Elec
+attack, you'll inflict
+twice the damage.
+<PUSH>
+Normally, I'd be more
+excited about something
+<PUSH>
+like that, but I'm worried
+about Luna...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I heard about what
+happened to Luna Platz.
+<PUSH>
+I hope they find her
+soon.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+The other day, my
+Wizard ran into this
+super-huge virus!
+<PUSH>
+Of course, he didn't
+stick around for a fight.
+<PUSH>
+When you meet an enemy
+you know you can't beat,
+it's best to run away!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+To raise your busting
+level, your best tactic
+is speed!
+<PUSH>
+The faster you delete your
+enemies, the better.
+<PUSH>
+Also, think of ways to
+use Default Cards and
+<PUSH>
+White Cards to delete
+all enemies at once!
+<PUSH>
+At least, that's how I
+heard it's done.
+<PUSH>
+I don't actually have
+a Wizard!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+It looks like Luna Platz
+is gonna be the new
+student body president!
+<PUSH>
+I voted for her, you
+know?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+I guess Luna 4 Prez's
+Purpose has been
+fulfilled.
+<PUSH>
+Congratulations!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+The world is in a real
+pickle right now.
+<PUSH>
+I don't even think my
+Wizard can stand up
+against this...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+It's going to be alright.
+<PUSH>
+Our hero, Mega Man
+will save our planet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

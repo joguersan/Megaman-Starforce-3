@@ -1,0 +1,64 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+I am sure you are all
+aware of the red shooting
+star in the sky, Meteor G.
+<PUSH>
+Meteor G is no ordinary
+shooting star.
+<PUSH>
+It is a gigantic collection of
+Noise. A so called "Noise
+cluster".
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Noise...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+If Meteor G were to strike
+the planet...
+<PUSH>
+All EM technology would be
+rendered completely useless.
+<PUSH>
+
+<NEW-DIALOG>
+<Belle>
+N-No way...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+However...
+I have come upon the means
+to control Meteor G!
+<PUSH>
+I alone possess the ability
+to stop its certain impact
+with Earth.
+<PUSH>
+Does everyone understand?
+<PUSH>
+The fate of the world lies in
+my hands!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+{13}{EC}...
+<PUSH>
+
+[END]
+

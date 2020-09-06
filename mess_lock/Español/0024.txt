@@ -1,0 +1,22 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Qué sitio es este?
+Parece que el suelo está
+hecho de naipes...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Puede que ese Ruidoz
+sepa algo, chico!
+¡Habla con él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

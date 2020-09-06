@@ -1,0 +1,300 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+...Oh!!
+<PUSH>
+G{15}{E1}-Geeeo!
+<PUSH>
+Over here!
+Over here!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Phew...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Is that it!? Come on!
+<PUSH>
+That Prez girl totally made
+a mountain out of a mole hill!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Mega Man, watch out!
+<PUSH>
+Viruses are coming out of
+there, one after another...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+N-No way!
+<PUSH>
+How are viruses popping out
+like this...!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid!
+I think there's something
+over there!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+!!
+<PUSH>
+...I-Is that where the
+viruses are...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Possibly!
+We'll have to ask Ace or
+someone, later!
+<PUSH>
+But right now, it's time to
+whoop some butt!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+...
+<PUSH>
+...What do you think, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+There's no doubt.
+<PUSH>
+It's a portal to a
+"Noise Wave".
+<PUSH>
+And it appears to be quite
+large, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Noise Wave...
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Acid>
+A Noise Wave is a world
+that is completely made up
+of Noise.
+<PUSH>
+It can be seen as a
+dangerous Cyber Core where
+<PUSH>
+Noise thrashes around, like
+the winds of a storm.
+<PUSH>
+While they are not officially
+acknowledged, they have
+been showing up all over the
+<PUSH>
+world, more and more as the
+Noise Level around the world
+has risen.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+You guys may have stumbled
+upon one of them.
+<PUSH>
+You didn't know, but a Noise
+Wave detection function was
+<PUSH>
+installed into your <Hunter>-VG
+when it was upgraded.
+<PUSH>
+It was developed based on
+the fact that Noise Waves
+<PUSH>
+were predicted to become
+more common.
+<PUSH>
+There's still a lot we don't
+know about them, but what
+do you think, Geo?
+<PUSH>
+Do you think it would be
+worth it to go in and take
+a look?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+!
+<PUSH>
+It's too dangerous, Ace.
+<PUSH>
+We have no idea what is in
+or what could occur in a
+Noise Wave of that size.
+<PUSH>
+Before anything else, WAZA
+should perform an investi-
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Mega>
+Booooooring!!
+<PUSH>
+You think we're scared of a
+little Noise!?
+<PUSH>
+We'll walk right in there and
+have a look, no problem!
+We can do anything!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+I can't allow that, Omega-Xis.
+<PUSH>
+I must follow protocols...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I don't remember asking you!
+Come on, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Wh-What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I appreciate it, Geo.
+<PUSH>
+As Omega-Xis has alluded to,
+no one other than Mega Man
+<PUSH>
+could possibly be able to
+move around freely in there.
+<PUSH>
+If I sent anyone else, there
+would be very little hope
+for their return.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+But Geo, I know you can
+handle it.
+<PUSH>
+You're the world's greatest
+hero, after all!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+...Thanks!
+<PUSH>
+I'll check it out then, Ace!
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}It's OK, right, Acid?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+...
+<PUSH>
+I expect you to come back
+with some interesting data.
+<PUSH>
+...Be careful.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Always! We'll be back!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

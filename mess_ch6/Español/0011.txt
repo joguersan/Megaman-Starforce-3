@@ -1,0 +1,754 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Todo el mundo esta aquí.
+<PUSH>
+Cuando quiera, jefe.
+<PUSH>
+
+<NEW-DIALOG>
+4Entonces empezaremos de
+inmediato.
+<PUSH>
+Escuchemos primero al equipo
+de investigación.
+<PUSH>
+Aaron Boreal tiene algunos
+hallazgos que reportar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hemos encontrado nuevos
+descubrimientos sobre el
+Crimson.
+<PUSH>
+Aunque el Crimson es un cuerpo
+de Ruido cristalizado,
+<PUSH>
+El cuerpo de este no emite
+ninguna forma de Ruido.
+<PUSH>
+Lo que significa que el
+Crimson tiene la propiedad
+de absorber el Ruido.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Absorbe el Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+0Eso significa que podría
+sernos útil, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Exacto!
+<PUSH>
+Podría ser muy beneficioso
+para nosotros.
+<PUSH>
+Sin embargo, en manos de
+Dealer, podría convertirse
+<PUSH>
+fácilmente en un arma
+terrorífica.
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Mr.Boreal>
+Cuando el Crimson alcanza su
+capacidad máxima de Ruido que
+puede contener...
+<PUSH>
+Emite una gran cantidad de
+ruido de alta densidad.
+<PUSH>
+La cantidad de Ruido que se
+emite es docenas de veces
+<PUSH>
+mayor que la cantidad que fue
+absorbida.
+<PUSH>
+La razón por la que el
+Meteorito G está siendo
+atraído hacia la Tierra
+<PUSH>
+puede ser debido al aumento
+del nivel de Ruido producido
+por el Crimson.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Umm...
+El Crimson es como una bomba,
+¿no?
+<PUSH>
+Supongo que... Es más como
+una bomba de ruido, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hay otras maneras de usar el
+Crimson aparte de como una
+bomba, Omega-Xis.
+<PUSH>
+Creo que el Crimson fue usado
+como fuente de energía para
+<PUSH>
+formar los cúmulos de ruido
+que visteis en tu escuela.
+<PUSH>
+Si se usa correctamente,
+podemos controlar libremente
+la emisión de Ruido .
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Controlarlo...?
+<PUSH>
+
+<NEW-DIALOG>
+3Y pensar que el Crimson podría
+tener tales usos...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Jejejeje!
+<PUSH>
+Vamos, Aaron.
+Puedes decírnoslo.
+<PUSH>
+Parece que también has hallado
+algo más.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¿¡Qué!?{15}{E1} ah...
+Cierto, Doctor...
+<PUSH>
+Al investigar exactamente
+cómo el Ruido que se genera en
+el mundo atrae al Meteorito G,
+<PUSH>
+descubrí que hay un "Ruido
+extraño" que es emitido por
+el propio Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+4¿A qué tipo de ruido te
+refieres exactamente?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Lo siento, pero aún no lo he
+descubierto...
+<PUSH>
+No obstante...
+<PUSH>
+La primera vez que noté este
+extraño Ruido, fue como si
+oyese la «voz» del Meteorito.
+<PUSH>
+Ya sea que se trate de
+llamar,decirnos o responder
+a algo o alguien...
+<PUSH>
+Simplemente no lo sé.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Jejejeje!
+¡Eso podría ser un indicio
+muy interesante!
+<PUSH>
+Debemos investigar esa voz.
+<PUSH>
+¿Serías tan amable de dejar
+que esta anciana te ayude,
+Aaron?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+¡Por supuesto!
+<PUSH>
+Bueno, con esto concluye mi
+informe.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Gracias, Aaron...
+Ahora discutiremos los
+<PUSH>
+incidentes relacionados con
+Wizards fuera de control en
+todo el país.
+<PUSH>
+
+<NEW-DIALOG>
+0¡Sí, señora!
+<PUSH>
+Se cree que la causa de los
+incidentes fueron los altos
+niveles de Ruido en esas áreas.
+<PUSH>
+Todavía no hemos descubierto
+ningun Naipe, virus o
+cualquier otra cosa.
+<PUSH>
+Lo que haría de Dealer el culpable.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Aun así...
+Tiene que ser obra suya.
+<PUSH>
+Incluso sin pruebas, es
+claro.
+<PUSH>
+No hay nadie más que pueda
+llevar a cabo un suceso de
+tal envergadura.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0Ace...
+<PUSH>
+
+<NEW-DIALOG>
+1P-Pero...
+<PUSH>
+¿Cómo pudieron causar que
+tantos Wizards...?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Con Crimson
+<PUSH>
+Deben haber descubierto que
+el Ruido puede ser controlado
+con Crimson.
+<PUSH>
+Lo descubrieron mucho antes
+que nosotros.
+<PUSH>
+
+<NEW-DIALOG>
+4Y ahora ya han aprendido a
+usarlo como arma.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+La situación podría incluso
+ser peor...
+<PUSH>
+King no quiere controlar el
+Ruido ordinario...
+<PUSH>
+Quiere controlar un
+gigantesco cúmulo de Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+0A ¿¡Què quieres decir!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿No es obvio?
+<PUSH>
+Esa esfera siniestra en el
+cielo que provoca que la
+gente no pueda dormir...
+<PUSH>
+La estrella roja que cae del
+cielo sobre nosotros...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Ya veo!!
+<PUSH>
+La gigantesca masa de Ruido
+que Dealer quiere controlar
+es...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡El meteorito G!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4{13}{EC}¿¡...!?
+<PUSH>
+
+<NEW-DIALOG>
+0¿¡Q-Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+2¿¡Es eso siquiera posible!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+De hecho, Dealer ya ha tomado
+el control del Meteorito G.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+La razón por la que hacen
+que los Wizards se salgan
+<PUSH>
+de control es recoger el
+Crimson que emiten.
+<PUSH>
+
+<NEW-DIALOG>
+0¡Espera un momento...!
+<PUSH>
+Cuando detenemos a un Wizard
+fuera de control, se libera
+Crimson...
+<PUSH>
+Y luego Dealer lo recoge.
+<PUSH>
+¿Entonces por qué arriesgamos
+nuestras vidas para luchar
+contra los Wizards?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Parece que...
+<PUSH>
+para ayudar a Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+1¡N-No puede ser..!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sin embargo, si no detenemos a los
+Wizards fuera de control...
+<PUSH>
+entonces mucha gente resultará
+herida o peor.
+<PUSH>
+Hacemos lo correcto.
+<PUSH>
+*sigh*
+El plan de King está funcionando como
+él esperaba.
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Jo jo jo jo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+0¿¡Q-Quien es ese!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¿¡Qué está pasando!?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}¡Estamos en problemas!
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}¡Algo se ha infiltrado en la
+red informática de NAZA!
+<PUSH>
+
+<NEW-DIALOG>
+4¿¡Q-Qué!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Jo, jo, jo...
+<PUSH>
+Encantado de conoceros...{15}{E1}
+bueno...
+<PUSH>
+¡A todos excepto Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+{15}{E1}¡¡King!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡King!?
+<PUSH>
+{13}{EC}(¡Con que ese es el lider
+de Dealer!)
+<PUSH>
+{12}{E2}{15}{00}{01}{00}
+<NEW-DIALOG>
+<Mr.King-2>
+Hola, Ace...{15}{E1}
+¡Y a todos los de la NAZA!
+<PUSH>
+¡Pensé en daros una pista,
+ya que parece que estáis
+<PUSH>
+tan cerca de descubrir que
+nos traemos entre manos!
+<PUSH>
+Por cierto, ¿que tal estáis?
+<PUSH>
+
+<NEW-DIALOG>
+2¡Es una transmisión en
+directo!
+<PUSH>
+¡Ha pirateado la red de
+ordenadores para poder
+transmitirnos!
+<PUSH>
+
+<NEW-DIALOG>
+0T-Tu...
+¿¡Bromeas!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Esto no es un juego para mí,
+buen señor!
+<PUSH>
+De hecho, ¡nunca he sido más
+serio en mi vida!
+<PUSH>
+Si no...
+<PUSH>
+¡No habría podido controlar
+el meteorito G!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}¡...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Por lo que tu...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+¡Escuchenme bien, damas y
+caballeros!
+<PUSH>
+¡Dealer ha tomado el control
+total de meteorito G!
+<PUSH>
+¡Y vamos a usar su tremendo
+poder para dominar el mundo!
+<PUSH>
+Sin embargo...
+<PUSH>
+Para ello, necesito de toda
+su ayuda.
+<PUSH>
+
+<NEW-DIALOG>
+4¿¡Estás loco!?
+¿¡Por qué te ayudaríamos!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Lo hareis.
+<PUSH>
+¡No tenéis otra opción!
+<PUSH>
+Sabéis por que, ¿cierto?
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+4¿¡Quieres decir...!?
+<PUSH>
+
+<NEW-DIALOG>
+{98}{00}¡¡...!!
+<PUSH>
+¡Hay una llamada de socorro
+proveniente de <Stage.Evento>
+en <Studi.WBG>!
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+{98}{00}¡Se han visto Wizards fuera
+de control en la zona!
+<PUSH>
+E-Este es...
+¡¡Este es el mayor número
+visto hasta la fecha!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Así que, ¡todos!
+<PUSH>
+¡Id y detened a todos esos
+Wizards!
+<PUSH>
+Y...
+<PUSH>
+¡Cread más Crimson para nosotros!
+<PUSH>
+¡¡Jo, jo, jo, jo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Es hora de trabajar,
+Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿¡Qué!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+P-Pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿En serio?
+<PUSH>
+¿¡Realmente vas a caminar
+voluntariamente hacia su
+trampa!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No tiene sentido discutir
+lo que debemos hacer...
+<PUSH>
+Ya fue decidido por
+nosotros, ¿no?
+<PUSH>
+Lo comprendes, ¿verdad, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¡...!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ya nos preocuparemos de qué
+hacer después.
+<PUSH>
+Se nos ocurrirá algo.
+<PUSH>
+Después de todo, ya no
+tienen su carta del triunfo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Su carta del triunfo?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+La carta de Ace...{15}{E1}
+No dejaré que vuelvan a
+poner sus manos en ella...
+<PUSH>
+Dejar que ellos recojan
+todas las cartas no es una
+opción.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Vamos!
+<PUSH>
+¡Tenemos que detener a esos
+Wizards fuera de control!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

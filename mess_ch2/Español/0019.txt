@@ -1,0 +1,227 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡No!
+<PUSH>
+¡No! ¡No! ¡No!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Han vuelto a robar el
+protagonismo a Belle
+delante de sus narices!
+<PUSH>
+¡Siempre que trabaja
+con Sonia le pasa lo mismo!
+<PUSH>
+¡Belle tiene muchísimo
+más talento que ella!
+<PUSH>
+Además, ¿quién se cree
+que es ese Mega Man?
+<PUSH>
+No puedo creer que se haya
+presentado como si nada
+<PUSH>
+para arruinar el despegue
+de Belle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡Cómo los odio!
+<PUSH>
+Sonia... Mega Man...
+<PUSH>
+Ojalá desaparecieran
+los dos...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Je, je, je...
+<PUSH>
+Yo puedo hacer realidad
+ese deseo.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¿Quién anda ahí?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¿No nos hemos visto antes?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Mmm, no lo creo.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¿Entonces puedes ayudarme?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+He oído tu monólogo...
+<PUSH>
+Si quieres que Sonia Strumm
+y Mega Man desaparezcan...
+<PUSH>
+Yo puedo echarte una mano.
+<PUSH>
+
+<NEW-DIALOG>
+<Ice>
+¿C-Cómo?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Con este Naipe Ruido!
+<PUSH>
+¡Te daré el título de
+"Diamante"!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡¿Q-Qué es esto?!
+<PUSH>
+...Uhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ice>
+¡¡A{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}h{13}{E1}h{13}{E1}h{13}{E1}h{13}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Je, je, je.{13}{E1}.{13}{E1}.{13}{E1} Jajaja.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+¡Mi cuerpo...!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Has renacido...
+<PUSH>
+Ahora eres un Wizard
+bajo el título de Diamante.
+<PUSH>
+¡Eres "Diamond Ice"!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+¡Siento cómo el poder
+fluye en mi interior!
+<PUSH>
+Con este cuerpo
+y este poder...
+<PUSH>
+Puedo eliminar a
+Sonia y Mega Man...
+<PUSH>
+¡Puedo eliminar a
+cualquiera que se meta
+en el camino de Belle!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Exacto...
+<PUSH>
+¡Sal y haz realidad
+tu deseo!
+<PUSH>
+¡Ahora tienes el poder
+de poner patas arriba
+el mundo del espectáculo!
+<PUSH>
+
+<NEW-DIALOG>
+<Diamon.Ice>
+Je, je, je...
+Jajajaja...
+<PUSH>
+Sonia Strumm...
+<PUSH>
+¡Eres la primera en
+mi lista!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,69 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{10}{00}I-I...?
+<PUSH>
+
+<NEW-DIALOG>
+<Dark.Phantom>
+Wh-What...!?
+<PUSH>
+Could he have harmonized
+with it?
+<PUSH>
+
+<NEW-DIALOG>
+{10}{00}The Noise isn't hurting at all.
+Rather, it's flooding my body
+with power.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+Identity confirmation of
+the Noise accessing
+Meteor Server is complete.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That voice...
+Could it be connected to the
+red shooting star somehow?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Respond to the Noise?
+{05}{EC}{00}{00}{00}{00}  {06}{EC}Yes  {07}{EC}No
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Noise Change cancelled.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

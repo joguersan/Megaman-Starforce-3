@@ -1,0 +1,117 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Quieres cancelar
+el cambio?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{0F}{EC}{01}{00}{00}{00}{02}{00}{00}{00}{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Cambio cancelado.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Ups...
+Parece que la otra parte
+ha cancelado el trato.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Cambio completado!{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¿Qué pretendías
+hacer con eso?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Bud>
+¡No hace falta ser un
+genio para ver que ese
+cambio no tiene sentido!{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 7]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¿Qué sentido tenía eso?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Zack>
+Eh... ¿Es la
+misma carta?{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Parece que no pueden
+llevar más cartas de
+estas. Escojamos otra.{01}{E1}
+{00}{EC}{03}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+{00}{EC}{02}{00}{18}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Guardando...
+¡No apagues la consola!
+[END]
+
+[SENTENCE NUMBER 11]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+¡Guardado completado!{01}{E1}
+[END]
+
+[SENTENCE NUMBER 12]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+El guardado ha fallado.
+Vuelve a intentarlo.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Error al acceder a los datos.
+Apaga la consola y vuelve
+a insertar el cartucho.
+[END]
+

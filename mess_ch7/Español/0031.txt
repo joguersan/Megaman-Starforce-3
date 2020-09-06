@@ -1,0 +1,226 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, gracias por venir.
+Ya tenemos todo listo.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Aquí detrás tengo la
+Estación Dinámica{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Desde aquí puedes
+impulsionarse al
+cohete de Woody.
+<PUSH>
+
+<NEW-DIALOG>
+4Woody, ¿cómo va el cohete?
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+¡De 10 todo!
+<PUSH>
+Ahora mismo está muy cerca
+del Meteorito G, pero
+las lecturas son normales.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Maravilloso. Justo como
+pensaba.
+<PUSH>
+
+<NEW-DIALOG>
+4Lee, ¿cómo va la Onda Real?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+Va genial.
+<PUSH>
+La he configurado para
+proteger a Mega Man de
+forma automática cuando
+<PUSH>
+se impulsione hacia
+el cohete.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Mientras hablamos, el
+Meteorito G va ganando
+velocidad.
+<PUSH>
+Puede que Kelvin{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Ya esté al límite...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+El destino del mundo
+está en tus manos.
+<PUSH>
+Todos contamos contigo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Tranquilo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+¡El Meteorito G no tiene
+nada que hacer contra Mega y yo!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Cuando lo detengas{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+Te quiero en casa enseguida.
+¿Entendido, Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Entendido, mamá...
+<PUSH>
+Y volveré con papá.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Qué asco...
+<PUSH>
+Somos las Fuerzas Especiales
+y hemos luchado hasta ahora,
+<PUSH>
+pero Geo tiene que cargar
+con esta misión él solo.
+<PUSH>
+Ojalá yo también pudiera
+resistir el Ruido como él...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Y yo...
+<PUSH>
+Me he esforzado mucho para
+saber cómo luchar. Y en el
+último combate me quedo
+<PUSH>
+fuera y no puedo
+ayudar a Geo...
+<PUSH>
+Lo siento, Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No lo sintáis, chicos...
+<PUSH>
+Estoy muy orgulloso de que
+hayáis estado a mi lado
+todo este tiempo.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Tú te enfrentaste a los
+FM-ianos... A Vega...
+<PUSH>
+Has usado el poder de los
+vínculos para producir
+milagros,
+<PUSH>
+convirtiendo días grises
+en una fiesta...
+<PUSH>
+¡No estoy preocupado!
+<PUSH>
+¡Sé que volverás sano y
+salvo después de salvar
+el día!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+Somos tus Hermanos{13}{E1}{13}{E1}.{13}{E1}.{13}{E1}.
+Siempre estamos contigo.
+<PUSH>
+Da igual que estés en el
+espacio, en el Meteorito G
+o donde sea...
+<PUSH>
+Pase lo que pase{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Estés donde estés{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Nosotros estamos contigo.
+<PUSH>
+¡Nunca lo olvides!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Chicos, gracias...
+<PUSH>
+Sé que puedo hacerlo.
+<PUSH>
+Con vosotros a mi lado...
+Y Ace...
+<PUSH>
+Tengo unos amigos
+maravillosos apoyándome
+siempre.
+<PUSH>
+Pase lo que pase, vuestra
+fuerza me ayuda siempre.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, cuando estés listo...
+<PUSH>
+impulsiónate a la
+Estación Dinámica
+desde aquí.
+<PUSH>
+Y Geo{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+La Tierra{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1} y Kelvin{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+¡cuentan contigo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

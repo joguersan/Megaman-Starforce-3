@@ -1,0 +1,192 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Ugh... Errrggg...!!
+What is this card!?
+<PUSH>
+My EM wave patterns are
+being rewritten...!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+This is a card that makes
+Wizards go out of control...
+<PUSH>
+I'm giving you the title of
+Club.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Ga{14}{E1}a{14}{E1}a{14}{E1}a{14}{E1}a{14}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+Ha{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}aa{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+...Aaahhh!
+<PUSH>
+The power is unbelievable!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+...You have been reborn.
+You are now known as...
+<PUSH>
+Club Strong.
+<PUSH>
+You'll never work for the
+good of humans, ever again...
+<PUSH>
+You're going to use your
+new powers and abilities to
+control this island...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+Yes I will...!
+<PUSH>
+My power is much too great
+for pathetic humans to have
+any control over!!
+<PUSH>
+I shall become the new king
+of <Alohaha>!
+<PUSH>
+My first action as king will
+be to use the environmental
+system as a weapon!
+<PUSH>
+Ho ho ho ho ho!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+{13}{EC}(He's so strong, now...)
+<PUSH>
+{13}{EC}(Geo Stelar...
+ No, Mega Man...
+ This is the end...)
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You look a little down, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}!!
+<PUSH>
+Whatever...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+...So what Mr. King said
+wasn't exactly off the mark,
+was it...?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+W-What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+You've gotten too close to
+Geo Stelar and his friends.
+It's made you weak...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}!!
+<PUSH>
+Give me a break!!
+I'm going to take Mega Man
+out...
+<PUSH>
+And then I'll make our wish
+come true!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Don't worry, Sis!
+You can count on me!!
+<PUSH>
+I couldn't care less about
+the whole lot of 'em!
+<PUSH>
+If you want, I'll show you
+and take him out, right now!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+...That could be interesting...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,461 @@
+[SENTENCE NUMBER 1]
+Estas gafas especiales
+pertenecían a Kelvin...
+[END]
+
+[SENTENCE NUMBER 2]
+El móvil de Geo, que
+almacena todo tipo
+de información.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 3]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 4]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 5]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 6]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 7]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 8]
+Un fragmento de la
+forma EM de Luna.
+[END]
+
+[SENTENCE NUMBER 9]
+Sres. Hercios
+absorbidos:
+{20}{E1}{02}{00}
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 10]
+Parte de un código
+para abrir Disonancias.
+Encontrado en la escuela.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+Parte de un código
+para abrir Disonancias.
+Encontrado en <Spica.Mall>.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 12]
+Parte de un código
+para abrir Disonancias.
+Encontrado en {BD}{E4}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+Parte de un código
+para abrir Disonancias.
+Encontrado en {BE}{E4}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 14]
+Tienes {20}{E1}{02}{00}
+de este rarísimo
+Ruido cristalizado.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+Ruido enemigo
+Clase: Ruido Libra
+[END]
+
+[SENTENCE NUMBER 16]
+Ruido enemigo
+Clase: Ruido Corvus
+[END]
+
+[SENTENCE NUMBER 17]
+Ruido enemigo
+Clase: Ruido Cáncer
+[END]
+
+[SENTENCE NUMBER 18]
+Ruido enemigo
+Clase: Ruido Géminis
+[END]
+
+[SENTENCE NUMBER 19]
+Ruido enemigo
+Clase: Ruido Ofiuco
+[END]
+
+[SENTENCE NUMBER 20]
+Ruido enemigo
+Clase: Ruido Cisne
+[END]
+
+[SENTENCE NUMBER 21]
+Ruido enemigo
+Clase: Ruido Tauro
+[END]
+
+[SENTENCE NUMBER 22]
+Ruido enemigo
+Clase: Ruido Virgo
+[END]
+
+[SENTENCE NUMBER 23]
+Ruido enemigo
+Clase: Ruido Corona
+[END]
+
+[SENTENCE NUMBER 24]
+Ruido enemigo
+Clase: Ruido Lobo
+[END]
+
+[SENTENCE NUMBER 25]
+Puedes configurar tu
+<Hunter> VG con este
+fondo de pantalla.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 26]
+Una bonita carta con
+una imagen de Sonia
+guiñando un ojo.
+[END]
+
+[SENTENCE NUMBER 27]
+Una carta con una imagen
+de Sonia sonriendo con
+una entrada de tenis.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 28]
+Esta rara carta muestra
+a Sonia en una postura
+atlética.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 29]
+En esta carta tan preciosa
+aparece Sonia con un
+aspecto muy maduro.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 30]
+Un chico hizo este avión
+de papel con un examen y
+lo tiró desde la azotea.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 31]
+Un autógrafo de Mega Man.
+Se nota que lo hizo
+nervioso y con prisas.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 32]
+El precioso autógrafo
+de Belle. Tiene hasta
+un corazón.
+[END]
+
+[SENTENCE NUMBER 33]
+Un empleado de la tele
+te prestó esta cámara
+de última generación.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 34]
+Una fotografía de un
+océano cristalino.
+[END]
+
+[SENTENCE NUMBER 35]
+Una fotografía del
+histórico
+<Castello.Alohaha>.
+[END]
+
+[SENTENCE NUMBER 36]
+Alguien espera este
+juego que te abre
+el apetito.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 37]
+Alguien espera este
+taco-RPG fantástico
+3D superrealista.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 38]
+Coco que se ha nutrido
+gracias a las bondades
+del sol.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 39]
+Esta flor es el
+símbolo de Alohaha.
+[END]
+
+[SENTENCE NUMBER 40]
+Se desconoce el origen
+de este superingrediente.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 41]
+Esta bebida deportiva
+de <Alohaha> brilla
+con un color dorado.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 42]
+Un hechizo mágico:
+"¡jugarumtotalum!"
+[END]
+
+[SENTENCE NUMBER 43]
+Este juego de limpieza
+se usa para quitar
+grafitis de las paredes.
+[END]
+
+[SENTENCE NUMBER 44]
+Este cremoso helado
+pasado de moda está
+hecho con leche fresca.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 45]
+Un delicioso sándwich
+de mantequilla y jalea.
+[END]
+
+[SENTENCE NUMBER 46]
+Un delicioso sándwich
+de jamón y queso.
+[END]
+
+[SENTENCE NUMBER 47]
+Un delicioso sándwich
+mixto con huevo.
+[END]
+
+[SENTENCE NUMBER 48]
+En este cuadernillo
+están garabateados los
+números 9 6 1.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 49]
+Una lata de carne de
+jengibre. Calentar
+y listo para comer.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 50]
+Esto va genial con la carne
+de jengibre. Espolvorea
+un poco por encima.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 51]
+Este <Hunter> VG que Gian
+Luigi te dio para que lo
+arreglaras está caput.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 52]
+Con este código puedes
+acceder a los Cibernúcleos
+bloqueados por la NAZA.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 53]
+Con este código puedes
+acceder a los Cibernúcleos
+bloqueados por Dealer.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 54]
+Con esta identificación
+puedes usar el transporte
+especial de la NAZA.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 55]
+Fragmentos Omega
+obtenidos: {00}{EA}.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+[END]
+

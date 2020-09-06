@@ -1,0 +1,206 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+W-WAZA was...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Ho ho ho ho ho!!
+<PUSH>
+You have no way out, you
+worthless human scum!!
+<PUSH>
+Leaders of the world!
+I will be waiting for your
+letters of submission!!
+<PUSH>
+If you don't submit, your
+country will drown in
+Meteor G's Jamming!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That jerk!!
+You're threatening them!?
+<PUSH>
+Why don't you try me on for
+size instead!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+You have three days!
+<PUSH>
+After that, the countries
+who do not submit will
+cease to exist!
+<PUSH>
+Ho ho ho!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<(Queen)Tia>
+{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+G-Geo!!
+What about the people that
+were in WAZA!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Yeah!
+Do you think Dr. Goodall and
+Mr. Boreal are OK!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Darn it{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I can't get a hold of them.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+That can't be good{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I can't believe WAZA could
+be taken out so easily{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Pedia!!
+What's the status of WAZA!?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+It has become completely
+surrounded by Noise.
+<PUSH>
+The Noise appears to be
+strong enough to block all
+communications.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Inconceivable...
+<PUSH>
+So that's what he meant by
+"Jamming"...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+What should we do{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+If Dr. Goodall and everyone...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I won't believe that{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+It was already hard enough
+with Ace gone...
+<PUSH>
+They all can't be gone too...
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+We can't lose heart people!
+<PUSH>
+Once we do that, we've
+already lost!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+You're right!!
+<PUSH>
+We haven't lost yet!
+We can still do something!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+We've fought our way
+through so much lately!
+<PUSH>
+Just because King has
+Meteor G doesn't mean he's
+won already!!
+<PUSH>
+Ace would...
+Ace would never give up at
+a time like this!!
+<PUSH>
+Let's all calm down and think!
+<PUSH>
+We'll definitely think of
+something with all of us
+working together!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+No doubt!
+<PUSH>
+It's just like Geo and Luna
+said guys!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Yeah!!
+I'm not giving up yet!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I'll work with Pedia to try
+and analyze the Jamming
+more thoroughly!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,702 @@
+[SENTENCE NUMBER 1]
+Mantiene 1 PV
+tras un golpe
+fatal.  
+[END]
+
+[SENTENCE NUMBER 2]
+Enable mov't
+even over   
+Holey pnls  
+[END]
+
+[SENTENCE NUMBER 3]
+Hover over  
+panels and  
+avoid effect
+[END]
+
+[SENTENCE NUMBER 4]
+Use shield &
+bounce back 
+enemy atks. 
+[END]
+
+[SENTENCE NUMBER 5]
+Stand tough 
+against     
+emy attacks 
+[END]
+
+[SENTENCE NUMBER 6]
+Null effects
+of blindness
+& confusion 
+[END]
+
+[SENTENCE NUMBER 7]
+Null effects
+of blowing  
+sucking etc.
+[END]
+
+[SENTENCE NUMBER 8]
+Null effects
+of          
+paralyzation
+[END]
+
+[SENTENCE NUMBER 9]
+Null effects
+of freezing 
+[END]
+
+[SENTENCE NUMBER 10]
+Null effects
+of bubbling 
+[END]
+
+[SENTENCE NUMBER 11]
+Use non-dim-
+ming card & 
+recovr 5% HP
+[END]
+
+[SENTENCE NUMBER 12]
+Begin battle
+with barrier
+up          
+[END]
+
+[SENTENCE NUMBER 13]
+Begin battle
+with aura   
+up          
+[END]
+
+[SENTENCE NUMBER 14]
+Charged Shot
+spreads dmg 
+in V ptrn.  
+[END]
+
+[SENTENCE NUMBER 15]
+Charged Shot
+spreads dmg 
+in X ptrn.  
+[END]
+
+[SENTENCE NUMBER 16]
+Charged Shot
+spreads dmg 
+to adj pnls.
+[END]
+
+[SENTENCE NUMBER 17]
+Charged Shot
+turns panels
+into grass  
+[END]
+
+[SENTENCE NUMBER 18]
+Charged Shot
+turns panels
+into 1/2 ice
+[END]
+
+[SENTENCE NUMBER 19]
+Charged Shot
+turn pnls to
+1/2 paralyze
+[END]
+
+[SENTENCE NUMBER 20]
+Charged Shot
+makes pnl   
+null emy grd
+[END]
+
+[SENTENCE NUMBER 21]
+Charged Shot
+turn pnls to
+poisn panels
+[END]
+
+[SENTENCE NUMBER 22]
+Charge Shot 
+will spread 
+dmg in +ptrn
+[END]
+
+[SENTENCE NUMBER 23]
+Charge Shot 
+becomes 3x3 
+shot        
+[END]
+
+[SENTENCE NUMBER 24]
+Charged Shot
+turns into  
+5-shot Vlcn 
+[END]
+
+[SENTENCE NUMBER 25]
+Charged Shot
+turns into  
+BigDrop     
+[END]
+
+[SENTENCE NUMBER 26]
+Charged Shot
+turns into  
+BuzzSaw     
+[END]
+
+[SENTENCE NUMBER 27]
+Charged Shot
+turns into  
+MuTech      
+[END]
+
+[SENTENCE NUMBER 28]
+Charged Shot
+turns into  
+MechFlame   
+[END]
+
+[SENTENCE NUMBER 29]
+Charged Shot
+turns into  
+Shuriken    
+[END]
+
+[SENTENCE NUMBER 30]
+Charged Shot
+turns into  
+IceSpin     
+[END]
+
+[SENTENCE NUMBER 31]
+Charged Shot
+turns into  
+FlashStrk   
+[END]
+
+[SENTENCE NUMBER 32]
+Adds wind   
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 33]
+Adds blind  
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 34]
+Adds wind   
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 35]
+Adds wind   
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 36]
+Adds wind   
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 37]
+Adds prlyz  
+ability to  
+Charged Shot
+[END]
+
+[SENTENCE NUMBER 38]
+Sets        
+constant    
+lock-on     
+[END]
+
+[SENTENCE NUMBER 39]
+Speeds up   
+Custom      
+Gauge to MAX
+[END]
+
+[SENTENCE NUMBER 40]
+Timely Up &
+Y Button =
+Feint & atk
+[END]
+
+[SENTENCE NUMBER 41]
+Surround fwd
+& around you
+w/lock-on   
+[END]
+
+[SENTENCE NUMBER 42]
+Can lock-on 
+your left & 
+right cols  
+[END]
+
+[SENTENCE NUMBER 43]
+Prgm to har-
+ness & ctrl 
+Noise pwr   
+[END]
+
+[SENTENCE NUMBER 44]
+Equip &     
+Omega-Xis   
+will...     
+[END]
+
+[SENTENCE NUMBER 45]
+Equip & the 
+Buster      
+will...     
+[END]
+
+[SENTENCE NUMBER 46]
+Equip & the 
+Buster      
+will...     
+[END]
+
+[SENTENCE NUMBER 47]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 48]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 49]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 50]
+Equip & chng
+all cards to
+AreaEtr     
+[END]
+
+[SENTENCE NUMBER 51]
+Equip & chng
+all cards to
+DblStone    
+[END]
+
+[SENTENCE NUMBER 52]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 53]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 54]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 55]
+Equip & chng
+all cards to
+PanlFormat  
+[END]
+
+[SENTENCE NUMBER 56]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 57]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 58]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 59]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 60]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 61]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 62]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 63]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 64]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 65]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 66]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 67]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 68]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 69]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 70]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 71]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 72]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 73]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 74]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 75]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 76]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 77]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 78]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 79]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 80]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 81]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 82]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 83]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 84]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 85]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 86]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 87]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 88]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 89]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 90]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 91]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 92]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 93]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 94]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 95]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 96]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 97]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 98]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 99]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 100]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 101]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 102]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 103]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 104]
+Increases   
+HP capacity 
+by 50       
+[END]
+
+[SENTENCE NUMBER 105]
+Increases   
+HP capacity 
+by 100      
+[END]
+
+[SENTENCE NUMBER 106]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 107]
+Increases   
+HP capacity 
+by 200      
+[END]
+
+[SENTENCE NUMBER 108]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 109]
+Increases   
+HP capacity 
+by 300      
+[END]
+
+[SENTENCE NUMBER 110]
+Increases   
+HP capacity 
+by 400      
+[END]
+
+[SENTENCE NUMBER 111]
+Increases   
+HP capacity 
+by 500      
+[END]
+
+[SENTENCE NUMBER 112]
+Up folder M.
+Class Card  
+capacity by1
+[END]
+
+[SENTENCE NUMBER 113]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 114]
+Up folder G.
+Class Card  
+capacity by1
+[END]
+
+[SENTENCE NUMBER 115]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 116]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 117]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 118]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 119]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 120]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 121]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 122]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 123]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 124]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 125]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 126]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 127]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 128]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 129]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 130]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 131]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 132]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 133]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 134]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 135]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 136]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 137]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 138]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 139]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 140]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 141]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 142]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 143]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 144]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 145]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 146]
+{3F}{FF}
+[END]
+
+[SENTENCE NUMBER 147]
+Prog to har-
+ness & ctrl 
+Noise pwr   
+[END]
+

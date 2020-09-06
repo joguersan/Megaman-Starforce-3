@@ -1,0 +1,50 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡El camino onda vuleve a
+estar entero!
+<PUSH>
+¿Me pregunto a dónde llevará?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué hacemos?
+¿Volvemos para informar?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}...
+<PUSH>
+No, sigamos.
+<PUSH>
+¡Nuestra misión es lo más 
+importante en este momento!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ja ja, ¡ese es mi chico!
+<PUSH>
+¡Guay! ¡Parece que vamos a
+poder patear algunos culos
+de Dealer!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vamos! Combate de Ondas...
+¡Adelante!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]

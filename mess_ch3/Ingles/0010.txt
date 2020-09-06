@@ -1,0 +1,326 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+There are so many colorful
+fish...
+<PUSH>
+I wonder if they're edible...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+The ocean is so beautiful...
+I'll never get tired of looking
+at it.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Yeah.
+I'd stay here forever if it
+was possible.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+Ahhh! Whooaa!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Relax, Zack!
+You're overdoing it!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+He has those swimmies on
+his arms...
+<PUSH>
+And he's still sinking like
+that... Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+*gasp*
+*breath*
+<PUSH>
+...'ve neber bun gad wis
+wafer...
+*breath*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+...Huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+"I've never been good with
+water".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+What does that mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+He was kind of trapped in
+a submarine in another
+country, once.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+Bahahaha!
+That's hilarious!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+*gasp*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Free time is almost over...
+Everyone should get ready
+to go back...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+Really!?
+Can't we have just a little
+more time!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+What's wrong, Ms. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+N-Nothing at all...
+<PUSH>
+Just make sure to be back
+on time...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+Oh, man!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}(I think this is the
+ first time I've ever
+ seen Jack have fun...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud-swim>
+...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+...Umm.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+...What the?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+...Oh, no.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+What's with the strange
+looks, guys?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+I-It's gone!!
+<PUSH>
+My stuff that I left here is
+gone!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+Mine too!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+My stuff is gone as well!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Same here!!
+<PUSH>
+...Did someone steal them?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+I guess it's possible...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+You're all idiots...
+<PUSH>
+Watching out for robbers is
+rule number one when going
+on vacation.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+What is everyone missing?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+My shirt!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+My pants!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+My handkerchief!
+<PUSH>
+It's really expensive!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+My bag...
+<PUSH>
+A fan gave it to me, so
+it has sentimental value.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Darn...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Didn't that big Wizard tell
+you to go see him if you
+have any problems...?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Oh, yeah!
+<PUSH>
+OK, then!
+Let's go see Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

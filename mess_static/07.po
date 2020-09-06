@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "Other"
+msgstr "Otro"
+
+msgctxt "1"
+msgid "Echo Ridge"
+msgstr "Echo Ridge"
+
+msgctxt "2"
+msgid "Echo Ridge Elem."
+msgstr "Escuela Echo Ridge"
+
+msgctxt "3"
+msgid "Spica Mall"
+msgstr "C.C. Spica"
+
+msgctxt "4"
+msgid "WBG Studios"
+msgstr "Estudio WBG"
+
+msgctxt "5"
+msgid "Alohaha"
+msgstr "Alohaha"
+
+msgctxt "6"
+msgid "WAZA"
+msgstr "WAZA"
+
+msgctxt "7"
+msgid "Dealer Base"
+msgstr "Base Dealer"
+
+msgctxt "8"
+msgid "Orbital Base"
+msgstr "Base orbital"
+
+msgctxt "9"
+msgid "Natl Astro Wave"
+msgstr "Onda aérea nac."
+
+msgctxt "10"
+msgid "Outer Astro Wave"
+msgstr "Onda aérea ext."
+
+msgctxt "11"
+msgid "PlntFMAstroWave"
+msgstr "Onda planeta FM"
+
+msgctxt "12"
+msgid "Noise Wave"
+msgstr "Disonancia"

@@ -1,0 +1,120 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Es un muro de Ruido...
+<PUSH>
+No podemos pasar.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kelvin está al otro
+lado de esta cosa.
+<PUSH>
+No estaría mal que tu
+padre nos echara
+un cable.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿Cómo dices?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Toca la «Llave de Kelvin»
+que te dio tu madre.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+He visto unos puntos
+revoloteando por mi
+cabeza...
+<PUSH>
+¿A eso te referías con
+que papá nos echara
+un cable?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Exacto.
+<PUSH>
+Esa llave que has usado
+ha resonado con tu padre.
+<PUSH>
+Debe de haber una «esquirla
+de recuerdos» de tu padre
+en esa zona que has visto.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Una «esquirla de recuerdos»...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Los recuerdos de Kelvin
+han debido fragmentarse
+<PUSH>
+tras haber estado en
+contacto con el núcleo
+del Meteorito G...
+<PUSH>
+Puede que que si los
+cogemos todos, recuperemos
+un recuerdo especial suyo.
+<PUSH>
+¡¡Ese recuerdo se convertirá
+en energía y tirará
+abajo ese muro!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Me parece bien!!
+<PUSH>
+¡¡Vamos a usar la «Llave
+de Kelvin» para recuperar
+el recuerdo de papá!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Tus ojos no pueden ver las
+«esquirlas de recuerdos»...
+<PUSH>
+¡Pero con la «Llave de Kelvin»
+puede saber cuántas
+<PUSH>
+hay y dónde están!
+<PUSH>
+¡¡Concéntrate, chico!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

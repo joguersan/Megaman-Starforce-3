@@ -1,0 +1,194 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+So this is Jamming...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Such powerful Noise...
+<PUSH>
+Though we should be fine
+here, since we are resistant
+to Noise.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+That's probably why
+Mr. Boreal wouldn't let Sonia
+and Bud come with us.
+<PUSH>
+They'd be in serious danger
+just by being this close.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah.
+So that old lady should
+be in there somewhere, huh?
+<PUSH>
+But I don't think we can get
+in there, even while EM
+Wave Changed.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+There's gotta be some way...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...
+<PUSH>
+Maybe there is a way, kid.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+What do you mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like your body has
+gotten more used to Noise.
+<PUSH>
+So maybe with my awesome
+strength I could break up
+some of the Noise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+R-Really!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It won't work everywhere...
+<PUSH>
+But it just might work in
+places where the Noise is
+very weak!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sounds like a plan!
+You can do this, Mega!!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Wizard On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You stinkin' Noise...
+<PUSH>
+Here I come!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{A0}{E1}{04}{00}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Grrrrrr!! Roooaaar!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Whoa, a bunch of Noise
+Wave entrances!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We can get in through those!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Dr. Goodall should be in the
+Noise Wave somewhere!
+<PUSH>
+We've got to hurry!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,46 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+This is the black hole...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It's really dark in here.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+But... This is definitely the
+server. The atmosphere is
+very similar to Meteor G's.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Now that you mention it...
+You're right, it is.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Come on!
+Let's go find Sirius!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Let's head for the back of
+the server!
+<PUSH>
+The big man is always in
+the back room, waiting!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

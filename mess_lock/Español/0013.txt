@@ -1,0 +1,57 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Por ahí no llegamos al
+lugar de grabación...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Eh! ¡Tenemos que volver,
+o el concierto va a
+acabar sin nosotros!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Parece que necesitamos
+una llave para entrar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}¡Solo personal!
+¡Prohibida la entrada de
+personal no autorizado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

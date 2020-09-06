@@ -1,0 +1,396 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Puño!{14}{E1} ¡Gancho!{14}{E1} ¡Puño y gancho!{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mega, ¿qué haces?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ya te lo dije. Hacía
+mucho tiempo que no
+luchaba.
+<PUSH>
+¡Así que entreno para
+cuando aparezca el
+próximo peligro!
+<PUSH>
+¡Tengo que estar
+listo para dar caña!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Guay...
+<PUSH>
+¡Ah! ¡Pero espera, que
+tengo que ver una
+cosa en la tele!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Cómo que espere?!
+¡¿Qué es más importante
+que mi entrenamiento?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Magnes se volvió loco
+hace poco, ¿no?
+<PUSH>
+Y antes, le pasó lo
+mismo a un Wizard en el
+<Spica.Mall>...
+<PUSH>
+Así que quiero saber qué
+le está pasando a los
+Wizards.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Y crees que la caja
+tonta te va a dar la
+respuesta?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No lo sé, pero he oído
+que van a echar un
+especial sobre los Wizards.
+<PUSH>
+He pensado que podría
+verlo, por si acaso.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{41}{02}{16}{EC}
+<NEW-DIALOG>
+<Game>
+Bip
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+*Bienvenidos a nuestro
+especial sobre los Wizards
+y el «Ruido».
+<PUSH>
+Esta noche, hablaremos con
+el experto en tecnología
+EM, Legendary Master Shin.
+<PUSH>
+Gracias por venir,
+Legendary Master Shin.
+<PUSH>
+{12}{E2}<Mr.King-2>
+{00}{00}
+<NEW-DIALOG>
+$¡Legendario!
+¡Gracias por invitarme!
+<PUSH>
+
+<NEW-DIALOG>
+*Es usted todo un experto
+en el Ruido, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+$Bueno, los ruidos despiertan
+mi curiosidad y he hecho
+numerosas investigaciones.
+<PUSH>
+¡Se puede decir que soy
+un Ruidomaníaco!
+<PUSH>
+
+<NEW-DIALOG>
+*Entiendo.
+¿Qué puede decirnos sobre
+los Wizards y el «Ruido»?
+<PUSH>
+
+<NEW-DIALOG>
+$¡Bien, permíteme explicarlo!
+<PUSH>
+En pocas palabras, el
+Ruido es un residuo de la
+<PUSH>
+tecnología EM. Algo así
+como los gases de un coche.
+<PUSH>
+Es contraefecto de todos
+los beneficios de la
+tecnología EM.
+<PUSH>
+A decir verdad, es el
+mayor problema al que
+<PUSH>
+la humanidad se ha
+enfrentado en toda
+su Historia.
+<PUSH>
+
+<NEW-DIALOG>
+*¡Menuda revelación!
+<PUSH>
+No sé si lo he
+entendido del todo...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+$¿En serio? Mmm, a ver...
+<PUSH>
+Vale, intentaré
+explicarlo mejor.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{12}{E2}{0C}{00}{02}{00}
+<NEW-DIALOG>
+$Cualquier dispositivo
+emite Ruido de forma
+constante. Los <Hunter>s,
+<PUSH>
+por ejemplo. Esto atrae
+a los virus y causa
+problemas en los Cibernúcleos.
+<PUSH>
+
+<NEW-DIALOG>
+*Entiendo. Entonces... 
+<PUSH>
+El Ruido está siempre
+presente estropeando
+nuestros aparatos.
+<PUSH>
+
+<NEW-DIALOG>
+$¡Exactamente!
+<PUSH>
+Sin embargo, los nuevos
+modelos de Wizards...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$En resumen. Se ha probado
+que los nuevos Wizards
+<PUSH>
+emiten mucho más Ruido
+que cualquier otro tipo
+de tecnlogía EM.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Los Wizards emiten Ruido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Es el precio a pagar por
+una vida llena de
+comodidades, ¿eh?
+<PUSH>
+
+<NEW-DIALOG>
+$Y si un Wizard
+enloquece...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$Emite una cantidad
+considerable de Ruido.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$En cantidades suficientes,
+el Ruido se agrupa.
+<PUSH>
+
+<NEW-DIALOG>
+*Agrupación de Ruido...
+¿Se cristaliza?
+<PUSH>
+
+<NEW-DIALOG>
+$Exactamente.
+<PUSH>
+Una gran concentración de
+Ruido se convierte en
+un cristal rojo.
+<PUSH>
+A estos cristales se les
+conoce como «Carmesí».
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+$Aún no se sabe qué
+problemas puede causar
+el Carmesí...
+<PUSH>
+Pero la raza humana
+debe tener cuiado
+con él.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+$Así pues, los Wizards
+son un invento maravilloso
+de la tecnología moderna.
+<PUSH>
+Sin embargo, el hecho
+de que ellos son los
+causantes del
+<PUSH>
+Carmesí ha sido más
+que confirmado.
+<PUSH>
+La humanidad debe
+afrontar este problema
+cuanto antes.
+<PUSH>
+
+<NEW-DIALOG>
+*Gracias, Legendary
+Master Shin, por tu
+explicación sobre el Ruido.
+<PUSH>
+Muchas gracias.
+<PUSH>
+
+<NEW-DIALOG>
+$¡No hay problema!
+<PUSH>
+
+<NEW-DIALOG>
+*Seguimos con...
+<PUSH>
+Una preciosa noticia
+sobre el nuevo parque
+de atracciones para
+<PUSH>
+niños de la
+Fundación King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Carmesí, ¿eh?
+Yo no vi nada cuando
+Magnes enloqueció.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Y aún no sabemos por qué
+los Wizards enloquecen.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿Geeeooo?
+¡Vas a llegar tarde
+a la escuela!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ay, jopé!
+¡Tengo que irme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

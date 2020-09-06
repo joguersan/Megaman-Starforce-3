@@ -1,0 +1,332 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tTHIS IS A TEST MESSAGE!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{0C}{E1}{01}{00}|{0B}{00}{0C}{E1}{01}{00}{7B}{00}{0C}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+You're Mega Man, aren't you!?
+Are you here to help!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yes, you can relax now!
+<PUSH>
+Where is Belle!?
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I'm sorry...
+We can't find her.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK. I'll go and find Belle!
+<PUSH>
+Please wait here.
+The Satella Police will
+be here shortly!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+OK, I got it! You're the
+man, Mega Man!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{7B}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+You're Mega Man, aren't you!?
+Are you here to help!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yes, you can relax now!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Alright, we found both of
+them! Now let's get out
+of here and leave the rest
+<PUSH>
+to the Satella Police!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Good idea!
+<PUSH>
+Lee, the Satella Police
+will be here shortly!
+So, please wait here.
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+OK, got it!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{60}{02}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I'll wait here until the
+Satella Police arrive!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+[END]
+

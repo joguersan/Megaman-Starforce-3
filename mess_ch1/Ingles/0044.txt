@@ -1,0 +1,384 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Wow! The rocket took off!
+<PUSH>
+What a success!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Hope(Mom)>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Argh!
+We failed!
+<PUSH>
+Everything was going
+according to plan...
+What went wrong!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+Maybe a pest got through
+our traps...
+<PUSH>
+I really wanted to see
+that school go up in smoke...
+<PUSH>
+What a waste...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+But, Sis...
+<PUSH>
+At least our test using
+the Noise Card to make
+<PUSH>
+the Wizard go out of
+control was a success.
+<PUSH>
+And we got the stuff
+that we wanted.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+That's right...
+We did pretty well...
+<PUSH>
+Let's perform an even
+bigger test next time.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Yeah!
+Let's make Electopia a
+total mess!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{4B}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+It's the phone...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+I figured we'd be getting
+a call sooner or later.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Ha...
+<PUSH>
+It'll probably be something
+boring again.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+This is Queen Tia, Mr. King.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+I have discovered that one
+of our targets, Mega Man,
+<PUSH>
+is at Echo Ridge
+Elementary.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Mega Man...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Mega Man is there...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+So that means Mega Man
+is the one who stopped
+the rocket from exploding?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+That is correct.
+<PUSH>
+The both of you, listen
+very carefully.
+<PUSH>
+You are to infiltrate the
+school and investigate
+Mega Man.
+<PUSH>
+You will find the secret
+of his power, as well as
+his weaknesses.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Instead of doing all that
+boring stuff, why don't we
+just take him out?
+<PUSH>
+He's our enemy after all,
+isn't he?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+I am not considering taking
+him down at the moment.
+<PUSH>
+Mega Man will prove to be
+quite the interesting test
+subject for me.
+<PUSH>
+As a scientist, I am
+interested in learning more
+about him.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Ha! I thought I'd get the
+chance to have some fun
+for once!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Cool it, Jack...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Understood, Mr. King.
+We live to serve you.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King>
+I am sending some data.
+Read it over thoroughly.
+<PUSH>
+I will only repeat myself
+one more time. I will not
+accept failures of any kind.
+<PUSH>
+It is your duty to act as
+my arms and legs.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Understood...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+{10}{E2}{4C}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+I can't stand small time
+stuff like investigating and
+researching!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+Hey, Sis!
+<PUSH>
+Why don't we take out
+Mega Man without telling
+Mr. King!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+We can't go against his
+orders, Jack.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+For cryin' out loud!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+{10}{E2}{4D}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*beep*
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What is it now!?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Cool it, Jack...
+<PUSH>
+It's the data from
+Mr. King...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Echo Ridge Elementary...
+Class 5-A...
+Geo Stelar...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Geo... Stelar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+He's{16}{E1}.{16}{E1}.{16}{E1}.{16}{E1}
+Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

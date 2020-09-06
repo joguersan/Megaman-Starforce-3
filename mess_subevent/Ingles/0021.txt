@@ -1,0 +1,195 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0A}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Who wants to trade Battle
+Cards!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{29}{16}{0D}{00}{0C}{E1}{00}{00}{43}{16}{03}{00}{0C}{E1}{01}{00}{28}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)I trade Battle Cards with my
+friends all the time.
+<PUSH>
+I always want to trade ultra
+rare cards, but my friends
+<PUSH>
+never offer anything but
+boring common cards.
+<PUSH>
+In Japanese they call that
+"kechi", which means stingy.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I don't mind trading some
+Battle Cards with you.
+<PUSH>
+
+<NEW-DIALOG>
+)It looks like you have a lot
+of different cards on you.
+<PUSH>
+Sure, let's do some trading.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Trade?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+)I'll give you an "{D4}{E7}"
+if you bring me a
+"{79}{E7}".
+<PUSH>
+Talk to me again when you're
+ready to trade.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK!
+<PUSH>
+{0A}{E1}{28}{16}{20}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+)Oh...
+Well, let me know if you
+change your mind.
+<PUSH>
+{0B}{E1}{43}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Are you ready to trade?
+<PUSH>
+{89}{E1}9{01}{00}{08}{00}{06}{E1}{09}{00}
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Game>
+Hand over the Battle Card
+"{79}{E7}"?
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Yes
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0C}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Cancel the trade?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Cancel
+  {09}{EC}Don't cancel
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}
+{11}{EC}{03}{00}{0B}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<NEW-DIALOG>
+)Oh...
+Well, let me know if you
+change your mind.
+<PUSH>
+{0B}{E1}{43}{16}{0B}{E1}{28}{16}{0B}{E1}{29}{16}{21}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<NEW-DIALOG>
+)Come back and see me when
+you have the card.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Thanks!
+I've wanted a "{79}{E7}"
+for a while now.
+<PUSH>
+Here's the card I promised.
+<PUSH>
+{80}{E1}{94}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{D4}{E7}"!
+<PUSH>
+
+<NEW-DIALOG>
+)Thanks for the sweet trade.
+<PUSH>
+{0A}{E1}{29}{16}{80}{E1}9{FF}{FF}{21}{EC}{E4}{10}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+)Thanks for the sweet trade.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

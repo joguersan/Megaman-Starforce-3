@@ -1,0 +1,533 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Huh...!?
+What's wrong, Mega Man!?
+Is this all you can handle!?
+<PUSH>
+We're not through yet!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+*huff, puff*
+<PUSH>
+He's strong...!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+It looks like this isn't going
+to be easy...
+We can't continue like this!
+<PUSH>
+
+<NEW-DIALOG>
+<Wolf.Woods>
+What a let down, Omega-Xis!
+<PUSH>
+Does it take all your might
+just to EM Wave Change!?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Halt...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Joker!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+What are you doing here...?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Your orders from Mr. King
+were to investigate Mega
+Man and to collect Crimson.
+<PUSH>
+He never said anything about
+fighting with Mega Man.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Argh!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+...Mr. King told you to watch
+over us, didn't he...?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+That is correct.
+<PUSH>
+And just as he predicted,
+you two decided to make
+some of your own plans.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+So then, what are you going
+to do about it?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+I won't do a single thing...
+<PUSH>
+Mr. King expressed to me
+that if you return to him
+<PUSH>
+immediately, there will be no
+penalties for your actions.
+<PUSH>
+Queen Tia, Jack...
+Take my advice...
+Return to him...
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+I guess we have no other
+choice...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+We'll have to postpone this
+for now, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+Man!!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Prez>
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+W-Who are these people...?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Don't get any closer, Prez!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I-I'm sorry...
+<PUSH>
+The people of the island said
+that Strong's signal died out,
+so I...
+<PUSH>
+I just didn't know what to...
+<PUSH>
+.{15}{E1}.{15}{E1}.{15}{E1}Huh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Hey, is that{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+Jack!?
+<PUSH>
+What are you doing, Jack!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+And that's Ms. Tia, too!
+<PUSH>
+What the heck is going on!?
+<PUSH>
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<NEW-DIALOG>
+<Joker>
+Interesting indeed...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+And just who are you...?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Mega Man...
+When a bond between you
+and another is broken, the
+<PUSH>
+anger and pain you feel
+magnifies your power.
+<PUSH>
+And I know you share an
+important bond with that girl.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Don't you dare, Joker!!
+Don't even think about laying
+a finger on Prez!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Begone...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Prez!!
+<PUSH>
+{13}{E2}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+That was too close...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Joker{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+That's enough!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+If you want a fight, then
+bring it on!!
+<PUSH>
+But don't bring innocent
+people into this!
+<PUSH>
+There's no reason to attack
+people like Strong or Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Calm down, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+If you really want to fight
+me, I'll take everything that
+you've got!!
+<PUSH>
+So don't bring Luna into this!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Mega Man...
+Geo...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+...Hmph.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Joker!!
+<PUSH>
+Where are you!?
+Come out here!!
+<PUSH>
+Are you afraid to face
+me!?
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+Geo!
+Behind you!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Ungh...!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Pre{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}e{13}{E1}z!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{15}{E1}.{15}{E1}.{15}{E1}.{16}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Nooo{15}{E1}.{15}{E1}.{15}{E1}.
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Hahaha...
+Ahahahaha...!
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Joker...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+What?
+<PUSH>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+Explain to me why you just
+did that...
+<PUSH>
+What was the point of
+eliminating that girl...?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Weak people have no reason
+to live...
+That's my philosophy.
+<PUSH>
+I simply removed the person
+who went against my
+philosophy the most.
+<PUSH>
+...She was a stain upon the
+Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+You're crazy...!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Say whatever you please...
+<PUSH>
+Mega Man...
+You are next.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Queen.Virgo>
+...Jack, we're going back...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Corvus>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Where are you, {15}{E1}Prez{15}{E1}.{15}{E1}.{15}{E1}.?
+<PUSH>
+Prez!!
+<PUSH>
+Answer me!!
+<PUSH>
+This can't be happening!!
+This can't be{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} This can't be{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

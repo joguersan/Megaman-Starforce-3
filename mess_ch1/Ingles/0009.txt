@@ -1,0 +1,26 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+It's the viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+They're the cause of the
+Sprinkler problems.
+<PUSH>
+Let's tear 'em up!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

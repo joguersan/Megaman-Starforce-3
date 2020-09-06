@@ -1,0 +1,745 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{03}{00}{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Prez>
+¡Llegas ta{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}a{13}{E1}rde!{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Tarde!{14}{E1} ¡Tarde!{14}{E1} ¡Tarde!{14}{E1}
+<PUSH>
+¿Qué narices estabas
+haciendo?
+<PUSH>
+Te he llamado hace
+mil, ¿sabes?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esto... bueno...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Geo!
+¡La Dele está enfadadísima
+contigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Yo ni abro la boca,
+no vaya a pagarlo
+conmigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡No fastidies, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Yo tampoco quiero
+meterme en un lío,
+<PUSH>
+así que te doy todo
+mi apoyo desde aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Zack, ¿tú también?!
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Prez>
+¡Calladito, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Si hubieras venido
+cuando debías, no
+habría ningún problema.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí... Lo siento...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}...
+<PUSH>
+...N-No pongas esa cara,
+que me haces quedar como
+una dictadora o algo así...
+<PUSH>
+...O-O sea, si no has
+podido venir por algo
+serio, pues bueno...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Díselo, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, estaba en la azotea
+y el aspersor se volvió
+loco y...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Ah...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...Fue cosa de unos virus
+y los eliminé.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Qué duro, ¿no?{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+¡Espera, ¿entonces te
+convertiste en mi
+querido Mega Man?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno...
+Pues sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Entonces por qué no
+has venido aquí en
+forma de Mega Man?!
+<PUSH>
+¡¿Por qué has venido
+como el soso de Geo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+P-Pues yo...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Ya está la Dele como
+loca por Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Te lo repetiré, Geo.
+<PUSH>
+Soy fan de Mega Man,
+ni de ti ni de Omega-Xis.
+<PUSH>
+¿Cómo es posible que
+Mega Man sea alguien tan
+increíble y guay
+<PUSH>
+y tú seas un chaval
+tan simplón?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ay, menuda puñalada.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Y lo que es increíble es lo
+maleducado y violento que
+<PUSH>
+es ese Wizard con el que
+te transformas en Mega Man...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿A quién llamas tú
+maleducado?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ahhhh!
+<PUSH>
+¡Omega-Xis!
+¡No se te ocurra
+asustarme así!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Solo diré esto una vez.
+No soy un Wizard,
+sino un alienígena.
+<PUSH>
+Un AM-iano que se crió
+en el planeta FM...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Vale, vale,
+lo he entendido!
+<PUSH>
+¡Y ahora vuelve al
+<Hunter> de Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+.{13}{E1}.{13}{E1}.{13}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Q-Qué estás mirando?
+<PUSH>
+V-Vamos...
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Mega>
+¡Grooaaarrr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Ahhhh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{A0}{E1}{04}{00}x
+<NEW-DIALOG>
+<Mega>
+Rooaaarrr!! Grrrr!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Ahhhh! ¡Para!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+No falla, ¿eh? La Dele
+y Omega-Xis se llevan
+como el perro y el gato.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Como mínimo!
+¡Ella lo trata fatal!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡G-G-G-G-Geo!
+¡Es tu Wizard, ¿no?!
+¡Haz algo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grooaaarrr!
+¡Grrrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Geo!
+¡La Dele está a punto
+de llorar!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Sí. ¡Haz que Omega-Xis
+vuelva!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Venga, ya vale, Mega.
+<PUSH>
+¡Wizard Off!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Uff, uff.
+<PUSH>
+No puedo... uff... creer
+que Geo y... uff... su
+estúpido... uff... Wizard...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Esto, Dele...
+¿Me has llamado
+por algo en especial?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Ah, sí!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Abrid bien las orejas!
+<PUSH>
+¡Nosotros cuatro{13}{E1}.{13}{E1}.{13}{E1}.
+vamos a formar un Equipo
+y completar un Propósito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{12}{E2}{08}{00}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Ah, sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Does that mean we get
+to try porpoise?
+<PUSH>
+I've never eaten porpoise
+before!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Purpose, Bud!
+Not porpoise!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+No mola eso de ser
+<Brother-color>s y no
+tener un Propósito.
+<PUSH>
+¡Así que he decidido
+que tendremos un
+Propósito genial!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¿Y qué Propósito
+vamos a completar?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Je, je, je, je...
+Piensa un poquito.
+<PUSH>
+¿Qué gran evento se
+va a realizar en esta
+escuela? 
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}¿Eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Estoy seguro de que era
+algo muy importante.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Oh! ¡El lunes que viene
+pondrán pizza en el comedor!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Es verdad...
+<PUSH>
+¿Entonces nuestro
+Propósito va a ir
+sobre pizzas, Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ohh... Crear un Equipo
+por una pizza...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Mal, imbéciles!
+<PUSH>
+¡Pronto se celebrarán
+elecciones para elegir
+al presidente del consejo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+La elección del presidente
+del consje, ¿eh?
+<PUSH>
+Espera, Dele, ¿no querrás
+decir que...?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Efectivamente!!
+<PUSH>
+¡Yo, Luna Platz, voy a
+presentarme a presidenta
+del consejo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+¿Quieres ascender
+aún más en la vida
+<PUSH>
+pasando de ser la delegada
+a la presidenta
+del consejo?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Exactamente. Está claro
+que ese puesto está
+hecho para mí.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Hala!
+<PUSH>
+¡Seguro que será
+una risa que la Dele
+sea la presidenta!
+<PUSH>
+¡Tienes mi apoyo al 100%!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, me parece que
+la Dele será la que
+<PUSH>
+mejor lo haga.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Decidido entonces!
+<PUSH>
+Pero primero tenemos que
+volver a crear nuestras
+<PUSH>
+Bandahermanos. Si no,
+no podemos comenzar
+nuestro Propósito.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ah, sí.
+<PUSH>
+Nuestras Bandahermano
+se borraron con la
+última actualización...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Eso es!
+<PUSH>
+¡Empezaremos Geo y yo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo, ¿te explico cómo
+funcionan las
+Bandahermano?
+
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{0F}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{07}{E1}{00}{00}{01}{00}
+[END]
+
+[SENTENCE NUMBER 17]
+{07}{E1}{00}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Las Bandahermano son una
+forma de estar conectado
+<PUSH>
+a tus amigos y personas
+importantes para ti
+gracias a las ondas EM.
+<PUSH>
+Puedes estar al tanto
+de todo lo que le pase
+a tus Hermanos,
+<PUSH>
+aunque estéis separados.
+<PUSH>
+Puedes hacerte Hermano
+de alguien importante
+para ti, no solo amigos.
+<PUSH>
+Por ejemplo, con
+miembros de tu familia.
+<PUSH>
+Mi padre y mi madre
+son mis Hermanos.
+Así que cuando están
+<PUSH>
+trabajando, podemos
+saber cómo estamos
+gracias a las Bandahermano.
+<PUSH>
+Por mucho que avance
+la tecnología,
+<PUSH>
+o lo fácil que nos
+haga la vida...
+<PUSH>
+Lo más importante siempre
+será nuestras relaciones
+con los demás.
+<PUSH>
+De esas conexiones nace
+el misterioso poder
+llamado Poder Empático.
+<PUSH>
+El Poder Empático
+cuantifica la fuerza
+de tus relaciones.
+<PUSH>
+Cuanto mejor te lleves
+con tu Hermano, mayor
+<PUSH>
+será tu Poder
+Empático con él.
+<PUSH>
+El Poder Empático también
+aumentará al ayudaros y
+mejorar vuestra relación.
+<PUSH>
+Podrás equiparte Habilidades
+cuando el Poder Empático
+llegue a cierto nivel.
+<PUSH>
+No soy una experta, ni
+mucho menos, pero al
+parecer el Poder Empático
+<PUSH>
+está relacionado con
+la fuerza de cada uno.
+<PUSH>
+Puedes comprobar el
+Poder Empático que
+tienes con alguien
+<PUSH>
+hablando con él y
+tocando la notificación
+de la Bandahermano.
+<PUSH>
+Por cierto, también
+puedes formar Bandahermanos
+<PUSH>
+con amigos de la vida
+real. Se llaman Hermanos
+Reales.
+<PUSH>
+{06}{E1}{12}{00}
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Quieres que te
+explique cómo formar
+Bandahermanos Reales?
+<PUSH>
+{05}{EC}{00}{00}{02}{00}   {06}{EC}Sí   {07}{EC}No
+<PUSH>
+{11}{EC}{00}{00}{0F}{00}{11}{EC}{01}{00}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Vale, pues te explicaré
+cómo rellenar tu perfil.
+<PUSH>
+Es de vital importancia
+para el sistema
+Bandahermano.
+<PUSH>
+
+<END-DIALOG>
+{06}{E1}{10}{00}
+[END]
+

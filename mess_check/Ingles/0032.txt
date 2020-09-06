@@ -1,0 +1,105 @@
+[SENTENCE NUMBER 1]
+{0C}{E1}{00}{00}{B9}{03}{07}{00}{0C}{E1}{01}{00}{A8}{00}{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Restricted by:
+Club Strong R
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+{0C}{E1}{00}{00}{BA}{03}{07}{00}{08}{E1}
+d{04}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Possession of 100 different
+<PUSH>
+Standard Cards is required
+to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{BB}{03}{07}{00}{08}{E1}{08}{00}{F4}{01}{05}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+=Access Restricted=
+Link Power of 500 is
+required to access.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Removing restrictions set
+by Club Strong R...
+Access granted.
+<PUSH>
+{0B}{E1}{B9}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Possession of 100 different
+Standard Cards confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{BA}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Link Power of 500
+confirmed...
+Access granted.
+<PUSH>
+{0B}{E1}{BB}{03}{0B}{E1}{BE}{03}{10}{E2}Ì
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<END-DIALOG>
+
+[END]
+

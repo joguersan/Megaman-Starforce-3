@@ -1,0 +1,127 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+There's a door blocking the
+path...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We can't get through that
+thing!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I wonder why someone set
+it up here?
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}I CAN TELL YOU...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{80}{00}A BIG GUY WITH A BLUE
+ARM AND A RED ARM...
+<PUSH>
+HE LOCKED THE DOOR.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+A guy with a blue arm and
+a red arm...
+Could it be Spade Magnes?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Hmm... The last I heard, he
+was still in space.
+<PUSH>
+
+<NEW-DIALOG>
+{80}{00}HE WENT SOMEWHERE VIA
+THAT DEVICE.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Transmission Log:
+Spade Magnes R...
+Natl WAZA HQ Cyber Core...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Heh!
+See, it was Spade Magnes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+But, what does "R" mean?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+I have no clue, but we'll find
+out when we see him!
+<PUSH>
+If we don't find him, we
+won't be able move ahead.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Natl WAZA HQ Cyber Core...
+That's not very clear.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+We'll just have to search
+the whole place once we
+get there. This'll do for now.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+OK!
+Let's go back for now!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+So a mysterious EM being
+transmitted itself from a
+Noise Wave to WAZA, huh?
+<PUSH>
+That sounds suspicious...
+And like fun!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

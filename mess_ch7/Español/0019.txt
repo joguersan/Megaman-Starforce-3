@@ -1,0 +1,180 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+{12}{E2}<(Queen)Tia>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+... ¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Será capullo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Tenemos que llegar al
+<Studi.WBG>!!
+<PUSH>
+¡Podemos salvar a los
+que están atrapados
+dentro del inhibidor!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Bien dicho! ¡¡Vamos!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+.{14}{E1}.{14}{E1}.{14}{E1} ¿Geo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Cielo, ¿adónde vas?
+<PUSH>
+No puedes irte.
+Es demasiado peligroso
+salir.
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Lo siento, mamá.
+<PUSH>
+Tengo que irme{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+Hay algo que solo yo
+puedo hacer.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+¿No puedo hacer nada
+para que te quedes?
+<PUSH>
+El espacio es peligroso...
+Kelvin, no tienes por
+qué ir tú{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{15}{00}Hope, lo siento.
+<PUSH>
+Tengo que ir.
+<PUSH>
+Hay algo que solo yo
+puedo hacer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Kelvin{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}.{14}{E1}.{14}{E1}.{14}{E1} ¿?
+<PUSH>
+Mom?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+.{14}{E1}.{14}{E1}.{14}{E1}Has crecido mucho, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm...
+¿D-De verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Está bien. Ve.
+<PUSH>
+¡Pero vuelve sano
+y salvo, por favor!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Pues claro!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hope...
+No te preocupes, yo me
+encargo de vigilarle.
+<PUSH>
+¡¡Lo traeré sano y salvo,
+aunque me cueste la vida!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Je, je.
+Omega-Xis, eres el mejor.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Mamá, vuelvo enseguida!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Ten cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,218 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Ace, your body is too...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Get away from me!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+What!?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+I can't keep it together any
+longer...
+<PUSH>
+Get away... from me!
+<PUSH>
+I-In this state{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+I might even...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}Delete you{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}Prove...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}...your worth.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Aaaaaargh!!{30}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+What are you talking about,
+Ace!?
+<PUSH>
+What happened to you?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...!!
+<PUSH>
+Get away from him, kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+He...
+<PUSH>
+He looks just like he did
+back at <Studi.WBG>!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+It's got to be Acid...
+<PUSH>
+He must be out of control,
+again!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Oh man, it looks like he's
+fired up!
+<PUSH>
+You know what we have to
+do, right, kid!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah...!
+<PUSH>
+{13}{EC}(Ace just EM Wave Changed...)
+<PUSH>
+{13}{EC}(So just trying to buy time
+ isn't going to work again!)
+<PUSH>
+{13}{EC}(Our only shot is
+ to fight him with
+ everything that we've got!)
+<PUSH>
+Sorry about this, Acid Ace{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{04}{00}<
+<NEW-DIALOG>
+<Megaman>
+But I don't have any other
+choice.
+<PUSH>
+Wave Battle!{16}{E1}
+Ride{15}{E1} On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

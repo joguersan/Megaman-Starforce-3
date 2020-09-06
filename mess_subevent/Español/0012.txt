@@ -1,0 +1,268 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0A}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Todos los aparatos
+electrónicos de mi
+habitación se han roto.
+<PUSH>
+Al igual me he llevado mi
+merecido por no comerme
+la zanahoria anoche.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{00}{00}{3A}{16}{03}{00}{0C}{E1}{01}{00}{85}{16}
+{0C}{E1}{01}{00}{16}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Todo aquello electrónico de
+tu habitación se ha roto?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Sí!
+<PUSH>
+¡No funciona nada!
+¡Ni siquiera mis consolas!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Qué raro.
+Déjame ver si puedo averiguar
+el problema.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Siento molestarte, ¡pero
+gracias por ayudarme!
+<PUSH>
+{0A}{E1}{16}{16}{20}{EC}{DB}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Geo>
+Creo que debería rendirme.
+<PUSH>
+{0B}{E1}{3A}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Geo, ¿averiguaste qué causó
+el problema?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Zack>
+...
+¡No me dejes tirado!
+<PUSH>
+{0B}{E1}{3A}{16}{0B}{E1}{16}{16}{0B}{E1}{17}{16}{21}{EC}{DB}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Zack>
+¡Gracias por la ayuda!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ahora todo debería funcionar.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¿De veras?!
+<PUSH>
+¿Qué haría la gente sin amigos
+como tú, Geo?
+<PUSH>
+Ten esto como muestra de
+agradecimiento, por favor.
+<PUSH>
+{A1}{E1}{87}{E1}{95}{01}{01}{00}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{A1}{E6}{D2}{E6}»!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{17}{16}{21}{EC}{DB}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Guau!
+¡Menudo montón de virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Da hasta miedo, son como
+un cúmulo de cucarachas.
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡INFORMAD SOBRE LA ELIMINACIÓN
+DE DATOS DE HOY!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡METTA! ¡METTA!
+<PUSH>
+¡SE HAN ROTO TRECE APARATOS
+ELECTRÓNICOS!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Están usando la habitación de
+Zack para sus reuniones.
+<PUSH>
+{A0}{E1}{04}{00}
+{10}{E2}{B4}{01}
+<NEW-DIALOG>
+<Game>
+¡¡...!!
+<PUSH>
+¡ALERTA DE INTRUSO!
+¡ALERTA DE INTRUSO!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Vosotros sois aquí los
+instrusos!
+<PUSH>
+¡Hagámoslos pedazos, chaval!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{84}{3C}{00}{48}{00}{6F}{00}{70}{00}{65}{00}{28}{00}{4D}{00}{6F}{00}{6D}{00}{29}{00}{3E}{00}{0A}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Uf...
+<PUSH>
+Estoy agotado...
+<PUSH>
+Pero me alegro de que hayamos
+podido echarle un cable a
+Zack. ¡Vamos a decírselo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿De qué vas, mocoso?!
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

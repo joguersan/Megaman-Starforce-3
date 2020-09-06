@@ -1,0 +1,35 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Magnes>
+Mega Man! We're as close
+to Meteor G as we can get!
+<PUSH>
+Any more{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+And the rocket is done for!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Kid!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Alright!!
+<PUSH>
+Let's get through that Noise
+Wave and get to Meteor G!!
+<PUSH>
+
+<NEW-DIALOG>
+<Magnes>
+Be careful, Mega Man!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,271 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+El correo que enviaste
+seguía en la
+Carretera de Ondas,
+<PUSH>
+¡pero lo he encontrado
+y ya ha llegado a su
+destino!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¿De verdad?
+¡Muchas gracias!
+<PUSH>
+Pero aún no me ha
+respondido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Eehh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡He leído tu correo!
+¡Yo también lo siento!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+No, no, no.
+Ha sido culpa mía...
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Da igual! No volvamos
+a pelearnos. ¡Nunca!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Sí, mejores amigas
+para siempre!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Guay...
+Un problema menos.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Je, je. Sienta bien esto
+de ayudar a los demás,
+¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Y todo gracias a ti!
+¡Muchas gracias,
+de verdad!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No tenéis que
+agradecérmelo...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Prez>
+La amistad es lo mejor
+que hay, ¿verdad?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Vaya, qué sorpresa...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Aquí mi amigo Geo Stelar
+es miembro del Equipo
+"Luna Presidenta"!
+<PUSH>
+¡Y yo soy la líder del
+Equipo, Luna Platz!
+<PUSH>
+En las próximas elecciones
+me presento a presidenta
+del consejo.
+<PUSH>
+¡Sería un honor para mí
+que me apoyarais
+en la campaña!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Muchas gracias, Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+¡Tienes mi voto en
+las elecciones!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Gracias!
+¡No os arrepentiréis!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Muchas gracias, Geo!
+¡Lo estás haciendo
+muy bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí, ¿pero queda
+gente que necesite
+nuestra ayuda?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, me están llamando...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Qué ocurre, Zack?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Oh, ¿la Dele está contigo?
+Perfecto.
+<PUSH>
+¿Podéis venir los dos
+al aula del club de
+ciencias?
+<PUSH>
+Tenemos problemas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale! ¡Vamos ahora mismo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+El aula del club de ciencias,
+¿no? ¡Vamos, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿El aula del
+club de ciencias?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+El club de ciencias estaba
+antes con un experimento
+en la azotea, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sí.
+<PUSH>
+El aula del club de
+ciencias está en la
+segunda planta. Vamos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

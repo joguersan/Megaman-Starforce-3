@@ -1,0 +1,91 @@
+[SENTENCE NUMBER 1]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2F}{E1}
+[END]
+
+[SENTENCE NUMBER 2]
+{00}{EC}{02}{00}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+¿Quieres equiparte
+este arma?
+{10}{EC}{00}{00}Sí
+{10}{EC}{01}{00}No
+{32}{EC}{00}{00}{02}{00}{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}¡Eh! ¡Tranquilo!{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}¡Eh, me haces cosquillas!
+¡Lo estás haciendo
+a posta, ¿verdad?!{12}{EC}
+<PUSH>
+{14}{EC}Te lo advierto,
+déjalo.{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+{14}{EC}¡Vale, se acabó!
+¡Ahora me toca a mí
+divertirme!{12}{EC}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{02}{00}
+<NEW-DIALOG>
+<Mega>
+Je, je, te he pillado,
+¿eh?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Contempla, el MegaBuster
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Cambiar equipo
+  {09}{EC}Sali
+<PUSH>
+
+[END]
+

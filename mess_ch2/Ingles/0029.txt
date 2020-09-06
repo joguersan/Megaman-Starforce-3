@@ -1,0 +1,189 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Now it's time for the last
+song of the evening!
+<PUSH>
+I wrote this song for all
+of my fans who are
+always cheering me on...
+<PUSH>
+And for my very special
+and most dear friends who
+<PUSH>
+always support me through
+all the good and bad times!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+This song is called...
+<PUSH>
+"Shooting Star".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}{17}{EC}{00}{00}{07}{E1}{00}{00}{DC}{00}
+<NEW-DIALOG>
+<Game>
+On both the Wave Road{18}{E1}x
+   And in the Real World{18}{E1}d{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I looked up at the sky{18}{E1}d
+   And I felt so alone{18}{E1}n{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I wanted a{18}{E1}2 connection{18}{E1}F
+  But I didn't really try{18}{E1}{EB}{00}{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I was afraid to be lied to{18}{E1}x
+  So I never got close{18}{E1}d{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I buried away the loneliness{18}{E1}d
+  deep down inside{18}{E1}{7D}{00}{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+And I just{18}{E1}7 kept on singing{18}{E1}{59}{01}
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Until starlight{18}{E1}( shined{18}{E1}( on me{18}{E1}i
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+And touched{18}{E1}-
+  my{18}{E1}(
+   heart{18}{E1}i{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+It was the{18}{E1}(
+  day that I{18}{E1}(
+   met you{18}{E1}<Lyra>
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+That{18}{E1}{0F}{00} our link{18}{E1}K
+was{18}{E1}<(Queen)Tia>
+ discovered{18}{E1}#
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+You found{18}{E1}F
+  me{18}{E1}d at{18}{E1}d
+   my worst{18}{E1}<Lyra>
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Shooting Star{18}{E1}n
+  You guide{18}{E1}# me{18}{E1}-
+   in the dark{18}{E1}{BE}{00}{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Your{18}{E1}<(Queen)Tia>
+
+  smile gives{18}{E1}<(Queen)Tia>
+
+   me{18}{E1}<(Queen)Tia>
+ hope{18}{E1}i{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I'm not{18}{E1}- afraid of{18}{E1}( anything{18}{E1} 
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+I'll keep looking{18}{E1}A
+  to the{18}{E1}( sky{18}{E1}<Lyra>
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Grasping{18}{E1}d for light{18}{E1}P
+{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Your{18}{E1}2 smile{18}{E1}F
+ fills{18}{E1}2 my{18}{E1} 
+   heart{18}{E1}{8C}{00}{04}{EC}{16}{EC}{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+Shooting Star{18}{E1}n
+  You guide{18}{E1}( me{18}{E1}(
+   in the dark{18}{E1}{BE}{00}{04}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{13}{E2}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+So how was the concert!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Unfortunately, I was only
+able to listen to the last
+song, but it was amazing!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I had an amazing time, too!
+<PUSH>
+I had a little trouble there
+for a bit, but the fans'
+cheers kept me going!
+<PUSH>
+Oh, by the way.
+<PUSH>
+The Brother Bands in your
+<Hunter> were formatted,
+right?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, yeah!
+<PUSH>
+We have to re-form our
+Brother Band!
+<PUSH>
+{6E}{E1}{00}{00}{06}{00}
+<NEW-DIALOG>
+<Game>
+Geo and Sonia formed a
+Brother Band!
+<PUSH>
+Geo's Link Power went up
+by 60.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Let's never lose our
+Brother Band, ever again!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

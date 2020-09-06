@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Megaman Starforce 3\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 05/04/2020\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: GlowTranslations & Transcene\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "0"
+msgid "EchoRidge"
+msgstr "EchoRidge"
+
+msgctxt "1"
+msgid "SpicaMall"
+msgstr "CentroSpica"
+
+msgctxt "2"
+msgid "WBGStudio"
+msgstr "EstudioWBG"
+
+msgctxt "3"
+msgid "Alohaha"
+msgstr "Alohaha"
+
+msgctxt "4"
+msgid "NatWAZAHQ"
+msgstr "WAZA"
+
+msgctxt "5"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "6"
+msgid "2F"
+msgstr "P2"
+
+msgctxt "7"
+msgid "Roof"
+msgstr "Azotea"
+
+msgctxt "8"
+msgid "1F"
+msgstr "P1"
+
+msgctxt "9"
+msgid "57F"
+msgstr "P57"

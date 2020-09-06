@@ -1,0 +1,147 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to unequip
+all of your equipped
+abilities?
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}OK
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Ability: {2E}{E1} uses
+{27}{E1}{03}{00}p of Link Power.
+Is it OK to unequip it?
+{10}{EC}{00}{00}OK
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Only one of this ability
+can be equipped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is it OK to unequip
+ability: {2E}{E1}
+and equip this ability?
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}OK
+{10}{EC}{01}{00}No
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+You don't have enough
+Link Power left to equip
+this ability.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+You're running low on
+Link Power, kid.
+<PUSH>
+I'm afraid you're gonna
+have to unequip some
+of your abilities
+<PUSH>
+to fit within the range
+of your Link Power.
+<PUSH>
+You know...
+You can press the
+<PUSH>
+Y Button to see how much
+Link Power a particular
+ability uses.{03}{EC}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Geo>
+Is this the setup you
+want to use?
+{10}{EC}{00}{00}Yes, equip
+{10}{EC}{01}{00}Go back
+{10}{EC}{02}{00}Cancel
+{0F}{EC}{02}{00}{00}{00}{03}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+{2C}{E1}
+{32}{EC}{00}{00}{05}{00}{10}{EC}{00}{00}Equip
+{10}{EC}{01}{00}Do not equip
+{0F}{EC}{00}{00}{00}{00}{02}{00}{00}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Mega>
+Yo, kid! Don't be a fool.
+Keep this one equipped!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,191 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+Agh... ¡¡Errrggg!!
+¡¿Qué es esa carta
+<PUSH>
+¡Los patrones de mis
+ondas EM se están
+reescribiendo!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Esta carta enloquece
+a los Wizards...
+<PUSH>
+Te concedo el título
+de Trébol.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{A0}{E1}{04}{00}x
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Strong>
+¡¡Aa{14}{E1}a{14}{E1}a{14}{E1}a{14}{E1}a{14}{E1}h!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Club.Strong>
+Ah{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}aa{13}{E1}.{13}{E1}.{13}{E1}.{13}{E1}
+¡Aaahhh!
+<PUSH>
+¡Este poder
+es inconcebible!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ahora has renacido.
+Se te conocerá como...
+<PUSH>
+Club Strong.
+<PUSH>
+Nunca volverás a trabajar
+para los humanos, jamás...
+<PUSH>
+Usarás tus nuevos poderes
+para tomar el control
+de la isla...
+<PUSH>
+
+<NEW-DIALOG>
+<Club.Strong>
+¡Eso haré!
+<PUSH>
+¡¡Esos patétitos humanos no
+son dignos de controlar
+nada!!
+<PUSH>
+¡Yo me convertiré en el
+nuevo rey de <Alohaha>!
+<PUSH>
+¡Mi primera medida como
+rey será usar el sistema
+medioambiental como arma!
+<PUSH>
+¡Jo, jo, jo, jo, jo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+{13}{EC}(Qué fuerte es ahora...)
+<PUSH>
+{13}{EC}(Geo Stelar...
+No, Mega Man...
+Estás perdido...)
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Pareces triste, Jack...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}¡¡!!
+<PUSH>
+Para nada...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+El Sr. King no se
+equivocaba...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack>
+¿Q-Qué dices?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Te has hecho muy amigo
+me Geo Stelar y sus amigos.
+Te has vuelto débil...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}¡!
+<PUSH>
+¡Olvídame!
+Me voy a cargar a Mega Man...
+<PUSH>
+¡Y haremos realidad
+nuestro sueño!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+¡Tranquila, Tia!
+¡¡Confía en mí!!
+<PUSH>
+¡Esos chavales me
+importan un pimiento!
+<PUSH>
+¡Puedo cargármelo delante
+de ti si quieres!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Suena interesante...
+<PUSH>
+
+<END-DIALOG>
+
+[END]

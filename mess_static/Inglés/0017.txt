@@ -1,0 +1,252 @@
+[SENTENCE NUMBER 1]
+ 
+[END]
+
+[SENTENCE NUMBER 2]
+Satellite Server
+[END]
+
+[SENTENCE NUMBER 3]
+Meteor Server
+[END]
+
+[SENTENCE NUMBER 4]
+Bro.Force3
+[END]
+
+[SENTENCE NUMBER 5]
+Bro.Force4
+[END]
+
+[SENTENCE NUMBER 6]
+Bro.Force5
+[END]
+
+[SENTENCE NUMBER 7]
+AreaEater
+[END]
+
+[SENTENCE NUMBER 8]
+Special0
+[END]
+
+[SENTENCE NUMBER 9]
+Special1
+[END]
+
+[SENTENCE NUMBER 10]
+MteorLight
+[END]
+
+[SENTENCE NUMBER 11]
+AtomBlazer
+[END]
+
+[SENTENCE NUMBER 12]
+DynaWave
+[END]
+
+[SENTENCE NUMBER 13]
+TB Blade
+[END]
+
+[SENTENCE NUMBER 14]
+ElemCycln
+[END]
+
+[SENTENCE NUMBER 15]
+BlkEndGlxy
+[END]
+
+[SENTENCE NUMBER 16]
+RdGaiaErsr
+[END]
+
+[SENTENCE NUMBER 17]
+hack panel
+[END]
+
+[SENTENCE NUMBER 18]
+SpadMgnes{65}{21}
+[END]
+
+[SENTENCE NUMBER 19]
+DiamndIce{65}{21}
+[END]
+
+[SENTENCE NUMBER 20]
+ClubStrng{65}{21}
+[END]
+
+[SENTENCE NUMBER 21]
+QueenVrgo{65}{21}
+[END]
+
+[SENTENCE NUMBER 22]
+JackCorvs{65}{21}
+[END]
+
+[SENTENCE NUMBER 23]
+DreadJokr{65}{21}
+[END]
+
+[SENTENCE NUMBER 24]
+AcidAce{65}{21}
+[END]
+
+[SENTENCE NUMBER 25]
+TaursFire{65}{21}
+[END]
+
+[SENTENCE NUMBER 26]
+CygnsWing{65}{21}
+[END]
+
+[SENTENCE NUMBER 27]
+WolfWoods{65}{21}
+[END]
+
+[SENTENCE NUMBER 28]
+DrkPhntm{65}{21}
+[END]
+
+[SENTENCE NUMBER 29]
+Rogue{65}{21}
+[END]
+
+[SENTENCE NUMBER 30]
+MoonDstry{65}{21}
+[END]
+
+[SENTENCE NUMBER 31]
+ApolloFlm{65}{21}
+[END]
+
+[SENTENCE NUMBER 32]
+Sirius{65}{21}
+[END]
+
+[SENTENCE NUMBER 33]
+DrknsHole{65}{21}
+[END]
+
+[SENTENCE NUMBER 34]
+DestrMisl{65}{21}
+[END]
+
+[SENTENCE NUMBER 35]
+BrkTmeBmb{65}{21}
+[END]
+
+[SENTENCE NUMBER 36]
+OxTackle{65}{21}
+[END]
+
+[SENTENCE NUMBER 37]
+YetiBlzrd{65}{21}
+[END]
+
+[SENTENCE NUMBER 38]
+PlesioSrf{65}{21}
+[END]
+
+[SENTENCE NUMBER 39]
+TerraCndr{65}{21}
+[END]
+
+[SENTENCE NUMBER 40]
+QnOphiuca{65}{21}
+[END]
+
+[SENTENCE NUMBER 41]
+GeminSprk{65}{21}
+[END]
+
+[SENTENCE NUMBER 42]
+CancrBubl{65}{21}
+[END]
+
+[SENTENCE NUMBER 43]
+GenAuriga{65}{21}
+[END]
+
+[SENTENCE NUMBER 44]
+LibraScls{65}{21}
+[END]
+
+[SENTENCE NUMBER 45]
+CrwnThndr{65}{21}
+[END]
+
+[SENTENCE NUMBER 46]
+RocktLnch{65}{21}
+[END]
+
+[SENTENCE NUMBER 47]
+IceHammrB{65}{21}
+[END]
+
+[SENTENCE NUMBER 48]
+StrngSwng{65}{21}
+[END]
+
+[SENTENCE NUMBER 49]
+GorgonEye{65}{21}
+[END]
+
+[SENTENCE NUMBER 50]
+GmniThndr{65}{21}
+[END]
+
+[SENTENCE NUMBER 51]
+RogueBrk{65}{21}
+[END]
+
+[SENTENCE NUMBER 52]
+Avalanche{65}{21}
+[END]
+
+[SENTENCE NUMBER 53]
+FlygImpct{65}{21}
+[END]
+
+[SENTENCE NUMBER 54]
+TrrntWave{65}{21}
+[END]
+
+[SENTENCE NUMBER 55]
+HolyLight{65}{21}
+[END]
+
+[SENTENCE NUMBER 56]
+WickdFlam{65}{21}
+[END]
+
+[SENTENCE NUMBER 57]
+BlkEndGlxy
+[END]
+
+[SENTENCE NUMBER 58]
+RdGaiaErsr
+[END]
+
+[SENTENCE NUMBER 59]
+MteorLight
+[END]
+
+[SENTENCE NUMBER 60]
+AtomBlazer
+[END]
+
+[SENTENCE NUMBER 61]
+ 
+[END]
+
+[SENTENCE NUMBER 62]
+CrmsnMteor
+[END]
+
+[SENTENCE NUMBER 63]
+AcidArrest
+[END]
+

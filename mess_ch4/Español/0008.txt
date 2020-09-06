@@ -1,0 +1,939 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Vogue>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vogue!
+¡Menos mal que estás bien!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Gracias a la Dra. Goodall!{15}{E1}
+¡Muchas gracias, Dra. Goodall!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No hay de qué, hermoso.
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Geo...
+<PUSH>
+Tengo que decirte algo
+sobre Luna.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Eh?!
+<PUSH>
+V-Vogue{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡¿Qué tienes que decirme?!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Luna no...
+<PUSH>
+Luna no se ha ido...
+<PUSH>
+¡Ella os está esperando
+a todos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+L-La Dele...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¿Nos está esperando?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Q-Qué quieres decir?!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Luna se ha convertido en un
+cuerpo EM, y sus datos están
+repartidos por <Alohaha>...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¿Luna es un cuerpo EM?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Un cuerpo EM desperdigado...
+<PUSH>
+¡Igualito que Strong!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Y eso significa que...?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+Puede que si recogemos
+sus datos y los
+<PUSH>
+reconstruimos, vuelva
+con nosotros.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Entonces{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Podemos salvarla!!
+<PUSH>
+¡¿Lo habéis oído?!
+¡¡Podemos salvar a la Dele!!
+<PUSH>
+¡Es genial, ¿verdad, Sonia?!
+¡¿Bud, Zack?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Sí... ¡Sí!
+<PUSH>
+¡Es fantástico!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Geo! ¡Chicos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+B-B-Bu...
+<PUSH>
+¡Buuaaaaa!
+¡¡Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+No estás 100% segura
+de que acabe bien, ¿no?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+A-Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Por mucho que ahora sea un
+cuerpo EM, sigue siendo
+humana.
+<PUSH>
+Son dos cosas completamente
+distintas, ¿no?
+<PUSH>
+No podemos saber con
+seguridad que este plan
+vaya a funcionar.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Snif, snif...
+<PUSH>
+{15}{E1}¿D-Dra. Goodall?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+S-Señora...
+¿D-De verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{13}{EC}...
+<PUSH>
+Es tal y como ha dicho
+Arthur...
+<PUSH>
+Si Luna fuera un Wizard
+podría reponer código
+perdido con mis programas.
+<PUSH>
+Pero un humano no
+funciona así....
+<PUSH>
+No hay programa en el mundo
+capaz de recrear algo
+tan complejo.
+<PUSH>
+Incluso en el caso de
+los Wizards...
+<PUSH>
+Bueno, ya habéis visto
+en qué estado se encuentra
+Strong...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Y aunque ese programa
+existiera, no habría
+<PUSH>
+garantías de que volviera
+a su antiguo yo al 100%...
+<PUSH>
+Conque faltara una pizca
+de datos, todo se iría
+al traste.
+<PUSH>
+Necesitamos un milagro...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Un m-{15}{E1}milagro...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Un milagro...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Bud, Zack...
+¡No os rindáis todavía!
+<PUSH>
+Puede que no ocurra
+un milagro, pero...
+<PUSH>
+Pero... {15}{E1}¡La Dele nos está
+esperando!
+<PUSH>
+¡Seguro que quiere que
+estemos todos cuando
+vuelva!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Geo...
+<PUSH>
+¡Te equivocas!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¿?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Vogue>
+El milagro{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+...¡ya está en marcha!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Qué dices?!
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+¡Vuestro propósito!
+<PUSH>
+¡Luna está conectada con
+todos vosotros por los
+fuertes lazos que os unen!
+<PUSH>
+¡Y uno de esos lazos
+es vuestro Propósito!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡¡!!
+<PUSH>
+{13}{EC}(¡Es verdad!)
+<PUSH>
+{13}{EC}(La razón por la que la
+{13}{EC} Dele y nuestro Propósito
+{13}{EC} no han desaparecido es
+<PUSH>
+{13}{EC} que sigue viva...
+{13}{EC} ¡Y nuestro vínculo es más
+{13}{EC} fuerte que nunca!)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+Vuestro Propósito...
+<PUSH>
+¡Vuestros lazos que os unen
+como amigos mantienen a
+Luna en este mundo!
+<PUSH>
+¡El poder de la amistad
+es lo mejor!
+<PUSH>
+Gracias a vuestro vínculo,
+los datos de Luna siguen
+en este mundo.
+<PUSH>
+¡Sus datos están unidos
+a vosotros!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+A ver{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Es{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡Es increíble!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡Buuuaaaa!
+¡¡Dele, vamos a encontrarte!!
+<PUSH>
+
+<END-DIALOG>
+{12}{E2}<Joker>
+{00}{00}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Nuestro vínculo con la Dele...
+<PUSH>
+Que...
+Que me pongo a llorar otra vez...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Aguanta hasta que
+volvamos a ver a
+la Dele, Zack!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Por fin!
+<PUSH>
+Ya era hora de que os
+animarais y se os
+iluminara un poco la cara.
+<PUSH>
+¡Venga, Geo!
+<PUSH>
+¡Vamos a encontrar las
+migajas de la Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¿Las miagajas de la dele?!
+<PUSH>
+Como te oiga decir eso
+cuando vuelva...
+<PUSH>
+¿Por qué no los llamamos
+fragmentos de la Dele?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Qué más da?!
+Menos hablar y más
+mover el culo.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿Podrías esperar un
+momento, Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+C-Claro.
+¿Qué pasa, Dra. Goodall?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+...Acidina...
+<PUSH>
+¿Te importaría acompañarlos
+en su misión?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¿Eh?!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Q-{15}{E1}Qué?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No existe un Wizard con
+mejor capacidad analítica
+que Acidina.
+<PUSH>
+Y no podréis encontrar los
+fragmentos de vuestra amiga
+sin esa habilidad.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+A ver, Doc...
+<PUSH>
+Creo que Acid sería más
+útil aquí conmigo...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Arthur...
+<PUSH>
+Has dicho que querías
+ayudar a esos niños,
+¿o te he entendido mal?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Bueno, {15}{E1}esto...
+Pero, {15}{E1}a ver...
+<PUSH>
+Acid es un secreto nacional
+y un miembro indispensable
+para la Policía Satella.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Bah!!
+<PUSH>
+¡No necesitamos su ayuda!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+Para. Nada.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡En serio, Mega! ¡Que no
+tienes que hacerte
+amiguito suyo ni nada!
+<PUSH>
+¡Por favor, Ace!
+<PUSH>
+¡Deja que Acid nos ayude
+a encontrar a la Dele!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡Por favor, Ace!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Por favor!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Lo necesitamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Ace...{15}{E1} Te lo pido yo también.
+Deja que les ayude.
+<PUSH>
+Es una oportunidad de oro
+para comprobar su fuerza.
+<PUSH>
+No tenemos nada que perder.
+<PUSH>
+Y... yo quiero...
+<PUSH>
+Quiero echarle una mano
+a los chavales.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ay...
+¡Vale, vale!
+<PUSH>
+¡Fuera todos de aquí!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Te lo agradezco.
+<PUSH>
+Dejaré las comunicaciones
+abiertas por el canal
+de siempre.
+<PUSH>
+Si me necesitas, llámame
+en cualquier momento.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Hecho.
+<PUSH>
+Ya puedes ayudarles bien
+después de todo este
+numerito.
+<PUSH>
+Os monitorizaré en
+tiempo real.
+<PUSH>
+Así podré ir en vuestra
+ayuda si es necesario.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Entendido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡A-Ace!...
+¡Muchas gracias!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Grrr!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Geo Stelar.
+<PUSH>
+Lo mejor sería que solo
+fuéramos a <Alohaha>
+nosotros tres.
+<PUSH>
+¿Te parece si el resto
+se queda aquí esperando?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡C-Claro!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Habla con el personal
+del Wave Liner
+<PUSH>
+cuando quieras irte.
+<PUSH>
+Os llevará a <Alohaha>.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Vale!
+¡Gracias, Acid!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Se ha instalado el
+"<Wizard.Adapter-color>"
+en el <Hunter>-VG!
+<PUSH>
+{02}{E2}%{01}{E2}%{10}{E2}{48}{05}
+<NEW-DIALOG>
+<Game>
+¡Acid instalado!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{00}{00}{11}{E2}{01}{00}{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Cuando lleguéis a <Alohaha>,
+toca la notificación y
+llámame.
+<PUSH>
+ASí podré buscar los
+fragmentos de Luna Platz
+que haya cerca de ti.
+<PUSH>
+Los datos están repartidos
+por varias zonas de
+<Alohaha>.
+<PUSH>
+El Mundo Real, la Carretera
+de Ondas, Cibernúcleos...
+<PUSH>
+Debes mirar hasta debajo
+de las piedras.
+<PUSH>
+A ver...
+<PUSH>
+
+<END-DIALOG>
+{01}{E2}%{00}{E1}(
+<START-DIALOG>
+{02}{E2}L{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡Geo ha obtenido:
+"{2C}{E7}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Aquí se mostrarán los datos
+que hayas conseguido.
+<PUSH>
+Si te olvidas de cuántos
+datos llevas, toca la
+notificación y listo.
+<PUSH>
+{01}{E2}L
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+¡Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Tú puedes!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Te esperamos aquí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oye, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿Por qué no nos
+hacemos Hermanos?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Está segura?
+¡Si solo soy un niño!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bueno, ya compartimos el
+mismo Propósito, ¿no?
+<PUSH>
+«Recuperar a Luna», ¿no?
+<PUSH>
+¡¿Qué hay de raro en que
+nos hagamos Hermanos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{6E}{E1}{00}{00}<Prez>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Geo y la Dra. Goodall
+han formado una
+Bandahermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40 puntos.
+<PUSH>
+
+<END-DIALOG>
+{04}{E2}{05}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡El Equipo y Propósito
+de Geo han cambiado!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Bien, listo!
+<PUSH>
+Geo, Meguita, Acidina...
+Volved sanos y salvos,
+¿me habéis oído?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Lo haremos. ¡Prometido!
+¡En marcha!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+<PUSH>
+¿Cómo está el panorama
+de verdad?
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Bueno...
+<PUSH>
+Si encuentran todos
+los datos...
+<PUSH>
+Diría que hay un 30% de
+posibilidades de salvarla.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+30%...
+<PUSH>
+Vamos, que hay pocas
+posibilidades de salvar
+a la chica.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Sí...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Lo siento, Doc...
+<PUSH>
+Siempre estoy igual.
+No quería preocuparte
+más de lo que ya estás.
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+No pasa nada{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Nada de nada.
+<PUSH>
+Soy una inocentona,
+la verdad...
+<PUSH>
+Lo que le ha pasado a esa
+chica, y todo lo que le
+está pasando a Geo...
+<PUSH>
+Es culpa mía.
+<PUSH>
+Por quien deberías sentirlo
+es por ese pobrecillo
+de Geo...
+<PUSH>
+Tenemos...
+Tenemos que ayudarle.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Doc...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

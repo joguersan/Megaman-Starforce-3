@@ -1,0 +1,304 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ahh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+Ow!
+<PUSH>
+I scraped my knee...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Oh, it's the school nurse!
+<PUSH>
+
+<NEW-DIALOG>
+*What happened?
+Let's get you back to the
+Nurse's Office, OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Wizard On!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+*Can you please take this
+child to the Nurse's Office?
+<PUSH>
+
+<NEW-DIALOG>
+{94}{00}Sure thing! I'll just perform
+some first aid beforehand.
+<PUSH>
+{10}{E2}{BA}{03}
+<NEW-DIALOG>
+{94}{00}Healing Pulse!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+.{15}{E1}.{15}{E1}.{15}{E1}It stopped hurting!
+<PUSH>
+Wizards are great!
+<PUSH>
+
+<NEW-DIALOG>
+{94}{00}OK, then let's get going!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{94}{00}Clear the way everyone!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's a Wizard!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+A Wizard, huh?
+They've become a big part
+of everyday life lately.
+<PUSH>
+Meh, big deal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Don't be like that, Mega.
+<PUSH>
+You're quite the Wizard
+yourself!
+<PUSH>
+Why don't I give you a
+special explanation about
+Wizards!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That's not really...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ahem!
+Are you ready, Mega?
+<PUSH>
+{12}{E2}<Mr.King-2>
+{00}{00}
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(Grrr...
+ Looks like I lit a fire
+ under Geo's Wizard-mania...)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Up until now, EM beings
+couldn't be seen without
+something like my <Visualizer>.
+<PUSH>
+However, thanks to EM
+technology advancements,
+<PUSH>
+even normal people can
+see and touch EM beings.
+<PUSH>
+In short, a Wizard is a 
+materialized EM being!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+*yawn* Interesting...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+A Wizard usually works
+intimately together with
+a <Hunter>.
+<PUSH>
+Just like you, Mega.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, I guess...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Wizards have been getting
+really popular lately.
+<PUSH>
+Just about every person
+has one!
+<PUSH>
+Recently, Wizards that
+manage the running of
+<PUSH>
+machines have been gaining
+popularity, as well.
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Mega>
+So, I was able to become
+fully materialized thanks to
+the improvement of EM
+<PUSH>
+wave technology and the
+development of Wizards.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It was such a pain in the
+butt not being visible to
+normal humans.
+<PUSH>
+{11}{E2}{02}{00}
+<NEW-DIALOG>
+<Geo>
+W-Wait a second, Mega!
+<PUSH>
+I thought I said you can't
+show yourself at school!?
+You'll stick out too much!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+But it doesn't really
+matter if I stick out since
+I'm a Wizard now!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Cool!
+Is this your <Wizard-color>?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+He looks so cool!
+Is he a Battle Wizard?
+He looks powerful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hehe...
+I am pretty cool-looking
+and powerful, aren't I?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+For crying out loud...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+You should be proud, kid!
+<PUSH>
+You're the <Operatore> of
+this cool-looking and
+powerful Wizard after all!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+It's not cool to get all
+into yourself like that...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,232 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0A}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+.He venido desde el pueblo
+para ver a mi hermano
+pequeño.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{23}{16}{0B}{00}{0C}{E1}{00}{00}{40}{16}{03}{00}{0C}{E1}{00}{00}{22}{16}{04}{00}{0C}{E1}{01}{00}{9C}{16}
+{06}{E1}{07}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Este debería ser el número
+correcto...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Puedo ayudarte en algo?
+<PUSH>
+
+<NEW-DIALOG>
+.Maybe.
+<PUSH>
+Mi hermanito se ha mudado a un
+apartamento en <Echo.Ridge> y
+vine a visitarle.
+<PUSH>
+Pero...
+<PUSH>
+Siempre que introduzco el
+número de su puerta, me da
+un error.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Si puedo ayudarte con algo,
+estaré más que encantado
+de hacerlo.
+
+<PUSH>
+
+<NEW-DIALOG>
+.Qué niño más bueno.
+Estaría genial que pudieras
+ayudarme.
+<PUSH>
+Ten esta nota con el número
+de su puerta apuntado.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{9F}{E5}»!
+<PUSH>
+
+<NEW-DIALOG>
+.Puedes introducir el número
+de su puerta colocándote
+frente al apartamento.
+<PUSH>
+{0A}{E1}{22}{16}{0A}{E1}{9B}{16}{82}{E1}/{01}{00}{20}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+.Qué rabia.
+<PUSH>
+Si hasta le había traído unas
+cajas de maíz dulce del
+pueblo.
+<PUSH>
+{0B}{E1}{40}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.¡¿Has logrado averiguar
+dónde vive mi hermano?!
+
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+.Qué rabia.
+<PUSH>
+Si hasta le había traído unas
+cajas de maíz dulce del
+pueblo.
+<PUSH>
+{0B}{E1}{40}{16}{0B}{E1}{22}{16}{0B}{E1}{23}{16}{0B}{E1}{9B}{16}{82}{E1}/{FF}{FF}{21}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+.Sé que puedo contar contigo.
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.No me puedo creer que
+estuviera leyendo la nota
+del revés.
+<PUSH>
+Gracias. Ahora podré
+ver a mi hermano.
+<PUSH>
+Que me haya topado hoy
+contigo debe haber sido
+cosa del destino.
+<PUSH>
+La verdad es que en el pueblo
+no es que pueda formar muchas
+Bandas Hermano, así que...
+<PUSH>
+¿Formarías una Banda Hermano
+conmigo, por favor?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Me encantaría!
+<PUSH>
+{6E}{E1}{00}{00}#
+<NEW-DIALOG>
+<Game>
+¡Geo y {C3}{E2}
+formaron una Banda Hermano!
+<PUSH>
+El Poder Empático de Geo
+ha aumentado en 40.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Saluda a tu hermano de
+mi parte, por favor.
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}/{FF}{FF}{0A}{E1}{23}{16}{21}{EC}{E1}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+.Bueno...
+<PUSH>
+Hora de poner el maíz
+dulce en la parrilla.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+

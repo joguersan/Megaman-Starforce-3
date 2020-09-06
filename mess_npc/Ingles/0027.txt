@@ -1,0 +1,2078 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}2<Geo>
+{0C}{E1}{01}{00}{69}{07}{0F}{00}{0C}{E1}{01}{00}:{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2That's strange...
+<PUSH>
+The information board
+on the first floor seems
+to be on the fritz.
+<PUSH>
+{0A}{E1}:
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Umm... But no viruses
+have been discovered
+at this time...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+{08}{E1}{00}{00}2{15}{00}{0C}{E1}{01}{00};{03}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Here, we measure Noise
+levels all across the
+<PUSH>
+nation and analyze data
+sent from outer space.
+<PUSH>
+{0A}{E1};
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3All national Noise level
+readings are within
+acceptable limits.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+{08}{E1}{00}{00}2<Hope(Mom)>
+{0C}{E1}{01}{00}<{05}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Hey...
+Aren't you Geo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes, but how do you know
+who I am?
+<PUSH>
+
+<NEW-DIALOG>
+2I thought so! I used to
+work with your father.
+He was more like my boss.
+<PUSH>
+Every time we'd go out, he'd
+pull out your picture and
+<PUSH>
+proudly show it to everyone
+and say, "This is my son!".
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Really? Dad...
+<PUSH>
+
+<NEW-DIALOG>
+2Well anyway, I thought you
+might want to use this.
+<PUSH>
+It's a folder that's proving
+to be very effective when
+fighting against Dealer.
+<PUSH>
+I put it together myself.
+<PUSH>
+{86}{E1}{01}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+{35}{EC} got:
+"{F1}{E5}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Thank you very much.
+<PUSH>
+{0A}{E1}<
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2I know your father will come
+home. He's not the type to
+give up without a fight.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{08}{E1}{00}{00}2<Prez>
+{0C}{E1}{01}{00}={07}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3So you are the son of
+Kelvin Stelar?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Do you know my father?
+<PUSH>
+
+<NEW-DIALOG>
+3No, not personally, but he's
+well-respected by everyone
+<PUSH>
+as one of this country's
+greatest engineers.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I didn't know that.
+<PUSH>
+{0A}{E1}=
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Hopefully, you too can
+be as well-respected as
+he is.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{08}{E1}{00}{00}2<Bud>
+{0C}{E1}{01}{00}>{09}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2No matter how much science
+and technology advances,
+<PUSH>
+it ultimately is humans that
+make it all work..
+<PUSH>
+And there are some things
+in this world that can't be
+solved by computers.
+<PUSH>
+{0A}{E1}>
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2My eyes are getting a
+little tired.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{08}{E1}{00}{00}2<Zack>
+{0C}{E1}{01}{00}?{0B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Back in this room is our
+main computer.
+<PUSH>
+To say that this super-
+computer supports the
+<PUSH>
+entire nation behind the
+scenes is no overstatement.
+<PUSH>
+{0A}{E1}?
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3WAZA is the only place in
+the world with the technical
+<PUSH>
+know-how to run a computer
+like our supercomputer.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}<Geo>
+{11}{00}{0C}{E1}{01}{00}{13}{00}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2It looks like the information
+board could have been
+infected by a virus.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Umm, would you like me to
+have a look at it?
+<PUSH>
+
+<NEW-DIALOG>
+2You?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, I'm pretty good at
+busting viruses...
+<PUSH>
+And I'm kind of getting
+tired of just sitting around.
+<PUSH>
+
+<NEW-DIALOG>
+2OK sure, why not?
+<PUSH>
+Do you know where the
+information board on the
+first floor is?
+<PUSH>
+It's the sign with a
+picture of Mt. Belenus
+on it.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Got it!
+I'm on my way.
+<PUSH>
+
+<NEW-DIALOG>
+2Oh but, that Cyber Core
+has a lock on it.
+<PUSH>
+There should be an access
+key on the Wave Road here.
+<PUSH>
+First, you might want to
+send your Wizard to go
+after it.
+<PUSH>
+{0A}{E1}{13}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Did you forget where it's at?
+<PUSH>
+The information board that
+I think has the virus in it
+is on the first floor.
+<PUSH>
+It's a sign with a picture
+of Mt. Belenus on it.
+<PUSH>
+But there is a lock on it,
+so you'll need the access
+key to get inside.
+<PUSH>
+The access key should be
+on the Wave Road here.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2The information board
+seems to be working
+normally now. Thank you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Lately it seems Dealer
+is becoming more active.
+<PUSH>
+We'll need to beef up our
+surveillance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3For the moment,
+everything seems normal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Noise levels across the
+country are unusually high...
+<PUSH>
+I wonder if Dealer has
+something to do with it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3The radar is working
+fine, and the numbers
+are all normal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2The Satella Police
+conduct their investigations
+<PUSH>
+based on information we
+gather from our WAZA radar.
+<PUSH>
+Not even Dealer can go
+undetected by us.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3It is impossible for even an
+attack from Dealer to
+<PUSH>
+undermine the security of
+WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{0C}{E1}{01}{00}{A9}{07}(
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Oh my...
+If we don't stop Phantom,
+<PUSH>
+the main computer will be
+destroyed from the inside
+out!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 32]
+{0C}{E1}{01}{00}{A9}{07})
+<NEW-DIALOG>
+<HarpNote>
+Mega Man, I'm sorry that
+I am not stronger...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+It's OK.
+Leave this one to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{0C}{E1}{01}{00}{A9}{07}*
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Uuugh...
+I feel like such a failure!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Mmrrgg!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Don't worry...
+I'll take care of Phantom!
+<PUSH>
+Bud, you look after Zack
+and Dr. Goodall!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+{0C}{E1}{01}{00}{A9}{07}+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Geo... I mean Mega Man!
+Please help Prez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{0C}{E1}{01}{00}{AD}{07}8{0C}{E1}{01}{00}{A9}{07}>{0C}{E1}{01}{00}{A5}{07}7
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Dark Phantom...
+What a pitiful man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+{0C}{E1}{01}{00}{AD}{07}:{0C}{E1}{01}{00}{A9}{07}?{0C}{E1}{01}{00}{A5}{07}9
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Dr. Goodall has been
+taken hostage!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+{0C}{E1}{01}{00}{AD}{07}<{0C}{E1}{01}{00}{A9}{07}<Chery.Blosom>
+{0C}{E1}{01}{00}{A5}{07};
+<START-DIALOG>
+
+<NEW-DIALOG>
+3There's nothing we
+can do!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Leave the main computer
+to me. Hurry and find
+Arthur!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 42]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<HarpNote>
+You protected the main
+computer...
+I'm glad.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+I'm sorry for having to
+rely on you again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+The main computer is safe!
+What a relief.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Good work, Geo. You've
+done us all proud...
+<PUSH>
+I guess next time will
+be my turn.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+Thanks, Geo! Luna is
+going to be OK!
+<PUSH>
+I have no doubt that
+she'll make it back safely!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+We are risking our lives
+to save you Prez, please
+come back to us.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Prez, I want to see your
+smiling face once again...
+Boo-hoo-hoo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Aren't you Geo Stelar?
+Ace has told me about you.
+<PUSH>
+Please be sure to talk to all
+the members of the force.
+<PUSH>
+I can see the resemblance
+to your father, Kelvin!
+<PUSH>
+To think that Mega Man's
+true identity is his son...
+It's quite an irony of fate!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 52]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Calling off the search
+for your father wasn't an
+easy decision for NAZA...
+<PUSH>
+And now I know that it
+was a mistake...
+<PUSH>
+I have caused you and
+your mother great pain.
+<PUSH>
+And for that Geo,
+I am sorry.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{0C}{E1}{01}{00}{AD}{07}6{0C}{E1}{01}{00}{A9}{07}={0C}{E1}{01}{00}{A5}{07}5
+<START-DIALOG>
+
+<NEW-DIALOG>
+4The doctor and your
+friends are in the main
+computer room up ahead.
+<PUSH>
+Unfortunately, when
+hostages are involved,
+<PUSH>
+our hands are tied. So now
+I must leave it up to you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Really!? Everyone, you
+say? I'm glad to hear it...
+<PUSH>
+But now the main
+computer's in trouble!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Thank you! You have saved
+WAZA from destruction!
+Thank you very much!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2We are counting on
+you to save the main
+computer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2WAZA can take care of
+itself for just a bit!
+<PUSH>
+Right now what's
+important is the Luna
+recovery operation!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3If the main computer is
+destroyed, WAZA will be
+finished as well!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3...This time it's my
+turn! Don't worry, I will
+save Luna!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3You are our only hope...
+We are counting on you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3WAZA is in shambles...
+I-It's unbelievable!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4We don't know what's
+going on outside... Are
+Ace and the others OK?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2WAZA's interior should
+be safe. But, it has taken
+considerable damage.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I wonder what's going on
+outside?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I wonder if Dealer will
+try to attack us again?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+{0A}{E1}{55}{02}
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+{0D}{E1}{00}{00}ggn{0D}{E1}{00}{00}iod
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Now it's all up to you!
+You must save mankind!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+{0D}{E1}{00}{00}ggo{0D}{E1}{00}{00}ioe
+<START-DIALOG>
+
+<NEW-DIALOG>
+3We will do all we can
+from here. We won't give
+up no matter what!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 93]
+{0D}{E1}{00}{00}ggp
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Team Star Force...
+Our fate is now in
+your hands!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 94]
+{0D}{E1}{00}{00}ggq
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+You're going to go and
+see your friends?
+<PUSH>
+It'll take at least a day to
+prepare, so take your time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 95]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo, you have to stop
+Meteor G!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 96]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Woody>
+I would have never thought
+that I'd be going up
+against a world threat...
+<PUSH>
+Finding out that you
+were Mega Man was
+also kind of a surprise.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 97]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+OK, let's go and play our
+part to save the world!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 98]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Kelvin is waiting for
+you on that shooting
+star.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 99]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 100]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 101]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2You are the only one who
+can do it. Stop Meteor G...
+And make it back safely!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 102]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3That huge station outside
+is the crystallization of all
+of our technology.
+<PUSH>
+Use it to save the Earth!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 103]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Meteor G is rapidly
+approaching the Earth.
+There isn't much time left.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 104]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 105]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 106]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 107]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 108]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 109]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 110]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 111]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2The situation isn't good,
+but at least you are OK.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 112]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Hope is still alive,
+we can't give up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 113]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4It's good you're not hurt.
+<PUSH>
+Get the rest of the
+operation details from
+Boreal.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 114]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+It's too early to give
+up hope, Geo. I want you
+to listen to Aaron's plan.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 115]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 116]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 117]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 118]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 119]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 120]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 121]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2We are continuing to
+transmit, with the hope
+that other WAZA branches
+<PUSH>
+around the world could
+still be operational.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 122]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2I wouldn't have guessed
+that they would be able
+to enter WAZA's network
+<PUSH>
+which is controlled by
+the main computer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 123]
+{0C}{E1}{01}{00}{21}{08}{7B}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2Dealer!!! Where are you!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 124]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2How could they just
+vanish completely off the
+radar!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 125]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3That was terrible, what
+happened at your school.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 126]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3It's been reaffirmed...
+The kind of enemy we are
+facing is terrifying.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 127]
+{0C}{E1}{01}{00}{21}{08}{7F}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3I want to expand the
+search area, but we don't
+have enough people.
+<PUSH>
+But, that doesn't mean
+we're going to give up.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 128]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3We've searched this area
+many times over.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 129]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Geo, thank you for all
+of your hard work!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 130]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hmm...
+<PUSH>
+It's possible that
+this is possible.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 131]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hey Geo! I heard about
+the school and <Spica.Mall>.
+<PUSH>
+It sounds like you had a
+hard time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 132]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Control Meteor G with the
+Crimson we've gathered...
+<PUSH>
+If we can figure out how
+to do that, we may be able
+to keep Meteor G at bay.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 133]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+How is Dealer trying to
+use Crimson to control
+Meteor G?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 134]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+We need to do our research
+quickly! Even if we can
+<PUSH>
+beat Dealer, it will be
+meaningless if we can't
+<PUSH>
+prevent Meteor G from
+crashing into the Earth!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 135]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Graagh...
+What? Do they think this
+is some kind of joke!?
+<PUSH>
+Ace, Geo, head to
+<Studi.WBG> immediately!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 136]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Mr. King was a brilliant
+scientist... I wonder what
+set him on the wrong path?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 137]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4We've managed to somehow
+rebuild our National WAZA
+Headquarters,
+<PUSH>
+but we have absolutely no
+idea what shape other WAZA
+branches are in.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 138]
+{0C}{E1}{01}{00}{21}{08}<Dark.Phantom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4Now that Ace and Acid are
+down...
+<PUSH>
+Mega Man, you are the only
+one we can count on!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 139]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4You've done well so far!
+<PUSH>
+Now we are at the final
+stage of completely
+eliminating Dealer!
+<PUSH>
+I wish you Godspeed!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 140]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 141]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 142]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 143]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 144]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 145]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 146]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 147]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 148]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 149]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 150]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 151]
+{0D}{E1}{00}{00}AD{97}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2We are in the middle of
+rebuilding WAZA...
+<PUSH>
+The sooner we can get back
+to supporting the Satella
+Police efforts, the better!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 152]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2We must hurry and
+rebuild WAZA!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 153]
+{0D}{E1}{00}{00}AD{99}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Welcome to the WAZA
+National Headquarters!
+<PUSH>
+...Things are a little sad
+around here now.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 154]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3Our main goal now is to
+get WAZA functioning
+<PUSH>
+to at least some of its
+capability!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 155]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+That Aaron is quite the
+handyman, isn't he?
+<PUSH>
+Perhaps I should just
+retire right now.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+D-Doctor!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+I'm just kidding.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 156]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Hey, Geo! Those Commandos
+are really working out,
+aren't they?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yes, thanks Mr. Boreal!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Right now, I'm over at
+WAZA helping Dr. Goodall
+with some research!
+<PUSH>
+Let's all do our best.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 157]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4You...! You managed to
+save WAZA from total
+<PUSH>
+destruction! However, the
+damage inflicted was severe.
+<PUSH>
+But, we will rebuild it
+somehow!
+<PUSH>
+Thank you for risking your
+life and fighting so hard.
+<PUSH>
+Your efforts and the
+efforts of the Satella Police
+will not go unrewarded!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 158]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4I've heard about all
+that you've done...
+<PUSH>
+We are counting on you
+and the Satella Police
+Commandos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 159]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 160]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 161]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 162]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 163]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 164]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 165]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 166]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 167]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 168]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 169]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 170]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 171]
+
+<START-DIALOG>
+
+[END]
+

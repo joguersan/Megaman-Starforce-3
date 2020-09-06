@@ -1,0 +1,356 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Listo!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Ya habéis terminado todos?
+<PUSH>
+Muy bien, ahora vamos a
+hablar de las notificaciones.
+<PUSH>
+Poneos en grupos pequeños.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Preparados?
+<PUSH>
+Muy bien, comenzaré con
+la explicación.
+<PUSH>
+Como todos sabéis...
+<PUSH>
+El mundo está formado por
+infinidad de datos.
+<PUSH>
+Tantos que los seres humanos
+no podríamos procesarlos.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡Ya te digo!
+<PUSH>
+Por las mañanas, no hay quien
+encuentre la ropa en la
+habitación.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡Porque tu habitación está
+siempre hecha una pocilga,
+<Bud-Color>!
+<PUSH>
+¡A ver si la ordenas de
+una vez!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡A ti qué te importa, <Zack-color>!
+¡Es mi habitación!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Ja, ja, ja. El ejemplo
+de Bud no está mal.
+<PUSH>
+Para que me entendáis...
+<PUSH>
+Cuando tenéis prisa por
+encontrar algo, lo
+necesitáis inmediatamente.
+<PUSH>
+Y es difícil encontrar lo
+que necesitáis entre todos
+los datos que se acumulan.
+<PUSH>
+Con este nuevo sistema,
+encontrar lo que buscáis
+será pan comido.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Alucinante!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Sr. Shepar!
+<PUSH>
+¿Cuándo podremos acceder
+a las notificaciones?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¿Por qué no probáis a
+enviar un mensaje a
+alguien de vuestro grupo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Vale! Geo, ¿puedes
+mandarme un mensaje?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Claro.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¿Cómo va eso?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{00}{EC}{02}{00}
+<NEW-DIALOG>
+<Geo>
+¡Oh!
+¡Acaba de aparecer algo
+en la pantalla inferior!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Lo que podéis ver en
+vuestros <Hunter>-VG es
+una notificación.
+<PUSH>
+Como ya he comentado, las
+notificaciones os muestran
+información relevante.
+<PUSH>
+Esa notificación te muestra
+con quién estás hablando.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Hasta sale el escudo
+de su escuela!
+
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Si tocáis la notificación,
+podréis ver más información
+sobre esa persona.
+<PUSH>
+Probad a tocarla.
+{0A}{E1}{84}{02}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Qué pasada! Aunque fuera
+la primera vez que nos
+encontráramos, podría
+<PUSH>
+saber que es María Delamó
+y va a la escuela
+Echo Ridge.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Hay muchos tipos de
+notificaciones.
+<PUSH>
+Por ejemplo, aparecerán
+varias opciones al
+acercaros a un ascensor.
+<PUSH>
+Tocad el lugar al que os
+gustaría ir para dirigiros
+a él automáticamente.
+<PUSH>
+Cuanto más las uséis,
+más os acostumbraréis
+a ellas.
+<PUSH>
+¡Muy bien! ¡Eso es todo
+por ahora! Si tenéis
+alguna pregunta
+<PUSH>
+sobre el <Hunter>-VG o
+las ondas EM,
+no os cortéis.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+¡Oh! Ates de terminar,
+quiero comentaros
+una cosa más.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Shepar>
+Esta actualización ha
+eliminado vuestras
+Bandahermano.
+<PUSH>
+¡No os olvidéis de volver
+a formarlas con vuestros
+amigos!
+<PUSH>
+¡Hasta mañana! ¡Cuidaos!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Síííí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Así que mis Bandahermano
+se han borrado...
+<PUSH>
+Debería volver a formarlas
+con Bud, Zack y <Prez-color>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Eh{13}{E1}.{13}{E1}.{13}{E1}. Chico{13}{E1}.{13}{E1}.{13}{E1}.)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}¿...?
+<PUSH>
+(¿Qué pasa, <Mega-color>?)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(¿Puedo salir a tomar
+un poco el aire?)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¿Qué dices? ¡Ni hablar!)
+<PUSH>
+(La gente se daría
+cuenta si sales aquí.)
+<PUSH>
+(Ahora que pueden verte,
+las cosas son distintas.)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(¡Pues vamos a algún sitio
+en el que pueda!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(Pero bueno, ¿a qué
+viene tanta prisa?)
+<PUSH>
+(Quería hacer algunas
+preguntas al
+señor Shepar...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+(Pues rapidito, y después
+salimos de aquí pitando.)
+<PUSH>
+(Si olvidas algo, pulsa
+el botón L y te echaré
+una mano.)
+<PUSH>
+(No te preocupes, yo me
+aseguraré de que sabes
+qué hacer.)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Entendido.
+<PUSH>
+(¿A dónde puedo ir que
+Mega pase desapercibido?...)
+<PUSH>
+(Quizás el tejado...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

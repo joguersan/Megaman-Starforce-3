@@ -1,0 +1,24 @@
+[SENTENCE NUMBER 1]
+{0A}{E1}{01}{02}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t*beep, beep* This is Ace's
+Desk's Cyber Core! Ace is
+one of Satella Police's finest!
+<PUSH>
+But, you may not be aware
+that under his desk is a
+huge stash of Mega Snacks!
+<PUSH>
+*beep, beep*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

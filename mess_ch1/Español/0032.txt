@@ -1,0 +1,249 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+{16}{EC}{10}{E2}{3A}{03}
+<NEW-DIALOG>
+<Game>
+¡Ah!
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Es Megaman, es él!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Cuánta emoción por verme...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Ñam, ñam, ñam
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Por fin apareces.
+Sí que te has hecho
+de rogar.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¿Empezamos?
+El público está esperando.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Un momento!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+No lo entiendo.
+<PUSH>
+¿Por qué te esfuerzas
+tanto solo para poder
+luchar conmigo?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Se avecina algo
+terrible...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¿?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Necesito comprobar
+si tienes el poder
+necesario para detenerlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Así que me harás luchar
+contra tu Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Esta vez, sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿Esta vez?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Lo sabrás enseguida,
+vamos a empezar...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+{16}{EC}
+<NEW-DIALOG>
+<Game>
+Uuhh, uuhh
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Otra vez el sistema
+de seguridad...
+<PUSH>
+{12}{E2}<Zack>
+{00}{00}
+<NEW-DIALOG>
+<Mega>
+¡¿Se ha vuelto a
+estropear?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+No, es otra cosa...
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+¡Atención, visitantes del
+<Spica.Mall>!
+<PUSH>
+¡Un Wizard del
+<Spica.Mall>
+ha perdido el control!
+<PUSH>
+¡Vayan a una zona segura
+loa antes posible!
+<PUSH>
+{10}{E2}{3B}{03}
+<NEW-DIALOG>
+*¡Calmaos todos!
+<PUSH>
+¡En esta zona estaremos
+a salvo!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Un Wizard ha perdido
+el control?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Es la primera vez que
+oigo algo similar...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Tenemos que detenerlo!
+¡Vamos, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡No vamos a dejar
+circuito sobre circuito!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Parece que tendremos que
+aplazar nuestra
+pequeña prueba.
+<PUSH>
+
+<NEW-DIALOG>
+Ì¿Qué hacemos, Ace?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Acid, vamos a ir, claro.
+<PUSH>
+¡Es una buena oportunidad
+de ver las habilidades de
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+ÌEntendido.
+<PUSH>
+
+[END]
+

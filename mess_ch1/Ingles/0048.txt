@@ -1,0 +1,221 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Huh...?
+The road's cut off.
+I can't go any further...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+That stuff flowing in front
+of us must be the
+<PUSH>
+magnetic force that Prez
+mentioned before.
+<PUSH>
+We'd be able to move
+ahead if we could ride it
+somehow.
+<PUSH>
+We could use that Coil
+guy's help right about now.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah, but how do we get
+ahold of him?
+<PUSH>
+
+<NEW-DIALOG>
+<Game>
+Sorry for the wait!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+I'm Coil, Woody's other
+Wizard!
+<PUSH>
+You can leave all your
+magnetism problems
+to me!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I'm Mega Man!
+Nice to meet you!
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I need to keeping moving
+ahead, but I don't know
+how to...
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+Why don't you hop on that
+special panel over there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, it looks like something
+popped up on the Hunter's
+screen.
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Why don't you touch the
+pop-up! Word!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Whoa!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+...Interesting.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+Now there is magnetic
+force all around Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+Right now, you are aligned
+with the blue negative
+force.
+<PUSH>
+This will make the red
+positive force pull you
+toward it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Coil>
+With magnetism, the same
+colors repel each other,
+and different ones attract!
+<PUSH>
+If you get to a place
+where you can't move
+ahead again, hop on top
+<PUSH>
+of the special panel and
+touch the pop-up!
+<PUSH>
+That'll change your magnetic
+force! Word!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it! Thanks!
+<PUSH>
+
+<NEW-DIALOG>
+<Coil>
+Word!
+Please save my bro, yo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go, kid!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Yeah!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,55 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡Ya están todos!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+El aspersor debería volver
+a funcionar correctamente...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Venga, sal ahí fuera a
+presumir.
+<PUSH>
+"Me he convertido en el
+alucinante Mega Man para
+acabar con todos los virus!"
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí, claro!
+<PUSH>
+Sabes perfectamente que
+intento mantenerlo
+en secreto.
+<PUSH>
+Ya tengo suficiente con
+que la Dele, Bud y Zack
+se hayan enterado.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Es que te sacan los colores?
+<PUSH>
+¡En cualquier caso,
+larguémonos {4B}{E2}
+de aquí!
+<PUSH>
+Pulsa el botón R para volver
+a tu forma normal y regresar
+al Mundo Real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,146 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Up next, I'll explain about
+Countering and Bonus Cards.
+<PUSH>
+If you land a card attack
+on an enemy just as they're
+<PUSH>
+about to attack, that's a
+Counter.
+<PUSH>
+That'll catch them off-guard,
+paralyzing them for a time.
+<PUSH>
+You'll also receive a Bonus
+Card for doing so.
+<PUSH>
+Usually, you can only use
+cards you select on the
+Custom Screen. But if you
+<PUSH>
+land a Counter, then you'll
+be rewarded a Bonus Card.
+<PUSH>
+Bonus Cards are chosen
+from your Card Folder
+at random.
+<PUSH>
+Even so, they're great
+because you don't have to
+wait for the Custom Gauge
+<PUSH>
+to fill up before going buck
+wild on the enemy!
+<PUSH>
+But, you can't get another
+Bonus Card if you pull off a
+Counter with a Bonus Card.
+<PUSH>
+Countering is pretty hard to
+pull off, so you should work
+on your timing for a bit.
+<PUSH>
+Try to use a Bonus Card to
+delete all the enemies in
+one turn!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+I want to say "understood",
+but it's been a while
+since I last battled...
+<PUSH>
+It might take a little bit for
+it all to come back to me.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Why does it feel like I've
+heard that before...?
+<PUSH>
+Oh well! Just this once I'll
+help you with the timing, but
+just this once, you hear!?
+<PUSH>
+I can't focus on the battle
+if I'm trying to tell you what
+to do all the time!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Thanks, Mega!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Yeah, yeah, yeah.
+So, this is how I'll help you
+with the Counter timing...
+<PUSH>
+I'll stick an arrow on top of
+the head of enemies that
+can be Countered.
+<PUSH>
+You'll achieve a Counter if
+you hit the enemy while the
+arrow is still over its head.
+<PUSH>
+There are Battle Cards that
+hit the enemy right away...
+<PUSH>
+But there are also ones
+that take more time to hit
+enemies.
+<PUSH>
+So, do your best to make
+Battle Cards hit the enemy
+<PUSH>
+while the arrow is still over
+its head.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Got it!
+I'm ready to try it out now!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You haven't picked any
+Battle Cards yet!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's no need to run, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

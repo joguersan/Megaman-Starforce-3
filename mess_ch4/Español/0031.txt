@@ -1,0 +1,805 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Ya está todo listo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Vamos a empezar.
+<PUSH>
+
+<NEW-DIALOG>
+3Sí, señora.
+<PUSH>
+
+<NEW-DIALOG>
+2¡Sí, señora!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Activando programa de
+reconstrucción de datos.
+<PUSH>
+El margen de error
+es de 0.5.
+<PUSH>
+Se trata de una operación
+muy delicada. Tened
+cuidado.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}(¡Ha empezado!)
+<PUSH>
+{13}{EC}(Vamos, Dele...
+{13}{EC} ¡¡Vuelve con nosotros!!)
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Parece que la Dra. Goodall no
+va a decirlo, así que
+lo haré yo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Q-Q-Qué pasa?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Solo hay un 30% de
+probabilidades de que
+Luna vuelva a la normalidad.
+<PUSH>
+Así que, hay un 70% de
+que... en fin...
+<PUSH>
+{15}{E1}Lo entiendes, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+Sí.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Entonces debo pedirte
+un favor.
+<PUSH>
+Si esto no sale
+como esperamos...
+<PUSH>
+Prométeme que no culparás
+a la Dra. Goodall.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Como científica, ha conseguido
+incontables logros, pero...
+<PUSH>
+También guarda incontables
+recuerdos dolorosos de los
+fracasos de su carrera.
+<PUSH>
+Es consciente de que esos
+fracasos forman parte de
+su trabajo, pero
+<PUSH>
+muchos de esos recuerdos
+son resultado de nuestras
+acciones.
+<PUSH>
+Siempre le pedimos
+lo imposible.
+<PUSH>
+Como ahora...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}¡!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Sé que ella jamás dirá
+nada, por eso lo digo yo.
+<PUSH>
+Puede que esté pidiendo
+demasiado, pero, por favor,
+no se lo pongas más difícil.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+2¡Dra. Goodall!
+¡El proceso se está
+alargando demasiado!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Modificad la curva
+de la derivada!
+<PUSH>
+
+<NEW-DIALOG>
+2¡No ocurre nada!
+<PUSH>
+
+<NEW-DIALOG>
+3¡Los datos se están
+degradando!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡Desactivad el modo
+automático! ¡Lo haré
+manualmente!
+<PUSH>
+¡Deprisa!
+<PUSH>
+
+<NEW-DIALOG>
+2¡E-Es imposible!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¡¿Desde cuándo nos
+rendimos porque algo
+sea imposible?!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+¡¿Q{15}{E1}-Qué está pasando?!
+<PUSH>
+¡¿Va todo bien?!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+N{15}{E1}-No lo sé...
+<PUSH>
+¡¿Cómo voy a saberlo?!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Por favor...
+<PUSH>
+¡¡Luna, vuelve con nosotros!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Sonia...
+<PUSH>
+¡Bud, Zack!
+<PUSH>
+¡Nosotros también tenemos
+que dar ánimos a la Dele!!
+<PUSH>
+¡Dele, te echamos de menos!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Sí... ¡No podemos rendirnos!
+<PUSH>
+¡Vamos, Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡La Dele tiene que volver,
+sea como sea!
+<PUSH>
+¡¡Dele, tengo muchísimas
+ganas de verte!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Deleee!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡D-D-Deleee!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Umm...
+Es aquí, ¿no?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¿Eh?
+¿No es aquí?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Espera un momento!
+¡¿Qué demonios está
+pasando?!
+<PUSH>
+¡¿Dónde estoy?!
+¡¿Quién anda ahí?!
+<PUSH>
+¡¡Da la cara!!
+<PUSH>
+Me está entrando...
+mucho sueño...
+<PUSH>
+Será mejor que{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+me eche un rato{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡¡Dele!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+¡¡Luna!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{13}{EC}¡!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo...
+<PUSH>
+¿Sonia?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Deleee!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+¡¡D-D-Deleee!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Bud, Zack!
+<PUSH>
+¡¿Érais vosotros?!
+¡¿Me estáis gastando una broma?!
+<PUSH>
+¡¡Salid, vamos!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Aaarrrgggh!
+<PUSH>
+¡¿No vais a obedecerme?!
+<PUSH>
+¡Os va a faltar Tierra
+para correr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+{12}{E2}<Joker>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+2¡¿Dra. G{15}{E1}-Goodall?!
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+{15}{E1}Interesante...
+<PUSH>
+Interesante...
+{15}{E1}Muy interesante...
+<PUSH>
+
+<NEW-DIALOG>
+3Los datos están...
+<PUSH>
+Los datos se están reconstruyendo
+a un ritmo alarmante...
+<PUSH>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+Tranquilos{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Lo veo.
+<PUSH>
+
+<NEW-DIALOG>
+2¡¡Es un milagro!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Dr.Goodall>
+¿No lo sabíais?
+<PUSH>
+Los milagros ocurren
+constantemente.
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{02}{00}
+[END]
+
+[SENTENCE NUMBER 15]
+{12}{E2}<Jack>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¡Ahí estáis!!
+<PUSH>
+¿Estáis listos para un
+a{14}{E1}... z{14}{E1}... o{14}{E1}... t{14}{E1}... e?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Eh?!
+<PUSH>
+¿Tengo monos en la cara?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+D{15}{E1}-D{15}{E1}-D{15}{E1}-D...
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡¡Deleee!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 18]
+{12}{E2}"{00}{00}
+<START-DIALOG>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Zack>
+¡Oh, Dele!
+¡¡Te hemos echado
+mucho de menos!!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Bud>
+¡Buaa!
+¡¡Dele!!
+<PUSH>
+Por favor{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+¡¡Grítame!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+L-Luna...
+¡¡Bienvenida!!
+<PUSH>
+Snif...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡¡Dele!!
+<PUSH>
+¡¡No puedo creer que hayas
+vuelto!! ¡Es alucinante!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡¿Qué demonios está pasando?!
+<PUSH>
+¡¿Dónde estamos?!
+<PUSH>
+¡¿Podéis dejar de llorar y
+decirme qué está pasando?!
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<{16}{EC}{10}{E2}{B6}{03}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+¡Propósito completado!{17}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-2>
+Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿Sí?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Ahora puedo pedirte yo
+que hagas algo por mí?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¿De qué se trata?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Deja que luche
+contigo!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Dealer ha ido
+demasiado lejos...
+<PUSH>
+¡No puedo permitir que
+se salgan con la suya!
+<PUSH>
+Y la NAZA y la Policía
+Satela no dan abasto
+con ellos...
+<PUSH>
+¡Puedo ser de ayuda!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Está bien.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+Mega y yo tenemos experiencia
+acabando con los malos
+así que...
+<PUSH>
+{13}{EC}...
+<PUSH>
+{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} Espera...
+¿Te parece bien que ayudemos?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Pues claro.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Esto era lo que buscabas
+desde el principio?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Puede...
+<PUSH>
+¿Qué más dan los detalles?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Centrémonos en lo importante.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¿Qué planes tienes?
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Lo de hoy ha sido una
+llamada de atención.
+<PUSH>
+Tendremos que devolverles
+el favor, ¿no?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Genial! ¡¿Quieres que
+vayamos a Dealer a patear
+unos cuantos culos?!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+¡Eso mismo!
+<PUSH>
+Suena divertido, ¿eh?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Por lo tanto...
+<PUSH>
+¿Qué os parece si le
+asigno a Mega Man su
+primera misión?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Y por qué tengo yo
+que recibir órdenes
+de ti?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+No son órdenes.
+<PUSH>
+He dicho que es una misión.
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡¿Y cuál es la diferencia?!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+La palabra en sí...
+y lo que hay detrás.
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Vale, vale...
+<PUSH>
+Ya os lo he dicho...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Vamos a dejar los detalles
+para luego, ¿vale?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

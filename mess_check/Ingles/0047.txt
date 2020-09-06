@@ -1,0 +1,135 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+The WAZA gate is closed.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Are these Noise clusters!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Bah!
+They're blocking the path!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Well, if it's the same kind of
+stuff that was in the
+<PUSH>
+sprinkler, then we can
+handle it no problem!
+<PUSH>
+Let's do this.
+Help us out, everyone!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+OK!!
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+My pleasure!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}...!
+<PUSH>
+Be careful, kid!
+I hate viruses!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}!!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{98}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's more here!?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There are viruses, too!
+<PUSH>
+Come on, everyone!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9A}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+*sigh*
+There are still more of them!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sometimes life kicks you while
+you're down, kid!
+<PUSH>
+Let's kick it back!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{9C}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Noise is blocking the path...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+This stuff doesn't look like
+we can break it!
+Forget it, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+

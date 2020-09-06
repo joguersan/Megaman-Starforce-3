@@ -1,0 +1,39 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+t¡AHHH!
+¡¡QUE ALGUIEN ME AYUDE!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Un virus le
+está atacando!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Tenemos que ayudarle!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¿Por qué no te
+metes con alguien
+de tu tamaño!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

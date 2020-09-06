@@ -1,0 +1,173 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡¡Eeeyy!!
+<PUSH>
+¡¡Geo, Luna, Bud, Zack!!
+<PUSH>
+¡¡No me lo creo!!
+¡¡No esperaba veros
+por aquí!!
+<PUSH>
+¡¿Qué estáis haciendo aquí?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Estamos de excursión.
+<PUSH>
+¿Y tú?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+En una sesión de fotos para
+la portada de mi próximo álbum.
+<PUSH>
+Estamos aquí porque querían
+darle al disco un toque
+tropical.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡S-Sonia!
+Estabas genial cuando
+grabamos el programa...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+¡¡Y el bañador te queda
+como un guante!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡Ji, ji, gracias!
+<PUSH>
+Pero qué vergüenza, chicos.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+{13}{EC}(¡Ugh! ¡Malditos famosos!)
+<PUSH>
+{13}{EC}(¡No puedo competir
+contra alguien así!)
+<PUSH>
+
+<NEW-DIALOG>
+<Vogue>
+{13}{EC}(¡No sufras, Luna!
+¡Tú eres mejor que ella!)
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Pero... Se suponía
+que habíamos reservado
+esta playa para la sesión...
+<PUSH>
+Creo que se nos ha pasado
+el tiempo.
+<PUSH>
+What should I do...?
+<PUSH>
+Tengo que decirle a mi
+agente que tenemos un
+problema...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¿Un problema?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Sí...
+<PUSH>
+Parte de ese muro de
+piedra es una Onda Real.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+Mmm...
+Una Onda Real...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Sí, y...
+<PUSH>
+Se suponía que el muro de
+piedra tenía que transformarse
+<PUSH>
+en un lecho de hibiscos,
+para sacar más fotos.
+<PUSH>
+Pero parece que está llena
+de virus y no podemos
+transformarla.
+<PUSH>
+Y un Wizard muy grande
+se acercó y nos dijo
+que él se encargaba.
+<PUSH>
+Y entró en el Cibernúcleo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¿Y qué pasa con el Wizard?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Aún no ha vuelto..
+<PUSH>
+Y ya ha pasado un
+buen rato...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Eh, chico...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Sí...
+¿Qué habrá pasado con
+ese Wizard?
+<PUSH>
+Hagamos un Cambio de
+onda EM para ver qué
+pasa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

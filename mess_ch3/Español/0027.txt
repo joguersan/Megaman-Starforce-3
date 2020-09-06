@@ -1,0 +1,41 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Fiu...
+Conseguido...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Por qué poco...
+<PUSH>
+
+<NEW-DIALOG>
+<Cyber.Core>
+Sistema medioambiental
+en mantenimiento.
+<PUSH>
+Reconfigurando el
+sistema medioambiental.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Venga, sigamos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

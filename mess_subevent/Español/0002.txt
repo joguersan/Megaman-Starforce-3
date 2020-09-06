@@ -1,0 +1,290 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0A}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0B}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Lo he perdido...
+Ains...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{03}{16}{0B}{00}{0C}{E1}{00}{00}{30}{16}{03}{00}{0C}{E1}{01}{00}{4D}{16}
+{0C}{E1}{01}{00}{4C}{16}{07}{00}{0C}{E1}{01}{00}{02}{16}{07}{00}{06}{E1}{04}{00}
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Ains...
+¿Dónde estará?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Sí...
+Saqué muy malas notas
+en mi último examen.
+<PUSH>
+No quería que mi madre lo
+viera, así que lo hice un
+avión de papel y lo lancé.
+<PUSH>
+Pero descubrió que tuve un
+examen y ahora tengo que
+enseñárselo o si no...
+<PUSH>
+Pero no tengo ni idea de
+dónde puede estar.
+<PUSH>
+¡Ayúdame, por favor!
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Vale, iré a buscarlo.
+<PUSH>
+¿Hacia dónde lo lanzaste?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Como lo lancé desde aquí,
+debería estar por <Echo.Ridge>.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+En ese caso, deberíamos
+diriginos a <Echo.Ridge>,
+pequeño.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{4C}{16}{0A}{E1}{02}{16}{20}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Jack.Flask>
+Lo entiendo.
+Lo buscaré yo mismo.
+<PUSH>
+{0B}{E1}{30}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¿Encontraste mi examen?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Jack.Flask>
+Lo entiendo.
+Lo buscaré yo mismo.
+<PUSH>
+{0B}{E1}{30}{16}{0B}{E1}{02}{16}{0B}{E1}{03}{16}{0B}{E1}{4C}{16}{0B}{E1}{4D}{16}{82}{E1}<Jack>
+{FF}{FF}{21}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Cuando lo encuentres,
+avísame!
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí lo tienes.
+<PUSH>
+Pero no deberías volver a
+hacer algo así.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Tranqui, no lo haré!
+¡Muchas gracias!
+Toma, esto es para ti.
+<PUSH>
+{85}{E1}{00}{00}{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{E0}{E5}»!
+<PUSH>
+¡Han aumentado tus PV máximos!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Me da mucho miedo lo que
+me toca hacer ahora...
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{03}{16}{82}{E1}<Jack>
+{FF}{FF}{21}{EC}{D1}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack.Flask>
+Deberías venir conmigo a ver
+a mi madre.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Ni hablar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Parece ser la hoja del
+examen de aquel niño del
+tejado.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Qué nota ha sacado?
+¡Venga, dilo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+N-ni hablar. Eso es algo
+privado y nosotros no
+tenemos por qué saberlo.
+<PUSH>
+{17}{EC}{00}{00}{05}{EC}{00}{00}{04}{00}  {06}{EC}Mirarla
+  {09}{EC}No mirarla
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{0D}{00}{11}{EC}{03}{00}{0E}{00}{0A}{E1}{4D}{16}{82}{E1}<Jack>
+{01}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{8D}{E5}»!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<NEW-DIALOG>
+<Game>
+Geo desmontó el avión de
+papel.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Ves? Sabía que tú también
+sentías curiosidad.
+<PUSH>
+Guau{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¡¿Un cero?!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Pero si era tipo test...
+<PUSH>
+Qué mala suerte ha tenido.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Ha sacado tan mala nota
+que me estoy mareando.
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<NEW-DIALOG>
+<Geo>
+Vamos a devolvérselo.
+<PUSH>
+
+[END]

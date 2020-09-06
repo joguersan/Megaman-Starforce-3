@@ -1,0 +1,209 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¿Qué pasa, chicos?
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Queremos enseñarte
+una cosa!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+(¡Te toca, Geo!)
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+(¡Vale!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¡Tengo que activar
+el control de las
+Ondas Reales!)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}(¡Toca el control
+de las Ondas Reales!)
+{03}{E2}{03}{00}{04}{EC}
+<NEW-DIALOG>
+<Game>
+¡Geo ha usado el
+"{E3}{E6}"!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+{13}{EC}(¡Ahora solo nos
+queda sobreescribir
+el programa!)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Oooh, es precioso!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Feliz cumpleaños, Stey!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Feliz cumpleaños!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+¡Muchas gracias!
+¡Qué cumpleaños
+tan genial!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Geo nos ha ayudado mucho!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Gracias, Geo!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+No es nada...
+<PUSH>
+{13}{E2}{02}{00}
+<NEW-DIALOG>
+<Prez>
+¡Qué cumpleaños tan
+maravilloso!
+<PUSH>
+¡Feliz cumpleaños de
+mi parte también!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Dele...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+¡Geo Stelar, aquí presente
+es miembro de mi Equipo,
+"Luna Presidenta"!
+<PUSH>
+¡Y yo soy su líder,
+Luna Platz!
+<PUSH>
+En las próximas elecciones
+me presento a presidenta
+del consejo.
+<PUSH>
+¡Sería un honor para mí
+que me apoyarais
+en la campaña!
+<PUSH>
+
+<NEW-DIALOG>
+<Harry.Sasoon>
+¡Muchas gracias, Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack.Flask>
+¡Tienes mi voto en
+las elecciones!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+¡Viva! ¡No os arrepentiréis!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+La Dele se ha llevado
+todo el mérito...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chico, es una mujer fuerte...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bueno, Mega. Vamos a buscar
+a más chicos con problemas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

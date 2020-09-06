@@ -1,0 +1,93 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+1Chief!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+4What is it!?
+<PUSH>
+
+<NEW-DIALOG>
+1Thanks to the broadcast
+from <Studi.WBG>...
+<PUSH>
+The people of Earth have all
+set the same Purpose!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+What is the Purpose?
+<PUSH>
+
+<NEW-DIALOG>
+1To "Bring Geo Home".
+<PUSH>
+...Everyone is doing all that
+they can to help fulfill
+that Purpose!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+The power of a Purpose is
+amazing...
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+All of us here...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Should change our Purpose
+to "Bring Geo Home"!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Come back home, Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Geo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Woody>
+You've done so much...
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+So come back and relax for
+a while!!
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Geo!!
+We're all waiting for you...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,49 @@
+[SENTENCE NUMBER 1]
+Draw
+with pen
+[END]
+
+[SENTENCE NUMBER 2]
+Pull color
+from Logo
+[END]
+
+[SENTENCE NUMBER 3]
+Draw a
+line
+[END]
+
+[SENTENCE NUMBER 4]
+Fill in w/
+same color
+[END]
+
+[SENTENCE NUMBER 5]
+Draw a
+square
+[END]
+
+[SENTENCE NUMBER 6]
+Draw a
+circle
+[END]
+
+[SENTENCE NUMBER 7]
+Undo (10
+steps max)
+[END]
+
+[SENTENCE NUMBER 8]
+Redo
+[END]
+
+[SENTENCE NUMBER 9]
+Color in
+Team Logo
+[END]
+
+[SENTENCE NUMBER 10]
+Exit w/o
+saving
+[END]
+

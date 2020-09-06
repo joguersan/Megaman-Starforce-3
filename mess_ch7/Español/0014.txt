@@ -1,0 +1,88 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Qué raro.{16}{E1}.{16}{E1}.{16}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+{13}{EC}¿?
+<PUSH>
+Sr. King, ¿ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+El Meteorito G no está
+utilizando el 100%
+de su poder...
+<PUSH>
+El inhibidor debería ser
+muchísimo más potente.
+<PUSH>
+Ningún ser EM podría entrar
+o salir de la Disonancia y
+los humanos que entraran
+<PUSH>
+en contacto con él acabarían
+destruidos.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Pero el Meteoro G está
+bajo su control absoluto.
+<PUSH>
+No puede negarse a
+ninguna de tus órdenes...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Eso quiere decir que alguien
+aparte de la NAZA interfiere
+con mis planes.
+<PUSH>
+¿Quién será?
+<PUSH>
+¿Quién esperaría hasta el
+último momento para
+jugármela así?
+<PUSH>
+¡Heartless!
+<PUSH>
+¡¡Averígualo!!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Sí, Sr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

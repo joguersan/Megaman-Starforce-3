@@ -1,0 +1,394 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Yey!
+<PUSH>
+Campfires on the beach are
+so fun!
+<PUSH>
+Don't you think!?
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+They're so beautiful!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+{12}{E2}<Jack>
+{01}{00}
+<NEW-DIALOG>
+<Zack>
+Prez, Sonia...
+You should come see how
+<PUSH>
+beautiful the fire is...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+*chomp, chomp*
+*munch, munch*
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+*chomp, chomp*
+*munch, munch*
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's not healthy to eat so
+much in one sitting...
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+They're really filling up on
+those calories!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Both of you, just be quiet!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+I can't believe that Geo...!
+<PUSH>
+He chose a guy friend over
+two beautiful girls!
+<PUSH>
+But I guess that's just like
+him...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+He really hurt my feelings as
+a woman!!
+<PUSH>
+Sonia...
+Let's eat until we drop!!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+Yeah!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Pedia>
+For our safety, we should
+just let them be, Zack.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I guess you're right...
+<PUSH>
+But I think Geo did the right
+thing...
+<PUSH>
+Who knows what would have
+happened if he chose one of
+the girls.
+<PUSH>
+
+<NEW-DIALOG>
+<Pedia>
+The girl that wasn't picked
+would be even more angry
+than they are now...
+<PUSH>
+A woman's heart is a million
+times more complicated than
+any scientific formula...
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+It's overwhelming just thinking
+about it...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Sonia>
+I need more food!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Keep it coming!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+You don't want any food
+from the BBQ, Bud?
+You were really excited...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+I already ate!
+<PUSH>
+I'm super full, so I'm taking
+a break!
+<PUSH>
+I'll definitely get hungry again
+in 10 minutes or so!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Now that sounds more like
+our Bud.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Oh, yeah...
+<PUSH>
+I still have to thank you.
+<PUSH>
+Thank you, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+For your shirt?
+<PUSH>
+It was no big deal.
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+But, Geo...
+Prez and Sonia are both in
+a really bad mood now.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+T-That's...
+Kind of scary...
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Hahaha!!
+<PUSH>
+You're a great friend, Geo!
+You chose a guy friend over
+a pair of stupid girls!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+...Bud?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+EM Wave Change!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+B-Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Ugh...
+<PUSH>
+...T-That's all I've got.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Phew...
+<PUSH>
+It looks like I can't maintain
+a self-powered EM Wave
+Change for very long.
+<PUSH>
+That wore me out.
+<PUSH>
+The Satella Police assigned
+Transcode "005" to me, but...
+<PUSH>
+I still have a lot of practice
+ahead of me...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+That's amazing, Bud!
+<PUSH>
+You've become able to turn
+into Taurus Fire whenever
+you want to!!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Well, I get it to work every
+once in a while.
+<PUSH>
+But I usually fail.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I-I see...
+<PUSH>
+{12}{E2}!{01}{00}
+<NEW-DIALOG>
+<Bud>
+I'm trying my hardest in my
+own way.
+<PUSH>
+I'm always relying on you to
+take care of bad situations.
+<PUSH>
+And I always feel bad about
+that...
+<PUSH>
+I've always just been a big
+pathetic loser.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Bud...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+But now...
+Taurus is my Wizard, and I
+can EM Wave Change!
+<PUSH>
+I still have a lot to learn.
+But I can do it, as long as
+I put my heart into it!
+<PUSH>
+Soon...
+<PUSH>
+I'm going to be able to
+EM Wave Change easily, and
+fight right by your side!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'm counting on you, Bud!
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Oh, man...
+I'm really hungry after that
+EM Wave Change!
+<PUSH>
+Let's go back to the BBQ!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+OK!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

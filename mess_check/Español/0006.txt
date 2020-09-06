@@ -1,0 +1,225 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+El escritorio de Bud.
+<PUSH>
+Parece que hace siglos que
+Bud no se sienta aquí.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Es esa consola tan
+popular, la Polystation.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una tele.
+<PUSH>
+Hay caramelos
+por todas partes...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{0C}{E1}{00}{00}{26}{16}{09}{00}{0C}{E1}{01}{00}{27}{16}{09}{00}{0C}{E1}{01}{00}{A0}{16}{09}{00}{0C}{E1}{00}{00}{BC}{16}{09}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Oh, son especias para
+hacer carne de jengibre.
+<PUSH>
+{A1}{E1}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha conseguido:
+«Especias»!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Vamos a preparar una
+trampa para descubrir
+al ladrón.
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{A0}{16}{82}{E1}1{01}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Una caja de juguetes.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Está hasta arriba
+de juguetes...
+<PUSH>
+¡Qué asco!
+¡Si hay hasta comida!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Ja, ja...
+¿Por qué no me sorprende?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un saco de boxeo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Las posesiones más
+preciadas de Bud
+están expuestas.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+La cama de Bud.
+<PUSH>
+Tiene el pijama ahí
+tirado.
+<PUSH>
+{0C}{E1}{01}{00}{B1}{13}{0F}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Hay caramelos por
+todas partes.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Intentaré no
+pisar ninguno.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Un frigorífico.
+<PUSH>
+Es solo para Bud.
+¡Y es enorme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<NEW-DIALOG>
+<Game>
+¡El <Hunter>-VG está reaccionando!
+<PUSH>
+ONDA DE RUIDO DETECTADA.
+¡{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}ACESSO!
+<PUSH>
+{0A}{E1}{87}{13}
+<END-DIALOG>
+
+[END]
+

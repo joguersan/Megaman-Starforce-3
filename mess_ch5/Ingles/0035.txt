@@ -1,0 +1,58 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Get ready!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+That's some crazy Noise!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+Don't you things ever
+give up?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+We gotta keep going!
+<PUSH>
+I hope you can handle one
+more fight, Rogue!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

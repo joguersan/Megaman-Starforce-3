@@ -1,0 +1,414 @@
+[SENTENCE NUMBER 1]
+{12}{E2}{15}{00}{00}{00}
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+The red shooting star that
+will grant our wishes...
+<PUSH>
+It is shining beautifully
+tonight, as usual...
+<PUSH>
+Soon enough, it will grant
+myself and my organization,
+Dealer, with great power...
+<PUSH>
+Don't you agree, Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+It will be just as you
+say, Mr. King.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King>
+Queen Tia, Jack...
+<PUSH>
+You did an adequate job
+at <Studi.WBG>.
+<PUSH>
+You have pleased me.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Thank you very much...
+Mr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Mr. King is pleased because
+the amount of Crimson
+that was emitted from
+<PUSH>
+Diamond Ice was more than
+expected.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Once my genius intellect
+is united with enough
+Crimson, that red shooting
+<PUSH>
+star, Meteor G, will do as
+we please...
+<PUSH>
+And then the people of
+this planet will kneel down
+before Dealer.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+There will be no one willing
+to defy your wishes once
+you explain to them what
+<PUSH>
+would happen if Meteor G
+were to strike the Earth.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Even humans, as foolish as
+they are, will remain silent.
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+And you already receive
+countless e-mails from
+<PUSH>
+children, expressing their
+gratitude to you.
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hahaha...
+I am quite pleased.
+<PUSH>
+All of my plans are moving
+along smoothly...
+<PUSH>
+No one has the slightest
+doubt about me...
+<PUSH>
+And I've acquired an
+ancient power...
+<PUSH>
+Hahaha...
+<PUSH>
+The moment of judgment
+is close...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Boooring...
+<PUSH>
+What I really want to hear
+is you telling me I'm allowed
+to go take out Mega Man.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Well, well.
+Aren't we in a foul mood?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Pfft!
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Settle down, Jack.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+You are being quite rude
+to Mr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Watch your mouth, man.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Jack, what did I say?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Investigating Mega Man is
+just a waste of time.
+<PUSH>
+So just let us go and
+fight him already.
+<PUSH>
+We can take him out while
+he's not expecting it.
+If he discovers our plans...
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Jack, stop it!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Argh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+I apologize for Jack's
+rudeness, Mr. King...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Hmph...
+Jack...
+<PUSH>
+Has all the time you've
+spent at that school with
+<PUSH>
+kids your age made you
+weak?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+What did you just say!?
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+My plans are perfect.
+<PUSH>
+As long as you keep your
+mouth shut, there won't be
+any problems.
+<PUSH>
+And once I have that
+shooting star in my hands,
+<PUSH>
+every worthless human will
+kneel down before Dealer.
+<PUSH>
+Yes... Humans are indeed
+weak, brittle, and foolish
+creatures.
+<PUSH>
+Which is why they are always
+in such a rush to get new
+<PUSH>
+"Brothers" and create new
+"Purposes" with them.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Humans need me to rule
+over them...
+<PUSH>
+I will give this planet new
+life...
+<PUSH>
+I will show them the true
+reason to live...
+<PUSH>
+All foolish humans will be
+under Dealer's control once
+<PUSH>
+I have Meteor G in my
+hands...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Heartless, my orders...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Heartless>
+Yes, sir.
+Here are Mr. King's orders.
+<PUSH>
+Queen Tia and Jack, you
+will continue collecting data
+on Mega Man.
+<PUSH>
+And you will also continue
+gathering Crimson.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Understood.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack>
+Hmph...
+<PUSH>
+
+<NEW-DIALOG>
+<Heartless>
+Joker...
+Mr. King will have a direct
+order for you later.
+<PUSH>
+Please stand by until then.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Understood.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.King-2>
+We are steadily gathering
+more and more Crimson!
+<PUSH>
+It is only a matter of
+time until Meteor G is
+ours!
+<PUSH>
+Now onto the first priority
+in our plans...
+<PUSH>
+We will crush Natl WAZA HQ
+and the Satella Police!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}The Satella Police...
+<PUSH>
+
+<NEW-DIALOG>
+<Mr.King-2>
+Once we have enough Mega
+Man data, our ultimate
+weapon will be complete...
+<PUSH>
+That weapon will give us
+the power to crush WAZA
+and the Satella Police!
+<PUSH>
+Don't let me down,
+Queen Tia.
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Yes, sir...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

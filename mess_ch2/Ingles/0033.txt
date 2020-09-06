@@ -1,0 +1,134 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I-It's huge!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Geez, it is big...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Lee.Stern>
+I've got tickets for you
+and your friends, Geo.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Cool! Thank you, Lee!
+<PUSH>
+
+<NEW-DIALOG>
+<Lee.Stern>
+You should thank Sonia.
+<PUSH>
+She asked me to reserve
+special seats for you guys.
+<PUSH>
+Well, I have a meeting
+coming up, so I've got to
+get going.
+<PUSH>
+See you at the stage.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+So, what should we do?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Let's wait until Prez and
+everyone gets here.
+<PUSH>
+There's no need to be in
+a hurry, since our seats
+are reserved already.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Sorry for the wait, Geo.
+Should we get going?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud>
+Wow! What a cool stage!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+I can't wait any longer!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{10}{E2}{67}{03}{16}{EC}
+<NEW-DIALOG>
+<Game>
+*chatter, chatter*
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What an atmosphere!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Sonia's pretty popular, huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Our seats are over there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,954 @@
+[SENTENCE NUMBER 1]
+{08}{E1}{00}{00}P
+{08}{E1}{00}{00}Q<Geo>
+{08}{E1}{00}{00}R<(Queen)Tia>
+{08}{E1}{00}{00}S({08}{E1}{00}{00}T2
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+{09}{E1}{00}{00}{03}{08}{07}{08}{0B}{00}{09}{E1}{00}{00}{07}{08}{0B}{08}{0C}{00}{09}{E1}{00}{00}{0B}{08}{0D}{08}{0D}{00}{09}{E1}{00}{00}{0D}{08}{15}{08}{0E}{00}
+[END]
+
+[SENTENCE NUMBER 12]
+{0C}{E1}{01}{00}U{0F}{00}{0C}{E1}{01}{00}T{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You ought to at least say
+hello to your mom!
+Manners, kid! Manners!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The Wizards are going out
+of control in the entrance!
+Go, go, go!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+It sounds like there are
+Wizards going out of
+control in <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Find any Wizards that are
+going out of control and
+stop them in their tracks!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{08}{E1}{06}{00}{07}{00}{11}{00}{08}{E1}{06}{00}{08}{00}{11}{00}{08}{E1}{06}{00}{09}{00}{11}{00}{08}{E1}{06}{00}
+{12}{00}{08}{E1}{06}{00}{0B}{00}{11}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's get to school on the
+double!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Prez and the gang are
+outside waiting for you.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+You better get to class!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Since there's time, why don't
+you talk to everyone for a
+bit?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+{09}{E1}{00}{00}{15}{08}{17}{08}{15}{00}
+[END]
+
+[SENTENCE NUMBER 22]
+{08}{E1}{06}{00}{01}{03}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The Satella Police want to
+see you!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Now what's going on?
+I guess we better go
+talk to Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 25]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 26]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 27]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 28]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 29]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 30]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 31]
+{09}{E1}{00}{00}{17}{08}{1D}{08}<Joker>
+{09}{E1}{00}{00}{1D}{08}{1F}{08}<Heartless>
+
+[END]
+
+[SENTENCE NUMBER 32]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Wizards are out of control
+at the <Stage.Evento> of WBG
+Studios! We better hurry!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 33]
+{0C}{E1}{01}{00}X"{08}{E1}{06}{00}{01}{00}!{08}{E1}{06}{00}{02}{00}!
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Today was a pretty rough
+one, huh!? You should go
+home and take it easy!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 34]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid.
+Your mom doesn't
+look so happy...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 35]
+{08}{E1}{06}{00}{01}{00}#{08}{E1}{06}{00}{02}{00}#
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go get some rest!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 36]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+I think it's time you got
+some sleep, kid. You are
+only human after all!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 37]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 38]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 39]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 40]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 41]
+{0C}{E1}{01}{00}tU{0C}{E1}{00}{00}u){0C}{E1}{00}{00}v){0C}{E1}{00}{00}w){0C}{E1}{00}{00}x){06}{E1}S
+[END]
+
+[SENTENCE NUMBER 42]
+{08}{E1}{06}{00}{08}{00}*{08}{E1}{06}{00}{01}{51}+{08}{E1}{06}{00}{0C}{00},{08}{E1}{06}{00}{02}{51}-{08}{E1}{06}{00}{0D}{00}.{08}{E1}{06}{00}{03}{51}/{08}{E1}{06}{00}{0E}{00}0{08}{E1}{06}{00}{04}{51}1{08}{E1}{06}{00}{02}{01}R
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Detective Stelar!
+First, you need to do some
+<PUSH>
+investigative research at
+school and at <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 43]
+{0C}{E1}{01}{00}uQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The Wizards went out of
+control here, huh? Let's look
+for a Noise Wave entrance.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 44]
+{0C}{E1}{01}{00}uP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's something here!
+My detective's sixth
+sense is never wrong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 45]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Three separate incidents
+took place in the building.
+Let's search all of <Spica.Mall>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 46]
+{0C}{E1}{01}{00}vP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's something here!
+My detective's sixth
+sense is never wrong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 47]
+{0C}{E1}{01}{00}wQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+They said an out of control
+Wizard was in a Cyber Core
+in this area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 48]
+{0C}{E1}{01}{00}wP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's something here!
+My detective's sixth
+sense is never wrong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 49]
+{0C}{E1}{01}{00}xQ
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+They said an out of control
+Wizard was in a Cyber Core
+in this area.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 50]
+{0C}{E1}{01}{00}xP
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's something here!
+My detective's sixth
+sense is never wrong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 51]
+{09}{E1}{00}{00}{21}{08}{23}{08}3{09}{E1}{00}{00}{23}{08}{25}{08}4{09}{E1}{00}{00}{25}{08}{29}{08}5{09}{E1}{00}{00}{29}{08}{2D}{08}6{09}{E1}{00}{00}{2D}{08}{31}{08}7{09}{E1}{00}{00}{31}{08}{35}{08}8{09}{E1}{00}{00}{35}{08}{37}{08}9{09}{E1}{00}{00}{37}{08}{3B}{08}:{09}{E1}{00}{00}{3B}{08}{3F}{08};
+[END]
+
+[SENTENCE NUMBER 52]
+{08}{E1}{07}{00}{00}{05}B
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Let's go look up ahead!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 53]
+{08}{E1}{06}{00}{00}{75}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Trans in to the Cyber Core
+of that door, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 54]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The door should be open
+now! Let's go check!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 55]
+{08}{E1}{06}{00}{00}{65}=
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Take the Wave Road all the
+way to the power core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 56]
+{08}{E1}{06}{00}{01}{65}>
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+If we break the defense
+system, the Wave Road
+should reconnect again.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 57]
+{08}{E1}{06}{00}{02}{65}?
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We're almost to the
+power core! Stay frosty, kid!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 58]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We can move forward now
+that that's taken care of!
+We're so close!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 59]
+{08}{E1}{07}{00}{02}{05}<Chery.Blosom>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ace didn't seem right...
+Stay on his heels, kid!
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 60]
+{08}{E1}{07}{00}{02}{05}A
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Ace took off ahead all by
+himself...
+<PUSH>
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 61]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There should be a way to
+unlock the lock in this Cyber
+Core!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 62]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+A defense system, huh?
+Destroying the control unit
+ought to do the trick.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 63]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Find the control unit and
+destroy it!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 64]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There should be a control
+unit here too! Tear it up!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 65]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, aren't you going to
+meet with Ace!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 66]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey, kid...
+Do you think that maybe
+Ace... Never mind, forget it.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 67]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+Hey! What the heck are you
+doing? We've got to search
+the Dealer Base!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 68]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 69]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 70]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 71]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 72]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 73]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 74]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 75]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 76]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 77]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 78]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 79]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 80]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 81]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We found a decent clue, huh!?
+But we need to find more!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 82]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+See! There was a good
+clue here after all! My
+sixth sense is never wrong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 83]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We'll come back here later...
+Impatience is a felony,
+detective!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 84]
+{08}{E1}{06}{00}{02}{01}T
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We got a Noise Code!
+The only place left to
+search is <Studi.WBG>!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 85]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+There's no doubt about it,
+detective! It ran away into
+the Noise Wave!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 86]
+{08}{E1}{06}{00}{01}{50}V
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+We opened the Noise Wave
+with the Noise Codes. We're
+so close to the Dealer Base!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 87]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+The entrance to the Dealer
+Base should be around here
+somewhere!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 88]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 89]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 90]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 91]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 92]
+
+<START-DIALOG>
+
+[END]
+

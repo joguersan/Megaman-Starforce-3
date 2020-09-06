@@ -1,0 +1,27 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tOhh, it's sooo cold!
+<PUSH>
+This Cyber Core is
+completely frozen!
+<PUSH>
+Oh yes, be careful of
+frozen panels during
+battle!
+<PUSH>
+Getting hit by an Aqua
+attack while on a frozen
+panel will freeze you!
+<PUSH>
+Being frozen stiff in the
+middle of a fight is obviously
+not what you want to be!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,324 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud-swim>
+Cuántos peces de colores...
+<PUSH>
+¿Se podrán comer?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez-swim>
+El océano es precioso...
+No puedo dejar de mirarlo.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Sí.
+Si por mí fuera, me
+quedaba aquí para siempre.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack-swim>
+¡Ahhh! ¡Uuuaahh!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¡Tranquilo, Zack!
+¡No exageres!
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+Lleva manguitos...
+<PUSH>
+Y aun así cree que
+se va a hundir...
+Madre mía
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+Ugh...
+Aaahh...
+<PUSH>
+...Dudca me ha
+gudtado ed agua...
+Aaahhh...
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+¿Cómo?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+"Nunca me ha
+gustado el agua".
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+¿Y eso por qué?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Una vez se quedó atrapado
+en un submarino en
+el extranjero.
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+¡Bajajajaja!
+¡No fastidies!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+¡Agh!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+Ya casi se ha acabado
+el recreo...
+Tenemos que volver...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+¡¿En serio?!
+¡¿No podemos quedarnos
+un poco más?!
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}...!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¿Pasa algo, Srta. Tia?
+<PUSH>
+
+<NEW-DIALOG>
+<(Queen)Tia>
+N-No, nada...
+<PUSH>
+Pero volved
+a tiempo, ¿vale?
+<PUSH>
+
+<NEW-DIALOG>
+<Jack-swim>
+¡Jo, tío!
+<PUSH>
+{13}{E2}{00}{00}
+<NEW-DIALOG>
+<(Queen)Tia>
+{13}{EC}(Creo que es la primera
+vez que veo a Jack
+divertirse...)
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+{12}{E2}<Mr.King-2>
+{01}{00}
+<NEW-DIALOG>
+<Bud-swim>
+¿Eh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+Mmmm.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¿Pero qué...?
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Oh, no...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo-swim>
+¿Y esa cara, chicos?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡¡N-No está!!
+<PUSH>
+¡¡Todas mis cosas
+han volado!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+¡¡Y las mías!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡Las mías también!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+¡¡Yo igual!!
+<PUSH>
+¿Nos las han robado?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+Puede ser...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Jack-swim>
+Menudos idiotas...
+<PUSH>
+La regla número uno de
+unas vacaciones es no
+perder de vista tus cosas.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¿Qué os falta a cada uno?
+<PUSH>
+
+<NEW-DIALOG>
+<Bud-swim>
+¡Mi camiseta!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack-swim>
+¡Mis pantalones!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez-swim>
+¡Mi pañuelo!
+<PUSH>
+¡Y es carísimo!
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia-swim>
+Mi bolsa...
+<PUSH>
+Me la regaló un fan,
+tiene un gran valor
+sentimental.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+Qué mal...
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿No te dijo ese Wizard
+grande que fueras a verle
+si tenías algún problema?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-swim>
+¡Ah, sí!
+<PUSH>
+¡Vale!
+¡Vamos a ver a Strong!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

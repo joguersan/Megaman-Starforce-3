@@ -1,0 +1,353 @@
+[SENTENCE NUMBER 1]
+{0B}{E1}{2F}{16}{0B}{E1}{30}{16}{0B}{E1}{31}{16}{0B}{E1}{32}{16}{0B}{E1}{33}{16}{0B}{E1}{34}{16}{0B}{E1}{35}{16}{0B}{E1}{36}{16}{0B}{E1}{37}{16}{0B}{E1}{38}{16}{0B}{E1}{39}{16}{0B}{E1}{3A}{16}{0B}{E1}{3B}{16}{0B}{E1}{3C}{16}{0A}{E1}{3D}{16}{0B}{E1}{3E}{16}{0B}{E1}{3F}{16}{0B}{E1}{40}{16}{0B}{E1}{41}{16}{0B}{E1}{42}{16}{0B}{E1}{43}{16}{0B}{E1}{44}{16}{0B}{E1}{45}{16}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¡Que alguien vaya a buscarle
+la comida al equipo, por favor!
+¡Que ando muy ocupado!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+[END]
+
+[SENTENCE NUMBER 3]
+{0C}{E1}{01}{00}{1D}{16}{0B}{00}{0C}{E1}{00}{00}{3D}{16}{03}{00}{0C}{E1}{00}{00}{1C}{16}{04}{00}{0C}{E1}{00}{00}{90}{16}{07}{00}{0C}{E1}{00}{00}{93}{16}{07}{00}{0C}{E1}{00}{00}{94}{16}{07}{00}{0C}{E1}{00}{00}{95}{16}{07}{00}{06}{E1}
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Faena, faena y más faena.
+<PUSH>
+¡Aceptaré toda ayuda posible!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Em...
+<PUSH>
+¿Ocurre algo?
+<PUSH>
+
+<NEW-DIALOG>
+<Bueno...
+<PUSH>
+Acabo de pedirle la comida al
+equipo, pero no tengo tiempo
+para ir a recogerla.
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Ayudar a esta persona?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{05}{00}{11}{EC}{03}{00}{06}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<NEW-DIALOG>
+<Geo>
+Si eso te ayuda, no me
+importaría ir a recoger
+la comida.
+<PUSH>
+
+<NEW-DIALOG>
+<¡¿De verdad?!
+¡Muchas gracias!
+<PUSH>
+Si pudieras recoger el pedido
+y asegurarte de entregarle
+<PUSH>
+la comida al equipo, lo
+agradecería mucho.
+<PUSH>
+La pedí en la tienda de la
+escuela Echo Ridge.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Entendido!
+<PUSH>
+{0A}{E1}{8F}{16}{0A}{E1}{1C}{16}{20}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 7]
+
+<NEW-DIALOG>
+<Mocoso inútil...
+
+<PUSH>
+{0B}{E1}{3D}{16}
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¿Entregaste la comida?
+<PUSH>
+{17}{EC}{00}{00}
+<NEW-DIALOG>
+<Game>
+¿Cancelar esta petición?
+{05}{EC}{00}{00}{04}{00}  {06}{EC}Sí
+  {09}{EC}No
+<PUSH>
+{17}{EC}{02}{00}{11}{EC}{00}{00}{08}{00}{11}{EC}{03}{00}{09}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<NEW-DIALOG>
+<Mocoso inútil...
+<PUSH>
+{0B}{E1}{3D}{16}{0B}{E1}{1C}{16}{0B}{E1}{1D}{16}{0B}{E1}{8F}{16}{0B}{E1}{90}{16}{0B}{E1}{91}{16}{0B}{E1}{92}{16}{0B}{E1}{93}{16}{0B}{E1}{94}{16}{0B}{E1}{95}{16}{82}{E1},{FF}{FF}{82}{E1}-{FF}{FF}{82}{E1}.{FF}{FF}{21}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 10]
+
+<NEW-DIALOG>
+<¡No me falles, pequeño!
+
+<PUSH>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Entregué la comida!
+<PUSH>
+
+<NEW-DIALOG>
+<¡Genial!
+Me has salvado el pompis.
+<PUSH>
+Ten esto como recompensa por
+ayudarme.
+<PUSH>
+{A1}{E1}{85}{E1}{00}{00}{01}{00}
+<NEW-DIALOG>
+<Game>
+¡{35}{EC} ha obtenido:
+«{E0}{E5}»!
+<PUSH>
+¡Han aumentado tus PV
+máximos!
+<PUSH>
+
+<END-DIALOG>
+{0A}{E1}{1D}{16}{21}{EC}{DE}{10}
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<En menudo problema me hubiera
+metido si no fuera por ti.
+
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+{0C}{E1}{01}{00}{93}{16}{11}{00}{0C}{E1}{01}{00}{90}{16}{10}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Argh, tengo tanta hambre que
+podría comerme una casa...
+<PUSH>
+¿Dónde está la comida?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí la tiene, señor.
+<PUSH>
+
+<NEW-DIALOG>
+<¡Casi me muero de hambre!
+<PUSH>
+¡Gracias, chavalín!
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1},{FF}{FF}{0A}{E1}{93}{16}
+[END]
+
+[SENTENCE NUMBER 18]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¡Hora de zampar!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+{0C}{E1}{01}{00}{94}{16}<Geo>
+{0C}{E1}{01}{00}{91}{16}{13}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+=Me muero de hambre.
+<PUSH>
+No puedo concentrarme en el
+trabajo con el estómago vacío.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí tiene la comida, señorita.
+<PUSH>
+
+<NEW-DIALOG>
+=¡Gracias!
+<PUSH>
+Eres el repartidor más mono
+que jamás he visto.
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}-{FF}{FF}{0A}{E1}{94}{16}
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+=¡Podré concentarme en la faena
+tras una buena comida!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+{0C}{E1}{01}{00}{95}{16}<Prez>
+{0C}{E1}{01}{00}{92}{16}<Hope(Mom)>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ya casi es la hora del
+descanso y sigo sin tener
+mi comida.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Aquí la tiene, señor.
+<PUSH>
+
+<NEW-DIALOG>
+<¿Te estás encargando tú de
+repartir la comida?
+<PUSH>
+Imagino que él andaba
+demasiado ocupado.
+<PUSH>
+Gracias por ayudar.
+
+<PUSH>
+
+<END-DIALOG>
+{82}{E1}.{FF}{FF}{0A}{E1}{95}{16}
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<¡Comidaaaaaa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

@@ -1,0 +1,19 @@
+[SENTENCE NUMBER 1]
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+3The enemy has penetrated
+the WAZA <Centro.Comando>!!
+<PUSH>
+Aaahhh!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

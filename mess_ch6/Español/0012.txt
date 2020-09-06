@@ -1,0 +1,709 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+¡Sí que la están haciendo
+buena esta vez!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Ace>
+Bueno, Geo...
+<PUSH>
+¿Estás listo?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo-2>
+¡Listo y dipuesto!
+<PUSH>
+{0A}{E1}{62}{02}
+<NEW-DIALOG>
+<Ace>
+¿Qué te parece si calmamos
+un poco las cosas?
+<PUSH>
+¡Transcodificación 001!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+¡Transcodificación,
+Mega Man!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡Intenta no quedarte atrás,
+Mega Man!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡No exageres, viejo!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Ja, ja. Nada mal.
+<PUSH>
+¡Vamos a ello!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{13}{E2}{02}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+fiu...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Lo logramos!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+A-Ace...
+Todo este Crimson...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+No podemos hacer nada.
+<PUSH>
+Maldita sea...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Eh!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Normalmente, el Crimson
+desaparece, pero...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡Ace! ¡Mega Man!
+¡Mirad!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}¡¡!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+{12}{E2}{15}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡J-Joker!!
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Vaya!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Ace!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Gracias por venir a verme...
+<PUSH>
+Me habéis ahorrado la
+molestia de tener que
+encontraros.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Bueno...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 11]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Ahora que me habeis
+encontrado, ¿que vais a
+hacer?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Detenerte, por supuesto.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+Eso me esperaba.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+Eres peligroso.
+<PUSH>
+Y además de eso...{15}{E1}
+eres miembro de Dealer.
+<PUSH>
+Me das asco.
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡Por eso voy a pararte los
+pies!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 12]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}¿¡!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡Ja, ja, ja, ja!
+<PUSH>
+¿Eso es todo lo que puedes
+hacer?
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 13]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+Eso parece...
+Que lástima.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 14]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}¿¡...!?
+<PUSH>
+¿Qué estás haciendo?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+¡¡Ugh{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}!!
+<PUSH>
+¡¡A{16}{E1}-Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 15]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡N-No puedo moverme!
+<PUSH>
+Acid,{15}{E1}
+¿¡Qué pasa!?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+No... lo... se.
+<PUSH>
+A...c...e{16}{E1}
+Due... le...
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡¡Acid!!
+<PUSH>
+Joker...
+¿¡Qué has hecho!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡Ja, ja, ja ,ja!
+<PUSH>
+No se trata de lo que haya
+hecho.
+<PUSH>
+Tan solo he llamado a Acid.
+<PUSH>
+Y...{15}{E1} simplemente está
+respondiendo a mi llamado.
+<PUSH>
+Ni más, ni menos.
+<PUSH>
+Después de todo, nuestro
+poder proviene de la misma
+«estrella», ¿cierto?
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+{13}{EC}¡...!
+<PUSH>
+Tu...
+¿¡Lo sabías!?
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¿Qué esperabas?
+<PUSH>
+Ya que estamos unidos, sería
+imposible que no lo supiera.
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+A{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ce{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Acid.Ace>
+¡¡Detente!!
+<PUSH>
+A este paso Acid...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+{13}{EC}...
+<PUSH>
+No me importa.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 16]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+¡la concentración de Ruido
+ha alcanzado el 200%!
+<PUSH>
+¡¡Finalizar!!
+<PUSH>
+
+<NEW-DIALOG>
+<Acid>
+Arg...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 17]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AE}{00}¡Aaaaaarg!
+<PUSH>
+
+<NEW-DIALOG>
+<Ace>
+Ac...{16}{E1}id...
+<PUSH>
+{13}{EC}¡...!
+<PUSH>
+{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡¡Renace, Acid!!
+<PUSH>
+¡¡Despierta tu verdadero
+ser!!
+<PUSH>
+¡¡Muestra tu existencia al
+mundo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 18]
+{12}{E2}<Solo>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Joker>
+¡Eureka!
+<PUSH>
+¡Ja, ja, ja, ja!
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Joker>
+¿Cómo te sientes, Acid?
+<PUSH>
+¡Asumo que muy bien!
+<PUSH>
+Vamos, haz lo que quieras.
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 19]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Joker>
+¡Bah!
+<PUSH>
+{13}{EC}(Algo le está impidiendo
+completarse.)
+<PUSH>
+{13}{EC}(Maldita policía Satella...
+Deben haber modificado a
+Acid para que no pueda
+completarse.)
+<PUSH>
+¡Escúchame, Acid!
+Ese impulso destructivo,
+<PUSH>
+y sólo eso, es lo que
+confirma nuestra existencia.
+<PUSH>
+Nunca lo olvides.
+<PUSH>
+Y es esa estrella roja es
+el vínculo que nos une...
+<PUSH>
+Somos uno y ek mismo.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 20]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 21]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡A-Ace!?
+<PUSH>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Chico...
+<PUSH>
+Esto tiene muy muy mala
+pinta.
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¿¡Q-Qué te ocurre Ace!?
+<PUSH>
+¿Dónde está Joker?
+<PUSH>
+Y{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1} ¿por qué te ves tan
+diferente?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 22]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{AD}{00}{13}{EC}...
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡Ace!!
+<PUSH>
+¡¡Despierta!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 23]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+No creo que entienda nada
+de lo que dices...
+<PUSH>
+¡Más te vale estar listo,
+chaval!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Imposible!
+<PUSH>
+¿Estás diciendo que vamos a
+tener que luchar contra Ace?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¿Ves otra opción?
+<PUSH>
+¿¡Puedes decirme que puedes 
+verlo así,
+<PUSH>
+y no pensar en detenerlo!?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}¡¡!!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Es imposible hacerlo entrar
+en razon!
+<PUSH>
+No tengo ni idea de qué ha
+pasado, pero...
+<PUSH>
+¡¡No podemos permitir que
+siga así!!
+<PUSH>
+¡¡Demosle una tunda hasta que 
+vuelva a estar en sus cabales!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Mega...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 24]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Tienes razón...
+<PUSH>
+Es imposible que Ace y Acid
+quieran hacer esto...
+<PUSH>
+No puedo imaginar cuánto 
+están sufriendo...
+<PUSH>
+Y las únicas personas que
+pueden ayudarlos...{15}{E1}
+¡Somos nosotros!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+¡Este es mi chico!
+<PUSH>
+¡Pero mantente alerta!
+¡Sabes que son muy fuertes!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Sí..
+<PUSH>
+{13}{EC}(Pero...)
+<PUSH>
+{13}{EC}(Incluso si lucho contra
+ellos con todo lo que
+tengo...)
+<PUSH>
+{13}{EC}(No se si podremos
+vencerlos...)
+<PUSH>
+{13}{EC}(Pero Ace dijo que no puede
+quedarse en estado de onda
+AM durante mucho tiempo)
+<PUSH>
+{13}{EC}(Si conseguimos aguantar lo
+suficiente...)
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{13}{EC}¡¡{13}{EC}!!
+<PUSH>
+¡Eres un genio, chico!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

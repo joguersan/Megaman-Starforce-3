@@ -1,0 +1,60 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+You're finished!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+Alright, nice job!!
+<PUSH>
+
+<NEW-DIALOG>
+<Rogue>
+Hmph...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What's that guy's deal!?
+Why's he have to act like
+that after we helped him?
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Look on the bright side, at
+least he bothered to ask
+for our help!
+<PUSH>
+Come on, let's pulse out!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+{15}{E1}...Grrr!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

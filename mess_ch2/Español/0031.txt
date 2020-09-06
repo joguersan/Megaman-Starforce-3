@@ -1,0 +1,36 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Cuento contigo, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡Yo me encargo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+¡Gracias, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+¡De nada!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

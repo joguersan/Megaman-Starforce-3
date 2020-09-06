@@ -1,0 +1,17 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Acid>
+Ese era el último
+fragmento de datos
+de esta zona.
+<PUSH>
+Vamos a otra zona...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

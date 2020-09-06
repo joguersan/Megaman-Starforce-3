@@ -1,0 +1,36 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+I'm counting on you, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+Leave it to me!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, Taurus!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus>
+It was nothing!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

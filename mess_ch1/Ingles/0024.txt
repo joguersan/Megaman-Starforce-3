@@ -1,0 +1,264 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+The e-mail you sent was
+stuck on the Wave Road,
+<PUSH>
+but I found it and it'll be
+delivered properly!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Really!?
+Thank you so much!
+<PUSH>
+I still haven't received a
+response yet, though.
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Heeey!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+I read your e-mail!
+I'm sorry, too!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+No, no, no.
+It's all my fault...
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Either way, let's never
+fight again! Ever!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+Yeah, best friends forever!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Sweet...
+Another problem solved.
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Hehe. Feels pretty good
+to help out, doesn't it?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Angel.Wise>
+It's all thanks to you!
+Thank you, again!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+There's no need to thank
+me, really...
+<PUSH>
+{13}{E2}{01}{00}
+<NEW-DIALOG>
+<Prez>
+Isn't friendship just the
+most wonderful thing!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{12}{E2}<Jack>
+{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mega>
+What a surprise...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Geo Stelar over here is
+a member of my Team,
+"Luna 4 Prez"!
+<PUSH>
+I'm the Team leader, Luna
+Platz!
+<PUSH>
+I'm actually running for
+student body president in
+the upcoming election.
+<PUSH>
+I would be honored to
+have your support for
+student body president!
+<PUSH>
+
+<NEW-DIALOG>
+<Mary.McLovin>
+Thank you very much,
+Luna!
+<PUSH>
+
+<NEW-DIALOG>
+<Angel.Wise>
+You got my vote for
+the upcoming election!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Thanks! I won't let you down!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Thanks a lot, Geo!
+You're doing pretty good!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, but are there any
+more people that need
+help around here?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Ah, a phone call...
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+What's up, Zack?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Oh, is Prez with you, too?
+That's perfect.
+<PUSH>
+Can the both of you
+please come to the
+Sci. Club Room?
+<PUSH>
+There's a situation here.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Got it! We'll be right there!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+The Sci. Club Room,
+right? Let's go, Geo!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+The Sci. Club Room...?
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Wasn't the Science Club
+doing an experiment on
+the roof before?
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah, that's them.
+<PUSH>
+The Sci. Club Room
+is on the 2nd Floor. Let's
+head over there.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

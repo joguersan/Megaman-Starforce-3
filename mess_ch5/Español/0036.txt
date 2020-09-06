@@ -1,0 +1,84 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡Quita de en medio!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡¡...!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡¡A cubierto, Solo!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Rogue>
+¡JA! ¿De verdad piensas que
+<PUSH>
+soy tan debil?
+¡Te vas a arrepentir cuando
+todo esto acabe!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grrr!!
+¡¡Es tan solo un idiota
+arrogante!!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+{13}{EC}(Solo..)
+<PUSH>
+Debemos ir tambien, Mega.
+<PUSH>
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<NEW-DIALOG>
+<Mega>
+¡¡Grrr!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]

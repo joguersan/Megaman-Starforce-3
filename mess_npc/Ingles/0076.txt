@@ -1,0 +1,6 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+[END]
+

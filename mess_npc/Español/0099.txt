@@ -1,0 +1,36 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+tEste es el puesto de
+información del
+Cibernúcleo.
+<PUSH>
+Cualquier duda sobre
+<Echo.Ridge>, ¡yo soy
+tu hombre!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+{95}{00}¡Soy Eddie de Echo Ridge!
+¡Bienvenido al
+puesto de información!
+<PUSH>
+¡Me emociono al pensar que
+has hecho todo este camino
+para saludarme!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

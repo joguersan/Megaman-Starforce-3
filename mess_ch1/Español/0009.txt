@@ -1,0 +1,26 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Megaman>
+¡Son los virus!
+<PUSH>
+
+<NEW-DIALOG>
+<Mega>
+Así que estropeando los
+sistemas del aspersor, ¿eh?
+<PUSH>
+¡Acabemos con ellos!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+¡Sí!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

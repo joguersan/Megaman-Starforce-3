@@ -1,0 +1,175 @@
+[SENTENCE NUMBER 1]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Ahhh!
+<PUSH>
+Wh-What are these things!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+W{15}{E1}-We were just practicing
+my speech for tomorrow's
+election!
+<PUSH>
+Do you have some kind of
+problem!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+P-Prez...
+<PUSH>
+I don't think we should really
+be talking to viruses...
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Be quiet!
+<PUSH>
+I already know that!
+<PUSH>
+But what else is there for
+us to do!?
+<PUSH>
+...D{15}{E1}-Don't worry about it!
+<PUSH>
+A certain person will come.
+He always does...!
+<PUSH>
+He'll come...
+<PUSH>
+Mega Man will come...
+<PUSH>
+
+<END-DIALOG>
+{00}{E1}<
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Preeez!!
+<PUSH>
+
+<END-DIALOG>
+{13}{E2}{01}{00}
+[END]
+
+[SENTENCE NUMBER 3]
+{12}{E2}{11}{00}{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+!!
+<PUSH>
+S-See!!
+He came...!!
+<PUSH>
+Mega Man really came...!!
+<PUSH>
+Mega Maaan!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+{A0}{E1}{04}{00}<(Queen)Tia>
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Mmmrrrggg!
+Preeez!!
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+{16}{E1}...Huh?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Th{15}{E1}-That voice...!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+...B{16}{E1}-Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+B-B-Bud!?
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+Is everyone OK!?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+Geo and Sonia, too!?
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+Just what the heck is going
+on here...!?
+<PUSH>
+
+<NEW-DIALOG>
+<HarpNote>
+We'll explain later!
+<PUSH>
+
+<NEW-DIALOG>
+<Taurus.Fire>
+We have to take care of
+those viruses first!
+<PUSH>
+
+<NEW-DIALOG>
+<Megaman>
+Let's rock!
+<PUSH>
+Wave Battle!{15}{E1}
+Ride On!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+

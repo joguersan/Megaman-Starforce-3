@@ -1,0 +1,20 @@
+[SENTENCE NUMBER 1]
+Clase est.
+[END]
+
+[SENTENCE NUMBER 2]
+Clase Mega
+[END]
+
+[SENTENCE NUMBER 3]
+Classe Giga
+[END]
+
+[SENTENCE NUMBER 4]
+{2B}{E1}{03}{00}
+[END]
+
+[SENTENCE NUMBER 5]
+Gran escala
+[END]
+

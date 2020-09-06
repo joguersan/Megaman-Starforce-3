@@ -1,0 +1,371 @@
+[SENTENCE NUMBER 1]
+{12}{E2}<Heartless>
+{01}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+Mr. Boreal called us while
+you were on your way here.
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+He told us everything that
+happened, as well as what
+the plan is.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Oh, OK{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+It's just like he told you.
+<PUSH>
+Tomorrow, I'm going into
+space to stop Meteor G.
+<PUSH>
+This will be our last chance
+to stop it.
+<PUSH>
+
+<NEW-DIALOG>
+<Sonia>
+.{14}{E1}.{14}{E1}.{14}{E1}You'll be OK, right?
+<PUSH>
+There's nothing that could go
+wrong, right?
+<PUSH>
+Am I worrying too much?
+<PUSH>
+If you were to...
+Like Ace...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+I'll be fine.
+<PUSH>
+I made a promise to Ace.
+<PUSH>
+I said that I would never
+stop protecting those who
+are close to me.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+I just wish we could all be
+together during a terrible
+time like this...
+<PUSH>
+If any of you were to
+never come back...
+I can't even think about it.
+<PUSH>
+You have to promise me
+this, Geo.
+<PUSH>
+Promise that you will come
+back to us{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+That's a promise I can keep.
+I'll be back.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 2]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Bud>
+You just promised us, right!?
+<PUSH>
+If you lie to us, then I'll
+make you eat lima beans!
+<PUSH>
+You better...
+You better come back safe!!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 3]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Zack>
+You have to be there for
+Prez's election celebration
+party!
+<PUSH>
+And also for Sonia's next
+concert!
+<PUSH>
+There's too much for you to
+skip out on!!
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Yeah...
+I can't wait to do all that!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Me too!
+<PUSH>
+It'll be so much fun!
+<PUSH>
+Everyone will be there!
+<PUSH>
+Everyone{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+All of us{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+*sniffle*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1} *sniffle*{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 4]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Prez>
+Don't cry, Zack!!
+<PUSH>
+
+<NEW-DIALOG>
+<Zack>
+Yes, Prez!!
+<PUSH>
+.{14}{E1}.{14}{E1}.{14}{E1}Waaa!
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 5]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Mom...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+I'm sorry to interrupt your
+time with your friends.
+<PUSH>
+But there was something
+that I had to talk to you
+about.
+<PUSH>
+
+<NEW-DIALOG>
+<Prez>
+We are the ones that should
+apologize for taking away
+precious time with your son.
+<PUSH>
+Please, take your time.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 6]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+An old friend was just over
+at our house.
+<PUSH>
+She is a former co-worker
+of your father's, as well as
+a dear friend of mine.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}Heartless?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+That's one name she uses...
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+She told you everything,
+didn't she?
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Yes...
+<PUSH>
+About you being Mega Man,
+and about your father being
+inside of that shooting star{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+.{14}{E1}.{14}{E1}.{14}{E1}I'm really sorry that I didn't
+tell you, Mom.
+<PUSH>
+I didn't want to worry you.
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+You've been fighting this
+whole time, haven't you?
+<PUSH>
+I thought you would always
+be my little boy...
+<PUSH>
+But you've grown up into a
+strong, brave man, just like
+your father.
+<PUSH>
+It makes me a little sad, but
+it also makes me so proud
+of you.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Mom...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+I won't stop you.
+<PUSH>
+You are your father's son.
+<PUSH>
+I believe that you will come
+home...
+<PUSH>
+I believe that you will come
+home even more of a man
+than you are now{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 7]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+Take this with you.
+<PUSH>
+It's data that your father
+left with me when he went
+to space.
+<PUSH>
+
+<NEW-DIALOG>
+<Geo>
+Dad's data...
+<PUSH>
+
+<NEW-DIALOG>
+<Hope(Mom)>
+This data was your father's
+treasure.
+<PUSH>
+It is full of memories of our
+family together.
+<PUSH>
+I'm sure that it will bind you
+and your father together
+inside of that shooting star.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 8]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Geo>
+Thanks, Mom.
+<PUSH>
+I'll return it when I get back.
+<PUSH>
+{02}{E2}{0C}{00}{A1}{E1}
+<NEW-DIALOG>
+<Game>
+Geo got:
+"Kelvin Key"!
+<PUSH>
+{01}{E2}{0C}{00}
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 9]
+{13}{E2}{00}{00}
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Game>
+Tomorrow{15}{E1}.{15}{E1}.{15}{E1}.{15}{E1}
+<PUSH>
+Is the last day before
+Meteor G strikes.
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
+[SENTENCE NUMBER 10]
+
+<START-DIALOG>
+
+<NEW-DIALOG>
+<Mr.Boreal>
+Geo...
+.{15}{E1}.{15}{E1}.{15}{E1}Preparations are complete.
+<PUSH>
+Would you please come to
+WAZA?
+<PUSH>
+
+<END-DIALOG>
+
+[END]
+
