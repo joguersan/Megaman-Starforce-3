@@ -138,7 +138,7 @@ msgstr ""
 "canasta en el azotea.\n"
 "[NEW_DIALOG]\n"
 "¡Ahora puedo practicar mi\n"
-"mate supertamahawk! \n"
+"mate «supertomahawk»! \n"
 "[NEW_DIALOG]\n"
 "{ec00}{1}"
 

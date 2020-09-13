@@ -27,7 +27,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-¡Ataquemos a este Ruido a
+¡Ataquemos este Ruido a
 la vez!
 ¡Lo eliminaremos fácilmente!
 <PUSH>

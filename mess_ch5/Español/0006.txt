@@ -4,8 +4,8 @@
 
 <NEW-DIALOG>
 <Ace>
-Jefe de escuadrón de
-Comandos de Policía
+Capitan de las fuerzas
+especiales de la Policía
 Satella, Ace...
 <PUSH>
 Y los miembros especiales,
@@ -21,7 +21,7 @@ Reportándose al deber.
 ¡Gracias a todos por venir...!
 <PUSH>
 En primer lugar me gustaría
-agradecerles por ayudar a
+agradeceros por ayudar a
 defender no sólo la NAZA,
 <PUSH>
 sino también a la Tierra,
@@ -33,12 +33,12 @@ vosotros.
 
 <NEW-DIALOG>
 <Geo>
-No tienes por qué...
+No hace falta...
 <PUSH>
 
 <NEW-DIALOG>
 <Bud>
-¡Aah! ¡Qué verguenza...!
+¡Aah! ¡Qué verguenza!
 <PUSH>
 
 <END-DIALOG>
@@ -68,7 +68,7 @@ sabía que existía!
 
 <NEW-DIALOG>
 <Bud>
-¿¡E-En serio...!?
+¿¡E-En serio!?
 <PUSH>
 *Sonrojarse*
 <PUSH>
@@ -83,27 +83,26 @@ sabía que existía!
 
 <NEW-DIALOG>
 <Geo>
-¡Sí! ¡Yo también estaba
+¡Yo también estaba
 sorprendido!
 <PUSH>
 No puedo creer que
 hayas estado entrenando con
 Ace casi todos los días...
 <PUSH>
-¿Pero por qué pensaste
-que tenías que mantenerlo
-en secreto?
+¿Por qué pensaste que tenías
+que mantenerlo en secreto?
 <PUSH>
 ¡Dele y Zack creían que
-estabas tramando algo
+estabas metido en algo
 sospechoso!
 <PUSH>
 
 <NEW-DIALOG>
 <Bud>
-B-Bueno...
+Bu-Bueno...
 <PUSH>
-¡Verás...!
+Vereis...
 <PUSH>
 Quería entrenar duro, para
 luego sorprenderos con
@@ -144,8 +143,8 @@ presumir.
 Pero estabas tan agotado
 cada día, que...
 <PUSH>
-pensabas que no
-parecerías tan guay.
+pensabas que no parecerías
+tan guay.
 <PUSH>
 {A0}{E1}{04}{00}<(Queen)Tia>
 
@@ -165,18 +164,18 @@ Eso no es genial...
 <Bud>
 ¿¡Que!?
 <PUSH>
-P-Pero...
+Pe-Pero...
 <PUSH>
 
 <NEW-DIALOG>
 <Geo>
-¡Jajajaja!
+¡Ja, ja, ja, ja!
 <PUSH>
 
 <NEW-DIALOG>
 4{13}{EC}...
 <PUSH>
-{15}{E1}...¡Ejem!
+{15}{E1}¡Ejem!
 <PUSH>
 
 <NEW-DIALOG>
@@ -194,13 +193,13 @@ P-Pero...
 
 <NEW-DIALOG>
 <Geo-2>
-P-Perdónanos...
+Pe-Perdona...
 <PUSH>
 
 <NEW-DIALOG>
 <Dr.Goodall>
-Jejejeje. No te preocupes,
-Geo.
+Je, je, je, je. No te
+preocupes, Geo.
 <PUSH>
 Es bueno para nosotros
 escucharos  tan alegres
@@ -215,8 +214,8 @@ después de tanta tragedia.
 Por cierto, Ace...
 <PUSH>
 ¿Cómo va la incorporación
-del último miembro de los
-Comandos?
+del último miembro de las
+Fuerzas Especiales?
 <PUSH>
 You have your work cut
 out for you with that one.
@@ -229,13 +228,12 @@ out for you with that one.
 {13}{EC}(¡¿El último miembro!?)
 <PUSH>
 {13}{EC}(Así que falta alguien más{13}{EC}
-que todavía no esta dentro
-del equipo)
+que todavía no esta en el equipo)
 <PUSH>
 
 <NEW-DIALOG>
 <Ace>
-Bueno... nos pusimos en
+Verás... nos pusimos en
 contacto con él hace poco.
 <PUSH>
 Pero aún no nos ha dado
@@ -243,7 +241,7 @@ una respuesta.
 <PUSH>
 
 <NEW-DIALOG>
-4Entiendo...
+4Ya veo...
 <PUSH>
 Bueno, continuemos...
 <PUSH>
@@ -284,10 +282,10 @@ vuestra ayuda, en nombre
 de toda la NAZA.
 <PUSH>
 No hay duda de que sin
-vuestra ayuda, NAZA
-habría sido destruida.
+vuestra ayuda, habría 
+sido destruida.
 <PUSH>
-Sin embargo, sufrimos
+Sin embargo, hemos sufrido
 importantes perdidas.
 <PUSH>
 Y ahora no podemos
@@ -306,16 +304,16 @@ vosotros tres y vuestra
 capacidad para cambiar a
 ondas EM!
 <PUSH>
-Por ello os hemos pedido
-uniros a los Comandos de
-la Policía Satella,
+Por eso os hemos pedido
+uniros a las Fuerzas
+Especiales de la Policía
 <PUSH>
-como miembros especiales.
-members.
+Satella, como miembros
+especiales.
 <PUSH>
 Es fundamental contar con
-vosotros para que
-podamos seguir adelante.
+vosotros para que podamos
+seguir adelante.
 <PUSH>
 
 <NEW-DIALOG>
@@ -359,7 +357,7 @@ vuestra seguridad en esta
 contienda...
 <PUSH>
 Vuestras vidas...{15}{E1} pueden
-correr peligro.
+llegar a correr peligro.
 <PUSH>
 
 <NEW-DIALOG>
@@ -412,7 +410,7 @@ Omega-Xis, {15}{E1}Lyra,{15}{E1} Taurus.
 
 <NEW-DIALOG>
 <Mega>
-¿Sí? ¡¡Qué quieres!?
+¿Sí? ¿¡Qué quieres!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -422,7 +420,6 @@ Omega-Xis, {15}{E1}Lyra,{15}{E1} Taurus.
 Omega-Xis... Al menos
 podrías intentar ser más
 respetuoso...
-a little more respectful...
 <PUSH>
 {A0}{E1}{04}{00}<(Queen)Tia>
 
@@ -433,13 +430,13 @@ a little more respectful...
 
 <NEW-DIALOG>
 <Mega>
-Soy mejor que esta vaca
-dopada...
+Por lo menos soy mejor que
+esta vaca dopada...
 <PUSH>
 
 <NEW-DIALOG>
-4Quiero confirmarlo con
-vosotros también.
+4Quiero que me lo confirmeis
+tambien.
 <PUSH>
 ¿Seguro que queréis
 formar parte de esto?
@@ -447,7 +444,7 @@ formar parte de esto?
 
 <NEW-DIALOG>
 <Mega>
-¿¡Nos preguntas ahora!?
+¿¡Nos lo preguntas ahora!?
 <PUSH>
 No estoy haciendo esto por
 vosotros. ¡No soporto a
@@ -493,7 +490,7 @@ acabemos con esto!
 <START-DIALOG>
 
 <NEW-DIALOG>
-4C-Comprendo...
+4Co-Comprendo...
 <PUSH>
 ¡Entendido!
 <PUSH>
@@ -503,7 +500,7 @@ como parte de ella.
 <PUSH>
 ¡Detengamos a Dealer para
 mantener la paz de este
-gran planeta!
+maravilloso planeta!
 <PUSH>
 
 <NEW-DIALOG>
@@ -540,7 +537,7 @@ Desde ahora, somos
 oficialmente un equipo.
 <PUSH>
 Nuestro nombre será...
-«CPS».
+«FEPS».
 <PUSH>
 Nuestro objetivo es...
 <PUSH>
@@ -560,14 +557,15 @@ Suena un poco... No sé...
 
 <NEW-DIALOG>
 <Sonia>
-S-Sí... No tiene mucho
+S-Sí, no tiene mucho
 gancho... ¿No?
 <PUSH>
 
 <NEW-DIALOG>
 <Geo>
 ¿No podemos cambiarlo
-por algo sobre la protección de la Tierra?
+por algo sobre la protección
+de la Tierra?
 <PUSH>
 
 <NEW-DIALOG>
@@ -593,9 +591,8 @@ mundo le gusta!
 <Acid>
 A todos{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
 <PUSH>
-Umm... Los unicos del
-equipo a los que le agrada
-sois vosotros dos.
+Los unicos conformes
+sois vosotros dos...
 <PUSH>
 
 <NEW-DIALOG>
@@ -619,7 +616,6 @@ nombre...)
 
 <NEW-DIALOG>
 <Ace>
-*Suspiro*
 Bien,{15}{E1} ¡Entonces
 probemos con otro!
 <PUSH>
@@ -655,9 +651,8 @@ razón?
 
 <NEW-DIALOG>
 <Acid>
-{15}{E1}*suspiro* De todos modos,
-nuestro proposito ha sido
-decidido.
+Ahora que hemos decidido
+nuestro objetivo...
 <PUSH>
 Ace, ¿porque no formamos
 todos una Banda
@@ -666,9 +661,9 @@ Hermano?
 
 <NEW-DIALOG>
 <Ace>
-Umm...
+Um...
 <PUSH>
-Por supuesto.
+¡Claro!
 <PUSH>
 ¡Seamos todos hermanos!
 <PUSH>
@@ -676,13 +671,13 @@ Por supuesto.
 <NEW-DIALOG>
 <Geo-2>
 F{15}{E1}-¿¡Formar una Banda
-Hermano con Ace...!?
+Hermano con Ace!?
 <PUSH>
 {A0}{E1}{03}{00}<(Queen)Tia>
 
 <NEW-DIALOG>
 <Geo-2>
-¡¡S{15}{E1}-S{15}{E1}-Será un placer...!!
+¡¡S{15}{E1}-S{15}{E1}-Será un placer!!
 <PUSH>
 
 <NEW-DIALOG>
@@ -693,14 +688,14 @@ nervioso de repente?
 
 <NEW-DIALOG>
 <Bud>
-¡Esto es increíble! ¡Gracias,
-Ace!
+¡Esto es increíble!
+¡Gracias, Ace!
 <PUSH>
 
 <NEW-DIALOG>
 <Sonia>
-Sí, ¡gracias Ace! ¡y, a ti
-tambien, Acid!
+Sí, ¡gracias Ace!
+¡y, a ti tambien, Acid!
 <PUSH>
 
 <END-DIALOG>
@@ -713,8 +708,8 @@ tambien, Acid!
 
 <NEW-DIALOG>
 <Game>
-¡Geo y Ace formaron una
-Banda Hermano!
+¡Geo y Ace han formado
+una Banda Hermano!
 <PUSH>
 ¡El Poder Empático de Geo
 aumenta en 100 puntos!
@@ -747,8 +742,7 @@ Los miembros de Dealer
 podrían actuar en cualquier
 momento.
 <PUSH>
-Cuando suceda,
-responderemos.
+Cuando suceda, actuaremos.
 <PUSH>
 Por ahora, es lo único que
 podemos hacer.
@@ -764,9 +758,10 @@ No hay nada mas que
 podamos hacer dada la
 situación.
 <PUSH>
-Tenemos que ser muy cuidadosos...
+Tenemos que ser muy
+cuidadosos...
 <PUSH>
-Tambien tenemos que
+Y tambien tenemos que
 encargarnos de otro
 asunto.
 <PUSH>
@@ -789,9 +784,8 @@ ocultarles secretos, Ace?
 
 <NEW-DIALOG>
 <Ace>
-Umm, no es realmente
-necesario el que ellos lo
-sepan....
+No es necesario
+que lo sepan...
 <PUSH>
 
 <NEW-DIALOG>
@@ -815,8 +809,8 @@ Don't hold back!
 Yeah, Ace!
 <PUSH>
 Debemos saber todo para
-realizar nuestro trabajo de
-la mejor manera posible.
+realizar nuestro trabajo
+de la mejor manera posible.
 <PUSH>
 
 <NEW-DIALOG>
@@ -824,8 +818,9 @@ la mejor manera posible.
 Supongo que no puedo
 evitar decíroslo.
 <PUSH>
-Bueno.... El mundo podría
-ser destruido.
+Bueno....
+El mundo podría ser
+destruido.
 <PUSH>
 Ya lo he dicho... ¿ves?
 No es gran cosa
@@ -848,7 +843,7 @@ No es gran cosa
 
 <NEW-DIALOG>
 <Bud>
-¿¡D-D-D-Destruido!?
+¿¡De-De-De-Destruido!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -877,16 +872,16 @@ tan orgullosa de ese chico.
 <Dr.Goodall>
 Correcto, Geo.
 <PUSH>
-Aaron está aquí en  la NAZA,
+Aaron está aquí en la NAZA,
 ayudándonos a investigar
 no sólo el Ruido,
 <PUSH>
-sino también a Crimson y al
+sino también el Carmesí y el
 meteorito G.
 <PUSH>
 Y más rápido de lo que Bud
-podría comer una tarta de
-manzana, hizo un gran descubrimiento.
+se zampa un bocadillo,
+hizo un gran descubrimiento.
 <PUSH>
 ¡Ha descubierto que el
 meteorito G es en realidad un
@@ -905,8 +900,7 @@ Noise!?
 
 <NEW-DIALOG>
 <Dr.Goodall>
-Eso es lo que nos indican
-los datos.
+Eso nos indican los datos.
 <PUSH>
 Es una inmensa acumulación
 de ruido.
@@ -919,8 +913,8 @@ lugar, creando así Ruido, y
 finalmente el meteorito G.
 <PUSH>
 Además, está siendo atraido
-por the Crimson that
-has collected on the Earth.
+por el Carmasí que se ha
+acumulado en la Tierra.
 <PUSH>
 
 <NEW-DIALOG>
@@ -929,7 +923,8 @@ has collected on the Earth.
 atraido!?
 <PUSH>
 D-De ninguna manera...{15}{E1}
-Si la Tierra fuese destruida...
+Si la Tierra fuese
+destruida...
 <PUSH>
 
 <NEW-DIALOG>
@@ -952,8 +947,8 @@ colisionara con la Tierra!?
 
 <NEW-DIALOG>
 <Dr.Goodall>
-Exacto.{15}{E1} Esa es el peor
-escenario posible.
+Exacto.{15}{E1} Ese es el peor
+de los casos posibles.
 <PUSH>
 El impacto provocaría que la
 tierra fuese partida en dos...
@@ -965,16 +960,16 @@ inutil cualquier tecnología
 basada en Ondas EM.
 <PUSH>
 Por lo tanto, nuestra sociedad
-que esta cimentada sobre la
-tecnología EM colapsaría....
+cimentada sobre la tecnología
+EM colapsaría...
 <PUSH>
 Hemos confiado durante tanto
-tiempo en la tecnología EM ,
+tiempo en la tecnología EM,
 que temo que los humanos
 <PUSH>
 pierdan la esperanza en el
 futuro y se peleen entre sí
-debido a la confusión y rabia.
+debido a la confusión y la ira.
 <PUSH>
 
 <NEW-DIALOG>
@@ -988,7 +983,7 @@ Bueno...
 <PUSH>
 Como ha dicho Doc, el planeta
 siendo destruido es el peor
-escenario posible.
+de los posibles casos.
 <PUSH>
 Pero la NAZA seguramente
 tendrá algún plan.
@@ -1029,7 +1024,7 @@ aquí por hoy...
 <START-DIALOG>
 
 <NEW-DIALOG>
-0Perdóname...
+0Perdón...
 <PUSH>
 Me metí en algunos problemas
 mientras lo reclutaba...
@@ -1050,14 +1045,14 @@ mientras lo reclutaba...
 <PUSH>
 
 <NEW-DIALOG>
-0E-Estoy bien.
+0Es-Estoy bien.
 <PUSH>
-Jajaja...{15}{E1}
+Ja, ja, ja...{15}{E1}
 Me ha dado una buena
 paliza...
 <PUSH>
 Dijo que no tiene nada que
-ver con debiluchos....
+hablar con debiluchos...
 <PUSH>
 
 <END-DIALOG>
@@ -1072,7 +1067,7 @@ ver con debiluchos....
 0¡Pero no podemos rendirnos!
 <PUSH>
 Tenemos que tenerlo de
-nuestro lado
+nuestro lado.
 <PUSH>
 
 <END-DIALOG>
@@ -1090,7 +1085,7 @@ Has hecho lo que has podido.
 
 <NEW-DIALOG>
 <Geo-2>
-Umm, Ace...
+Um, Ace...
 <PUSH>
 ¿Quien es el ultimo miembro
 que mencionaste?
