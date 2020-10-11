@@ -578,16 +578,16 @@ msgstr ""
 
 msgctxt "36"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "37"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "38"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "39"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
