@@ -94,4 +94,4 @@ msgstr ""
 
 msgctxt "3"
 msgid "[NULL]"
-msgstr ""
+msgstr "[NULL]"

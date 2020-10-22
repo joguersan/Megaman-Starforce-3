@@ -1267,4 +1267,4 @@ msgstr ""
 
 msgctxt "19"
 msgid "[NULL]"
-msgstr ""
+msgstr "[NULL]"

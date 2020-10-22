@@ -6,50 +6,51 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: GlowTranslations & Transcene\n"
-"Language: es-ES\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgctxt "0"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "1"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "2"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "3"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "4"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "5"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "6"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "7"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "8"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "9"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "10"
 msgid ""
@@ -186,7 +187,7 @@ msgstr ""
 
 msgctxt "19"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "20"
 msgid ""
@@ -312,23 +313,23 @@ msgstr ""
 
 msgctxt "29"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "30"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "31"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "32"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "33"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "34"
 msgid ""
@@ -379,15 +380,15 @@ msgstr ""
 
 msgctxt "37"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "38"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "39"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "40"
 msgid ""
@@ -553,7 +554,7 @@ msgstr ""
 
 msgctxt "51"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "52"
 msgid ""
@@ -587,11 +588,11 @@ msgstr ""
 
 msgctxt "54"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "55"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "56"
 msgid ""
@@ -635,7 +636,7 @@ msgstr ""
 
 msgctxt "59"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "60"
 msgid ""
@@ -713,59 +714,59 @@ msgstr ""
 
 msgctxt "66"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "67"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "68"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "69"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "70"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "71"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "72"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "73"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "74"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "75"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "76"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "77"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "78"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "79"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "80"
 msgid ""
@@ -873,19 +874,19 @@ msgstr ""
 
 msgctxt "86"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "87"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "88"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "89"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "90"
 msgid ""
@@ -979,79 +980,79 @@ msgstr ""
 
 msgctxt "96"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "97"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "98"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "99"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "100"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "101"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "102"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "103"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "104"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "105"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "106"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "107"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "108"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "109"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "110"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "111"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "112"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "113"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "114"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "115"
 msgid ""
@@ -1144,39 +1145,39 @@ msgstr ""
 
 msgctxt "121"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "122"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "123"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "124"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "125"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "126"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "127"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "128"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "129"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "130"
 msgid ""
@@ -1276,55 +1277,55 @@ msgstr ""
 
 msgctxt "137"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "138"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "139"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "140"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "141"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "142"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "143"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "144"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "145"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "146"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "147"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "148"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "149"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "150"
 msgid ""
@@ -1382,107 +1383,107 @@ msgstr ""
 
 msgctxt "154"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "155"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "156"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "157"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "158"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "159"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "160"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "161"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "162"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "163"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "164"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "165"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "166"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "167"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "168"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "169"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "170"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "171"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "172"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "173"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "174"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "175"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "176"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "177"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "178"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "179"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "180"
 msgid ""
@@ -1574,23 +1575,23 @@ msgstr ""
 
 msgctxt "185"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "186"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "187"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "188"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "189"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "190"
 msgid ""
@@ -1669,20 +1670,20 @@ msgstr ""
 
 msgctxt "195"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "196"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "197"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "198"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"
 
 msgctxt "199"
 msgid "{ec00}{0}"
-msgstr ""
+msgstr "{ec00}{0}"

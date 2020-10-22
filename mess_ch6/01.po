@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "0"
 msgid "[NULL]"
-msgstr ""
+msgstr "[NULL]"
 
 msgctxt "1"
 msgid ""
