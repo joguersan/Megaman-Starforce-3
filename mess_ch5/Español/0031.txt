@@ -22,8 +22,8 @@
 
 <NEW-DIALOG>
 <Mega>
-¡¡Este es aún más fuerte que
-el anterior!!
+¡¡Este tío es aún más
+fuerte que el anterior!!
 <PUSH>
 
 <END-DIALOG>

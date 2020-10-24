@@ -4,7 +4,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-¿¡...!?
+¿¡ !?
 <PUSH>
 
 <END-DIALOG>
@@ -30,7 +30,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-¡Esto no pinta nada bien...!
+¡Esto pinta muy mal...!
 <PUSH>
 
 <END-DIALOG>
@@ -82,9 +82,9 @@
 
 <NEW-DIALOG>
 <Prez>
-¡M-M-M{15}{E1}-Mega Man!!
+¡Me-Me-Me{15}{E1}-Mega Man!!
 <PUSH>
-¡E-E-E{15}{E1}-Esto es malo!!
+¡Es-Es{15}{E1}-Esto es malo!!
 <PUSH>
 ¡Muy muy malo!!
 <PUSH>
@@ -104,7 +104,7 @@
 <PUSH>
 *Fuuu...*
 <PUSH>
-¡¡E-Esto es malo!!
+¡¡L-La cosa pinta muy mal!!
 <PUSH>
 ¡¡Algo horrible esta pasando
 en <Echo.Ridge>!!
@@ -115,7 +115,7 @@ Hay virus...
 
 <NEW-DIALOG>
 <Prez>
-¡Por todas partes!!
+¡¡Por todas partes!!
 <PUSH>
 {A0}{E1}{03}{00}<(Queen)Tia>
 
@@ -144,10 +144,10 @@ quería decir...
 
 <NEW-DIALOG>
 <Mega>
-¡Parece que Prez se está
+¡Parece que Prez está 
 de los nervios!
 <PUSH>
-¡Jaja!
+¡Ja, ja!
 <PUSH>
 ¡Volvamos lo más rápido
 posible! ¡No me lo quiero
@@ -175,7 +175,7 @@ Parece ser serio...
 
 <NEW-DIALOG>
 <Megaman>
-¡Sonia, Bud! Parece que han
+¡Sonia, Bud! ¡Parece que han
 aparecido mas virus en
 <Echo.Ridge>!
 <PUSH>
@@ -199,7 +199,7 @@ aparecido mas virus en
 
 <NEW-DIALOG>
 <Megaman>
-¡Tu tambien, Sonia!
+¡Vosotros también, Sonia!
 <PUSH>
 
 <END-DIALOG>
@@ -212,8 +212,8 @@ aparecido mas virus en
 
 <NEW-DIALOG>
 <Megaman>
-¡Está bien, vayamos a
-<Echo.Ridge>!
+¡Está bien, dirijámonos
+a <Echo.Ridge>!
 <PUSH>
 
 <END-DIALOG>

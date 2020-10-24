@@ -10,11 +10,11 @@ Sr. Wolf!
 
 <NEW-DIALOG>
 {8C}{00}¡Grrr!
-¡Es bastante fuerte!
+¡Es un hueso duro de roer!
 <PUSH>
-¡He llegado a mi límite!
+¡Estoy exausto!
 <PUSH>
-¡Ni te rindas, chico!
+¡No te rindas, chaval!
 <PUSH>
 
 <NEW-DIALOG>
@@ -71,7 +71,8 @@ que digas me va a afectar?
 <NEW-DIALOG>
 <Mega>
 Ahora que lo dices...
-Siempre fuiste un poco tonto.
+Siempre fuiste un poco
+tonto.
 <PUSH>
 
 <NEW-DIALOG>
@@ -117,8 +118,8 @@ Y los libraremos del mundo...
 <Megaman>
 Jack...
 <PUSH>
-¡Tienes que detenerte y pensar
-en esto!
+¡Tienes que detenerte y
+pensar!
 <PUSH>
 Eres nuestro compañero de
 clase y amigo, ¿verdad?

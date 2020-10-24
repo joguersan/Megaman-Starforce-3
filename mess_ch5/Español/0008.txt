@@ -19,8 +19,8 @@
 
 <NEW-DIALOG>
 <Prez>
-¡S{15}{E1}-Solo estabamos practicando
-El discurso de las elecciones
+¡So{15}{E1}-Solo estabamos practicando
+el discurso de las elecciones
 de mañana!
 <PUSH>
 ¿¡Tienes algún problema!?
@@ -28,7 +28,7 @@ de mañana!
 
 <NEW-DIALOG>
 <Zack>
-D-Dele...
+De-Dele...
 <PUSH>
 No creo que debamos estar
 hablando con virus...
@@ -40,7 +40,7 @@ hablando con virus...
 <PUSH>
 ¡Eso ya lo se!
 <PUSH>
-¿¡Per que más podemos hacer!?
+¿¡Pero que más podemos hacer!?
 <PUSH>
 N{15}{E1}-No te preocupes!
 <PUSH>
@@ -74,10 +74,10 @@ Mega Man vendrá...
 ¡¡...!!
 <PUSH>
 ¡¡Ves!!
-¡¡ha llegado!!
+¡¡Ha llegado!!
 <PUSH>
 ¡¡Mega Man ha venido de
-verdad...!!
+verdad!!
 <PUSH>
 ¡¡Mega Maaan!!
 <PUSH>
@@ -127,7 +127,7 @@ verdad...!!
 
 <NEW-DIALOG>
 <Taurus.Fire>
-¿¡Os encontrais bien!?
+¿¡Estais bien!?
 <PUSH>
 
 <END-DIALOG>
@@ -145,8 +145,7 @@ verdad...!!
 
 <NEW-DIALOG>
 <Prez>
-¿¡Qué narices esta ocurriendo
-aquí!?
+¿¡Qué narices pasa aquí!?
 <PUSH>
 
 <NEW-DIALOG>

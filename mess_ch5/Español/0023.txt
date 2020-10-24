@@ -48,8 +48,8 @@ Maldita sea.
 Este se ha estado volviendo
 más denso ultimamente...
 <PUSH>
-Este lugar probablemente esté
-lleno de Ruido.
+Este lugar probablemente
+esté lleno de Ruido.
 <PUSH>
 
 <NEW-DIALOG>
@@ -66,7 +66,7 @@ rápido!
 <Mega>
 ¡No veo el problema!
 <PUSH>
-¡echemos abajo esta estupida
+¡Echemos abajo esta estupida
 puerta!
 <PUSH>
 
@@ -75,8 +75,9 @@ puerta!
 ¿¡En serio!?
 No es un poco...
 <PUSH>
-E-Está bien...
-Supongo que no tenemos elección...
+Es-Está bien...
+Supongo que no tenemos
+elección...
 <PUSH>
 
 <END-DIALOG>
@@ -116,7 +117,8 @@ Eh, tu.
 
 <NEW-DIALOG>
 <Solo>
-¿Sonde está la Estación de Ondas?
+¿Sonde está la Estación 
+de Ondas?
 <PUSH>
 
 <NEW-DIALOG>
@@ -183,17 +185,17 @@ Eh, tu.
 <Sonia>
 Guau...
 <PUSH>
-Qué agujero más grande...
+Menudo agujero...
 <PUSH>
 
 <NEW-DIALOG>
 <Bud>
-¡C-Caray...!
+¡Ca-Caray...!
 <PUSH>
 
 <NEW-DIALOG>
 <Geo-2>
-¿¡S-Solo...!?
+¿¡So-Solo...!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -213,7 +215,7 @@ Qué agujero más grande...
 
 <NEW-DIALOG>
 <Geo-2>
-Argh...
+Arg...
 ¿Qué deberíamos hacer?
 <PUSH>
 
@@ -225,7 +227,7 @@ No tenemos muchas opciones.
 
 <NEW-DIALOG>
 <Bud>
-si...
+sí...
 <PUSH>
 
 <NEW-DIALOG>
@@ -235,8 +237,8 @@ Creo...
 Que deberíamos usar este
 agujero para llegar al techo.
 <PUSH>
-Cambio de onda EM-
-¡Geo Stelar, en el Aire!
+¡Cambio de onda EM-
+Geo Stelar, en el aire!
 <PUSH>
 
 <END-DIALOG>
@@ -249,7 +251,7 @@ Cambio de onda EM-
 
 <NEW-DIALOG>
 <Megaman>
-¡Está bien, continuemos!
+¡Está bien, vamos!
 <PUSH>
 
 <NEW-DIALOG>
@@ -280,7 +282,7 @@ Cambio de onda EM-
 
 <NEW-DIALOG>
 <Zack>
-V-Vale...
+Va-Vale...
 <PUSH>
 Creo que Solo se dirige a la
 Estación de Ondas del primer
@@ -299,7 +301,7 @@ por el Camino Onda!
 
 <NEW-DIALOG>
 <Mega>
-Probablemente el Ascensor
+Probablemente el ascensor
 tampoco funcione debido al
 Ruido.
 <PUSH>
@@ -335,27 +337,27 @@ Esta habitación es...
 
 <NEW-DIALOG>
 <Megaman>
-La sala de profesores....
+La sala de profesores...
 <PUSH>
 
 <NEW-DIALOG>
 <HarpNote>
-Geo
+Geo...
 Parece que Solo se fue por
-ahí....
+allí...
 <PUSH>
 
 <NEW-DIALOG>
 <Megaman>
 S-Sí...
 <PUSH>
-Es un buen agujero el que ha
-hecho en esa pared....
+Menudo agujero el que ha
+hecho en esa pared...
 <PUSH>
 
 <NEW-DIALOG>
 <Taurus.Fire>
-V-Vamos.
+Va-Vamos.
 <PUSH>
 
 <NEW-DIALOG>

@@ -97,7 +97,7 @@ aparecen...
 
 <NEW-DIALOG>
 <Megaman>
-¡Deben estar siendo creados
+¡¡Deben estar siendo creados
 por el Ruido!!
 <PUSH>
 ¡Deberíamos revisar todos los

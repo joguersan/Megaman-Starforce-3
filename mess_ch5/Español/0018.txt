@@ -89,7 +89,7 @@ Eliminalo.
 
 <NEW-DIALOG>
 <Joker>
-Como usted diga, señor.
+Como usted ordene, señor.
 <PUSH>
 
 <END-DIALOG>

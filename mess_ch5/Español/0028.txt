@@ -4,7 +4,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-La entrada a la Onda Ruido
+La entrada a la Disonancia
 está bloqueando el Camino
 Onda....
 <PUSH>
@@ -28,7 +28,7 @@ Estás en medio. Muevete.
 
 <NEW-DIALOG>
 <Megaman>
-C-Claro...
+Cla-Claro...
 <PUSH>
 
 <END-DIALOG>

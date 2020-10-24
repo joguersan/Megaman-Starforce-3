@@ -28,7 +28,7 @@ El...
 <PUSH>
 Sus emociones a menudo sacan
 lo mejor de él, pero acaba
-perdiendo el control de estas.
+perdiendo el control.
 <PUSH>
 Puede ser muy despiadado
 cuando está en un estado de
@@ -38,8 +38,9 @@ Solo su hermana mayor, Queen
 Tia, puede hacerle volver en
 si.
 <PUSH>
-Yet, at the moment...{15}{E1}
-Sin embargo, por el momento.... Su querida hermana mayor está un poco preocupada.
+Sin embargo, por el momento...
+Su querida hermana mayor está
+un poco preocupada.
 <PUSH>
 
 <NEW-DIALOG>
@@ -65,13 +66,13 @@ peligroso.
 Era muy divertido pasar el
 rato con él en la playa.
 <PUSH>
-Geo, ¿No hay nada que podamos
+Geo, ¿no hay nada que podamos
 hacer?
 <PUSH>
 
 <NEW-DIALOG>
 <Geo-2>
-E-Epero que si.
+Es-Epero que si.
 <PUSH>
 {13}{EC}(Yo tambien quiero ayudarle
 {13}{EC} Bud, pero...)
@@ -93,7 +94,7 @@ Por cierto, Geo.
 
 <NEW-DIALOG>
 <Geo-2>
-S-Si, ¿¡qué pasa!?
+S-Sí, ¿¡qué pasa!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -121,7 +122,8 @@ la policía Satella.
 {13}{EC}...
 <PUSH>
 Maldita sea.
-Parece que tendremos que descartarlo.
+Parece que tendremos que
+descartarlo.
 <PUSH>
 Tenía tanto potencial...
 <PUSH>
@@ -139,8 +141,8 @@ la policía Satella?
 Ah, ¿no os lo dije?
 <PUSH>
 Solo iba a ser el último
-miembro especial de los
-Comandos.
+miembro de las Fuerzas
+Especiales.
 <PUSH>
 
 <NEW-DIALOG>
@@ -177,13 +179,13 @@ Por lo menos, me alegra saber
 que no ve a la policía Satella
 como enemigos.
 <PUSH>
-Bueno... Está bien.
+Bueno, chicos...
 <PUSH>
-Gran trabajo el de hoy.
+Gran trabajo.
 <PUSH>
 Lo habeis hecho genial
-manejando a Jack y al
-incidente de la ola de Ruido.
+manejando a Jack y el
+incidente de la Disonancia.
 <PUSH>
 ¡Dejad el trabajo de
 seguimiento a la NAZA, por

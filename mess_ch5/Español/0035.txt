@@ -22,7 +22,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-¡¡Qué gran cantidad de Ruido!!
+¡¡Cuanto Ruido!!
 <PUSH>
 
 <END-DIALOG>

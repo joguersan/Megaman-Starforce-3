@@ -43,9 +43,9 @@
 
 <NEW-DIALOG>
 <Rogue>
-¡JA! ¿De verdad piensas que
+¡JA! ¿De verdad piensas
+que soy tan debil?
 <PUSH>
-soy tan debil?
 ¡Te vas a arrepentir cuando
 todo esto acabe!
 <PUSH>
@@ -70,7 +70,7 @@ arrogante!!
 <Megaman>
 {13}{EC}(Solo..)
 <PUSH>
-Debemos ir tambien, Mega.
+Tenemos que ir tambien, Mega.
 <PUSH>
 {A0}{E1}{04}{00}<(Queen)Tia>
 

@@ -6,7 +6,7 @@
 <Zack>
 ¡¡Oh!!
 <PUSH>
-¡G{15}{E1}-Geeeo!
+¡Ge{15}{E1}-Geeeo!
 <PUSH>
 ¡Aquí!
 ¡¡Estamos aquí!!
@@ -27,7 +27,7 @@ Fiuu...
 
 <NEW-DIALOG>
 <Mega>
-¿¡Eso es todo!? ¡Venga ya!
+¿¡Eso era todo!? ¡Venga ya!
 <PUSH>
 ¡Esa chica ha hecho una
 montaña de un grano de arena!
@@ -66,8 +66,7 @@ de allí uno tras otro...
 <Megaman>
 ¡N-No puede ser!
 <PUSH>
-¿¡Como pueden salir tantos
-uno detrás de otro!?
+¿¡Como pueden salir tantos!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -80,15 +79,14 @@ uno detrás de otro!?
 <Megaman>
 ¡¡...!!
 <PUSH>
-¿Ese lugar es de donde los
-virus...?
+¿De ese lugar es de donde...?
 <PUSH>
 
 <NEW-DIALOG>
 <Mega>
 ¡Es muy posible!
-¡Preguntemos a Ace sobre esto
-más tarde!
+¡Preguntemosle a Ace sobre
+esto más tarde!
 <PUSH>
 ¡Pero ahora es el el momento
 de patear algunos traseros!
@@ -129,34 +127,34 @@ de patear algunos traseros!
 
 <NEW-DIALOG>
 <Acid>
-Sin ninguna duda.
+No cabe duda...
 <PUSH>
 Es un portal que conduce a
-una "Onda Ruidosa".
+una «Onda Ruidosa».
 <PUSH>
-¡Y parece ser grande!
+¡Y tiene pinta de ser grande!
 <PUSH>
 
 <NEW-DIALOG>
 <Megaman>
-Una Onda Ruidosa...
+Una Disonancia...
 <PUSH>
 {12}{E2}<(Queen)Tia>
 {01}{00}
 <NEW-DIALOG>
 <Acid>
-Una Onda Ruido es un mundo
+Una Disonancia es un espacio
 formado enteramente de Ruido.
 <PUSH>
 Podríamos decir que es un
-peligroso Núcleo Cibernético
-donde El Ruido esta disperso.
+peligroso cibernúcleo donde
+el Ruido esta disperso.
 <PUSH>
 Como el viento de una
 tormenta.
 <PUSH>
 W
-Si bien no son reconocidos
+Si bien no son reconocidas
 oficialmente, han estado
 apareciendo en todo el mundo.
 <PUSH>
@@ -178,10 +176,10 @@ en vuestros <Hunter>-VG
 cuando fueron actualizados.
 <PUSH>
 Fue desarrollado en base al
-hecho de que las Ondas de
-Ruido se están volviendo
+hecho de que las Disonancias
 <PUSH>
-cada vez más comunes.
+se están volviendo cada
+vez más comunes.
 <PUSH>
 Hay un montón de cosas que
 aun son desconocidas sobre
@@ -198,11 +196,11 @@ entrar y echar un vistazo?
 Es demasiado peligroso, Ace.
 <PUSH>
 No tenemos ni idea de lo que
-hay dentro ni o podría
+hay dentro ni lo que podría
 ocurrir en una de tal tamaño.
 <PUSH>
 Antes de nada, deberíamos
-dejar que la Naza lo
+dejar que la Naza lo 
 investig-
 <PUSH>
 {13}{E2}{02}{00}
@@ -210,7 +208,7 @@ investig-
 <Mega>
 ¡¡Aburriiiidooo!!
 <PUSH>
-¿¡Crees qué nos asusta esta
+¿¡Crees que nos asusta esta
 pequeña cantidad de Ruido!?
 <PUSH>
 Entraremos y echaremos un
@@ -243,11 +241,10 @@ preguntado!
 <Ace>
 Sería de gran ayuda, Geo.
 <PUSH>
-Como Omega-Xis ha dicho,
-nadie más que Mega Man
+Desde luego nadie más que
+Mega Man podría moverse
 <PUSH>
-podría moverse libremente por
-allí.
+libremente por allí.
 <PUSH>
 Si enviara a cualquier otro,
 habría muy pocas esperanzas
@@ -261,7 +258,7 @@ de que volviera.
 
 <NEW-DIALOG>
 <Ace>
-Pero se que puede hacerlo,
+Pero se que puedes hacerlo,
 Geo.
 <PUSH>
 Despues de todo, ¡Eres el
@@ -274,7 +271,7 @@ mayor heroe del mundo!!
 <PUSH>
 ¡Voy a echar una mirada!
 <PUSH>
-{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}It's OK, right, Acid?
+No ha problema, ¿verdad, Acid?
 <PUSH>
 
 <NEW-DIALOG>
@@ -290,7 +287,8 @@ Ten cuidado.
 <NEW-DIALOG>
 <Megaman>
 ¡Por supuesto!
-¡Nos vemos en un rato!
+¡Estaremos rápidamente
+de vuelta!
 <PUSH>
 
 <NEW-DIALOG>

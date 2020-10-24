@@ -41,7 +41,7 @@ Chico...
 
 <NEW-DIALOG>
 <Jack.Corvus>
-N-Nuestro...
+Nu-Nuestro...
 Deseo...
 No se ha vuelto{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
 Realidad, aun{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
@@ -117,13 +117,13 @@ Sólo se ha desmayado.
 <Taurus.Fire>
 Oh, ¡menos mal!
 <PUSH>
-Una vez más, ¡megaman al
+Una vez más, ¡Mega Man al
 rescate!
 <PUSH>
 
 <NEW-DIALOG>
 <Megaman>
-Jaja. ¡Gracias Bud!
+Ja, ja. ¡Gracias Bud!
 <PUSH>
 {13}{EC}(Se...
 {13}{EC} Se llevó todo lo que tenía.
@@ -175,10 +175,10 @@ puedas, Joker.
 Debemos decidir nuestro
 próximo movimiento.
 <PUSH>
-Movimiento que nos traerá una
-victoria definitiva!
+¡Movimiento que nos traerá
+una victoria definitiva!
 <PUSH>
-¡Jo jo jo jo jo!
+¡Jo, jo, jo, jo, jo!
 <PUSH>
 
 <NEW-DIALOG>
@@ -196,7 +196,7 @@ victoria definitiva!
 
 <NEW-DIALOG>
 <Harry.Sasoon>
-Uno, dos, probando,
+Uno... dos... probando,
 probando...
 <PUSH>
 ¡Ejem!
@@ -323,8 +323,8 @@ podio!
 
 <NEW-DIALOG>
 <Prez>
-¡A todos los estudiantes de la
-escuela primaria de Eco Ridge!
+¡A todos los estudiantes de
+la escuela de Eco Ridge!
 <PUSH>
 ¡Quiero expresar mi más
 profunda gratitud por vuestro
@@ -338,9 +338,8 @@ todos vosotros podáis
 disfrutar de una mejor
 educación, así como de
 <PUSH>
-las actividades
+las actividades 
 extracurriculares.
-activities.
 <PUSH>
 ¡El cambio ha llegado a la
 escuela primaria de Echo
@@ -359,14 +358,16 @@ Sin embargo...
 ¡Eso no es algo que pueda
 hacer yo sola!
 <PUSH>
-Con tu ayuda y la de la gente
-que está a vuestro lado...
+Con vuestra ayuda y la de 
+la gente que está a vuestro
+lado...
 <PUSH>
 Hay una cosa en especial que
 me gustaría hacer como mi
 <PUSH>
-primer acto como presidenta
-del consejo estudiantil.
+primer acto siendo la
+presidenta del consejo
+estudiantil.
 <PUSH>
 Me gustaría que todos los
 profesores y alumnos formaran
@@ -378,8 +379,8 @@ como Objetivo de «Crear una
 escuela donde todos sean
 felices».
 <PUSH>
-¡Me sentiría orgullosa y
-emocionada si todos pudiéramos
+¡Me sentiría emocionada y
+orgullosa si todos pudiéramos
 hacer que eso ocurriera!
 <PUSH>
 ¡Podemos hacerlo!
@@ -430,7 +431,8 @@ con todos los de la escuela,
 
 <NEW-DIALOG>
 <Geo>
-Ni siquiera se me había ocurrido....
+Ni siquiera lo había
+pensado...
 Podría ser dificil.
 <PUSH>
 Pero...
@@ -460,8 +462,8 @@ tarde, si te parece bien.
 
 <NEW-DIALOG>
 <Geo-2>
-Claro, pero... ¿Por qué estás
-tan inquieto?
+Claro, pero... ¿Por qué
+estás tan inquieto?
 <PUSH>
 
 <NEW-DIALOG>
@@ -475,7 +477,7 @@ también.
 
 <NEW-DIALOG>
 <Geo-2>
-Umm...
+Uum...
 De acuerdo.
 <PUSH>
 
@@ -491,16 +493,17 @@ De acuerdo.
 <Geo-2>
 ¿¡Qué!?
 <PUSH>
-¿Vas a dejar a los Comandos?
+¿Vas a dejar a las Fuerzas
+Especiales?
 <PUSH>
 
 <NEW-DIALOG>
 <Sonia>
 ¡N-No puedo creerlo!
-¿¡Qué pasa, Bud!?
+¿¡Qué te pasa, Bud!?
 <PUSH>
-Has aportado tanto al equipo,
-y ahora...
+Has aportado tanto al
+equipo, y ahora...
 <PUSH>
 
 <NEW-DIALOG>
@@ -538,7 +541,8 @@ seguridad del mundo!
 ¡Pero no siento que eso sea
 lo correcto!
 <PUSH>
-No es por mí, o mejor dicho...
+No es por mí, o mejor
+dicho...
 <PUSH>
 Supongo que... ¡No soy feliz
 si no estoy cerca de Dele!
@@ -551,11 +555,12 @@ verdadero Bud.
 <PUSH>
 Así que...
 <PUSH>
-Voy a dejar a los comandos.
+Voy a dejar las Fuerzas
+Especiales.
 <PUSH>
-La policía Satella no quiere a
-un fracasado como yo a su
-lado, de todas formas...
+La policía Satella no
+necesita a un fracasado
+como yo de todas formas...
 <PUSH>
 
 <NEW-DIALOG>
@@ -573,8 +578,8 @@ Bud...
 En lugar de disgustaros,
 ¡sed felices!
 <PUSH>
-¡Alegraos de que mantenga a
-Dele a salvo!
+¡Alegraos de que mantenga
+a Dele a salvo!
 <PUSH>
 ¡Nunca más estará en peligro!
 <PUSH>
@@ -604,7 +609,7 @@ a los dos todo el tiempo!
 
 <NEW-DIALOG>
 <Geo>
-¡Jajajaja!
+¡Ja, ja, ja, ja!
 <PUSH>
 
 <NEW-DIALOG>
@@ -622,7 +627,7 @@ a los dos todo el tiempo!
 
 <NEW-DIALOG>
 <Geo>
-Umm, Ace...
+Ace...
 <PUSH>
 
 <NEW-DIALOG>
@@ -652,7 +657,7 @@ Ace...
 
 <NEW-DIALOG>
 <Ace>
-¡Te voy a asignar una función
+¡Te voy a asignar una misión
 especial!
 <PUSH>
 
@@ -696,14 +701,14 @@ Satella es proteger a la
 gente.
 <PUSH>
 Por lo tanto, Bud es un claro
-ejemplo de cómo debe actuar un
-oficial de la policía Satella.
+ejemplo de como debe actuar
+la policía Satella.
 <PUSH>
 ¡Siempre y cuando no deje de
 proteger a Luna!
 <PUSH>
 Sin embargo, mantener a
-alguien a salvo no es una
+alguien salvo no es una
 tarea fácil, Bud.
 <PUSH>
 En algunos casos, es aún más
@@ -717,7 +722,7 @@ que puedas!
 
 <NEW-DIALOG>
 <Bud>
-¡P-Por supuesto!
+¡Po-Por supuesto!
 <PUSH>
 Quiero decir...
 ¡Sí, señor!
@@ -733,13 +738,13 @@ Quiero decir...
 
 <NEW-DIALOG>
 <Geo>
-¡Estoy seguro de que lo harás
-genial!
+¡Estoy seguro de que lo
+harás genial!
 <PUSH>
 
 <NEW-DIALOG>
 <Sonia>
-¡Jejejejeje!
+¡Je, je, je, je, je!
 ¡No nos decepciones!
 <PUSH>
 

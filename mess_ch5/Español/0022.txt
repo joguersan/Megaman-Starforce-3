@@ -4,7 +4,7 @@
 
 <NEW-DIALOG>
 <Jack.Flask>
-Umm.
+Uum.
 <PUSH>
 Por lo tanto, si soy elegido
 como presidente del consejo
@@ -42,7 +42,7 @@ Es el momento del ultimo
 candidato...
 <PUSH>
 ¡Por favor dad la bienvenida
-a Luna Platz de la Clase 5ºA!
+a Luna Platz de 5ºA!
 <PUSH>
 
 <END-DIALOG>
@@ -55,7 +55,7 @@ a Luna Platz de la Clase 5ºA!
 
 <NEW-DIALOG>
 <Prez>
-¡H-Hola!
+¡Ho-Hola!
 <PUSH>
 {13}{EC}(¿¡Donde están todos!?)
 <PUSH>
@@ -74,7 +74,7 @@ a Luna Platz de la Clase 5ºA!
 <Prez>
 My nombre es Luna Platz, y
 Soy la candidata de la clase
-5ºA.
+5A.
 <PUSH>
 {A0}{E1}{03}{00}<{16}{EC}{10}{E2}{39}{04}
 <NEW-DIALOG>
@@ -84,7 +84,7 @@ Soy la candidata de la clase
 {16}{EC}{10}{E2}{39}{04}
 <NEW-DIALOG>
 <Game>
-¡Siii por fin!
+¡Sííí por fin!
 <PUSH>
 
 <NEW-DIALOG>
@@ -106,7 +106,7 @@ Estoy muy contenta de tener
 esta oportunidad de hablar
 hoy con todos vosotros.
 <PUSH>
-{13}{EC}(Argh...
+{13}{EC}(Arg...
 {13}{EC} Acaba de comenzar,
 {13}{EC} ¡pero no están aquí!)
 <PUSH>
@@ -161,7 +161,7 @@ No parece que el esté aquí.
 
 <NEW-DIALOG>
 <Jack.Corvus>
-Si no está aquí solo tenemos
+Si no está aquí, solo tenemos
 que llamarlo...
 <PUSH>
 Si destrozamos este lugar y
@@ -192,7 +192,7 @@ E-Eh, qué...
 
 <NEW-DIALOG>
 <Harry.Sasoon>
-Umm...
+Uum...
 ¡Esto no puede ser bueno!
 <PUSH>
 
@@ -218,7 +218,6 @@ Umm...
 
 <NEW-DIALOG>
 <Mr.Shepar>
-¡Todos!
 ¡Cuidado!
 <PUSH>
 ¡Apartaos de allí!
@@ -234,7 +233,7 @@ Umm...
 
 <NEW-DIALOG>
 <Harry.Sasoon>
-¡V-Vale!
+¡Va-Vale!
 <PUSH>
 
 <NEW-DIALOG>
@@ -272,8 +271,8 @@ interesante...
 {AF}{00}¡Bueno, si no es mi amigo el
 FM-iano, Corvus!
 <PUSH>
-Era tan feroz en batalla que
-ningún otro Wizard podía
+¡Era tan feroz en batalla
+que ningún otro Wizard podía
 siquiera tocarlo!
 <PUSH>
 
@@ -388,7 +387,7 @@ venir a salvarte.!
 <PUSH>
 ¿¡Estás viva!?
 <PUSH>
-¡P-Pero eso no puede ser!
+¡Pe-Pero eso es...!
 <PUSH>
 ...
 <PUSH>
@@ -400,7 +399,7 @@ venir a salvarte.!
 
 <NEW-DIALOG>
 <Jack.Corvus>
-¡¡...!!
+c...!!
 <PUSH>
 
 <NEW-DIALOG>
@@ -413,7 +412,7 @@ Queen Tia...
 
 <NEW-DIALOG>
 <Jack.Corvus>
-¡¡C-Cállate!!
+¡¡Ci-Cierra el pico!!
 <PUSH>
 ¡Eh, chica!
 ¿Qué crees que estás haciendo?
@@ -421,8 +420,7 @@ Queen Tia...
 
 <NEW-DIALOG>
 <Prez>
-¿¡Qué que creo que estoy
-haciendo!?
+¿¡Qué que estoy haciendo!?
 <PUSH>
 Yo soy la que debería hacerte
 esa pregunta, ¿no crees?
@@ -441,22 +439,22 @@ Así que...
 
 <NEW-DIALOG>
 <Wolf.Woods>
-¡Jojojo!
+¡Jo, jo, jo!
 <PUSH>
 ¿No se nota?
 ¡Voy a dejar todo este lugar
 en ruinas!
 <PUSH>
-¡Y voy a deshacerme de ti y
-de tus amiguitos!
+¡Y voy a deshacerme de
+tí y de tus amiguitos!
 <PUSH>
 
 <NEW-DIALOG>
 <Prez>
 ¡¡Cállate!!
 <PUSH>
-¡Jack, te estoy haciendo una
-pregunta!
+¡Jack, te estoy haciendo
+una pregunta!
 <PUSH>
 
 <END-DIALOG>
@@ -480,7 +478,7 @@ No harías algo así, ¿verdad?
 
 <NEW-DIALOG>
 <Jack.Corvus>
-¿Podrías ser más irritante...?
+¿Podrías ser más irritante?
 <PUSH>
 ¿Quieres que responda a esa
 pregunta?
@@ -494,7 +492,7 @@ Está bien.
 
 <NEW-DIALOG>
 <Prez>
-¿¡P-Por qué Jack!?
+¿¡Po-Por qué Jack!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -561,8 +559,8 @@ cerrarte ese pico que tienes!
 <PUSH>
 
 <NEW-DIALOG>
-Tal vez no has cambiado tanto,
-después de todo....
+Tal vez no has cambiado
+tanto después de todo...
 <PUSH>
 
 <NEW-DIALOG>
@@ -572,7 +570,7 @@ de la escuela!?
 <PUSH>
 ¡¡Date prisa y sube al tejado!!
 <PUSH>
-¡¡Tenemos a alguien que quiere
+¡¡Hay alguien que quiere
 verte aquí arriba!!
 <PUSH>
 

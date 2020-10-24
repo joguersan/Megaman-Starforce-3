@@ -222,4 +222,4 @@ msgstr "Omega68805"
 
 msgctxt "52"
 msgid "[NULL]"
-msgstr ""
+msgstr "[NULL]"

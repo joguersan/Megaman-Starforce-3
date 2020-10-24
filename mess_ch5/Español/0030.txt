@@ -44,7 +44,7 @@ de que le hemos ayudado?
 <Megaman>
 Mira el lado bueno, ¡al menos
 se ha molestado en pedirnos
-ayuda.
+ayuda!
 <PUSH>
 Venga, ¡Expulsionemonos!
 <PUSH>

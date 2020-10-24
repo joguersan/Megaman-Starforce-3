@@ -8,15 +8,15 @@
 
 <NEW-DIALOG>
 <Prez>
-¿¡Comandos de la Policía
-Satella!?
+¿¡Fuerzas especiales de la
+Policía Satella!?
 <PUSH>
 ¿¡Qué narices es eso!?
 <PUSH>
 
 <NEW-DIALOG>
 <Bud>
-E-Eso...
+E-Eeem...
 <PUSH>
 Verás, Ace nos ha pedido que
 luchemos junto a la Policia
@@ -50,12 +50,12 @@ No queríamos perdernos tu
 discurso...
 <PUSH>
 Sabemos que mañana es un día
-muy importante para ti....
+muy importante para ti...
 <PUSH>
 
 <NEW-DIALOG>
 <Prez>
-¡Idiotas!
+¡Pedazo de idiotas!
 <PUSH>
 
 <END-DIALOG>
@@ -89,7 +89,7 @@ Bueno...
 <PUSH>
 Supongo que  no se pueden
 comparar las elecciones del
-colegio con salvar el mundo.
+cole con salvar el mundo.
 <PUSH>
 
 <NEW-DIALOG>
@@ -110,7 +110,7 @@ Verás...{16}{E1} Yo...
 
 <NEW-DIALOG>
 <Prez>
-¡Cállate, Bud!
+¡Cierra el pico, Bud!
 <PUSH>
 
 <END-DIALOG>
@@ -125,7 +125,8 @@ Verás...{16}{E1} Yo...
 <Bud>
 ¿¡...!?
 <PUSH>
-¡L-Lo siento, Dele!
+¡D-De verdad que lo siento,
+Dele!
 ¡¡Perdóname!!
 <PUSH>
 
@@ -141,7 +142,7 @@ Verás...{16}{E1} Yo...
 <Prez>
 No lo pillas ¿Eh?
 <PUSH>
-¡No tienes que pedir perdon!
+¡No hay nada que perdonar!
 <PUSH>
 
 <NEW-DIALOG>
@@ -152,12 +153,12 @@ No lo pillas ¿Eh?
 {01}{00}
 <NEW-DIALOG>
 <Prez>
-No me he vuelto loca.
+¡No estoy para nada enfadada!
 <PUSH>
 Bud...
 <PUSH>
 Fue tu decisión el unirte a
-los Comandos de la Policía
+las Fuerzas de la Policía
 Satella, ¿cierto?
 <PUSH>
 
@@ -182,9 +183,9 @@ De-Dele...
 
 <NEW-DIALOG>
 <Prez>
-No solo como miembro de los
-Comandos, sino tambien de
-"Luna a Presidenta".
+No solo como miembro de la
+policia Satella, sino tambien
+de "Luna a Presidenta".
 <PUSH>
 Tienes que ser un valioso
 miembro para ambos grupos.
@@ -208,7 +209,7 @@ Dele...
 
 <NEW-DIALOG>
 <Geo>
-¡Jaja!
+¡Ja, ja!
 ¡Me alegro por ti Bud!
 <PUSH>
 
@@ -265,8 +266,8 @@ sin que yo no lo sepa!
 
 <NEW-DIALOG>
 <Geo-2>
-¡Es un mensaje de la Policia
-Satella!
+¡Es un mensaje de la
+Policia Satella!
 <PUSH>
 
 <END-DIALOG>
@@ -275,29 +276,30 @@ Satella!
 
 <NEW-DIALOG>
 1Este mensaje va dirigido a
-todo Comando que se encuentre
+todo miembro que se encuentre
 en servicio activo.
 <PUSH>
-Hemos confirmado la aparición
-de un gran numero de virus en
-<Studi.WBG>!
+¡Hemos confirmado la
+aparición de un gran numero
+de virus en <Studi.WBG>!
 <PUSH>
 ¡Por favor, diríjanse hacia
 allí inmediatamente!
 <PUSH>
-¡Tenemos en nuestro control
-la línea de autobus
+¡Tenemos a nuestra
+disposición la línea de 
+ondabús
 <Alohaha>-<Studi.WBG>!
 <PUSH>
 Por desgracia es la unica
 linea disponible.
 <PUSH>
-Las acomulaciones de Ruido
+Las acumulaciones de Ruido
 han dejado las demás lineas
 inservibles.
 <PUSH>
-¡Así que id a <Alohaha> vía
-Onda Aerea, y coged un
+¡Así que dirigíos a <Alohaha>
+vía Onda Aerea, y coged un
 autobús desde allí!
 <PUSH>
 ¡Tened cuidado!
@@ -315,13 +317,12 @@ autobús desde allí!
 
 <NEW-DIALOG>
 <Sonia>
-¿¡Están atacando
-<Studi.WBG>!?
+¿¡Están atacando <Studi.WBG>!?
 <PUSH>
 
 <NEW-DIALOG>
 <Bud>
-¡Rápido, Comandos!
+¡Rápido, equipo!
 <PUSH>
 
 <END-DIALOG>

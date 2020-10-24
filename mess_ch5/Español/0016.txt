@@ -6,7 +6,7 @@
 <Megaman>
 ¿¡Qu{15}{E1}-Qué es esto!?
 <PUSH>
-¡No sabia que sel Ruido
+¡No sabia que el Ruido
 podría alcanzar este tamaño!
 <PUSH>
 
@@ -39,7 +39,7 @@ pequeño....
 
 <NEW-DIALOG>
 <Megaman>
-¿¡J-Jack!?
+¿¡Ja-Jack!?
 <PUSH>
 ¿¡Has sido tu el que ha
 causado esto!?
@@ -52,7 +52,7 @@ causado esto!?
 ¡No lo entiendo!
 <PUSH>
 ¿¡Cómo estos imbeciles han
-podido derrotar a tia!?
+podido derrotar a Tia!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -112,14 +112,14 @@ trasero!
 
 <NEW-DIALOG>
 <Wolf.Woods>
-¡JA! Seguro que puedes hablar
+¡JA! Seguro que sabes hablar,
 ¿¡no, Omega-Xis!?
 <PUSH>
 Espera, no pensarás...
 <PUSH>
 Que realmente me diste
-siquiera algun problema en la
-última batalla, ¿verdad?
+algun problema en la última
+batalla, ¿verdad?
 <PUSH>
 Si de verdad lo crees, ¡Debes
 haberte vuelto senil!
@@ -160,7 +160,7 @@ estúpida basura!
 <Megaman>
 ¡Por favor, Jack!
 <PUSH>
-¡No quiero pelear!!
+¡¡No quiero pelear!!
 <PUSH>
 
 <NEW-DIALOG>
@@ -191,7 +191,7 @@ las basuras de Dealer.
 
 <NEW-DIALOG>
 <Jack.Corvus>
-¿¡Quien es!?
+¿¡Quien eres!?
 <PUSH>
 
 <END-DIALOG>
@@ -294,10 +294,10 @@ buscarlo tu mismo!
 
 <NEW-DIALOG>
 <Jack.Corvus>
-¡Tio, ha arruinado el
-ambiente!
+¡Qué manera de arruinar
+el ambiente!
 <PUSH>
-¡Hasta la próxima, Megaman!
+¡Hasta la próxima, Mega Man!
 <PUSH>
 
 <END-DIALOG>
@@ -360,8 +360,8 @@ huyó.
 
 <NEW-DIALOG>
 <Megaman>
-Umm{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
-Gr-Gracias...
+Uum{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
+Gra-Gracias...
 <PUSH>
 
 <NEW-DIALOG>
@@ -388,7 +388,7 @@ No me importa lo que pienses.
 Todavía estas mi lista de
 enemigos.
 <PUSH>
-No ha cambiado nada.
+Nada ha cambiado.
 <PUSH>
 
 <NEW-DIALOG>
@@ -411,7 +411,8 @@ Voy a derrotarlos.
 <Megaman>
 ¿¡...!?
 <PUSH>
-¿¡Tambien luchas contra Dealer!?
+¿¡Tambien luchas contra
+Dealer!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -424,7 +425,7 @@ Como mucho solo serás una
 herramienta.
 <PUSH>
 ¡Entrega ese mensaje tambien
-a la Policía de Satella!
+a la Policía Satella!
 <PUSH>
 
 <END-DIALOG>
@@ -451,7 +452,7 @@ para la Policía Satella?
 <NEW-DIALOG>
 <Mega>
 ¡Chico!
-¡echa un vistazo!
+¡Echa un vistazo!
 <PUSH>
 
 <NEW-DIALOG>
@@ -477,7 +478,7 @@ S-Se ha ido...
 ¡Por fin está despejado!
 <PUSH>
 ¡Ese Jack debe estar detrás
-de ese Ruido estraño!
+de ese extraño Ruido!
 <PUSH>
 Hizo que esas cosas
 aparecieran para causar
@@ -489,7 +490,7 @@ salir!
 
 <NEW-DIALOG>
 <Megaman>
-Umm...
+Uum...
 <PUSH>
 Las cosas se están
 complicando...
@@ -499,7 +500,7 @@ un vistazo a la Policía
 Satella!
 <PUSH>
 Sería genial si funcionase el
-autobús.
+ondabús.
 <PUSH>
 Entrar en esa ola de ruido ha
 sido realmente duro...
@@ -508,7 +509,7 @@ sido realmente duro...
 <NEW-DIALOG>
 <Mega>
 Además de tenernos que
-encargar de Ese extraño
+encargar de ese extraño
 Ruido.
 <PUSH>
 Ya no hay más virus por aquí,

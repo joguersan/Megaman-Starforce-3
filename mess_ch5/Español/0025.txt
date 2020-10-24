@@ -4,7 +4,7 @@
 
 <NEW-DIALOG>
 <Megaman>
-*uff{15}{E1}, uff*
+*uuf{15}{E1}, uuf*
 <PUSH>
 
 <NEW-DIALOG>
@@ -14,7 +14,8 @@
 
 <NEW-DIALOG>
 <Megaman>
-S-Seguramente estés en lo cierto...
+Se-Seguramente tengas
+razón...
 <PUSH>
 Estando así Jack no
 escuchará lo que diga...
@@ -68,7 +69,7 @@ Solo...
 ¡Eh, chico! No hay tiempo
 para tanta chachara!
 <PUSH>
-¡Ese tipo Lobo está
+¡Ese tipò peludo está
 distrayendo a Jack por
 nosotros!
 <PUSH>

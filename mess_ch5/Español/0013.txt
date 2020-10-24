@@ -13,7 +13,7 @@ los virus!?
 <NEW-DIALOG>
 <Mega>
 ¡A quien le importa!
-¡Vamos a eliminarlo, chico!
+¡Vamos a eliminarlo, chaval!
 <PUSH>
 
 <NEW-DIALOG>

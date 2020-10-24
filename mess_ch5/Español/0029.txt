@@ -9,7 +9,7 @@
 <NEW-DIALOG>
 <Megaman>
 ¡No encuentro la salida de
-esta Onda Ruido!
+esta Disonancia!
 <PUSH>
 
 <NEW-DIALOG>
@@ -90,8 +90,8 @@ Ambos, esta onda Ruido y
 ese monstruo de Ruido son
 cosa de Jack.
 <PUSH>
-¡Esto debe ser un arma de
-Dealer!
+¡Esto debe ser un arma
+de Dealer!
 <PUSH>
 
 <NEW-DIALOG>
@@ -113,8 +113,8 @@ Esta cosa controla toda esta
 area.
 <PUSH>
 Si lo eliminamos, podremos
-expulsionarnos, y esta Onda
-Ruido será destruida.
+expulsionarnos, y esta
+Disonancia será destruida.
 <PUSH>
 Es bastante simple.
 <PUSH>

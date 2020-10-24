@@ -74,7 +74,7 @@ Ya veo...
 
 <NEW-DIALOG>
 <Bud>
-E-Entonces...
+En-Entonces...
 ¿Por qué estás aquí?
 <PUSH>
 ¿¡Estás intentando provocar
@@ -120,12 +120,12 @@ persiguiéndome?
 <NEW-DIALOG>
 0Hasta que te unas a nosotros.
 <PUSH>
-La policía Satella necesita
+La Policía Satella necesita
 mejorar su capacidad de
-combate....
+combate...
 <PUSH>
-¡¡Por favor únete a los
-Comandos!!
+¡¡Por favor únete a las
+Fuerzas Especiales!!
 <PUSH>
 
 <NEW-DIALOG>
@@ -208,7 +208,7 @@ Abortando la misión.
 
 <NEW-DIALOG>
 <Geo-2>
-¿¡En serio es eso un Wizard!?
+¿¡En serio es un Wizard!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -219,8 +219,8 @@ Te puedo confirmar que eso
 definitivamente no es un
 Wizard normal.
 <PUSH>
-El es diferente de mi, Taurus,
-Acid o Strong!
+El es diferente de mi,
+Taurus, Acid o Strong.
 <PUSH>
 Encima{14}{E1}.{14}{E1}.{14}{E1}.{14}{E1}
 ¡Es muy fuerte!
@@ -294,11 +294,11 @@ tendré que ir yo a vosotros!
 <START-DIALOG>
 
 <NEW-DIALOG>
-0¿¡Co-Cómo puede ser!?
+0¿¡Co-Cómo!?
 <PUSH>
 ¿¡Cómo es posible vencer a
-tantos Wizards con un único
-ataque!?
+tantos Wizards en un solo
+movimiento!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -362,8 +362,8 @@ Guau...
 <PUSH>
 Escucha, Mega Man.
 <PUSH>
-Voy a usar mi as bajo la manga
-contra Dealer.
+Voy a usar mi as bajo la
+manga contra Dealer.
 <PUSH>
 No te atrevas a interponerte
 en mi camino... O serás el
@@ -403,8 +403,7 @@ con ellos por este asunto.
 <PUSH>
 Este es mi problema.
 <PUSH>
-¡Así que no os interpongáis
-en mi camino!
+¡Así que no os entrometais!
 <PUSH>
 
 <END-DIALOG>

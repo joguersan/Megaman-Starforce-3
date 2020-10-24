@@ -38,7 +38,7 @@ nuestro colegio!?
 
 <NEW-DIALOG>
 <Zack>
-¡G-Geo!
+¡Ge-Geo!
 <PUSH>
 
 <NEW-DIALOG>
@@ -66,7 +66,7 @@ que las elecciones...
 
 <NEW-DIALOG>
 <Geo-2>
-¿¡S-Solo!?
+¿¡So-Solo!?
 <PUSH>
 
 <NEW-DIALOG>
@@ -84,7 +84,7 @@ que las elecciones...
 
 <NEW-DIALOG>
 <Geo-2>
-Umm...
+Uum...
 <PUSH>
 Lo que significa que...
 ¿¡Jack va a venir aquí!?
@@ -123,7 +123,7 @@ Evidentemente.
 <Geo-2>
 ¡¡...!!
 <PUSH>
-¡E-Esto no es bueno!
+¡Es-Esto no pinta bien!
 <PUSH>
 ¡Si algo como lo de ayer
 ocurre aquí...!
@@ -139,13 +139,14 @@ Pero no me metáis en esto.
 
 <NEW-DIALOG>
 <Geo-2>
-P-Pero...
+Pe-Pero...
 <PUSH>
 ¡No podemos dejar que los
 profesores y alumnos se vean
 atrapados en esto!
 <PUSH>
-Debemos irnos a otro lugar.
+Debemos movernos a otro
+lugar.
 <PUSH>
 
 <END-DIALOG>

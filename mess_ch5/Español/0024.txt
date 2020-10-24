@@ -11,7 +11,7 @@ adelante...
 
 <NEW-DIALOG>
 <Mega>
-eh, chico.
+eh, chaval.
 <PUSH>
 ¿Seguro que estás preparado
 para esto?
@@ -24,16 +24,16 @@ para esto?
 
 <NEW-DIALOG>
 <Mega>
-¡Listo para patear el trasero
-de Jack!
+¡Listo para darle la
+paliza de su vida!
 <PUSH>
-Si de verdad vas a ir ahí
-fuera, tienes que estar
-preparado para luchar.
+Si de verdad vas a ir, 
+tienes que estar preparado
+para luchar.
 <PUSH>
-No tendrás ninguna
-posibilidad si tu mente no
-está al 100% en esta pelea.
+No tendrás ninguna 
+posibilidad si no 
+das tu 100%.
 <PUSH>
 
 <NEW-DIALOG>
@@ -44,8 +44,8 @@ Pero, primero quiero hablar
 con Jack y darle la
 oportunidad de parar
 <PUSH>
-Sí consigo que me escuche se
-que el...
+Sí consigo que me escuche
+se que el...
 <PUSH>
 
 <NEW-DIALOG>
@@ -68,7 +68,7 @@ para hacerlo entrar en razón?
 <NEW-DIALOG>
 <Rogue>
 ¡Eres tan ingenuo que me
-enferma!
+enfermas!
 <PUSH>
 Seré yo quien lo derrote.
 <PUSH>
