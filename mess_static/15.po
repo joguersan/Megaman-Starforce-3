@@ -6,10 +6,11 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: GlowTranslations & Transcene\n"
-"Language: es-ES\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgctxt "0"
 msgid "None"
@@ -17,35 +18,35 @@ msgstr ""
 
 msgctxt "1"
 msgid "Cannon"
-msgstr ""
+msgstr "Cañón"
 
 msgctxt "2"
 msgid "PlusCannon"
-msgstr ""
+msgstr "CañónPlus"
 
 msgctxt "3"
 msgid "HevyCannon"
-msgstr ""
+msgstr "CañónPes"
 
 msgctxt "4"
 msgid "PlasmaGun"
-msgstr ""
+msgstr "ArmPlasm"
 
 msgctxt "5"
 msgid "AirSpread1"
-msgstr ""
+msgstr "DifAire1"
 
 msgctxt "6"
 msgid "AirSpread2"
-msgstr ""
+msgstr "DifAire2"
 
 msgctxt "7"
 msgid "AirSpread3"
-msgstr ""
+msgstr "DifAire"
 
 msgctxt "8"
 msgid "MiniGrnade"
-msgstr ""
+msgstr "MinGran"
 
 msgctxt "9"
 msgid "DrillArm1"
@@ -89,15 +90,15 @@ msgstr ""
 
 msgctxt "19"
 msgid "Sword"
-msgstr ""
+msgstr "Espada"
 
 msgctxt "20"
 msgid "WideSword"
-msgstr ""
+msgstr "EspAncha"
 
 msgctxt "21"
 msgid "LongSword"
-msgstr ""
+msgstr "EspLarga"
 
 msgctxt "22"
 msgid "GreatAxe"
@@ -117,11 +118,11 @@ msgstr ""
 
 msgctxt "26"
 msgid "WhtMeteor"
-msgstr ""
+msgstr "MetBlanco"
 
 msgctxt "27"
 msgid "SilvMeteor"
-msgstr ""
+msgstr "MetPlata"
 
 msgctxt "28"
 msgid "BlackInk"
@@ -133,15 +134,15 @@ msgstr ""
 
 msgctxt "30"
 msgid "GrandWave1"
-msgstr ""
+msgstr "Temblor1"
 
 msgctxt "31"
 msgid "GrandWave2"
-msgstr ""
+msgstr "Temblor2"
 
 msgctxt "32"
 msgid "GrandWave3"
-msgstr ""
+msgstr "Temblor3"
 
 msgctxt "33"
 msgid "JetAttack1"
@@ -157,15 +158,15 @@ msgstr ""
 
 msgctxt "36"
 msgid "Buki1"
-msgstr ""
+msgstr "Buki1"
 
 msgctxt "37"
 msgid "Buki2"
-msgstr ""
+msgstr "Buki2"
 
 msgctxt "38"
 msgid "Buki3"
-msgstr ""
+msgstr "Buki3"
 
 msgctxt "39"
 msgid "SmileCoin1"
@@ -289,15 +290,15 @@ msgstr ""
 
 msgctxt "69"
 msgid "StlthLzr1"
-msgstr ""
+msgstr "LasSigil1"
 
 msgctxt "70"
 msgid "StlthLzr2"
-msgstr ""
+msgstr "LasSigil2"
 
 msgctxt "71"
 msgid "StlthLzr3"
-msgstr ""
+msgstr "LasSigil3"
 
 msgctxt "72"
 msgid "MummyHand1"
@@ -421,15 +422,15 @@ msgstr ""
 
 msgctxt "102"
 msgid "MadVulcn1"
-msgstr ""
+msgstr "RáfLoca1"
 
 msgctxt "103"
 msgid "MadVulcn2"
-msgstr ""
+msgstr "RáfLoca2"
 
 msgctxt "104"
 msgid "MadVulcn3"
-msgstr ""
+msgstr "RáfLoca3"
 
 msgctxt "105"
 msgid "MuTech1"
@@ -469,19 +470,19 @@ msgstr ""
 
 msgctxt "114"
 msgid "BlackHole1"
-msgstr ""
+msgstr "AgujerNgr1"
 
 msgctxt "115"
 msgid "BlackHole2"
-msgstr ""
+msgstr "AgujerNgr2"
 
 msgctxt "116"
 msgid "BlackHole3"
-msgstr ""
+msgstr "AgujerNgr3"
 
 msgctxt "117"
 msgid "TyphnDance"
-msgstr ""
+msgstr "DanzTifón"
 
 msgctxt "118"
 msgid "TrnadoDnce"
@@ -489,11 +490,11 @@ msgstr ""
 
 msgctxt "119"
 msgid "DblStone"
-msgstr ""
+msgstr "PiedDoble"
 
 msgctxt "120"
 msgid "Bombalizer"
-msgstr ""
+msgstr "Bombardeo"
 
 msgctxt "121"
 msgid "DivideLine"
@@ -517,103 +518,103 @@ msgstr ""
 
 msgctxt "126"
 msgid "Recover10"
-msgstr ""
+msgstr "Recup10"
 
 msgctxt "127"
 msgid "Recover30"
-msgstr ""
+msgstr "Recup30"
 
 msgctxt "128"
 msgid "Recover50"
-msgstr ""
+msgstr "Recup50"
 
 msgctxt "129"
 msgid "Recover80"
-msgstr ""
+msgstr "Recup80"
 
 msgctxt "130"
 msgid "Recover120"
-msgstr ""
+msgstr "Recup120"
 
 msgctxt "131"
 msgid "Recover150"
-msgstr ""
+msgstr "Recup150"
 
 msgctxt "132"
 msgid "Recover200"
-msgstr ""
+msgstr "Recup200"
 
 msgctxt "133"
 msgid "Recover300"
-msgstr ""
+msgstr "Recup300"
 
 msgctxt "134"
 msgid "Barrier"
-msgstr ""
+msgstr "Barrera"
 
 msgctxt "135"
 msgid "SprBarrier"
-msgstr ""
+msgstr "SúpBarr"
 
 msgctxt "136"
 msgid "Aura"
-msgstr ""
+msgstr "Aura"
 
 msgctxt "137"
 msgid "Invisible"
-msgstr ""
+msgstr "Invisible"
 
 msgctxt "138"
 msgid "Whistle"
-msgstr ""
+msgstr "Silbato"
 
 msgctxt "139"
 msgid "SpiritFury"
-msgstr ""
+msgstr "FurEspír"
 
 msgctxt "140"
 msgid "AntiSword"
-msgstr ""
+msgstr "AntiEspd"
 
 msgctxt "141"
 msgid "PoisnApple"
-msgstr ""
+msgstr "ManznEnvn"
 
 msgctxt "142"
 msgid "DoublCross"
-msgstr ""
+msgstr "CruzDobl"
 
 msgctxt "143"
 msgid "GigaMine"
-msgstr ""
+msgstr "GigaMina"
 
 msgctxt "144"
 msgid "GrassStage"
-msgstr ""
+msgstr "TerrHierba"
 
 msgctxt "145"
 msgid "IceStage"
-msgstr ""
+msgstr "TerrHielo"
 
 msgctxt "146"
 msgid "PrlyzeStg"
-msgstr ""
+msgstr "FasePara"
 
 msgctxt "147"
 msgid "HolyPanel"
-msgstr ""
+msgstr "PanSagrad"
 
 msgctxt "148"
 msgid "AtkPanel"
-msgstr ""
+msgstr "PanAtaque"
 
 msgctxt "149"
 msgid "ParlyzPlus"
-msgstr ""
+msgstr "ParalPlus"
 
 msgctxt "150"
 msgid "Attack+10"
-msgstr ""
+msgstr "Ataque+10"
 
 msgctxt "151"
 msgid "SpadMgnes"
@@ -701,15 +702,15 @@ msgstr ""
 
 msgctxt "172"
 msgid "TaursFire"
-msgstr ""
+msgstr "TaursFire"
 
 msgctxt "173"
 msgid "TaursFire{5d50}"
-msgstr ""
+msgstr "TaursFire{5d50}"
 
 msgctxt "174"
 msgid "TaursFire{25c7}"
-msgstr ""
+msgstr "TaursFire{25c7}"
 
 msgctxt "175"
 msgid "CygnsWing"
@@ -737,27 +738,27 @@ msgstr ""
 
 msgctxt "181"
 msgid "DrkPhntm"
-msgstr ""
+msgstr "FantOsc"
 
 msgctxt "182"
 msgid "DrkPhntm{5d50}"
-msgstr ""
+msgstr "FantOsc{5d50}"
 
 msgctxt "183"
 msgid "DrkPhntm{25c7}"
-msgstr ""
+msgstr "FantOsc{25c7}"
 
 msgctxt "184"
 msgid "Rogue"
-msgstr ""
+msgstr "Renegado"
 
 msgctxt "185"
 msgid "Rogue{5d50}"
-msgstr ""
+msgstr "Renegado{5d50}"
 
 msgctxt "186"
 msgid "Rogue{25c7}"
-msgstr ""
+msgstr "Renegado{25c7}"
 
 msgctxt "187"
 msgid "MoonDstry"
@@ -773,15 +774,15 @@ msgstr ""
 
 msgctxt "190"
 msgid "ApolloFlm"
-msgstr ""
+msgstr "LlamApol"
 
 msgctxt "191"
 msgid "ApolloFlm{5d50}"
-msgstr ""
+msgstr "LlamApol{5d50}"
 
 msgctxt "192"
 msgid "ApolloFlm{25c7}"
-msgstr ""
+msgstr "LlamApol{25c7}"
 
 msgctxt "193"
 msgid "Sirius"
@@ -1345,51 +1346,51 @@ msgstr ""
 
 msgctxt "333"
 msgid "QnOphiuca"
-msgstr ""
+msgstr "QnOphiuca"
 
 msgctxt "334"
 msgid "QnOphiuca{5d50}"
-msgstr ""
+msgstr "QnOphiuca{5d50}"
 
 msgctxt "335"
 msgid "QnOphiuca{25c7}"
-msgstr ""
+msgstr "QnOphiuca{25c7}"
 
 msgctxt "336"
 msgid "GeminSprk"
-msgstr ""
+msgstr "GeminSprk"
 
 msgctxt "337"
 msgid "GeminSprk{5d50}"
-msgstr ""
+msgstr "GeminSprk{5d50}"
 
 msgctxt "338"
 msgid "GeminSprk{25c7}"
-msgstr ""
+msgstr "GeminSprk{25c7}"
 
 msgctxt "339"
 msgid "CancrBubl"
-msgstr ""
+msgstr "CancrBubl"
 
 msgctxt "340"
 msgid "CancrBubl{5d50}"
-msgstr ""
+msgstr "CancrBubl{5d50}"
 
 msgctxt "341"
 msgid "CancrBubl{25c7}"
-msgstr ""
+msgstr "CancrBubl{25c7}"
 
 msgctxt "342"
 msgid "GenAuriga"
-msgstr ""
+msgstr "GenAuriga"
 
 msgctxt "343"
 msgid "GenAuriga{5d50}"
-msgstr ""
+msgstr "GenAuriga{5d50}"
 
 msgctxt "344"
 msgid "GenAuriga{25c7}"
-msgstr ""
+msgstr "GenAuriga{25c7}"
 
 msgctxt "345"
 msgid "LibraScls"
@@ -1497,7 +1498,7 @@ msgstr ""
 
 msgctxt "371"
 msgid "RogueX"
-msgstr ""
+msgstr "RenegadoX"
 
 msgctxt "372"
 msgid "MoonDstryX"
@@ -1505,11 +1506,11 @@ msgstr ""
 
 msgctxt "373"
 msgid "ApolloFlmX"
-msgstr ""
+msgstr "LLamApolX"
 
 msgctxt "374"
 msgid "SiriusX"
-msgstr ""
+msgstr "SiriusX"
 
 msgctxt "375"
 msgid "YetiBlzrdX"
@@ -1525,15 +1526,15 @@ msgstr ""
 
 msgctxt "378"
 msgid "QnOphiucaX"
-msgstr ""
+msgstr "QnOphiucaX"
 
 msgctxt "379"
 msgid "GeminSprkX"
-msgstr ""
+msgstr "GeminSprkX"
 
 msgctxt "380"
 msgid "CancrBublX"
-msgstr ""
+msgstr "CancrBublX"
 
 msgctxt "381"
 msgid "GenAurigaX"
