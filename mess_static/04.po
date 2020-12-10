@@ -6,10 +6,11 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: GlowTranslations & Transcene\n"
-"Language: es-ES\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgctxt "0"
 msgid "Mettenna"
@@ -541,15 +542,15 @@ msgstr ""
 
 msgctxt "132"
 msgid "Musashi"
-msgstr ""
+msgstr "Musashi"
 
 msgctxt "133"
 msgid "Kotetsu"
-msgstr ""
+msgstr "Kotetsu"
 
 msgctxt "134"
 msgid "Masamune"
-msgstr ""
+msgstr "Masamune"
 
 msgctxt "135"
 msgid "MusashiG"
@@ -709,63 +710,63 @@ msgstr ""
 
 msgctxt "174"
 msgid "OmegaXCopyG"
-msgstr ""
+msgstr "CopiOmegaXG"
 
 msgctxt "175"
 msgid "OmegaXCopyY"
-msgstr ""
+msgstr "CopiOmegaXY"
 
 msgctxt "176"
 msgid "OmegaXCopyR"
-msgstr ""
+msgstr "CopiOmegaXR"
 
 msgctxt "177"
 msgid "OmegaXCopyW"
-msgstr ""
+msgstr "CopiOmegaXW"
 
 msgctxt "178"
 msgid "OmegaXCopyP"
-msgstr ""
+msgstr "CopiOmegaXP"
 
 msgctxt "179"
 msgid "OmegaXCopyB"
-msgstr ""
+msgstr "CopiOmegaXB"
 
 msgctxt "180"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "181"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "182"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "183"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "184"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "185"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "186"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "187"
 msgid "Mr. Hertz"
-msgstr ""
+msgstr "Sr.Hercio"
 
 msgctxt "188"
 msgid "Mega Man"
-msgstr ""
+msgstr "Mega Man"
 
 msgctxt "189"
 msgid "SpadMgnes"
@@ -789,7 +790,7 @@ msgstr ""
 
 msgctxt "194"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "195"
 msgid "DiamndIce"
@@ -813,7 +814,7 @@ msgstr ""
 
 msgctxt "200"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "201"
 msgid "ClubStrng"
@@ -837,7 +838,7 @@ msgstr ""
 
 msgctxt "206"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "207"
 msgid "QueenVrgo"
@@ -861,31 +862,31 @@ msgstr ""
 
 msgctxt "212"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "213"
 msgid "JackCorvs"
-msgstr ""
+msgstr "JackCorvs"
 
 msgctxt "214"
 msgid "JackCorvs{5d50}"
-msgstr ""
+msgstr "JackCorvs{5d50}"
 
 msgctxt "215"
 msgid "JackCorvs{25c7}"
-msgstr ""
+msgstr "JackCorvs{25c7}"
 
 msgctxt "216"
 msgid "JackCorvs{ff32}"
-msgstr ""
+msgstr "JackCorvs{ff32}"
 
 msgctxt "217"
 msgid "JackCorvs{3a9}"
-msgstr ""
+msgstr "JackCorvs{3a9}"
 
 msgctxt "218"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "219"
 msgid "DreadJokr"
@@ -909,151 +910,151 @@ msgstr ""
 
 msgctxt "224"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "225"
 msgid "CrimsnDragn"
-msgstr ""
+msgstr "DragnCarms"
 
 msgctxt "226"
 msgid "CrimsnDragn"
-msgstr ""
+msgstr "DragnCarms"
 
 msgctxt "227"
 msgid "CrimsnDragn{2162}"
-msgstr ""
+msgstr "DragnCarms{2162}"
 
 msgctxt "228"
 msgid "CrimsnDragn{2162}"
-msgstr ""
+msgstr "DragnCarms{2162}"
 
 msgctxt "229"
 msgid "CrimsnDragn{3a3}"
-msgstr ""
+msgstr "DragnCarms{3a3}"
 
 msgctxt "230"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "231"
 msgid "TaursFire"
-msgstr ""
+msgstr "FuegTauro"
 
 msgctxt "232"
 msgid "TaursFire{5d50}"
-msgstr ""
+msgstr "FuegTauro{5d50}"
 
 msgctxt "233"
 msgid "TaursFire{25c7}"
-msgstr ""
+msgstr "FuegTauro{25c7}"
 
 msgctxt "234"
 msgid "TaursFire{ff32}"
-msgstr ""
+msgstr "FuegTauro{ff32}"
 
 msgctxt "235"
 msgid "TaursFire{3a9}"
-msgstr ""
+msgstr "FuegTauro{3a9}"
 
 msgctxt "236"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "237"
 msgid "Rogue"
-msgstr ""
+msgstr "Renegado"
 
 msgctxt "238"
 msgid "Rogue{5d50}"
-msgstr ""
+msgstr "Renegado{5d50}"
 
 msgctxt "239"
 msgid "Rogue{25c7}"
-msgstr ""
+msgstr "Renegado{25c7}"
 
 msgctxt "240"
 msgid "Rogue{ff3a}"
-msgstr ""
+msgstr "Renegado{ff3a}"
 
 msgctxt "241"
 msgid "Rogue{2166}"
-msgstr ""
+msgstr "Renegado{2166}"
 
 msgctxt "242"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "243"
 msgid "AcidAce"
-msgstr ""
+msgstr "AcidAce"
 
 msgctxt "244"
 msgid "AcidAceB"
-msgstr ""
+msgstr "AcidAceB"
 
 msgctxt "245"
 msgid "AcidAce{25c7}"
-msgstr ""
+msgstr "AcidAce{25c7}"
 
 msgctxt "246"
 msgid "AcidAce{ff32}"
-msgstr ""
+msgstr "AcidAce{ff32}"
 
 msgctxt "247"
 msgid "AcidAce{2164}"
-msgstr ""
+msgstr "AcidAce{2164}"
 
 msgctxt "248"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "249"
 msgid "DrkPhntm"
-msgstr ""
+msgstr "FntOscur"
 
 msgctxt "250"
 msgid "DrkPhntm{5d50}"
-msgstr ""
+msgstr "FntOscur{5d50}"
 
 msgctxt "251"
 msgid "DrkPhntm{25c7}"
-msgstr ""
+msgstr "FntOscur{25c7}"
 
 msgctxt "252"
 msgid "DrkPhntm{ff32}"
-msgstr ""
+msgstr "FntOscur{ff32}"
 
 msgctxt "253"
 msgid "DrkPhntm{3a9}"
-msgstr ""
+msgstr "FntOscur{3a9}"
 
 msgctxt "254"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "255"
 msgid "CygnsWing"
-msgstr ""
+msgstr "AlaCisne"
 
 msgctxt "256"
 msgid "CygnsWing{5d50}"
-msgstr ""
+msgstr "AlaCisne{5d50}"
 
 msgctxt "257"
 msgid "CygnsWing{25c7}"
-msgstr ""
+msgstr "AlaCisne{25c7}"
 
 msgctxt "258"
 msgid "CygnsWing{ff32}"
-msgstr ""
+msgstr "AlaCisne{ff32}"
 
 msgctxt "259"
 msgid "CygnsWing{3a9}"
-msgstr ""
+msgstr "AlaCisne{3a9}"
 
 msgctxt "260"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "261"
 msgid "WolfWoods"
@@ -1077,100 +1078,100 @@ msgstr ""
 
 msgctxt "266"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "267"
 msgid "MoonDstry"
-msgstr ""
+msgstr "CataLunar"
 
 msgctxt "268"
 msgid "MoonDstry{5d50}"
-msgstr ""
+msgstr "CataLunar{5d50}"
 
 msgctxt "269"
 msgid "MoonDstry{25c7}"
-msgstr ""
+msgstr "CataLunar{25c7}"
 
 msgctxt "270"
 msgid "MoonDstry{ff32}"
-msgstr ""
+msgstr "CataLunar{ff32}"
 
 msgctxt "271"
 msgid "MoonDstry{3a3}"
-msgstr ""
+msgstr "CataLunar{3a3}"
 
 msgctxt "272"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "273"
 msgid "ApolloFlm"
-msgstr ""
+msgstr "LlmApollo"
 
 msgctxt "274"
 msgid "ApolloFlm{5d50}"
-msgstr ""
+msgstr "LlmApollo{5d50}"
 
 msgctxt "275"
 msgid "ApolloFlm{25c7}"
-msgstr ""
+msgstr "LlmApollo{25c7}"
 
 msgctxt "276"
 msgid "ApolloFlm{ff32}"
-msgstr ""
+msgstr "LlmApollo{ff32}"
 
 msgctxt "277"
 msgid "ApolloFlm{3a3}"
-msgstr ""
+msgstr "LlmApollo{3a3}"
 
 msgctxt "278"
 msgid "Blank"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "279"
 msgid "Sirius"
-msgstr ""
+msgstr "Sirio"
 
 msgctxt "280"
 msgid "Sirius{5d50}"
-msgstr ""
+msgstr "Sirio{5d50}"
 
 msgctxt "281"
 msgid "Sirius{25c7}"
-msgstr ""
+msgstr "Sirio{25c7}"
 
 msgctxt "282"
 msgid "Sirius{ff32}"
-msgstr ""
+msgstr "Sirio{ff32}"
 
 msgctxt "283"
 msgid "Sirius{3a3}"
-msgstr ""
+msgstr "Sirio{3a3}"
 
 msgctxt "284"
 msgid "Blank"
-msgstr ""
+msgstr "Vacio"
 
 msgctxt "285"
 msgid "Omega-Xis"
-msgstr ""
+msgstr "Omega-Xis"
 
 msgctxt "286"
 msgid "Omega-Xis{5d50}"
-msgstr ""
+msgstr "Omega-Xis{5d50}"
 
 msgctxt "287"
 msgid "Omega-Xis{25c7}"
-msgstr ""
+msgstr "Omega-Xis{25c7}"
 
 msgctxt "288"
 msgid "Omega-Xis{ff32}"
-msgstr ""
+msgstr "Omega-Xis{ff32}"
 
 msgctxt "289"
 msgid "Omega-Xis{5d50}"
-msgstr ""
+msgstr "Omega-Xis{5d50}"
 
 msgctxt "290"
 msgid "Blank"
-msgstr ""
+msgstr "Vacío"

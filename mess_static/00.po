@@ -58,7 +58,7 @@ msgstr "Expulsión"
 
 msgctxt "11"
 msgid "Pulse out"
-msgstr ""
+msgstr "Expulsión"
 
 msgctxt "12"
 msgid "Purpose"
