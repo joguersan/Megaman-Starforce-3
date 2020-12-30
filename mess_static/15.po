@@ -1510,7 +1510,7 @@ msgstr "LLamApolX"
 
 msgctxt "374"
 msgid "SiriusX"
-msgstr "SiriusX"
+msgstr "SirioX"
 
 msgctxt "375"
 msgid "YetiBlzrdX"
